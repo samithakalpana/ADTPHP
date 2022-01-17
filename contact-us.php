@@ -40,7 +40,7 @@
 
 <body id="tl">
   <!-- Header -->
-	<?php include_once './header.php'; ?>
+	<?php include_once 'header.php'; ?>
     <!-- /Header -->
     <!-- Inner-intro -->
     <section id="inner_intro" class="section-padding">
@@ -113,7 +113,7 @@
     </section>
     <!-- /Contact-Us -->
    <!-- Footer -->
-<?php include_once './footer.php';?>
+<?php include_once 'footer.php';?>
 	<!-- /Footer -->
     <!-- Scripts -->
     <script src="assets/js/jquery.min.js"></script>

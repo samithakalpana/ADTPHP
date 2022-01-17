@@ -39,7 +39,7 @@
 
 <body id="tl">
 <!-- Header -->
-	<?php include_once './header.php'; ?>
+	<?php include_once 'header.php'; ?>
 	<!-- /Header -->
 
 	<!-- Inner-intro -->
@@ -353,7 +353,7 @@
 
 
 	<!-- Footer -->
-	<?php include_once './footer.php';?>
+	<?php include_once 'footer.php';?>
 	<!-- /Footer -->
 
 
