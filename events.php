@@ -41,7 +41,7 @@
 
 <body id="tl">
 		<!-- Header -->
-			<?php include_once './header.php'; ?>
+			<?php include_once 'header.php'; ?>
 	<!-- /Header -->
 
 	<!-- Inner-intro -->

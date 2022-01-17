@@ -37,7 +37,7 @@
 
 <body id="tl">
 		<!-- Header -->
-                	<?php include_once './header.php'; ?>
+                	<?php include_once 'header.php'; ?>
 		
 	
 	<!-- /Header -->
@@ -285,7 +285,7 @@
 	<!-- /Blog-Detail -->
 
 	<!-- Footer -->
-<?php include_once './footer.php';?>
+<?php include_once 'footer.php';?>
 	<!-- /Footer -->
 
 	<!-- Scripts -->
