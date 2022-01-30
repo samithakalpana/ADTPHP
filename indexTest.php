@@ -1,10 +1,12 @@
 <!DOCTYPE HTML>
-<html lang="en">
+<!-- <html lang="en"> -->
+<html lang="si">
 
 
 <!-- Mirrored from primehostingindia.com/templatemonster/html/templezen/index.html by HTTrack Website Copier/3.x [XR&CO'2014], Thu, 06 Jan 2022 18:00:35 GMT -->
 <head>
 	<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+	<meta charset="UTF-8">
 	<meta http-equiv="X-UA-Compatible" content="IE=edge">
 	<meta name="viewport" content="width=device-width,initial-scale=1">
 	<meta name="keywords" content="">
@@ -47,7 +49,8 @@
 			<div class="item section-padding" style="background-image:url(assets/images/home-banner/banner-01.png);">
 				<div class="container">
 					<div class="intro_text white_text">
-						<h1>creator of life</h1>
+						<!-- <h1>creator of life</h1> -->
+						<h1>පසින්දු</h1>
 						<p>The point of using Lorem Ipsum is that it has a more-or-less normal distribution of letters, as opposed to using 'Content here, content here. </p>
 						<a href="events.html" class="btn dark-btn templezen-top-btn">Explore Events</a>
 					</div>
