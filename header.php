@@ -58,13 +58,13 @@
 							</ul>
 						</li> -->
 						
-						<li ><a href="about-us.html">Life of Anagarika Dharmapala <span class="nav_arrow"></span></a>
+						<li ><a href="about-us.html">Life of Anagarika <br/>Dharmapala <span class="nav_arrow"></span></a>
 							<!-- <ul class="sub-menu">
 								<li><a href="sermon.html">Life of Anagarika Dharmapala</a></li>
 								<li><a href="sermon-detail.html">Sermon Detail</a></li>
 							</ul> -->
 						</li>
-						<li class="dropdown"><a href="#">Family and Benefactors <span class="nav_arrow"></span></a>
+						<li class="dropdown"><a href="#">Family and  <br/>Benefactors <span class="nav_arrow"></span></a>
 							<ul class="sub-menu">
 								<li><a href="our-teachers.html">Family and Benefactors</a></li>
 								<li><a href="events.html">Family and Benefactors</a></li>
@@ -83,7 +83,7 @@
 								<li><a href="sign-up.html">sign-up</a></li>
 							</ul> -->
 						</li>
-						<li ><a href="#">Publications and Research  <span class="nav_arrow"></span></a>
+						<li ><a href="#">Publications <br/> and Research  <span class="nav_arrow"></span></a>
 							<!-- <ul class="sub-menu">
 								<li><a href="blog.html">Blog</a></li>
 								<li><a href="blog-detail.html">Blog Detail</a></li>
@@ -91,6 +91,12 @@
 						</li>
 						
 						<li><a href="shop-left.html">Store</a></li>
+						<li ><a href="about-us.html">Contact us<span class="nav_arrow"></span></a>
+							<!-- <ul class="sub-menu">
+								<li><a href="sermon.html">Life of Anagarika Dharmapala</a></li>
+								<li><a href="sermon-detail.html">Sermon Detail</a></li>
+							</ul> -->
+						</li>
 					</ul>
 				</div>
 			</div>
