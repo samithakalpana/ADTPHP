@@ -1,8 +1,8 @@
 
 <?php 
-
-
-
+// @session_start();
+// $_SESSION["page"]="index.php";
+// $_SESSION["lang"]="sinhala";
 ?>
 
 <!DOCTYPE HTML>
@@ -45,7 +45,6 @@
 	<!-- Header -->
 
 		<?php include_once "header.php"; ?>
-
 	<!-- /Header -->
 
 	<!-- Intro -->
@@ -56,11 +55,11 @@
 				<div class="container">
 					<div class="intro_text white_text">
 						<!-- <h1>creator of life</h1> -->
-						<h1>“Wherever I went I have worked for the public good” <br>
+						<h1>“සිංහල පරිවර්තිත මුල් පිටුව” <br>
 
 </h1>
 						<!-- <p>The point of using Lorem Ipsum is that it has a more-or-less normal distribution of letters, as opposed to using 'Content here, content here. </p> -->
-						<p>Anagarika Dharmapala - 1915 </p>
+						<p>අනගාරික ධර්මපාල - 1915 </p>
 						<a href="events.html" class="btn dark-btn templezen-top-btn">Explore Events</a>
 					</div>
 				</div>
