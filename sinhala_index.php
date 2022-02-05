@@ -1,8 +1,11 @@
 
 <?php 
-// @session_start();
-// $_SESSION["page"]="index.php";
-// $_SESSION["lang"]="sinhala";
+ob_start();
+ @session_start();
+ $_SESSION["lang"]="sinhala";
+ $_SESSION["page"]="index.php";
+
+
 ?>
 
 <!DOCTYPE HTML>
@@ -29,7 +32,7 @@
 	<!--FontAwesome Font Style -->
 	<link href="assets/css/font-awesome.css" rel="stylesheet">
 	<!-- Fav and touch icons -->
-	<link rel="shortcut icon" href="favicon.png">
+	<link rel="../shortcut icon" href="favicon.png">
 	<!-- Google-Font-->
 	<link href="https://fonts.googleapis.com/css?family=Marcellus&amp;display=swap" rel="stylesheet">
 	<link href="https://fonts.googleapis.com/css?family=Noto+Sans:400,400i,700,700i&amp;display=swap" rel="stylesheet">
@@ -44,7 +47,7 @@
 <body id="tl">
 	<!-- Header -->
 
-		<?php include_once "header.php"; ?>
+		<?php include_once "sinhala_header.php"; ?>
 	<!-- /Header -->
 
 	<!-- Intro -->
@@ -816,3 +819,4 @@
 
 <!-- Mirrored from primehostingindia.com/templatemonster/html/templezen/index.html by HTTrack Website Copier/3.x [XR&CO'2014], Thu, 06 Jan 2022 18:00:35 GMT -->
 </html>
+<?php ob_end_flush();?>

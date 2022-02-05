@@ -25,7 +25,7 @@
 						<ul class="top-btn list-inline">
 							<li class="list-inline-item"><i class="fa fa-phone"></i><a href="#">+01 825-5552-852</a></li>
 							<li class="list-inline-item"><i class="fa fa-envelope"></i><a href="#">info@themeganj.com</a></li>
-							<li class="list-inline-item"><a class="btn btn-sm dark-btn templezen-top-btn" href="actions/languageAction.php?lang=english&&page=index.php">සිංහල</a></li>
+							<li class="list-inline-item"><a class="btn btn-sm dark-btn templezen-top-btn" href="actions/languageAction.php?lang=sinhala&&page=index.php">English</a></li>
 				
 						</ul>
 					</div>
@@ -57,7 +57,7 @@
 				</div>
 				<div class="collapse navbar-collapse" id="navigation">
 					<ul class="nav navbar-nav">
-						<li ><a href="index.php">Home<span class="nav_arrow"></span></a>
+						<li ><a href="index.php">මුල් පිටුව<span class="nav_arrow"></span></a>
 						<!-- <li class="dropdown"><a href="#">Home<span class="nav_arrow"></span></a>
 							<ul class="sub-menu">
 								<li><a href="index.html">Homepage 1</a></li>
@@ -65,17 +65,17 @@
 							</ul>
 						</li> -->
 						
-						<li class="dropdown" ><a href="about-us.php">Life of Anagarika <br/>Dharmapala <span class="nav_arrow"></span></a>
+						<li class="dropdown" ><a href="about-us.php">අනගාරික<br/>ධර්මපාලතුමාගෙ ජීවිතය<span class="nav_arrow"></span></a>
 							<ul class="sub-menu">
-								<li><a href="sermon.php">Don David Hewavitarne</a></li>
-								<li><a href="sermon-detail.php">The Anagarika</a></li>
-								<li><a href="sermon-detail.php">Sri Devamitta Dhammapala</a></li>
-								<li><a href="sermon-detail.php">Battle for Buddha Gaya</a></li>
-								<li><a href="sermon-detail.php">Timeline</a></li>
-								<li><a href="sermon-detail.php">Legacy</a></li>
+								<li><a href="sermon.php">Don David Hewavitarne දොන් ඩේවිඩ් හේවාවිතාරණ</a></li>
+								<li><a href="sermon-detail.php">අනගාරික ධර්මපාලතුමා</a></li>
+								<li><a href="sermon-detail.php">ශ්‍රී දේවමිත්ත ධම්මපාල</a></li>
+								<li><a href="sermon-detail.php">බුද්ධ ගයා සටන</a></li>
+								<li><a href="sermon-detail.php">කාලරේඛාව</a></li>
+								<li><a href="sermon-detail.php">වෘතාන්තය</a></li>
 							</ul>
 						</li>
-						<li class="dropdown"><a href="#">Family and  <br/>Benefactors <span class="nav_arrow"></span></a>
+						<li class="dropdown"><a href="#">පවුල සහ<br/>Benefactors <span class="nav_arrow"></span></a>
 							<ul class="sub-menu">
 								<li class="dropdown"><a href="our-teachers.php">Family</a>
 								<ul class="sub-menu">
@@ -115,7 +115,7 @@
 								<li><a href="sign-up.html">sign-up</a></li>
 							</ul> -->
 						</li>
-						<li class="dropdown" ><a href="#">Publications <br/> and Research  <span class="nav_arrow"></span></a>
+						<li class="dropdown" ><a href="#">ප්‍රකාශන සහ පර්‍යෙශන <br/> and Research  <span class="nav_arrow"></span></a>
 							<!-- <ul class="sub-menu">
 								<li><a href="blog.html">Blog</a></li>
 								<li><a href="blog-detail.html">Blog Detail</a></li>
@@ -135,7 +135,7 @@
 					</li>
 
 			
-						<li ><a href="contact-us.php">Contact us<span class="nav_arrow"></span></a>
+						<li ><a href="contact-us.php">ඇමතුම්<span class="nav_arrow"></span></a>
 							<!-- <ul class="sub-menu">
 								<li><a href="sermon.html">Life of Anagarika Dharmapala</a></li>
 								<li><a href="sermon-detail.html">Sermon Detail</a></li>

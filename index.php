@@ -1,11 +1,12 @@
-
+<!DOCTYPE HTML>
 <?php 
-
-
+ob_start();
+@session_start();
+$_SESSION["lang"]="english";
+$_SESSION["page"]="index.php";
 
 ?>
 
-<!DOCTYPE HTML>
 <html lang="en">
 
 <!-- Mirrored from primehostingindia.com/templatemonster/html/templezen/index.html by HTTrack Website Copier/3.x [XR&CO'2014], Thu, 06 Jan 2022 18:00:35 GMT -->
@@ -812,8 +813,11 @@
 	<script src="assets/js/ion.rangeSlider.min.js"></script>
 	<!--Audio-JS-->
 	<script src="assets/js/audio_custome.js"></script>
+        
+        
 </body>
 
 
 <!-- Mirrored from primehostingindia.com/templatemonster/html/templezen/index.html by HTTrack Website Copier/3.x [XR&CO'2014], Thu, 06 Jan 2022 18:00:35 GMT -->
 </html>
+<?php ob_end_flush();?>

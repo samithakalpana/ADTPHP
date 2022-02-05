@@ -1,4 +1,5 @@
 <?php
+ob_start();
 @session_start();
 
 $page="";
@@ -14,16 +15,37 @@ if(isset($_SESSION["page"])){
 }else{
   echo "<br>page  not setted";
 }
-// $lang=$_SESSION["lang"];
-// $page=$_SESSION["page"];
+ $lang=$_SESSION["lang"];
+ $page=$_SESSION["page"];
 
-// echo "page name :".$page;
-// echo "Language :".$lang;
+ echo "<br>page name :".$page;
+ echo "<br>Language :".$lang;
 
-// if(strcmp($lang,"sinhala") ){
-//   header("Location:../.$page.");
-// }else{
-//   header("Location:../sinhala/.$page.");
-// }
+ if(strcmp($lang,"sinhala")==0){
+//   header("Location:../$page");
+   echo '<br>language if work';
+ }else {
+//   header("Location:sinhala/$page");
+   echo '<br>else work';
+   
+ }
+ 
+ if(isset($_GET["page"]) && $_GET["lang"]){
+     echo '<br> ok';
+     $lang=$_GET["lang"];
+     $page=$_GET["page"];
+     
+      if(strcmp($lang,"sinhala")==0){
+   header("Location:../$page");
+   echo '<br>language if work';
+ }else {
+   header("Location:../sinhala_$page");
+   echo '<br>else work';
+   
+ }
+ }
+ echo '<br>'.$_GET["lang"];
+ echo '<br>'.$_GET["page"];
 
+ ob_end_flush();
 ?>
