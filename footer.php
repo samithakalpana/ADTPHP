@@ -46,7 +46,7 @@
 						<p>P: +011 4532 5698 303</p>
 					</div>
 				</div>
-				<div class="col-md-4 footer_widget">
+				<!-- <div class="col-md-4 footer_widget">
 					<div class="widget_inner">
 						<div class="video_post">
 							<div class="exp-vido-icon">
@@ -57,7 +57,7 @@
 							<img src="assets/images/home-page/sermon-video-02.png" alt="image" class="mx-auto image-fluid d-block">
 						</div>
 					</div>
-				</div>
+				</div> -->
 				<div class="col-md-4 footer_widget">
 					<div class="widget_inner">
 						<h5>Useful Links</h5>
