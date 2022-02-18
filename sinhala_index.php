@@ -1,12 +1,14 @@
-<!DOCTYPE HTML>
+
 <?php 
 ob_start();
-@session_start();
-$_SESSION["lang"]="english";
-$_SESSION["page"]="index.php";
+ @session_start();
+ $_SESSION["lang"]="sinhala";
+ $_SESSION["page"]="index.php";
+
 
 ?>
 
+<!DOCTYPE HTML>
 <html lang="en">
 
 <!-- Mirrored from primehostingindia.com/templatemonster/html/templezen/index.html by HTTrack Website Copier/3.x [XR&CO'2014], Thu, 06 Jan 2022 18:00:35 GMT -->
@@ -30,7 +32,7 @@ $_SESSION["page"]="index.php";
 	<!--FontAwesome Font Style -->
 	<link href="assets/css/font-awesome.css" rel="stylesheet">
 	<!-- Fav and touch icons -->
-	<link rel="shortcut icon" href="favicon.png">
+	<link rel="../shortcut icon" href="favicon.png">
 	<!-- Google-Font-->
 	<link href="https://fonts.googleapis.com/css?family=Marcellus&amp;display=swap" rel="stylesheet">
 	<link href="https://fonts.googleapis.com/css?family=Noto+Sans:400,400i,700,700i&amp;display=swap" rel="stylesheet">
@@ -45,8 +47,7 @@ $_SESSION["page"]="index.php";
 <body id="tl">
 	<!-- Header -->
 
-		<?php include_once "header.php"; ?>
-
+		<?php include_once "sinhala_header.php"; ?>
 	<!-- /Header -->
 
 	<!-- Intro -->
@@ -57,11 +58,11 @@ $_SESSION["page"]="index.php";
 				<div class="container">
 					<div class="intro_text white_text">
 						<!-- <h1>creator of life</h1> -->
-						<h1>“Wherever I went I have worked for the public good” <br>
+						<h1>“සිංහල පරිවර්තිත මුල් පිටුව” <br>
 
 </h1>
 						<!-- <p>The point of using Lorem Ipsum is that it has a more-or-less normal distribution of letters, as opposed to using 'Content here, content here. </p> -->
-						<p>Anagarika Dharmapala - 1915 </p>
+						<p>අනගාරික ධර්මපාල - 1915 </p>
 						<a href="events.html" class="btn dark-btn templezen-top-btn">Explore Events</a>
 					</div>
 				</div>
@@ -813,8 +814,6 @@ $_SESSION["page"]="index.php";
 	<script src="assets/js/ion.rangeSlider.min.js"></script>
 	<!--Audio-JS-->
 	<script src="assets/js/audio_custome.js"></script>
-        
-        
 </body>
 
 
