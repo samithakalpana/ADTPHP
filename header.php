@@ -19,7 +19,7 @@
 						<ul class="top-btn list-inline">
 							<li class="list-inline-item"><i class="fa fa-phone"></i><a href="#">+01 825-5552-852</a></li>
 							<li class="list-inline-item"><i class="fa fa-envelope"></i><a href="#">info@themeganj.com</a></li>
-							<li class="list-inline-item"><a class="btn btn-sm dark-btn templezen-top-btn" href="contact-us.html">Contact US</a></li>
+							<li class="list-inline-item"><a class="btn btn-sm dark-btn templezen-top-btn" href="contact-us.php">Contact US</a></li>
 						</ul>
 					</div>
 				</div>
@@ -58,7 +58,7 @@
 							</ul>
 						</li> -->
 						
-						<li ><a href="about-us.html">Life of Anagarika Dharmapala <span class="nav_arrow"></span></a>
+						<li ><a href="about-us.php">Life of Anagarika Dharmapala <span class="nav_arrow"></span></a>
 							<!-- <ul class="sub-menu">
 								<li><a href="sermon.html">Life of Anagarika Dharmapala</a></li>
 								<li><a href="sermon-detail.html">Sermon Detail</a></li>
@@ -73,7 +73,7 @@
 							</ul>
 						</li>
 						<li >
-							<a href="about-us.html">The Trust <span class="nav_arrow"></span></a>
+							<a href="about-us.php">The Trust <span class="nav_arrow"></span></a>
 							<!-- <ul class="sub-menu">
 								<li><a href="our-teachers.html">our-teachers</a></li>
 								<li><a href="shop-full-width.html">shop-full-width</a></li>
@@ -90,7 +90,7 @@
 							</ul> -->
 						</li>
 						
-						<li><a href="shop-left.html">Store</a></li>
+						<li><a href="shop-left.php">Store</a></li>
 					</ul>
 				</div>
 			</div>
@@ -125,7 +125,7 @@
 					</ul>
 				</li>
 				<li><a href="about-us.html">About us</a></li>
-				<li><a href="contact-us.html">contact us</a></li>
+				<li><a href="contact-us.php">contact us</a></li>
 				<li class="has-child"><a href="#">Sermon</a>
 					<ul class="sub-menu">
 						<li><a href="sermon.html">Sermon</a></li>
