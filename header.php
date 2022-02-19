@@ -25,8 +25,7 @@
 						<ul class="top-btn list-inline">
 							<li class="list-inline-item"><i class="fa fa-phone"></i><a href="#">+01 825-5552-852</a></li>
 							<li class="list-inline-item"><i class="fa fa-envelope"></i><a href="#">info@themeganj.com</a></li>
-							<li class="list-inline-item"><a class="btn btn-sm dark-btn templezen-top-btn" href="actions/languageAction.php?lang=english&&page=index.php">සිංහල</a></li>
-				
+							<li class="list-inline-item"><a class="btn btn-sm dark-btn templezen-top-btn" href="contact-us.php">Contact US</a></li>
 						</ul>
 					</div>
 				</div>
@@ -65,6 +64,7 @@
 							</ul>
 						</li> -->
 						
+
 						<li class="dropdown" ><a href="about-us.php">Life of Anagarika <br/>Dharmapala <span class="nav_arrow"></span></a>
 							<ul class="sub-menu">
 								<li><a href="life_1_our-teachers.php">Don David Hewavitarne</a></li>
@@ -75,6 +75,7 @@
 								<li><a href="life_5_our-teachers.php">Legacy</a></li>
 								<!-- <li><a href="sermon-detail.php">Legacy</a></li> -->
 							</ul>
+
 						</li>
 						<li class="dropdown"><a href="#">Family and  <br/>Benefactors <span class="nav_arrow"></span></a>
 							<ul class="sub-menu">
@@ -138,19 +139,7 @@
 								</ul>
 						</li>
 						
-						<li class="dropdown"><a href="shop-left.php">Store</a>
-						<ul class="sub-menu">
-								<li><a href="our-teachers.php">Tipitaka Publications</a>
-								</ul>
-					</li>
-
-			
-						<li ><a href="contact-us.php">Contact us<span class="nav_arrow"></span></a>
-							<!-- <ul class="sub-menu">
-								<li><a href="sermon.html">Life of Anagarika Dharmapala</a></li>
-								<li><a href="sermon-detail.html">Sermon Detail</a></li>
-							</ul> -->
-						</li>
+						<li><a href="shop-left.php">Store</a></li>
 					</ul>
 				</div>
 			</div>
@@ -184,7 +173,7 @@
 						<li><a href="sign-up.php">sign-up</a></li>
 					</ul>
 				</li>
-				<li><a href="about-us.php">About us</a></li>
+				<li><a href="about-us.html">About us</a></li>
 				<li><a href="contact-us.php">contact us</a></li>
 				<li class="has-child"><a href="#">Sermon</a>
 					<ul class="sub-menu">
