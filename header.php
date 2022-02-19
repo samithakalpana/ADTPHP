@@ -64,11 +64,18 @@
 							</ul>
 						</li> -->
 						
-						<li ><a href="about-us.php">Life of Anagarika Dharmapala <span class="nav_arrow"></span></a>
-							<!-- <ul class="sub-menu">
-								<li><a href="sermon.html">Life of Anagarika Dharmapala</a></li>
-								<li><a href="sermon-detail.html">Sermon Detail</a></li>
-							</ul> -->
+
+						<li class="dropdown" ><a href="about-us.php">Life of Anagarika <br/>Dharmapala <span class="nav_arrow"></span></a>
+							<ul class="sub-menu">
+								<li><a href="life_1_our-teachers.php">Don David Hewavitarne</a></li>
+								<li><a href="life_2_our-teachers.php">The Anagarika</a></li>
+								<li><a href="life_3_our-teachers.php">Sri Devamitta Dhammapala</a></li>
+								<li><a href="life_4_our-teachers.php">Battle for Buddha Gaya</a></li>
+								<li><a href="sermon-detail.php">Timeline</a></li>
+								<li><a href="life_5_our-teachers.php">Legacy</a></li>
+								<!-- <li><a href="sermon-detail.php">Legacy</a></li> -->
+							</ul>
+
 						</li>
 						<li class="dropdown"><a href="#">Family and  <br/>Benefactors <span class="nav_arrow"></span></a>
 							<ul class="sub-menu">
@@ -99,16 +106,25 @@
 								<li><a href="event-detail.php">Family and Benefactors</a></li> -->
 							</ul>
 						</li>
-						<li >
+						<li class="dropdown">
 							<a href="about-us.php">The Trust <span class="nav_arrow"></span></a>
-							<!-- <ul class="sub-menu">
-								<li><a href="our-teachers.html">our-teachers</a></li>
-								<li><a href="shop-full-width.html">shop-full-width</a></li>
-								<li><a href="shop-left.html">shop-left</a></li>
-								<li><a href="shop-right.html">shop-right</a></li>
-								<li><a href="log-in.html">log-in</a></li>
-								<li><a href="sign-up.html">sign-up</a></li>
-							</ul> -->
+							<ul class="sub-menu">
+								<li><a href="our-teachers.html">Chairman’s message</a></li>
+								<li><a href="shop-full-width.html">About the Trust</a></li>
+								<li><a href="shop-left.html">Managing Trustees</a></li>
+								<li class="dropdown"><a href="shop-right.html">Associates</a>
+								<ul class="sub-menu">
+								<li><a href="log-in.html">Maha Bodhi Society</a></li>
+								<li><a href="log-in.html">Maha Bodhi Society India</a></li>
+								<li><a href="log-in.html">London Buddhist Vihara</a></li>
+								<li><a href="log-in.html">Mallika Nivasa Samithiya</a></li>
+								<li><a href="log-in.html">Simon Hewavitarne Trust and Somawati Hewavitarne Trust </a></li>
+								<!-- <li><a href="log-in.html">Somawati Hewavitarne Trust</a></li> -->
+								</ul>
+							</li>
+								<!-- <li><a href="log-in.html">log-in</a></li> -->
+								<!-- <li><a href="sign-up.html">sign-up</a></li> -->
+							</ul>
 						</li>
 						<li class="dropdown" ><a href="#">Publications <br/> and Research  <span class="nav_arrow"></span></a>
 							<!-- <ul class="sub-menu">
