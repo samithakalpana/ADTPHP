@@ -43,7 +43,7 @@
 	<?php include_once 'header.php'; ?>
     <!-- /Header -->
     <!-- Inner-intro -->
-    <section id="inner_intro" class="section-padding">
+    <section id="inner_intro_without_image" class="section-padding">
         <div class="container">
             <div class="inner_wp z_index white_text">
                 <div class="row">
@@ -65,46 +65,31 @@
     <section class="section-padding">
         <div class="container">
             <div class="map_wrap">
-                <h2 style="text-align: center;">Google Map Implementation BOx</h2>
+                <!-- <h2 style="text-align: center;">Google Map Implementation BOx</h2>
                 <br>
                 <br>
-                <h2 style="text-align: center;">Show the client's location</h2>
-                <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d7060970.521913474!2d-102.60272453381052!3d37.588245893295074!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x54eab584e432360b%3A0x1c3bb99243deb742!2sUnited+States!5e0!3m2!1sen!2sin!4v1495005824042" allowfullscreen></iframe>
-            </div>
+                <h2 style="text-align: center;">Show the client's location</h2> -->
+                <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3960.697319921304!2d79.86683191477294!3d6.926737394995263!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3ae259e411444b81%3A0xcaf402760c390226!2sAnagarika%20Dharmapala%20Trust!5e0!3m2!1sen!2slk!4v1645279450017!5m2!1sen!2slk" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy"></iframe>
+                </div>
             <div class="contact_wrap">
                 <div class="row">
                     <div class="col-md-6 primary-bg">
                         <div class="contact_info">
                             <div class="box_heading">
-                                <h4><span>Request a</span> Free Consultation</h4>
+                                <br> 
+                                <h4> contact Us</h4>
                             </div>
-                            <!-- <p>4873 Pretty View Lanek,47 <br> Newyork, USA</p> -->
-                            <p>No123,road,city<br> address</p>
+                    
+                            <p>Address<br>Anagarika Dharmapala Trust, <br>130, Maligakanda Rd, <br> Colombo 01000.
+ </p>
                             <!-- <p>Call us: <span>+1 4532 5698 303</span></p> -->
-                            <p>Call us: <span>+94 -Telephone NO</span></p>
+                            <p>Call us: <span>+94-112 695 161</span></p>
                             <p>Mail us: <span>Info@yourwebsite.com</span></p>
                         </div>
                     </div>
                     <div class="col-md-6">
                         <div class="form_wrap">
-                        	<form class="mf_form_validate ajax_submit" action="sendmail.php" method="post" enctype="multipart/form-data">
-								<div class="form-group">
-									<label>Your Full Name</label>
-									<input type="text" class="form-control" name="name">
-								</div>
-								<div class="form-group">
-									<label>Your Email</label>
-									<input type="email" class="form-control" name="email">
-								</div>
-								<div class="form-group">
-									<label>Your Message</label>
-									<textarea name="message" cols="45" rows="3" class="form-control"></textarea>
-								</div>
-								<div class="form-group">
-									<button type="submit" class="btn dark-btn">Submit</button>
-								</div>
-								<div class="server_response w-100"></div>
-							</form>
+                        <img src="assets/images/pastor-2.jpg" alt="img">
                         </div>
                     </div>
                 </div>

@@ -1908,6 +1908,13 @@ footer{
 	background-position: center;
 	background-size: cover;
 }
+#inner_intro_without_image {
+	position: relative;
+	background-color: #4c4c4c;
+	background-image: url(../images/home-banner/sample1.jpg);
+	background-position: center;
+	background-size: cover;
+}
 .inner_wp {
 	padding: 150px 0 0;
 }
