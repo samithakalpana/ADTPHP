@@ -47,7 +47,7 @@
 				<div class="row">
 					<div class="col-md-12">
 						<h1 class="text-center">Benefactors</h1>
-						<h5 class="text-center"></h5>
+						<h5 class="text-center">Ven. Hikkaduwe Sri Sumangala </h5>
 						<nav class="breadcrumb">
 							<ul>
 								<li class="breadcrumb-item"><a href="index.php">Home</a></li>
@@ -90,12 +90,14 @@
 							
 							</p><p>The village astrologist who checked the horoscope of Nicholas managed to convince his father that the boy was very unlucky, and that he would die at a very young age due to his bad luck. This prediction completely changed the course of this young boy’s life. In 1840, he was ordained as a Buddhist monk at the Temple of Thotagamuwa, Thelwaththa, Galle, under the supervision of Ven. Mabotuwana Rewatha Thera and Ven. Malagoda Siriniwasa Thera.
 
-							</p><p>As a monk, he was given the name Hikkaduwe Sumangala. He was fortunate enough to study under the guidance of many erudite monks such as Ven. Walane Sri Siddhartha Thera, and he studied hard till he mastered several languages including Pali, Sinhala, Sanskrit, and English.</p><p>In 1848, his higher ordination as a Buddhist monk took place at the Malwathu Buddhist Chapter House in Kandy. As a young novice monk, Ven. Hikkaduwe Sumangala Thera started tackling the criticisms against Buddhism by Christian missionaries through publishing his comebacks in printed media. In 1858, to loosen the hold that other religions had over the Southern Province of the country, Ven. Hikkaduwe Sumangala Thera established a printing press named “Lankopakara,” and started printing books – and most importantly, the Buddhist newspaper “Lankaloka.” Further, several Sinhala Buddhist schools were founded under his patronage and they were provided with all the required facilities. In 1871, Ven. Thera moved to  he Maligakanda area, and in 1873, he initiated the establishment of the treasure house of knowledge, “Vidyodaya.” [at the invitation of Angarika Dharmapala’s maternal grandfather, who was instrumental in founding the institution.]</p>
+							</p><p>As a monk, he was given the name Hikkaduwe Sumangala. He was fortunate enough to study under the guidance of many erudite monks such as Ven. Walane Sri Siddhartha Thera, and he studied hard till he mastered several languages including Pali, Sinhala, Sanskrit, and English.
+
+							</p><p>In 1848, his higher ordination as a Buddhist monk took place at the Malwathu Buddhist Chapter House in Kandy. As a young novice monk, Ven. Hikkaduwe Sumangala Thera started tackling the criticisms against Buddhism by Christian missionaries through publishing his comebacks in printed media. In 1858, to loosen the hold that other religions had over the Southern Province of the country, Ven. Hikkaduwe Sumangala Thera established a printing press named “Lankopakara,” and started printing books – and most importantly, the Buddhist newspaper “Lankaloka.” Further, several Sinhala Buddhist schools were founded under his patronage and they were provided with all the required facilities. In 1871, Ven. Thera moved to  he Maligakanda area, and in 1873, he initiated the establishment of the treasure house of knowledge, “Vidyodaya.” [at the invitation of Angarika Dharmapala’s maternal grandfather, who was instrumental in founding the institution.]</p>
 
 <p>Even those who followed the teachings of Mahayana Buddhism, such as Rev. Kojin Gunaratana, Rev. Kojina Kondanna, Sato and Tochibana, from foreign countries like Thailand, Burma, Bangladesh and Japan, also came to Vidyodaya Monastic College to study the teachings of Theravada Buddhism under the tutelage of the Ven. Thera. 
 
 </p>
-<p>Ven. Mohottiwatte Gunananda Thera who participated in the famous Panadura debate in 1873, made sure that Ven. Hikkaduwe Sumangala Thera also came along to assist him with the debate. The debate became so famous that information about it was published in a magazine called “The Truth Seeker” in America (Thomas Paine who played a major role in creating the Constitution of the United States was also one of the patrons of this magazine). As a result of the published article about this debate, many important persons such as <b>Colonel Henry Steel Olcott<b> and the Russian philosopher and author,<b> Helena Blavatsky<b>, were encouraged to visit Sri Lanka. On May 17, 1880, they both embraced Buddhism as their religion at Vidyananda Monastic College in Galle, and started studying the Pali language and Buddhist philosophy under the tutelage of the Ven. Thera.
+<p>Ven. Mohottiwatte Gunananda Thera who participated in the famous Panadura debate in 1873, made sure that Ven. Hikkaduwe Sumangala Thera also came along to assist him with the debate. The debate became so famous that information about it was published in a magazine called “The Truth Seeker” in America (Thomas Paine who played a major role in creating the Constitution of the United States was also one of the patrons of this magazine). As a result of the published article about this debate, many important persons such as <a target="_blank" href="benefactors_3_our-teachers.php"><b>Colonel Henry Steel Olcott</b></a> and the Russian philosopher and author,<a target="_blank" href="benefactors_4_our-teachers.php"><b> Helena Blavatsky</b></a>, were encouraged to visit Sri Lanka. On May 17, 1880, they both embraced Buddhism as their religion at Vidyananda Monastic College in Galle, and started studying the Pali language and Buddhist philosophy under the tutelage of the Ven. Thera.
 
 </p><p>They understood the importance of education and how it could be used to salvage the pitiful situation that the Buddhist religion in Sri Lanka has fallen into. As a result, Parama Vignanartha Corporation was established in Colombo. In 1895, this corporation established Ananda Vidyalaya in Colombo with the Cambridge graduate A.E. Bultjens of American descent as its principal. This was followed by the establishment of several other schools in the country such as Nalanda Vidyalaya in Colombo, Dharmaraja Vidyalaya in Kandy, and Mahinda Vidyalaya in Galle.
 
@@ -113,9 +115,9 @@
 
 </p><p>(Article courtesy: Daily News, 21st of April 2021: The writer is the Chief Sangha Nayaka of America, Pamankada Sri Maha Viharaya, Dharma Vijaya Buddhist Vihara of Los Angeles, USA)
 
-For more details see:<br/>
+<b>For more details see:<br/></b>
 Blackburn, Anne M (2010). Locations of Buddhism: Colonialism and Modernity in Sri Lanka, Chicago University Press, Chicago.<br/>
-https://press.uchicago.edu/ucp/books/book/chicago/L/bo8503417.html
+<a target="_blank" href="https://press.uchicago.edu/ucp/books/book/chicago/L/bo8503417.html"><b>https://press.uchicago.edu/ucp/books/book/chicago/L/bo8503417.html</b> </a>
 
 
 </p>
