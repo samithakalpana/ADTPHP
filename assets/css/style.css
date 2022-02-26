@@ -1904,7 +1904,9 @@ footer{
 #inner_intro {
 	position: relative;
 	background-color: #4c4c4c;
-	background-image: url(../images/home-banner/sample1.jpg);
+
+	background-image: url(../images/home-banner/banner-02.png);
+
 	background-position: center;
 	background-size: cover;
 }
