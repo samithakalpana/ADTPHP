@@ -47,7 +47,7 @@
 				<div class="row">
 					<div class="col-md-12">
 						<h1 class="text-center">Benefactors</h1>
-						<h5 class="text-center"></h5>
+						<h5 class="text-center">Devapriya Valisinha</h5>
 						<nav class="breadcrumb">
 							<ul>
 								<li class="breadcrumb-item"><a href="index.php">Home</a></li>
