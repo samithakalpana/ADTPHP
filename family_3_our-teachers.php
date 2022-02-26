@@ -9,7 +9,7 @@
 	<meta name="viewport" content="width=device-width,initial-scale=1">
 	<meta name="keywords" content="">
 	<meta name="description" content="">
-	<title>ADT-Life Of Anagarika Dharmapala</title>
+	<title>ADT-Family</title>
 	<!--Bootstrap -->
 	<link rel="stylesheet" href="assets/css/bootstrap.min.css" type="text/css">
 	<!--OWL Carousel slider-->
@@ -46,12 +46,12 @@
 			<div class="inner_wp z_index white_text">
 				<div class="row">
 					<div class="col-md-12">
-						<h1 class="text-center">Life of Anagarika Dharmapala</h1>
-						<h5 class="text-center">(17th of September 1864 – 29th of April 1933)</h5>
+						<h1 class="text-center">Family</h1>
+						<h5 class="text-center"></h5>
 						<nav class="breadcrumb">
 							<ul>
 								<li class="breadcrumb-item"><a href="index.php">Home</a></li>
-								<li class="breadcrumb-item active">Don David Hewavitarne</li>
+								<li class="breadcrumb-item active">Dona Engeltina Moonesinghe</li>
 							</ul>
 						</nav>
 					</div>
@@ -67,26 +67,25 @@
 					<div class="col-lg-7">
 						<div class="sa-paster-about-area">
 							<!-- <h3>Gopal dhanam</h3> -->
-							<h3>Don David Hewavitarne</h3>
+							<h3>Dona Engeltina Moonesinghe</h3>
 							<!-- <p class="designation">Yoga Teacher</p> -->
-							<p class="designation">(From 1864-1885)</p>
-							<p>	Don David Hewavitarne, who would become known throughout the world in the early twentieth century as Anagarika Dharmapala, was born to Mallika and Don Carolis Hewavitarne on the 17th of September 1864. 
+							<p class="designation">(From 1866 – 1902)</p>
+							<p>	Engeltina was the only sister of Angarika Dharmapala.  She married Jacob Moonesinghe from Walgama, Matara who became a live-wire in the family, taking on many responsibilities of the family business and Buddhist activities to support Angarika Dharmapala’s younger brothers, Edmund and Charles, after the death of their father, Don Carolis. Jacob Moonesinghe was the Director of the Hewavitarne Textile Training School in Rajagiriya, Colombo. The school was the result of the bequest made by Don Carolis at his death for the training of Buddhist youth in industrial skills.
 							
 							</p>
-							<p>							
+							<p>	 Engeltina’s untimely death, at the age of thirty six years, added great sadness to the family that had already lost a daughter and sister at a very young age. Engeltina’s four sons were looked after lovingly by Jocob,  her widowed husband, who was supported in the task of bringing up the boys by Engeltina’s mother and brothers. The three eldest boys, Sanath,  Kumaradasa and Piyadasa, as the three eldest grandchildren of the Hewavitarne family, supported their uncle Charles and their father in the management  of the family firm, Don Carolis & Sons after the deaths of Edmund and Simon. 						
 							
-At that time the Hewavitarne family was living in Pettah, then a residential part of then Ceylon's (now Sri Lanka) capital city, but would soon move to adjoining Kotahena, a salubrious neighborhood of homes with sprawling gardens and tree-lined roads. His birth was registered at St Benedicts Church of Kotahena, as was a requirement at the time.
+
 	</p><p>
-David’s primary education is marked by the many different schools he attended. These included the Colombo Girl’s Infant Home, Pettah Catholic School (later St Mary’s), Baptist Sinhala School, St Benedicts College, CMS Boys School in Kotte, St Thomas’ Collegiate Institute and Colombo Academy (later Royal College). Despite the many upheavals to his schooling, his parents gave him a firm foundation in Buddhism and in the local tongue, Sinhala. He learnt written Sinhala at a very early age under a well-known Sinhala scholar of the time, Haramanis Gurunanse, and his parents inculcated in him a devotion to the Buddha, the Dhamma (Doctrine) and the Sangha (Clergy) - 'the Triple Gem', the three pillars of Buddhism.
-In later years he says, “In school was fearless, daring and had a kind of aristocratic hauteur and did not care about anybody. At home I had the same spirit and what I wanted I got. I was stubborn, resolute and could not bear any kind of intolerance. I had no love for worldly things. I loved simplicity, solitude and any form of helping the poor, even to the extent of giving everything I had…”. 
-He writes about his beloved parents with much love and respect, although he criticizes them occasionally: his mother for her detachment and his father for his sense of discipline. He says he owes his understanding of the Dhamma and the law of impermanence to his mother, and that these gave him the foundation to renounce his lay life. He says it was his father who introduced him to the vow of Brahmacharya (pure conduct) at the age of nine years and constantly advised him not to “depend on worldly things”.
+
+ 
 	</p><p>
-At an early age, Don David was drawn to spiritual ideas, meditation and serving the poor. It is easy to see the young man being attracted to the Theosophist Movement. He was introduced to it by Ven Migettuwatte Gunananda Thero and began reading the Theosophist from its first publication in 1878.  When Col Henry Steel Olcott, an American and Madam Helena Blavatsky, of Russian origin (two of the main founders of the Theosophical Society), arrived in Ceylon in 1880, young David attended Olcott’s lectures and followed up by reading voraciously about spiritual development. He had a desire to be a renunciant and also at this time became a vegetarian. He joined the Theosophical Society in 1884. During these formative years, he also worked at the Department of Public Instruction in 1885. Yet, his interests were already firmly turned towards spiritualism and service.
+
 	</p><p>
-The family setting David grew up in, the beautiful garden and the large house of his childhood and parents who understood the practice of the Dhamma and wholeheartedly encouraged it in their son,  laid a spiritual foundation in his life. Spiritual progress and the practice of the Buddha’s teachings became the foundational purpose of his life. Everything else he engaged in would emanate from his fervent dedication to this purpose.
+.
 	</p>
 	<p>
-At the age of 21 years David left the luxuries and conveniences of his family home (the Hewavitarnes had by then moved to a sprawling house and gardens at Aloe Avenue in Kollupitiya) with the blessings of his parents to take up the life of a renunciant.
+
 
 							
 							</p>

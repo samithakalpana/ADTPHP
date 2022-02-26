@@ -9,7 +9,7 @@
 	<meta name="viewport" content="width=device-width,initial-scale=1">
 	<meta name="keywords" content="">
 	<meta name="description" content="">
-	<title>Templezen - Buddhist Temple HTML5 Template</title>
+	<title>ADT-Life Of Anagarika Dharmapala</title>
 	<!--Bootstrap -->
 	<link rel="stylesheet" href="assets/css/bootstrap.min.css" type="text/css">
 	<!--OWL Carousel slider-->
@@ -50,7 +50,7 @@
 						<h5 class="text-center">(17th of September 1864 – 29th of April 1933)</h5>
 						<nav class="breadcrumb">
 							<ul>
-								<li class="breadcrumb-item"><a href="index.html">Home</a></li>
+								<li class="breadcrumb-item"><a href="index.php">Home</a></li>
 								<li class="breadcrumb-item active">The Battle for Buddha Gaya</li>
 							</ul>
 						</nav>

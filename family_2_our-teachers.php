@@ -9,7 +9,7 @@
 	<meta name="viewport" content="width=device-width,initial-scale=1">
 	<meta name="keywords" content="">
 	<meta name="description" content="">
-	<title>ADT-Life Of Anagarika Dharmapala</title>
+	<title>ADT-Family</title>
 	<!--Bootstrap -->
 	<link rel="stylesheet" href="assets/css/bootstrap.min.css" type="text/css">
 	<!--OWL Carousel slider-->
@@ -46,12 +46,12 @@
 			<div class="inner_wp z_index white_text">
 				<div class="row">
 					<div class="col-md-12">
-						<h1 class="text-center">Life of Anagarika Dharmapala</h1>
-						<h5 class="text-center">(17th of September 1864 – 29th of April 1933)</h5>
+						<h1 class="text-center">Family</h1>
+						<h5 class="text-center"></h5>
 						<nav class="breadcrumb">
 							<ul>
 								<li class="breadcrumb-item"><a href="index.php">Home</a></li>
-								<li class="breadcrumb-item active">Don David Hewavitarne</li>
+								<li class="breadcrumb-item active">Mallika Hewavitarne </li>
 							</ul>
 						</nav>
 					</div>
@@ -67,26 +67,24 @@
 					<div class="col-lg-7">
 						<div class="sa-paster-about-area">
 							<!-- <h3>Gopal dhanam</h3> -->
-							<h3>Don David Hewavitarne</h3>
+							<h3>Mallika Hewavitarne </h3>
 							<!-- <p class="designation">Yoga Teacher</p> -->
-							<p class="designation">(From 1864-1885)</p>
-							<p>	Don David Hewavitarne, who would become known throughout the world in the early twentieth century as Anagarika Dharmapala, was born to Mallika and Don Carolis Hewavitarne on the 17th of September 1864. 
-							
+							<p class="designation">(1846 – 27 July 1936)</p>
+							<p><b>Mallika</b>, Anagarika Dharmapala’s mother, was the matriarch of the Family. She grew up in an atmosphere of devotion to Buddhism and its cause. Her father, Andiris Perera Dharmagunawardene, one of the wealthiest Buddhists in Colombo, was a pioneer in the movement for the revival of Buddhism.  He donated an extensive block of land at Maligakanda in Colombo's Maradana area and the funds to establish the first monastic college for Buddhist monks, which became known as the Vidyodaya Oriental College, under the stewardship of the erudite scholar-monk of that era, the Venerable Hikkaduwe Sri Sumangala nahimi (thero).
+
 							</p>
-							<p>							
+							<p>	While born into considerable wealth, Mallika lived her life with detachment and an ethos of renunciation. Anagarika Dharmapala writes in his diary that while the seed of Bodhi was established by his father, it was his mother who “used to preach to [him] the doctrine of impermanence weekly….”. Her detachment, Angarika Dharmapala came to believe, was the work of the devas of light who wanted to prevent him from being attached to and tied down by family.						
 							
-At that time the Hewavitarne family was living in Pettah, then a residential part of then Ceylon's (now Sri Lanka) capital city, but would soon move to adjoining Kotahena, a salubrious neighborhood of homes with sprawling gardens and tree-lined roads. His birth was registered at St Benedicts Church of Kotahena, as was a requirement at the time.
+
 	</p><p>
-David’s primary education is marked by the many different schools he attended. These included the Colombo Girl’s Infant Home, Pettah Catholic School (later St Mary’s), Baptist Sinhala School, St Benedicts College, CMS Boys School in Kotte, St Thomas’ Collegiate Institute and Colombo Academy (later Royal College). Despite the many upheavals to his schooling, his parents gave him a firm foundation in Buddhism and in the local tongue, Sinhala. He learnt written Sinhala at a very early age under a well-known Sinhala scholar of the time, Haramanis Gurunanse, and his parents inculcated in him a devotion to the Buddha, the Dhamma (Doctrine) and the Sangha (Clergy) - 'the Triple Gem', the three pillars of Buddhism.
-In later years he says, “In school was fearless, daring and had a kind of aristocratic hauteur and did not care about anybody. At home I had the same spirit and what I wanted I got. I was stubborn, resolute and could not bear any kind of intolerance. I had no love for worldly things. I loved simplicity, solitude and any form of helping the poor, even to the extent of giving everything I had…”. 
-He writes about his beloved parents with much love and respect, although he criticizes them occasionally: his mother for her detachment and his father for his sense of discipline. He says he owes his understanding of the Dhamma and the law of impermanence to his mother, and that these gave him the foundation to renounce his lay life. He says it was his father who introduced him to the vow of Brahmacharya (pure conduct) at the age of nine years and constantly advised him not to “depend on worldly things”.
+	Her great granddaughter, Manel Hewavitarne Ratnatunga wrote in 2012 of her memories of her great grandmother:
 	</p><p>
-At an early age, Don David was drawn to spiritual ideas, meditation and serving the poor. It is easy to see the young man being attracted to the Theosophist Movement. He was introduced to it by Ven Migettuwatte Gunananda Thero and began reading the Theosophist from its first publication in 1878.  When Col Henry Steel Olcott, an American and Madam Helena Blavatsky, of Russian origin (two of the main founders of the Theosophical Society), arrived in Ceylon in 1880, young David attended Olcott’s lectures and followed up by reading voraciously about spiritual development. He had a desire to be a renunciant and also at this time became a vegetarian. He joined the Theosophical Society in 1884. During these formative years, he also worked at the Department of Public Instruction in 1885. Yet, his interests were already firmly turned towards spiritualism and service.
+	“We went weekly to see great grand Mallika who lived close by at Aloe Avenue. … A very old Mallika was dressed in a white sari with a long sleeved white jacket and a solemn face, and was seated on a white chair. Around her was a host of people we did not know….In  her kitchen compound I could see two Ali Baba jars on the boil, one with hot water to bathe the beggars and the other with rice to give them a meal. I heard that she cut the beggar women’s hair that was covered with lice and gave them her own expensive clothes to wear after a bath”.
 	</p><p>
-The family setting David grew up in, the beautiful garden and the large house of his childhood and parents who understood the practice of the Dhamma and wholeheartedly encouraged it in their son,  laid a spiritual foundation in his life. Spiritual progress and the practice of the Buddha’s teachings became the foundational purpose of his life. Everything else he engaged in would emanate from his fervent dedication to this purpose.
+	Mallika, with the support of a group of like-minded ladies of her time, founded the Mallika Anatha Nivasa Samithiya - a Home for the Aged and Destitute in 1920 with the funds given to her by her youngest son, Dr Charles Hewavitarne, for the purchase of the land and the budlings in Colombo's Bambalapitiya area. The organization is today known as the Mallika Nivasa Samithiya, which manages the Mallika Home, Sneha Child Development Centre and the Parakrama Child Development Centre.
 	</p>
-	<p>
-At the age of 21 years David left the luxuries and conveniences of his family home (the Hewavitarnes had by then moved to a sprawling house and gardens at Aloe Avenue in Kollupitiya) with the blessings of his parents to take up the life of a renunciant.
+	<p>Mallika’s life was tinged by tragedy. She lived to see the travails of her sons at the hands of the British rulers, including exile and imprisonment, and the death of all her children during her lifetime. 
+
 
 							
 							</p>
