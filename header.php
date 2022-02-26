@@ -25,7 +25,7 @@
 						<ul class="top-btn list-inline">
 							<li class="list-inline-item"><i class="fa fa-phone"></i><a href="#">+01 825-5552-852</a></li>
 							<li class="list-inline-item"><i class="fa fa-envelope"></i><a href="#">info@themeganj.com</a></li>
-							<li class="list-inline-item"><a class="btn btn-sm dark-btn templezen-top-btn" href="contact-us.php">Contact US</a></li>
+							<li class="list-inline-item"><a class="btn btn-sm dark-btn templezen-top-btn" href="actions/languageAction.php?lang=english&&page=index.php">සිංහල</a></li>
 						</ul>
 					</div>
 				</div>
@@ -140,6 +140,12 @@
 						</li>
 						
 						<li><a href="shop-left.php">Store</a></li>
+						<li ><a href="contact-us.php">Contact Us<span class="nav_arrow"></span></a>
+							<!-- <ul class="sub-menu">
+								<li><a href="sermon.html">Life of Anagarika Dharmapala</a></li>
+								<li><a href="sermon-detail.html">Sermon Detail</a></li>
+							</ul> -->
+						</li>
 					</ul>
 				</div>
 			</div>
