@@ -43,7 +43,7 @@
 	<?php include_once 'header.php'; ?>
     <!-- /Header -->
     <!-- Inner-intro -->
-    <section id="inner_intro" class="section-padding">
+    <section id="inner_intro_without_image" class="section-padding">
         <div class="container">
             <div class="inner_wp z_index white_text">
                 <div class="row">
