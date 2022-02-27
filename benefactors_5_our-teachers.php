@@ -9,7 +9,7 @@
 	<meta name="viewport" content="width=device-width,initial-scale=1">
 	<meta name="keywords" content="">
 	<meta name="description" content="">
-	<title>ADT-Life Of Anagarika Dharmapala</title>
+	<title>ADT-Benefactors</title>
 	<!--Bootstrap -->
 	<link rel="stylesheet" href="assets/css/bootstrap.min.css" type="text/css">
 	<!--OWL Carousel slider-->
@@ -46,12 +46,12 @@
 			<div class="inner_wp z_index white_text">
 				<div class="row">
 					<div class="col-md-12">
-						<h1 class="text-center">Life of Anagarika Dharmapala</h1>
-						<h5 class="text-center">(17th of September 1864 – 29th of April 1933)</h5>
+						<h1 class="text-center">Benefactors</h1>
+						<h5 class="text-center">Sir Edwin Arnold</h5>
 						<nav class="breadcrumb">
 							<ul>
 								<li class="breadcrumb-item"><a href="index.php">Home</a></li>
-								<li class="breadcrumb-item active">Don David Hewavitarne</li>
+								<li class="breadcrumb-item active">Sir Edwin Arnold</li>
 							</ul>
 						</nav>
 					</div>
@@ -67,26 +67,30 @@
 					<div class="col-lg-7">
 						<div class="sa-paster-about-area">
 							<!-- <h3>Gopal dhanam</h3> -->
-							<h3>Don David Hewavitarne</h3>
+							<h3>Sir Edwin Arnold</h3>
 							<!-- <p class="designation">Yoga Teacher</p> -->
-							<p class="designation">(From 1864-1885)</p>
-							<p>	Don David Hewavitarne, who would become known throughout the world in the early twentieth century as Anagarika Dharmapala, was born to Mallika and Don Carolis Hewavitarne on the 17th of September 1864. 
+							<p class="designation">(From ---)</p>
+							<p>	Sir Edwin Arnold was  a  journalist, teacher and   student of  oriental  studies.  An ardent supporter of the British Empire, Arnold was nevertheless an admirer of India's ancient cultural heritage. He first went to India (city of Poona) as a school teacher and later became a principal. To him goes the credit of rediscovering Buddha Gaya, one of the holiest sites of Buddhists following a visit in 1886 and bringing it to the attention of the English-speaking world.
 							
 							</p>
-							<p>							
+							<p>	He penned a monumental poem, <i>The Light of Asia</i>, giving a narrative of the life and message of the Buddha. The poem mesmerized the intellectuals around the world, especially in America and Europe, showing the bond between the Buddha and science. In Ceylon, it lit the spark in the young Anagarika Dharmapala to visit the holy site and thereafter form the Maha Bodhi Society to initiate a global campaign to wrest back the management control of Buddha Gaya to the Buddhist. 						
 							
-At that time the Hewavitarne family was living in Pettah, then a residential part of then Ceylon's (now Sri Lanka) capital city, but would soon move to adjoining Kotahena, a salubrious neighborhood of homes with sprawling gardens and tree-lined roads. His birth was registered at St Benedicts Church of Kotahena, as was a requirement at the time.
-	</p><p>
-David’s primary education is marked by the many different schools he attended. These included the Colombo Girl’s Infant Home, Pettah Catholic School (later St Mary’s), Baptist Sinhala School, St Benedicts College, CMS Boys School in Kotte, St Thomas’ Collegiate Institute and Colombo Academy (later Royal College). Despite the many upheavals to his schooling, his parents gave him a firm foundation in Buddhism and in the local tongue, Sinhala. He learnt written Sinhala at a very early age under a well-known Sinhala scholar of the time, Haramanis Gurunanse, and his parents inculcated in him a devotion to the Buddha, the Dhamma (Doctrine) and the Sangha (Clergy) - 'the Triple Gem', the three pillars of Buddhism.
-In later years he says, “In school was fearless, daring and had a kind of aristocratic hauteur and did not care about anybody. At home I had the same spirit and what I wanted I got. I was stubborn, resolute and could not bear any kind of intolerance. I had no love for worldly things. I loved simplicity, solitude and any form of helping the poor, even to the extent of giving everything I had…”. 
-He writes about his beloved parents with much love and respect, although he criticizes them occasionally: his mother for her detachment and his father for his sense of discipline. He says he owes his understanding of the Dhamma and the law of impermanence to his mother, and that these gave him the foundation to renounce his lay life. He says it was his father who introduced him to the vow of Brahmacharya (pure conduct) at the age of nine years and constantly advised him not to “depend on worldly things”.
-	</p><p>
-At an early age, Don David was drawn to spiritual ideas, meditation and serving the poor. It is easy to see the young man being attracted to the Theosophist Movement. He was introduced to it by Ven Migettuwatte Gunananda Thero and began reading the Theosophist from its first publication in 1878.  When Col Henry Steel Olcott, an American and Madam Helena Blavatsky, of Russian origin (two of the main founders of the Theosophical Society), arrived in Ceylon in 1880, young David attended Olcott’s lectures and followed up by reading voraciously about spiritual development. He had a desire to be a renunciant and also at this time became a vegetarian. He joined the Theosophical Society in 1884. During these formative years, he also worked at the Department of Public Instruction in 1885. Yet, his interests were already firmly turned towards spiritualism and service.
-	</p><p>
-The family setting David grew up in, the beautiful garden and the large house of his childhood and parents who understood the practice of the Dhamma and wholeheartedly encouraged it in their son,  laid a spiritual foundation in his life. Spiritual progress and the practice of the Buddha’s teachings became the foundational purpose of his life. Everything else he engaged in would emanate from his fervent dedication to this purpose.
+
+	</p><p>Arnold’s articles in <i>the London Daily Telegraph </i>later fully supported the efforts of Dharmapala to liberate Buddha Gaya from the control of non-Buddhists and restore it to its pristine glory. He petitioned the British Colonial Government whipping up support for the cause in London with influential colonial personalities of the time. His famous poem also struck a chord with Indian national leaders of the time like Mahatma Gandhi, Jawaharlal Nehru and Dr. B. R. Ambedkar who were independent India's first and foremost leaders and who saw to the enactment of the Buddha Gaya Temple Act of 1949, two years after independence. The Act gave 50 per cent of the control of the temple to the Buddhists through a Joint Management Committee with the Hindus. 
+
+	</p><p>Arnold and Angarika Dharmapala maintained a close and affable friendship, with Arnold meeting the Angarika each time the latter travelled to London, greeting him at the docks on arrival, hosting him in his house, and introducing him to a network of intellectuals in England. He was a linguist par excellence conversant not only in English, but Japanese, Latin, Pali, Sanskrit, Turkish, Arabic, Greek, French, German, Hebrew, Persian and Marathi. His famous poem and his writings had a marked influence on literati with the likes of D. H. Lawrence, T. S. Eliot, Rudyard Kipling, W. B. Yeats, Leo Tolstoy and James Masefield. Sir Winston Churchill would quote the title of the poem,<i> The Light of Asia</i>, when writing to Jawaharlal Nehru, a copy of which poem Nehru kept with him whenever he was incarcerated for political activism in a British jail in India. The poem was translated into 13 other languages and were depicted in dramas, films and operas. Almost every Ceylonese Buddhist family had a copy of <i> The Light of Asia </i> in their homes. Arnold married thrice, the last being a Japanese lady. He had four sons, one of whom was a coffee planter for a brief period in Ceylon. <b>The YMBA </b>(Young Mens Buddhist Association) in Sri Lanka still has a <i>Light of Asia</i> oratorical contest annually in memory of Sir Edwin Arnold and his groundbreaking poem that took the world by storm in the latter part of the 19th and early part of the 20th centuries. 
+
+	</p><p>For more details see: <br/>
+https://www.gutenberg.org/ebooks/8920 <br/> <br/>
+ 
+https://www.bps.lk/olib/wh/wh159_Peiris_Edwin-Arnold--His-Service-To-Buddhism.html <br/><br/>
+ 
+Ramesh, J (2021). The Light of Asia: The Poem that Defined India. Penguin, Gurgaon.<br/>
+
+
 	</p>
 	<p>
-At the age of 21 years David left the luxuries and conveniences of his family home (the Hewavitarnes had by then moved to a sprawling house and gardens at Aloe Avenue in Kollupitiya) with the blessings of his parents to take up the life of a renunciant.
+
 
 							
 							</p>

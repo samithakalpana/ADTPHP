@@ -25,7 +25,7 @@
 						<ul class="top-btn list-inline">
 							<li class="list-inline-item"><i class="fa fa-phone"></i><a href="#">+01 825-5552-852</a></li>
 							<li class="list-inline-item"><i class="fa fa-envelope"></i><a href="#">info@themeganj.com</a></li>
-							<li class="list-inline-item"><a class="btn btn-sm dark-btn templezen-top-btn" href="contact-us.php">Contact US</a></li>
+							<li class="list-inline-item"><a class="btn btn-sm dark-btn templezen-top-btn" href="actions/languageAction.php?lang=english&&page=index.php">සිංහල</a></li>
 						</ul>
 					</div>
 				</div>
@@ -79,25 +79,25 @@
 						</li>
 						<li class="dropdown"><a href="#">Family and  <br/>Benefactors <span class="nav_arrow"></span></a>
 							<ul class="sub-menu">
-								<li class="dropdown"><a href="our-teachers.php">Family</a>
+								<li class="dropdown"><a href="#">Family</a>
 								<ul class="sub-menu">
-								<li><a href="our-teachers.php"> H. Don Carolis</a>
-								<li><a href="our-teachers.php">Mallika Hewavitarne</a>
-								<li><a href="our-teachers.php">Engeltina Moonesinghe</a>
-								<li><a href="our-teachers.php">Edmund Hewavitarne</a>
-								<li><a href="our-teachers.php">Simon Hewavitarne</a>
-								<li><a href="our-teachers.php">Charles Hewavitarne</a>
+								<li><a href="family_1_our-teachers.php"> H. Don Carolis</a>
+								<li><a href="family_2_our-teachers.php">Mallika Hewavitarne</a>
+								<li><a href="family_3_our-teachers.php">Engeltina Moonesinghe</a>
+								<li><a href="family_4_our-teachers.php">Edmund Hewavitarne</a>
+								<li><a href="family_5_our-teachers.php">Simon Hewavitarne</a>
+								<li><a href="family_6_our-teachers.php">Charles Hewavitarne</a>
 								</ul>
 							</li>
-							<li class="dropdown"><a href="our-teachers.php">Benefactors</a>
+							<li class="dropdown"><a href="#">Benefactors</a>
 								<ul class="sub-menu">
-								<li><a href="our-teachers.php">Ven. Hikkaduwe Sri Sumangala</a>
-								<li><a href="our-teachers.php">Mary Robinson Foster</a>
-								<li><a href="our-teachers.php">Col. Henry Steel Olcott</a>
-								<li><a href="our-teachers.php">Helena Petrovna Blavatsky</a>
-								<li><a href="our-teachers.php">Sir Edwin Arnold</a>
-								<li><a href="our-teachers.php">Neelkamal Mukherjee</a>
-								<li><a href="our-teachers.php">Devapriya Valisinha</a>
+								<li><a href="benefactors_1_our-teachers.php">Ven. Hikkaduwe Sri Sumangala</a>
+								<li><a href="benefactors_2_our-teachers.php">Mary Robinson Foster</a>
+								<li><a href="benefactors_3_our-teachers.php">Col. Henry Steel Olcott</a>
+								<li><a href="benefactors_4_our-teachers.php">Helena Petrovna Blavatsky</a>
+								<li><a href="benefactors_5_our-teachers.php">Sir Edwin Arnold</a>
+								<li><a href="benefactors_6_our-teachers.php">Neelkamal Mukherjee</a>
+								<li><a href="benefactors_7_our-teachers.php">Devapriya Valisinha</a>
 								</ul>
 							</li>
 						
@@ -140,6 +140,12 @@
 						</li>
 						
 						<li><a href="shop-left.php">Store</a></li>
+						<li ><a href="contact-us.php">Contact Us<span class="nav_arrow"></span></a>
+							<!-- <ul class="sub-menu">
+								<li><a href="sermon.html">Life of Anagarika Dharmapala</a></li>
+								<li><a href="sermon-detail.html">Sermon Detail</a></li>
+							</ul> -->
+						</li>
 					</ul>
 				</div>
 			</div>

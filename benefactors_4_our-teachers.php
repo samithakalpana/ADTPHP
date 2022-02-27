@@ -9,7 +9,7 @@
 	<meta name="viewport" content="width=device-width,initial-scale=1">
 	<meta name="keywords" content="">
 	<meta name="description" content="">
-	<title>ADT-Life Of Anagarika Dharmapala</title>
+	<title>ADT-Benefactors</title>
 	<!--Bootstrap -->
 	<link rel="stylesheet" href="assets/css/bootstrap.min.css" type="text/css">
 	<!--OWL Carousel slider-->
@@ -46,12 +46,12 @@
 			<div class="inner_wp z_index white_text">
 				<div class="row">
 					<div class="col-md-12">
-						<h1 class="text-center">Life of Anagarika Dharmapala</h1>
-						<h5 class="text-center">(17th of September 1864 – 29th of April 1933)</h5>
+						<h1 class="text-center">Benefactors</h1>
+						<h5 class="text-center">Helena Petrovna Blavatsky</h5>
 						<nav class="breadcrumb">
 							<ul>
 								<li class="breadcrumb-item"><a href="index.php">Home</a></li>
-								<li class="breadcrumb-item active">Don David Hewavitarne</li>
+								<li class="breadcrumb-item active">Helena Petrovna Blavatsky</li>
 							</ul>
 						</nav>
 					</div>
@@ -67,28 +67,37 @@
 					<div class="col-lg-7">
 						<div class="sa-paster-about-area">
 							<!-- <h3>Gopal dhanam</h3> -->
-							<h3>Don David Hewavitarne</h3>
+							<h3>Helena Petrovna Blavatsky</h3>
 							<!-- <p class="designation">Yoga Teacher</p> -->
-							<p class="designation">(From 1864-1885)</p>
-							<p>	Don David Hewavitarne, who would become known throughout the world in the early twentieth century as Anagarika Dharmapala, was born to Mallika and Don Carolis Hewavitarne on the 17th of September 1864. 
+							<p class="designation">(From --)</p>
+							<p>	 Helena Blavatsky, a Russian, a founder  of  the    Theosophical       Society, travelled from Adyar to Sri Lanka with Olcott, a fellow founder of the Society.  The   two   of   them arrived  in  the island’s southern  port of  Galle and  embraced Buddhism while  kneeling down before   the  high  priest,  sending   spasms      of  delight  through  a   public,    hitherto accustomed  to witnessing white-skinned  people only attacking Buddhism.
 							
 							</p>
-							<p>							
+							<p>	Blavatsky’s  knowledge  of  occultism   attracted,  like  a    month to  a  flame, the young David Hewavitarne, who was still studying at St, Thomas’, a Christian secondary school. In his “Reminiscences”  he recalls that from his early youth he was inclined towards the mystic, ascetic life, and that he was on the lookout for news about Arahants and psychic knowledge.						
 							
-At that time the Hewavitarne family was living in Pettah, then a residential part of then Ceylon's (now Sri Lanka) capital city, but would soon move to adjoining Kotahena, a salubrious neighborhood of homes with sprawling gardens and tree-lined roads. His birth was registered at St Benedicts Church of Kotahena, as was a requirement at the time.
+
+	</p><p>From many accounts it appears that: Blavatsky 'hypnotised’ the young and agitated mind of  Don David. She succeeded in persuading Don Carolis Hewavitarne, 
+
+	</p><p>the father, to allow the young boy to go with her to India. The future Anagarika Dharmapala was drawn into the world of occultism in Adyar, Madras.
+
 	</p><p>
-David’s primary education is marked by the many different schools he attended. These included the Colombo Girl’s Infant Home, Pettah Catholic School (later St Mary’s), Baptist Sinhala School, St Benedicts College, CMS Boys School in Kotte, St Thomas’ Collegiate Institute and Colombo Academy (later Royal College). Despite the many upheavals to his schooling, his parents gave him a firm foundation in Buddhism and in the local tongue, Sinhala. He learnt written Sinhala at a very early age under a well-known Sinhala scholar of the time, Haramanis Gurunanse, and his parents inculcated in him a devotion to the Buddha, the Dhamma (Doctrine) and the Sangha (Clergy) - 'the Triple Gem', the three pillars of Buddhism.
-In later years he says, “In school was fearless, daring and had a kind of aristocratic hauteur and did not care about anybody. At home I had the same spirit and what I wanted I got. I was stubborn, resolute and could not bear any kind of intolerance. I had no love for worldly things. I loved simplicity, solitude and any form of helping the poor, even to the extent of giving everything I had…”. 
-He writes about his beloved parents with much love and respect, although he criticizes them occasionally: his mother for her detachment and his father for his sense of discipline. He says he owes his understanding of the Dhamma and the law of impermanence to his mother, and that these gave him the foundation to renounce his lay life. He says it was his father who introduced him to the vow of Brahmacharya (pure conduct) at the age of nine years and constantly advised him not to “depend on worldly things”.
-	</p><p>
-At an early age, Don David was drawn to spiritual ideas, meditation and serving the poor. It is easy to see the young man being attracted to the Theosophist Movement. He was introduced to it by Ven Migettuwatte Gunananda Thero and began reading the Theosophist from its first publication in 1878.  When Col Henry Steel Olcott, an American and Madam Helena Blavatsky, of Russian origin (two of the main founders of the Theosophical Society), arrived in Ceylon in 1880, young David attended Olcott’s lectures and followed up by reading voraciously about spiritual development. He had a desire to be a renunciant and also at this time became a vegetarian. He joined the Theosophical Society in 1884. During these formative years, he also worked at the Department of Public Instruction in 1885. Yet, his interests were already firmly turned towards spiritualism and service.
-	</p><p>
-The family setting David grew up in, the beautiful garden and the large house of his childhood and parents who understood the practice of the Dhamma and wholeheartedly encouraged it in their son,  laid a spiritual foundation in his life. Spiritual progress and the practice of the Buddha’s teachings became the foundational purpose of his life. Everything else he engaged in would emanate from his fervent dedication to this purpose.
+He believed, at the age of 20, like many other Buddhists at the time, that the interests of Buddhism and of the Theosophical Society were identical. These views were later to change as the death of Ms. Blavatsky and Olcott‘s ‘defection’ to Ms. Annie Besant’s theosophy, changed the course of that Society to a pro-Hindu stance.
+
+
 	</p>
-	<p>
-At the age of 21 years David left the luxuries and conveniences of his family home (the Hewavitarnes had by then moved to a sprawling house and gardens at Aloe Avenue in Kollupitiya) with the blessings of his parents to take up the life of a renunciant.
+	<p>Unmistakably, next to the Anagarika’s own mother, Mallika Hewavitarane, it was Blavatsky who radically moulded the character of the young reformist, Dharmapala.
+
 
 							
+							</p><p>For more details see:
+https://blavatskyarchives.com/  <br/>
+https://www.gutenberg.org/ebooks/authors/search/?query=Blavatsky,+H.+P.+(Helena+Petrovna) <br/>
+·         Caldwell, Daniel H (2000). The esoteric world of Madame Blavatsky: insights into the life of a modern sphinx. Theosophical Pub. House. ISBN 978-0-8356-0794-0.<br/>
+·         Cranston, Sylvia (1993). HPB: The Extraordinary Life and Influence of Helena Blavatsky, Founder of the Modern Theosophical Movement. London: G.P. Putnam's Sons. ISBN 978-0-87477-688-1. <br/>
+·                       Lachman, Gary (2012). Madame Blavatsky: The Mother of Modern Spirituality. New York: Jeremy P. Tarcher/Penguin. ISBN 978-1-58542-863-2. <br/>
+·                       Meade, Marion (1980). Madame Blavatsky: The Woman Behind the Myth. New York: Putnam. ISBN 978-0-399-12376-4. <br/>
+
+
 							</p>
 							<!-- <div class="sa-team-social">
 								<h5>Social links</h5>

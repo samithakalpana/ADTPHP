@@ -9,7 +9,7 @@
 	<meta name="viewport" content="width=device-width,initial-scale=1">
 	<meta name="keywords" content="">
 	<meta name="description" content="">
-	<title>ADT-Life Of Anagarika Dharmapala</title>
+	<title>ADT-Family</title>
 	<!--Bootstrap -->
 	<link rel="stylesheet" href="assets/css/bootstrap.min.css" type="text/css">
 	<!--OWL Carousel slider-->
@@ -46,12 +46,12 @@
 			<div class="inner_wp z_index white_text">
 				<div class="row">
 					<div class="col-md-12">
-						<h1 class="text-center">Life of Anagarika Dharmapala</h1>
-						<h5 class="text-center">(17th of September 1864 – 29th of April 1933)</h5>
+						<h1 class="text-center">Family</h1>
+						<h5 class="text-center">Anagarika Dharmapala’s Youngest Brother</h5>
 						<nav class="breadcrumb">
 							<ul>
 								<li class="breadcrumb-item"><a href="index.php">Home</a></li>
-								<li class="breadcrumb-item active">Don David Hewavitarne</li>
+								<li class="breadcrumb-item active">Charles Alwis Hewavitarne </li>
 							</ul>
 						</nav>
 					</div>
@@ -67,26 +67,48 @@
 					<div class="col-lg-7">
 						<div class="sa-paster-about-area">
 							<!-- <h3>Gopal dhanam</h3> -->
-							<h3>Don David Hewavitarne</h3>
+							<h3>Charles Alwis Hewavitarne </h3>
 							<!-- <p class="designation">Yoga Teacher</p> -->
-							<p class="designation">(From 1864-1885)</p>
-							<p>	Don David Hewavitarne, who would become known throughout the world in the early twentieth century as Anagarika Dharmapala, was born to Mallika and Don Carolis Hewavitarne on the 17th of September 1864. 
+							<p class="designation">(From 1876–1929)</p>
+							<p>	Charles was the youngest brother of Anagarika Dharmapala. A scholar, philanthropist, industrialist and freedom fighter, he read medicine at the Ceylon Medical College and joined the Medical Service of Ceylon. Charles obtained his LRCP (London) and FRCS at University College, University of London, in the UK, where he excelled at his studies and won medals for his performance in many subjects.   Charles was a member of the University College Ceylon Council. Several  memorial prizes are  awarded every year in his memory: at Royal College where he studied (then the Colombo Academy); at the University of Colombo for Physics & Sanskrit and the Faculty of Science, University of Peradeniya for Physics.  
 							
 							</p>
-							<p>							
+							<p>	He was actively involved in the Buddhist revival movement with his brothers and was a trustee of the Vidyodaya Oriental College, donated by his maternal grandfather. In the aftermath of the 1915 riots, he was taken into custody with his brother Edmund. D.S. Senanayake and D. R, Wijewardene and later released. After the death of his elder brother Edmund in prison, it was Charles who bore the burden of carrying forward H Don Carolis & Sons and contributing to the industrial revival activities of  Ceylon,						
 							
-At that time the Hewavitarne family was living in Pettah, then a residential part of then Ceylon's (now Sri Lanka) capital city, but would soon move to adjoining Kotahena, a salubrious neighborhood of homes with sprawling gardens and tree-lined roads. His birth was registered at St Benedicts Church of Kotahena, as was a requirement at the time.
-	</p><p>
-David’s primary education is marked by the many different schools he attended. These included the Colombo Girl’s Infant Home, Pettah Catholic School (later St Mary’s), Baptist Sinhala School, St Benedicts College, CMS Boys School in Kotte, St Thomas’ Collegiate Institute and Colombo Academy (later Royal College). Despite the many upheavals to his schooling, his parents gave him a firm foundation in Buddhism and in the local tongue, Sinhala. He learnt written Sinhala at a very early age under a well-known Sinhala scholar of the time, Haramanis Gurunanse, and his parents inculcated in him a devotion to the Buddha, the Dhamma (Doctrine) and the Sangha (Clergy) - 'the Triple Gem', the three pillars of Buddhism.
-In later years he says, “In school was fearless, daring and had a kind of aristocratic hauteur and did not care about anybody. At home I had the same spirit and what I wanted I got. I was stubborn, resolute and could not bear any kind of intolerance. I had no love for worldly things. I loved simplicity, solitude and any form of helping the poor, even to the extent of giving everything I had…”. 
-He writes about his beloved parents with much love and respect, although he criticizes them occasionally: his mother for her detachment and his father for his sense of discipline. He says he owes his understanding of the Dhamma and the law of impermanence to his mother, and that these gave him the foundation to renounce his lay life. He says it was his father who introduced him to the vow of Brahmacharya (pure conduct) at the age of nine years and constantly advised him not to “depend on worldly things”.
-	</p><p>
-At an early age, Don David was drawn to spiritual ideas, meditation and serving the poor. It is easy to see the young man being attracted to the Theosophist Movement. He was introduced to it by Ven Migettuwatte Gunananda Thero and began reading the Theosophist from its first publication in 1878.  When Col Henry Steel Olcott, an American and Madam Helena Blavatsky, of Russian origin (two of the main founders of the Theosophical Society), arrived in Ceylon in 1880, young David attended Olcott’s lectures and followed up by reading voraciously about spiritual development. He had a desire to be a renunciant and also at this time became a vegetarian. He joined the Theosophical Society in 1884. During these formative years, he also worked at the Department of Public Instruction in 1885. Yet, his interests were already firmly turned towards spiritualism and service.
-	</p><p>
-The family setting David grew up in, the beautiful garden and the large house of his childhood and parents who understood the practice of the Dhamma and wholeheartedly encouraged it in their son,  laid a spiritual foundation in his life. Spiritual progress and the practice of the Buddha’s teachings became the foundational purpose of his life. Everything else he engaged in would emanate from his fervent dedication to this purpose.
+
+	</p><p>As a pioneer of the industrial movement of the country, he was one of the main industrialists instrumental in the construction of the  present Colombo Fort Railway Station. The station was opened in 1917 as a new central station for Colombo, a magnificent building modeled on the  Manchester Victoria station in England. The station was built on land reclaimed from the Beira Lake.  He was also the chair of the organizing committee for the industrial exhibition for the visit of the Prince of Wales to Ceylon in 1921 and accompanied the Prince on his tour of the exhibition.
+This poem was written by Charles when he was imprisoned in 1915. It reflects a heartfelt devotion to the Buddha and to the Noble Eightfold Path:
+
+
+	</p><p><b>At Thy Feet</b><br>
+<b>by Dr Charles Hewavitarne</b>
+
+
+	</p><p><i>Compassionate! Who with unceasing zeal
+Beheld rise and fall of myriad earths
+And in the rounds of births gave all that men
+Hold dear, for truth to find and for our weal
+That truth beyond compare, of pain and cause,
+Its ceasing, and the way,
+To thee, who showed the active life and calm
+That lies between the rungs of Eight-fold path
+Which lead to bliss that cooleth passion’s thirst.
+To thee, sole teacher of the truth, I bow –
+My lowly head and with a humble heart
+To thee I bring an offering of my joy
+All wise; who spurned the hope instant bliss
+When first though met prostrating thy forerunner
+That we may taste the nectar of thy words
+To hearten us who tread the wheel of life
+Which first began we know not where or how
+To thee, sweet Lord, I my humble brow I bend
+In lowly worship thrice, and at thy feet
+In faith and trust seek I sure refuge.
+	</i>
+
 	</p>
-	<p>
-At the age of 21 years David left the luxuries and conveniences of his family home (the Hewavitarnes had by then moved to a sprawling house and gardens at Aloe Avenue in Kollupitiya) with the blessings of his parents to take up the life of a renunciant.
+	<p>Charles died in 1929, when a train crashed into his car at the road-railway intersection at Eheliyagoda, an area known for Ceylon's famous gems and also has mid grown tea plantations. It was Ceylon’s first motor car-train accident. Rail gates were installed in Ceylon following this accident. Seeing his brother’s shattered body, Anagarika Dharmapala had lamented in grief crying, “oh my brother, my doctor, why did this happen to you?”.
+
 
 							
 							</p>
