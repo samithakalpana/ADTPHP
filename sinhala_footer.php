@@ -11,18 +11,16 @@
 					</div>
 					<div class="col-md-4 top_widget">
 						<div class="newsletter">
-							Phone:+94 11 269 5012
-							<!-- <form>
+							<form>
 								<div class="email_input">
 									<input type="email" placeholder="Email address">
 								</div>
 								<button type="submit">Submit <i class="fa fa-caret-right"></i></button>
-							</form> -->
+							</form>
 						</div>
 					</div>
 					<div class="col-md-4 top_widget">
 						<div class="follow_us">
-							Email:adtrust@sltnet.lk
 							<!-- <ul class="text-custom-align-right">
 								<li><a href="#"><i class="fab fa-facebook-f"></i></a></li>
 								<li><a href="#"><i class="fab fa-twitter"></i></a></li>
@@ -43,17 +41,17 @@
 				<div class="col-md-4 footer_widget">
 					<div class="widget_inner">
 						<h5>Contact Us</h5>
-						<p>Anagarika Dharmapala Trust,<br/>
+						<p>අනගාරික ධර්මපාල භාරය,<br/>
 						130,<br/>
-						Maligakanda Rd,<br/>
-						Colombo 01000.<br/>
+						මාලිගාකන්ද පාර,<br/>
+						කොළඹ 10.<br/>
 						
 </p>
 					
 			
 				
 						<!-- <p>For online purchases:<br/> please email us - <a href="adtrust@sltnet.lk">adtrust@sltnet.lk</a></p>
-						<p>Tel:<a href="tel:+94112695012">011 269 5012<a>
+						<p>Tel:<a href="tel:+940112695012">011 269 5012<a>
 						<br/>(please phone us and set up an <br/> appointment before visiting)</p> -->
 
 					</div>
@@ -75,12 +73,12 @@
 						<h5>Useful Links</h5>
 						<div class="footer_nav">
 							<ul>
-								<li><a href="#">Home</a></li>
-								<li><a href="#">Life Of Dharmapala</a></li>
-								<li><a href="#">The Trust</a></li>
-								<li><a href="#">Shop</a></li>
-								<li><a href="#">Contact-Us</a></li>
-								<li><a href="#">Family And Benefactors</a></li>
+								<li><a href="#">මුල් පිටුව</a></li>
+								<li><a href="#">ධර්මපාල තුමාගේ ජීවිතයLife Of Dharmapala</a></li>
+								<li><a href="#">භාරය</a></li>
+								<li><a href="#">සාප්පුව</a></li>
+								<li><a href="#">ඇමතුම්</a></li>
+								<li><a href="#">පවුල සහ ප්‍රත්‍රිලාභීන්</a></li>
 								<!-- <li><a href="#">FAQ</a></li>
 								<li><a href="#">Account</a></li>
 								<li><a href="#">Privacy</a></li>
@@ -100,7 +98,7 @@
 			<div class="container">
 				<div class="row">
 					<div class="col-lg-4 align-self-center">
-						<p class="mb-0">&copy; 2020 ADT TRUST  All Rights Reserved.<br/>Design And Developed By P&S</p>
+						<p class="mb-0">&copy; 2020  All Rights Reserved</p>
 					</div>
 					<div class="col-lg-4 align-self-center">
 						<div id="back-top" class="back-top">

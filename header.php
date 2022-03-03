@@ -23,8 +23,8 @@
 					</div>
 					<div class="col-lg-6 col-md-8 col-4">
 						<ul class="top-btn list-inline">
-							<li class="list-inline-item"><i class="fa fa-phone"></i><a href="#">+01 825-5552-852</a></li>
-							<li class="list-inline-item"><i class="fa fa-envelope"></i><a href="#">info@themeganj.com</a></li>
+							<li class="list-inline-item"><i class="fa fa-phone"></i><a href="tel:+94 011 269 5012">+94 11 269 5012</a></li>
+							<li class="list-inline-item"><i class="fa fa-envelope"></i><a href="adtrust@sltnet.lk">adtrust@sltnet.lk</a></li>
 							<li class="list-inline-item"><a class="btn btn-sm dark-btn templezen-top-btn" href="actions/languageAction.php?lang=english&&page=index.php">සිංහල</a></li>
 						</ul>
 					</div>
@@ -38,7 +38,7 @@
 			<div class="container">
 				<div class="navbar-header">
 					<div class="logo">
-						<a href="index.html"><img src="assets/images/logo.png" alt="image" /></a>
+						<a href="/"><img src="assets/images/logo.png" alt="image" /></a>
 					</div> <!-- /Logo -->
 					<div id="menu_slide">
 						<div id="nav-toggle-label">
@@ -151,48 +151,87 @@
 			</div>
 		</nav>
 		<!-- Navigation end -->
+
+
 		<!-- Mobile Navigation -->
 		<div class="mobile-menu">
 			<ul class="wd-menu pop-scroll">
 				<li class="has-child">
-					<a href="#">Home</a>
-					<ul class="sub-menu">
+					<a href="/">Home</a>
+					<!-- <ul class="sub-menu">
 						<li><a href="index.php">Homepage 1</a></li>
 						<li><a href="index2.php">Homepage 2</a></li>
+					</ul> -->
+				</li>
+				<li class="has-child">
+					<a href="#">Life Of Dharmapala</a>
+					
+					<ul class="sub-menu">
+			
+						<li><a href="life_1_our-teachers.php">Don David Hewavitarne</a></li>
+								<li><a href="life_2_our-teachers.php">The Anagarika</a></li>
+								<li><a href="life_3_our-teachers.php">Sri Devamitta Dhammapala</a></li>
+								<li><a href="life_4_our-teachers.php">Battle for Buddha Gaya</a></li>
+								<li><a href="sermon-detail.php">Timeline</a></li>
+								<li><a href="life_5_our-teachers.php">Legacy</a></li>
 					</ul>
 				</li>
 				<li class="has-child">
-					<a href="#">Blog</a>
+					<a href="#">Family And Benefactors</a>
 					<ul class="sub-menu">
-						<li><a href="blog.php">Blog</a></li>
-						<li><a href="blog-detail.php">Blog Detail</a></li>
-					</ul>
-				</li>
-				<li class="has-child">
-					<a href="#">Pages</a>
-					<ul class="sub-menu">
-						<li><a href="our-teachers.php">our-teachers</a></li>
+					<li class="has-child dropdown"><a href="#">Family</a>
+								<ul class="sub-menu">
+								<li><a href="family_1_our-teachers.php"> H. Don Carolis</a>
+								<li><a href="family_2_our-teachers.php">Mallika Hewavitarne</a>
+								<li><a href="family_3_our-teachers.php">Engeltina Moonesinghe</a>
+								<li><a href="family_4_our-teachers.php">Edmund Hewavitarne</a>
+								<li><a href="family_5_our-teachers.php">Simon Hewavitarne</a>
+								<li><a href="family_6_our-teachers.php">Charles Hewavitarne</a>
+								</ul>
+							</li>
+							<li class="has-child"><a href="#">Benefactors</a>
+								<ul class="sub-menu">
+								<li><a href="benefactors_1_our-teachers.php">Ven. Hikkaduwe Sri Sumangala</a>
+								<li><a href="benefactors_2_our-teachers.php">Mary Robinson Foster</a>
+								<li><a href="benefactors_3_our-teachers.php">Col. Henry Steel Olcott</a>
+								<li><a href="benefactors_4_our-teachers.php">Helena Petrovna Blavatsky</a>
+								<li><a href="benefactors_5_our-teachers.php">Sir Edwin Arnold</a>
+								<li><a href="benefactors_6_our-teachers.php">Neelkamal Mukherjee</a>
+								<li><a href="benefactors_7_our-teachers.php">Devapriya Valisinha</a>
+								</ul>
+							</li>
+						<!-- <li><a href="our-teachers.php">our-teachers</a></li>
 						<li><a href="shop-left.php">shop-left</a></li>
 						<li><a href="shop-right.php">shop-right</a></li>
 						<li><a href="shop-full-width.php">shop-full-width</a></li>
 						<li><a href="log-in.php">log-in</a></li>
-						<li><a href="sign-up.php">sign-up</a></li>
+						<li><a href="sign-up.php">sign-up</a></li>-->
 					</ul>
 				</li>
-				<li><a href="about-us.html">About us</a></li>
+				<li class="has-child"><a href="about-us.php">The Trust</a>
+			<ui class="sub-menu">
+				<!-- <li><a href="">Chairmans Message</a></li>
+				<li><a href="">About The Trust</a></li> -->
+			</ui>
+			</li>
+				<li><a href="/">Publication And Research </a></li>
+				<li><a href="shop-left.php">Shop</a></li>
 				<li><a href="contact-us.php">contact us</a></li>
-				<li class="has-child"><a href="#">Sermon</a>
+
+				<!-- <li class="has-child"><a href="#">Sermon</a>
 					<ul class="sub-menu">
 						<li><a href="sermon.php">Sermon</a></li>
 						<li><a href="sermon-detail.php">Sermon Detail</a></li>
 					</ul>
-				</li>
-				<li class="has-child"><a href="#">Event</a>
+				</li> -->
+
+				<!-- <li class="has-child"><a href="#">Event</a>
 					<ul class="sub-menu">
 						<li><a href="events.php">Event</a></li>
 						<li><a href="event-detail.php">Event Detail</a></li>
 					</ul>
-				</li>
+				</li> -->
+
 			</ul>
 		</div>
 		<!-- END/Mobile Navigation -->
