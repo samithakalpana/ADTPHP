@@ -39,7 +39,7 @@
 			<div class="container">
 				<div class="navbar-header">
 					<div class="logo">
-						<a href="index.html"><img src="assets/images/logo.png" alt="image" /></a>
+						<a href="sinhala_index.html"><img src="assets/images/logo.png" alt="image" /></a>
 					</div> <!-- /Logo -->
 					<div id="menu_slide">
 						<div id="nav-toggle-label">
@@ -57,7 +57,7 @@
 				</div>
 				<div class="collapse navbar-collapse" id="navigation">
 					<ul class="nav navbar-nav">
-						<li ><a href="index.php">මුල් පිටුව<span class="nav_arrow"></span></a>
+						<li ><a href="sinhala_index.php">මුල් පිටුව<span class="nav_arrow"></span></a>
 						<!-- <li class="dropdown"><a href="#">Home<span class="nav_arrow"></span></a>
 							<ul class="sub-menu">
 								<li><a href="index.html">Homepage 1</a></li>
@@ -67,35 +67,35 @@
 						
 						<li class="dropdown" ><a href="about-us.php">අනගාරික<br/>ධර්මපාලතුමාගෙ ජීවිතය<span class="nav_arrow"></span></a>
 							<ul class="sub-menu">
-								<li><a href="sermon.php">Don David Hewavitarne දොන් ඩේවිඩ් හේවාවිතාරණ</a></li>
-								<li><a href="sermon-detail.php">අනගාරික ධර්මපාලතුමා</a></li>
-								<li><a href="sermon-detail.php">ශ්‍රී දේවමිත්ත ධම්මපාල</a></li>
-								<li><a href="sermon-detail.php">බුද්ධ ගයා සටන</a></li>
-								<li><a href="sermon-detail.php">කාලරේඛාව</a></li>
-								<li><a href="sermon-detail.php">වෘතාන්තය</a></li>
+								<li><a href="sinhala_life_1_our-teachers.php">Don David Hewavitarne දොන් ඩේවිඩ් හේවාවිතාරණ</a></li>
+								<li><a href="sinhala_life_1_our-teachers.php">අනගාරික ධර්මපාලතුමා</a></li>
+								<li><a href="sinhala_life_1_our-teachers.php">ශ්‍රී දේවමිත්ත ධම්මපාල</a></li>
+								<li><a href="sinhala_life_1_our-teachers.php">බුද්ධ ගයා සටන</a></li>
+								<li><a href="sinhala_life_1_our-teachers.php">පෙළගැස්ම</a></li>
+								<li><a href="sinhala_life_1_our-teachers.php">උරුමය</a></li>
 							</ul>
 						</li>
-						<li class="dropdown"><a href="#">පවුල සහ<br/>Benefactors <span class="nav_arrow"></span></a>
+						<li class="dropdown"><a href="#">පවුල සහ<br/>ප්‍රත්‍රිලාභීන් <span class="nav_arrow"></span></a>
 							<ul class="sub-menu">
-								<li class="dropdown"><a href="our-teachers.php">Family</a>
+								<li class="dropdown"><a href="our-teachers.php">පවුල</a>
 								<ul class="sub-menu">
-								<li><a href="our-teachers.php"> H. Don Carolis</a>
-								<li><a href="our-teachers.php">Mallika Hewavitarne</a>
-								<li><a href="our-teachers.php">Engeltina Moonesinghe</a>
-								<li><a href="our-teachers.php">Edmund Hewavitarne</a>
-								<li><a href="our-teachers.php">Simon Hewavitarne</a>
-								<li><a href="our-teachers.php">Charles Hewavitarne</a>
+								<li><a href="sinhala_family_1.php"> H. Don Carolis</a>
+								<li><a href="sinhala_family_2.php">Mallika Hewavitarne</a>
+								<li><a href="sinhala_family_3.php">Engeltina Moonesinghe</a>
+								<li><a href="sinhala_family_4.php">Edmund Hewavitarne</a>
+								<li><a href="sinhala_family_5.php">Simon Hewavitarne</a>
+								<li><a href="sinhala_family_6.php">Charles Hewavitarne</a>
 								</ul>
 							</li>
-							<li class="dropdown"><a href="our-teachers.php">Benefactors</a>
+							<li class="dropdown"><a href="our-teachers.php">ප්‍රතිලාභීන්</a>
 								<ul class="sub-menu">
-								<li><a href="our-teachers.php">Ven. Hikkaduwe Sri Sumangala</a>
-								<li><a href="our-teachers.php">Mary Robinson Foster</a>
-								<li><a href="our-teachers.php">Col. Henry Steel Olcott</a>
-								<li><a href="our-teachers.php">Helena Petrovna Blavatsky</a>
-								<li><a href="our-teachers.php">Sir Edwin Arnold</a>
-								<li><a href="our-teachers.php">Neelkamal Mukherjee</a>
-								<li><a href="our-teachers.php">Devapriya Valisinha</a>
+								<li><a href="sinhala_benefactors_1.php">Ven. Hikkaduwe Sri Sumangala</a>
+								<li><a href="sinhala_benefactors_2.php">Mary Robinson Foster</a>
+								<li><a href="sinhala_benefactors_3.php">Col. Henry Steel Olcott</a>
+								<li><a href="sinhala_benefactors_4.php">Helena Petrovna Blavatsky</a>
+								<li><a href="sinhala_benefactors_5.php">Sir Edwin Arnold</a>
+								<li><a href="sinhala_benefactors_6.php">Neelkamal Mukherjee</a>
+								<li><a href="sinhala_benefactors_7.php">Devapriya Valisinha</a>
 								</ul>
 							</li>
 						
@@ -104,33 +104,36 @@
 								<li><a href="event-detail.php">Family and Benefactors</a></li> -->
 							</ul>
 						</li>
-						<li >
-							<a href="about-us.php">The Trust <span class="nav_arrow"></span></a>
-							<!-- <ul class="sub-menu">
-								<li><a href="our-teachers.html">our-teachers</a></li>
+						<li class="dropdown">
+							<a href="about-us.php">භාරය<span class="nav_arrow"></span></a>
+							<ul class="sub-menu">
+								<li><a href="our-teachers.html">සභාපතිතුමගේ පණිවුඩය</a></li>
+								<li><a href="our-teachers.html">භාරය පිළිබදව</a></li>
+								<!-- <li><a href="our-teachers.html">our-teachers</a></li> -->
+								<!-- <li><a href="our-teachers.html">our-teachers</a></li>
 								<li><a href="shop-full-width.html">shop-full-width</a></li>
 								<li><a href="shop-left.html">shop-left</a></li>
 								<li><a href="shop-right.html">shop-right</a></li>
 								<li><a href="log-in.html">log-in</a></li>
-								<li><a href="sign-up.html">sign-up</a></li>
-							</ul> -->
+								<li><a href="sign-up.html">sign-up</a></li> -->
+							</ul>
 						</li>
-						<li class="dropdown" ><a href="#">ප්‍රකාශන සහ පර්‍යෙශන <br/> and Research  <span class="nav_arrow"></span></a>
+						<li class="dropdown" ><a href="#">ප්‍රකාශන සහ<br/> පර්‍යෙශන  <span class="nav_arrow"></span></a>
 							<!-- <ul class="sub-menu">
 								<li><a href="blog.html">Blog</a></li>
 								<li><a href="blog-detail.html">Blog Detail</a></li>
 							</ul> -->						
 								<ul class="sub-menu">
-								<li><a href="our-teachers.php">Diaries</a>
-								<li><a href="our-teachers.php">Other publications</a>
-								<li><a href="our-teachers.php">Information for Researchers</a>
+								<li><a href="our-teachers.php">දිනපොත්</a>
+								<li><a href="our-teachers.php">අනෙකුත් ප්‍රකාශන</a>
+								<li><a href="our-teachers.php">පර්‍යේෂකයන් සදහා තොරතුරු</a>
 						
 								</ul>
 						</li>
 						
-						<li class="dropdown"><a href="shop-left.php">Store</a>
+						<li class="dropdown"><a href="shop-left.php">සාප්පුව</a>
 						<ul class="sub-menu">
-								<li><a href="our-teachers.php">Tipitaka Publications</a>
+								<li><a href="our-teachers.php">ත්‍රිපාලිකා ප්‍රකාශන</a>
 								</ul>
 					</li>
 

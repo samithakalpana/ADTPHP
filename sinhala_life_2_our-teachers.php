@@ -46,12 +46,12 @@
 			<div class="inner_wp z_index white_text">
 				<div class="row">
 					<div class="col-md-12">
-						<h1 class="text-center">Life of Anagarika Dharmapala</h1>
-						<h5 class="text-center">(17th of September 1864 – 29th of April 1933)</h5>
+					<h1 class="text-center">අනගාරික ධර්මපාලයන්ගේ ජීවිතය</h1>
+						<h5 class="text-center">(1864 සැප්තැම්බර් 17 සිට 1933 අපේ‍්‍රල් 29 දින දක්වා)</h5>
 						<nav class="breadcrumb">
 							<ul>
 								<li class="breadcrumb-item"><a href="index.php">Home</a></li>
-								<li class="breadcrumb-item active">Anagarika Dharmapala</li>
+								<li class="breadcrumb-item active">අනගාරික ධර්මපාල</li>
 							</ul>
 						</nav>
 					</div>
@@ -67,46 +67,56 @@
 					<div class="col-lg-7">
 						<div class="sa-paster-about-area">
 							<!-- <h3>Gopal dhanam</h3> -->
-							<h3>Anagarika Dharmapala</h3>
+							<h3>අනගාරික ධර්මපාල</h3>
 							<!-- <p class="designation">Yoga Teacher</p> -->
-							<p class="designation">(From 1885-1931)</p>
-							<p>	From the age of 21 years, the young Don David called himself the Angarika ("the homeless one")  and began a new phase of his life as a renunciant, i.e. a life betwixt that of a lay individual and a monk. He took up residence at the Buddhist Theosophical Society in Colombo and worked tirelessly to promote the work for the betterment of society and the promulgation of Buddhism.
-As a commentator wrote after his death:
-
+							<p class="designation">(1885 සිට-1931 දක්වා)</p>
+							<p>	තරුණ අනගාරික (නිවසක් නොමැති* ගිහියකු හා
+පැවිද්දකු අතරමැදි තපස්වරයකු ලෙස තම ජීවිතයේ නව අවධිය
+ඇරඹීය. ඔහු කොළඹ බෞද්ධ පරම විඥානාර්ථ සංගමයේ
+පදිංචි වී සිට එම සංගමයේ දියුණුව සහ බෞද්ධ ආගමේ
+ප‍්‍රචලිත කිරීම උදෙසා ඇප කැපවී කටයුතු කළේය.
 							
 							</p>
-							<p>							
+							<p>		එතුමාගේ මරණින් පසුව එක් විශ්ලේෂණයක මෙසේ
+ලියා ඇත.					
 							
-A“Nothing was too small or too big for him. He would clean his own room, make his own bed, attend to office work, write all the letters and take them to the post himself, not as a matter of virtue but as a part of his daily routine, He would interpret for one, he would prepare a programme for another, he would translate a lecture for someone else, he would write original articles for the newspaper, he would discuss the policy of the paper with the Editor and would correct proofs for him, and he would interview those who visited the office. He wrote to people all over Ceylon inviting them to visit the Head Office and to contribute their ’good will’ towards the progress of the cause. All were alike to him, whether one was old or young or a school boy, learned or ignorant, rich or poor did not matter; he instinctively knew what each was able to contribute towards the common good. He spent well nigh fifteen to sixteen hours a day in intensive work.” (from Sangharakshita, B (1952), Angarika Dharmapala: A Biographical Sketch, Buddhist Publications Society, Kandy).
+	</p><p>”කිසිම දෙයක් ඔහුට ඉතා සුළු හෝ ඉතා විශාල
+නොවීය. තම කාමරය පිරිසිදු කිරීම, ඇඳ සකස් කර ගැනීම
+කාර්යාල කටයුතුවලට අනුගත වීම ලිපි තමා විසින්ම ලියා
+එවා තැපැල් කිරීමට රැගෙන යාම ගුණධර්මය පිළිබඳ කාරණයන්
+ලෙස නොව දෛනික කාර්යයන් සේ ඉටු කළේය. ඔහු කෙනෙකු
+වෙනුවෙන් වරෙකදී භාෂා පරිවර්තනය කළ අතර විටෙකදී
+ඔහු කෙනකු වෙනුවෙන් ක‍්‍රියා පිළිවෙලක් සකස් කළේය. තවත්
+අයෙකු වෙනුවෙන් දේශනයක් පරිවර්තනය කර දුන්නේය.
+පුවත්පත් සඳහා මුල් ලිපි ලිව්වේය. කතුවරුන් සමග පුවත්පතේ
+ප‍්‍රතිපත්ති ගැන සාකච්ඡුා කළේය.
+	 
 	</p><p>
-	In 1886 when the American Theosophist, Henry Steel Olcott and English Theosophist, Charles Webster Leadbeater (who went on to become the first principal of what would become the country's largest Buddhist secondary school, Ananda College) travelled around Ceylon to raise funds for their educational projects, it was the young Anagarika who went with them as their translator. During this long tour he learnt about the state of the lives of Ceylonese - mostly Sinhalese villagers: poor, indebted, illiterate, lacking in self-worth and living in constant fear of their colonial ruler. 
+
 	</p><p>
-	From 1886 - 1890, working as the general manager and assistant secretary of the Society, the young Anagarika took on the name Hewavitarne Dharmapala. This name would later become abbreviated, first to H. Dharmapala and later to Anagarika Dharmapala (the renunciant guardian of the truth). Working with Olcott and Leadbeater, the young Anagarika was first introduced to printing and publication when they began the Sarasavi Sandaresa and in 1888, The Buddhist (funded mainly by his grandfather and friends).
-	</p><p>
-	Soon, Dharmapala’s life would be taken over by his ceaseless work for Buddhism, starting with a tour of Japan with Olcott in 1889. They traveled extensively around Japan delivering lectures and reading out the erudite Sri Lankan scholar-monk Ven Hikkaduwe Sumangala Thero’s letter of good wishes written in Sanskrit to the Buddhists of Japan. It was the first letter from a monk of the Southern Buddhist tradition (Theravada) to those of the Northern tradition (Mahayana) in such times.
+
 	</p>
 	<p>
-	However, the turning point of the young 26-year old Dharmapala’s life occurred after reading a famous poem at the time, Light of Asia, by the Englishman, Sir Edwin Arnold. Following the poem, Arnold also wrote to a British newspaper of his visit to the then neglected Bodh Gaya (Buddha Gaya) where the Sakyan Prince Gautama had attained enlightenment as the Buddha. There was also an article in the newspapers that British archeologists had discovered more sites in India sanctified by the touch of the feet of Gautama the Buddha. Dharmapala travelled to Buddha Gaya on the 22nd of January 1891 with a small group of companions, including the Japanese monk, Kozen Gunaratana. Anagarika Dharmapala says this about his moment of inspiration:
+	
 
 							
 							</p>
 
 							<p>
-							“After taking breakfast we went in the company of Durga Babu and Dr. Chatterjee to Bodhgaya—the most sacred spot to the Buddhists. After driving 6 miles (from Gaya) we arrived at the holy spot. Within a mile you could see lying scattered here and there broken statues etc. of our blessed Lord. At the entrance to the Mahānt’s temple on both sides of the portico there are statues of our Lord in the attitude of meditation and expounding the Law. How elevating! The sacred Vihāra—the Lord sitting on his throne and the great solemnity which pervades all round—makes the heart of the pious devotee weep. How delightful! As soon as I touched with my forehead the Vajrāsana a sudden impulse came to my mind. It prompted me to stop here and take care of this sacred spot—so sacred that nothing in the world is equal to this place where Prince Sakya Sinha gained Enlightenment under the Bodhi Tree … When the sudden impulse came to me I asked Kozen priest whether he would join me, and he joyously assented and more than this he had been thinking the same thing. We both solemnly promised that we would stop here until some Buddhist priests came to take charge of the place.” (from Sangharakshita, B (1952), Angarika Dharmapala: A Biographical Sketch, Buddhist Publications Society). 
-
+					
 							</p>
 
 							<p>
-							With that moment of inspiration began Dharmapala’s sacred mission of reclaiming Buddha Gaya (and also Sarnath, where the Buddha gave his first discourse on his Doctrine of the 'Middle Path') as Buddhist sites of worship. For this purpose, he founded the Maha Bodhi Society in Colombo in 1891 with Ven., Hikkaduwe Sumangala Thero as the Founder President and himself as the Secretary. Reclaiming Buddha Gaya became the primary mission of his life.
+					
 
 							</p><p>
-							However, with his remarkable energy he also took on an unimaginable range of other work and causes. These included the mission of spreading the word of the Buddha to the world, of unifying the disparate sects of Buddhist traditions into one global community, educating the poor in India and Ceylon, and creating a cultural revival that would help the poor in Ceylon reclaim their sense of self-worth.
+					
 
 							</p><p>
-							In 1893, Dharmapala received an invitation to attend the first World Parliament of Religions to be held in Chicago in September, by the Chairman of the Committee, Dr J. R. Burrows. Dharmapala was one of the most charismatic speakers at the assembly, and his lecture “The World’s Debt to Buddhism” made a notable impact on the audience and was reported in the media. Hearing this lecture, Mr C. T. Strauss, a New Yorker and lifelong student of Philosophy, converted to Buddhism by receiving the five precepts from Dharmapala. Strauss became the first person to become a Buddhist in the US.
+			
 							</p>
 							<p>
-							On Dharmapala’s return journey he stopped in Honolulu on the invitation of the Theosophists in Honolulu, where he met Theosophist, Mrs Mary Robinson Foster, the lady who would become his chief benefactor after the death of his father.
+			
 							</p>
 							<!-- <div class="sa-team-social">
 								<h5>Social links</h5>
@@ -128,6 +138,115 @@ A“Nothing was too small or too big for him. He would clean his own room, make 
 						</div>
 					</div>
 				</div>
+				<p>අවශ්‍ය සෝදු පත් බලමින් ඔවුන්ට සහය විය.
+කාර්යාලය වෙත පැමිණෙන අය හා සම්මුඛ සාකච්ඡුා
+පැවැත්වීය. ලංකාවේ සියලූ ජනතාවට ලියා විවෘත ආරාධනයක්
+කරමින් තම ප‍්‍රධාන කාර්යාලය වෙත පැමිණ එහි අභිවෘද්ධිය
+උදෙසා තම හොඳ හිත පළකරන ලෙස ඔහු ඉල්ලීය. ඔහුට
+සෑම කෙනෙකුම එක හා සමානය කිසිවෙකු වැඩිහිටියෝද
+තරුණ හෝ මහළු හෝ පාසල් සිසුවකු හෝ උගත් නූගත් දුප්පත්,
+පොහොසත් තරා තිරම ඔහුට වැදගත් නොවීය. පොදු යහපත
+උදෙසා එකිනෙකාගේ දායකත්වය කුමක්දැයි ඔහු සහජයෙන්
+දැන සිටියේය. ඔහු ආසන්න වශයෙන් දිනකට පැය 15-16
+පමණ දිගටම පරිශ‍්‍රමයෙන් වැඩ කළේය.
+
+				</p><p>1886 වසරේදී අමෙරිකානු පරම විඥානාර්ථවාදියකු වූ
+හෙන්රි ස්ටීල් ඔල්කොට් තුමා සහ චාර්ල්ස් වෙබ්ස්ටර් ලිඞ්බීටර්
+(පසු කාලයේදී අප රටේ විශාලතම බෞද්ධ ද්විතීය පාසලක් වූ
+ආනන්ද විදුහලේ ප‍්‍රථම ප‍්‍රධානාචාර්ය තුමන්* ලංකාව පුරා සැරි
+සරමින් තම අධ්‍යාපන ව්‍යාපෘති සඳහා අරමුදල් රැස්කිරීමේ
+කටයුතුවල නියැලෙද්දී තරුණ අනගාරික ඔවුන් සමග ගමන්
+කරමින් ඔවුන්ගේ භාෂා පරිවර්තක ලෙස කටයුතු කළේය. මේ
+දිගු ගමන්වලදී තරුණ අනගාරික ලංකාවේ ඈත පෙදෙස්වල
+දුප්පත් නූගත් ගැමි ජනතාව දැන හැඳින ඔවුන්ගේ දරිද්‍රතාවය
+පිළිබඳව හා යටත් විජිත පාලකයන් පිළිබඳව දක්වන නියත
+බියද මහත්සේ අවබෝධ කර ගත්තේය.
+					
+				</p><p>වර්ෂ 1886-1890 දක්වා කාලයේදී ඔහු සංගමයේ
+සාමාන්‍යාධිකාරි සහ සහය ලේකම් ලෙස ද කටයුතු කරමින්
+තරුණ අනගාරික හේවාවිතාරණ ධර්මපාල යන නාමය භාවිතා
+කිරීමට යෙදුන අතර පසු කාලෙදී එය එච්. ධර්මපාල යනුවෙන්
+ද ඊට පසු අනගාරික ධර්මපාල (සියලූ දේ අත්හල සත්‍යයේ රැ
+කවල් කරු* යනුවෙන් ද වෙනස් විය. ඔල්කොට් සහ ලීඞ්බීටර්
+සමග එක්වීමත් සමග තරුණ අනගාරික ප‍්‍රථම වරට මුද්‍රණ
+ශිල්පය සහ ප‍්‍රකාශන අංශය වෙත යොමු විය. එහි ප‍්‍රතිඵලයක්
+ලෙසින් ”සරසවි සඳරැස” සහ 1888 ”ඔයැ ඊමාායිඑ” (බෞද්ධයා*
+ප‍්‍රකාශනයද මුද්‍රණය විය. (මේ කාර්යයන් සඳහා ප‍්‍රධාන වශයෙන්
+ඔහුගේ සීයා සහ මිතුරන් ද දායක විය.)
+					
+					</p><p>කෙටි කලකින්ම ඔහුගේ නමක් නැති බෞද්ධ කටයුතු
+විසින් ඔහුගේ ජීවිතය අත්පත්කරගන්නා ලද අතර 1889 දී
+ඔල්කොට් තුමන් සමගින් ජපානය වෙත යාමට සිදුවීමෙන් එය
+ආරම්භ විය. ඔවුහු ජපානය පුරා සැරසරමින් දේශන පවත්වමින්
+ලංකාවේ විසූ බහුශුත විද්වත් පූජ්‍ය හික්කඩුවේ ශ‍්‍රී සුමංගල
+හිමිනම විසින් ජපානයේ වෙසෙන බෞද්ධයන් වෙත ශුභ පතමින්
+සංස්කෘත භාෂාවෙන් ලියන ලද ලිපියෙහි සඳහන් දෑ පැහැදිලි
+කළේය. මෙම ලිපිය වනාහි දකුණුදිග බෞද්ධ සංස්කෘතික පිළිවෙත් රකින භික්‍ෂුවක් උතුරුදිග බෞද්ධ වත් පිළිවෙත්
+අනුගමනය කරන්නන් හට යැවූ ප‍්‍රථම ලිපියයි.
+					
+					</p><p>ඒ කෙසේ වෙතත් 27 වියැති ධර්මපාලයන්ගේ ජීවිතයේ
+වැදගත්ම සන්ධිස්ථානය වූයේ ඉංග‍්‍රීසි ජාතික එඞ්වින් ආර්නල්ස්
+සාමිවරයා විසින් රචනා කරන ලද ඛෂඨ්‍යඔ ධත්‍ ්ීෂ් නමැති
+සුප‍්‍රකට කාව්‍ය කියවීමෙන් අනතුරුවය. එවකට නොසලකා
+හරිනු ලැබ පැවති බුද්ධ ගයාව නොහොත් බුදුන් බුද්ධත්වය
+ලැබූ ස්ථානය වෙත යෑමට ඔහුට අදහස් පහළවිය. එම කාලයේදී
+බි‍්‍රතාන්‍ය පුරාවිද්‍යාඥයින් කණ්ඩායමක් විසින් කරන ලද කැණීම්
+හේතුවෙන් බුද්ධ ස්පර්ශය ලද තවත් පූජනීය ස්ථාන රැසක්ම
+සොයා ගැනීමට හැකි වූ බවට පුවතක් පළවී තිබුණි.
+ධර්මපාලයන් 1891 ජනවාරි මස 22 දා ජපාන ජාතික භික්‍ෂුනමක්
+වූ කෝශේන් ගුණරතන හිමි සමග බුද්ධගයාව වෙතට ගමන්
+කරන ලදී. එහිදී අනගාරික ධර්මපාලතුමා අත් විඳ දේවානුභාව
+සම්පන්න අත්දැකීම් මේ අයුරින් විස්තර කළේය.
+					
+					</p><p>”උදෑසන ආහාරයෙන් ඉක්බිතිව අපි දුර්ගා බාබු සහ
+ආචාර්ය චැටර්ජි සමග බෞද්ධයින්ට අති පූජණීය ස්ථානයක්
+වූ බුද්ධගයාව වෙත ගමන් ඇරඹීමු. ගයාහි සිට සැතපුම් හයක්
+පමණ දුර ගිය පසු මෙම පූජණීය ස්ථානය වෙත අප ළං වීමු.
+එහි ළ`ගාවීමට සැතපුමක පමණ දුර සිට කඩා බිඳ දමා ඇති
+පිළිම බොහෝ ගණනක් අවට පුරා විසිරී ඇති අයුරු අපි
+මැනවින් දුටිමු. මේවා අපගේ භාග්‍යවතුන් වහන්සේගේය.
+මහන්ත්ගේ (ඵ්‍ය්භඔ*” දෙවොල වෙත ප‍්‍රවිෂ්ඨ වන දොරටුවේ
+ඇති පීඨිකාවේ දෙපසම අප භාග්‍යවතුන් වහන්සේගේ පිළිරූ
+තිබුණි. ඒවා ධ්‍යානයට සමවැදී ඉන්නා ඉරියවුවෙන් තිබුණි.
+කෙතරම් පූජණීය වූ විහාර මන්දිරය මාගේ ස්වාමීන් ආසනය
+මත වැඩ සිටින අයුරු අවට නිහඬතාවය සමග ගාම්භීර සිතුවිලි
+සමුදාය මා තුළ නිතැතින්ම පහළව තිබුණි. සැදැහවත්
+කෙනෙකුගේ සිත් උණුවී කඳුළෙන් දෑස් තෙත් වනු ඇත.
+කෙතරම් ප‍්‍රිය ජනකද? වජ‍්‍රාසනය මත මා නළල තැබූ
+සැණකින්ම මාගේ මණස තුළ පුදුම ආවේගයක් හට ගැනුණි.
+ඒ සැනින් මට දැනුණේ මෙහි නතරව මෙම ශුද්ධ වූ ස්ථානය
+රැක බලාගත යුතු බවට ඉ`ගියකි. මෙම ශුද්ධ වූ ස්ථානය වැන්නක්
+ලොව කිසිම තැනක නැති බවට මම පසක් කර ගතිමි. මෙහි
+බෝධිය සෙවණේ ශාඛ්‍යසිංහ කුමරුන් බුද්ධත්වයට පැමිණියේය.
+මේ ආවේගි සිතුවිලි මා තුළ පහළ වූ සැණින් මම කෝශේන්
+භික්‍ෂුවගෙන් මෙසේ ඇසීමි. ඔබ මාගේ මේ කර්තව්‍යයේදී මා
+සමග එක්වනවාදැයි ඇසීමි. ඔහු මහත් ආහ්ලාදයෙන් මට
+පිළිතුරු දෙමින් කීවේ ඔහුට ද මෙවැනිම සිතුවිල්ලක් පහළ වූ
+බවයි. අපි දෙදෙනාම මහත් ගරු ගාම්භීරයෙන් ප‍්‍රතිඥාවක්
+දෙමින් කවර හෝ බෞද්ධ පූජකවරු මෙම ස්ථානයට වඩින
+තෙක් අපි මෙතැන නතර වෙමුයයි අදිටන් කර ගතිමු.”
+					
+					</p><p>එම මොහොතේ ලද මහත් ප‍්‍රබෝධයෙන්
+ධර්මපාලයන්ගේ බුද්ධගයාව සහ සාරානාත් නැවත
+බෞද්ධයින්ගේ වන්දනා මාන සඳහා ලබා ගැනීමේ ශුද්ධ වූ
+මෙහෙවර ඇරඹුණි. එම අදහස් මුදුන් පමුණුවා ගැනීමේ
+අභිප‍්‍රායෙන් ඔහු කොළඹ මහ බෝධි සංගමය 1891 දී පිහිටුවන
+ලදී. එහි ආරම්භක සභාපති වශයෙන් පූජ්‍ය හික්කඩුවේ සුමංගල
+ස්වාමීන් වහන්සේ ද එහි ලේකම් වශයෙන් ඔහු ද පත්වීම්
+ලැබූහ. මෙය ඔහුගේ ජීවිතයේ ප‍්‍රධානතම මෙහෙවර විය.
+					
+					</p><p>ඒ එසේ වුවත් හිතන්නට බැරි තරම් වැඩ කටයුතු
+රාශියක් සහ හේතු කාරක රාශියක් තමා පිට පවරා ගැනීමට
+තරම් සුවිශේෂ වූ කාය ශක්තියක් ඔහු සතුව තිබුණි. ලෝක
+සත්වයා වෙත බුදු වදන ව්‍යාප්ත කරවීමටත් බෙදී වෙන්වී ගිය
+බෞද්ධ චාරිත‍්‍ර වාරිත‍්‍ර වත් පිළිවෙත් ඇදැහූ අය නැවත එකම
+විශ්ව සමාජයකට කැඳවීමටත් ඉන්දියාවේ සහ ලංකාවේ
+දුප්පතුන් දැනුවත් කිරීමට ඒ මගින් සංස්කෘතික පුනරුදයක්
+ඇති කොට ලංකාවේ දුගී ජනයා තුළ ඔවුන්ගේ ස්වකීය වටිනාකම
+පිළිබඳ හැ`ගීම වර්ධනය කිරීම ත් ඔහුගේ මෙහෙවරෙහි ඇතුළත්
+ප‍්‍රධාන කරුණුය.
+
+					</p>
 			</div>
 		</section>
 
