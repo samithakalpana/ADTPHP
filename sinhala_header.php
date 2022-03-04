@@ -30,8 +30,8 @@
 					</div>
 					<div class="col-lg-6 col-md-8 col-4">
 						<ul class="top-btn list-inline">
-							<li class="list-inline-item"><i class="fa fa-phone"></i><a href="#">+01 825-5552-852</a></li>
-							<li class="list-inline-item"><i class="fa fa-envelope"></i><a href="#">info@themeganj.com</a></li>
+							<li class="list-inline-item"><i class="fa fa-phone"></i><a href="tel:+94 011 269 5012">+94 011 269 5012</a></li>
+							<li class="list-inline-item"><i class="fa fa-envelope"></i><a href="adtrust@sltnet.lk">adtrust@sltnet.lk</a></li>
 							<li class="list-inline-item"><a class="btn btn-sm dark-btn templezen-top-btn" href="actions/languageAction.php?lang=sinhala&&page=index.php">English</a></li>
 				
 						</ul>
@@ -74,21 +74,15 @@
 						
 						<li class="dropdown" ><a href="about-us.php">අනගාරික<br/>ධර්මපාලතුමාගෙ ජීවිතය<span class="nav_arrow"></span></a>
 							<ul class="sub-menu">
-<<<<<<< HEAD
+
+
+
 								<li><a href="sinhala_life_1_our-teachers.php">දොන් ඩේවිඩ් හේවාවිතාරණ</a></li>
 								<li><a href="sinhala_life_2_our-teachers.php">අනගාරික ධර්මපාලතුමා</a></li>
 								<li><a href="sinhala_life_3_our-teachers.php">ශ්‍රී දේවමිත්ත ධම්මපාල</a></li>
 								<li><a href="sinhala_life_4_our-teachers.php">බුද්ධ ගයා සටන</a></li>
 								<li><a href="sinhala_life_6_our-teachers.php">පෙළගැස්ම</a></li>
 								<li><a href="sinhala_life_5_our-teachers.php">උරුමය</a></li>
-=======
-								<li><a href="sinhala_life_1_our-teachers.php">Don David Hewavitarne දොන් ඩේවිඩ් හේවාවිතාරණ</a></li>
-								<li><a href="sinhala_life_1_our-teachers.php">අනගාරික ධර්මපාලතුමා</a></li>
-								<li><a href="sinhala_life_1_our-teachers.php">ශ්‍රී දේවමිත්ත ධම්මපාල</a></li>
-								<li><a href="sinhala_life_1_our-teachers.php">බුද්ධ ගයා සටන</a></li>
-								<li><a href="sinhala_life_1_our-teachers.php">පෙළගැස්ම</a></li>
-								<li><a href="sinhala_life_1_our-teachers.php">උරුමය</a></li>
->>>>>>> parent of 001c8f3 (sinhala pages +footer)
 							</ul>
 						</li>
 						<li class="dropdown"><a href="#">පවුල සහ<br/>ප්‍රත්‍රිලාභීන් <span class="nav_arrow"></span></a>

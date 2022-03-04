@@ -112,7 +112,10 @@ ob_start();
 					<div class="intro_text white_text">
 			
 						<!-- <h1>god is within us</h1> -->
-						<h1 id=long_text_home>"ගෙහිමියා සැම විටම මැද මාවත අනුගමනය කළයුතුය.<br>සියල්ලටම වඩා ත්‍යාගශීලිභාවය සහ සෙනෙහස ප‍්‍රගුණ කළ යුතුය."</h1>
+
+						<!-- <h1 id=long_text_home>"ගෙහිමියා සැම විටම මැද මාවත අනුගමනය කළයුතුය.<br>සියල්ලටම වඩා ත්‍යාගශීලිභාවය සහ සෙනෙහස ප‍්‍රගුණ කළ යුතුය."</h1> -->
+						<h1 id=long_text_home>"ගෙහිමියා සැම විටම මැද මාවත අනුගමනය කළයුතුය."</h1>
+
 
 						<!-- <p> The point of using Lorem Ipsum is that it has a more-or-less normal distribution of letters, as opposed to using 'Content here, content here. </p> -->
 						<p>අනගාරික ධර්මපාල- 1910</p>

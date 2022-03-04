@@ -4,7 +4,6 @@ session_start();
 $_SESSION["page"]="life_1_our-teachers.php";
 // echo $_SESSION["page"];
 ?>
-
 <!DOCTYPE HTML>
 <html lang="si">
 
@@ -13,8 +12,8 @@ $_SESSION["page"]="life_1_our-teachers.php";
 <head>
 
 
-<meta charset="UTF-8">
 
+<meta charset="UTF-8">
 	<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
 	<meta http-equiv="X-UA-Compatible" content="IE=edge">
 	<meta name="viewport" content="width=device-width,initial-scale=1">
@@ -64,7 +63,6 @@ $_SESSION["page"]="life_1_our-teachers.php";
 							<ul>
 								<li class="breadcrumb-item"><a href="index.php">Home</a></li>
 								<li class="breadcrumb-item active">දොන් ඬේවිඞ් හේවාවිතාරණ</li>
-
 							</ul>
 						</nav>
 					</div>
@@ -216,8 +214,6 @@ $_SESSION["page"]="life_1_our-teachers.php";
 		</section>
 
 	<!-- Footer -->
-
-	<?php include_once 'sinhala_footer.php';?>
 
 	<!-- /Footer -->
 

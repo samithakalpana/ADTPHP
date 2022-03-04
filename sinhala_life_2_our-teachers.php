@@ -4,7 +4,6 @@ session_start();
 $_SESSION["page"]="life_2_our-teachers.php";
 // echo $_SESSION["page"];
 ?>
-
 <!DOCTYPE HTML>
 <html lang="en">
 
@@ -76,8 +75,7 @@ $_SESSION["page"]="life_2_our-teachers.php";
 				<div class="row">
 					<div class="col-lg-7">
 						<div class="sa-paster-about-area">
-							<!-- <h3>Gopal dhanam</h3> -->
-
+							<!-- <h3>Gopal dhanam</h3> 
 							<h3>අනගාරික ධර්මපාල</h3>
 							<!-- <p class="designation">Yoga Teacher</p> -->
 							<p class="designation">(1885 සිට-1931 දක්වා)</p>
@@ -110,12 +108,10 @@ $_SESSION["page"]="life_2_our-teachers.php";
 	<p>
 	
 
-
 							
 							</p>
 
 							<p>
-
 					
 							</p>
 
@@ -151,7 +147,6 @@ $_SESSION["page"]="life_2_our-teachers.php";
 						</div>
 					</div>
 				</div>
-
 				<p>අවශ්‍ය සෝදු පත් බලමින් ඔවුන්ට සහය විය.
 කාර්යාලය වෙත පැමිණෙන අය හා සම්මුඛ සාකච්ඡුා
 පැවැත්වීය. ලංකාවේ සියලූ ජනතාවට ලියා විවෘත ආරාධනයක්
