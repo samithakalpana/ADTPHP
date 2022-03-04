@@ -1,7 +1,10 @@
 
 <?php 
 ob_start();
- @session_start();
+//  @session_start();
+//  if (session_id() == "") {
+// 	session_start();
+// }
  $_SESSION["lang"]="sinhala";
  $_SESSION["page"]="index.php";
 
@@ -42,6 +45,15 @@ ob_start();
         <script src="https://oss.maxcdn.com/libs/html5shiv/3.7.0/html5shiv.js"></script>
         <script src="https://oss.maxcdn.com/libs/respond.js/1.4.2/respond.min.js"></script>
 <![endif]-->
+
+
+<style>
+	#long_text_home{
+		/* font-size: 3.5vw; */
+	}
+</style>
+
+
 </head>
 
 <body id="tl">
@@ -54,11 +66,12 @@ ob_start();
 	<section id="intro">
 		<div class="overlay overlay-bg"></div>
 		<div class="owl-carousel">
-			<div class="item section-padding" style="background-image:url(assets/images/home-banner/banner-01.png);">
+			<div class="item section-padding" style="background-image:url(assets/images/custom_images/banner_anagarika.jpg);">
 				<div class="container">
 					<div class="intro_text white_text">
 						<!-- <h1>creator of life</h1> -->
-						<h1>“සිංහල පරිවර්තිත මුල් පිටුව” <br>
+						<h1>”මා ගිය කොතැනකද ඒ හැම තැනකම මා ජනතාවගේ හිත
+සුව පිණිස කටයුතු කර ඇත.”
 
 </h1>
 						<!-- <p>The point of using Lorem Ipsum is that it has a more-or-less normal distribution of letters, as opposed to using 'Content here, content here. </p> -->
@@ -67,38 +80,46 @@ ob_start();
 					</div>
 				</div>
 			</div>
-			<div class="item section-padding" style="background-image:url(assets/images/home-banner/banner-03.png);">
+			<div class="item section-padding" style="background-image:url(assets/images/custom_images/banner_vehicle.jpg);">
 				<div class="container">
 					<div class="intro_text white_text">
 						<!-- <h1>god is within us</h1> -->
-						<h1>“My comfort is the Buddha, His Dhamma and the Holy Ones”
+						<h1>"මාගේ සැනසීම බුදුන් වහන්සේගේ දහම සහ ශුද්ධ
+ආත්මයන් පමණි."
 
 </h1>
 						<!-- <p> The point of using Lorem Ipsum is that it has a more-or-less normal distribution of letters, as opposed to using 'Content here, content here. </p> -->
-						<p>Anagarika Dharmapala - 1915</p>
+						<p>අනගාරික ධර්මපාල- 1915</p>
 						<a href="events.html" class="btn dark-btn templezen-top-btn">Explore Events</a>
 					</div>
 				</div>
 			</div>
-			<div class="item section-padding" style="background-image:url(assets/images/home-banner/banner-03.png);">
+			<div class="item section-padding" style="background-image:url(assets/images/custom_images/banner_buddagaya.jpg);">
 				<div class="container">
 					<div class="intro_text white_text">
 						<!-- <h1>god is within us</h1> -->
-						<h1>“My life will be given birth after birth to Humanity”</h1>
+						<h1>“මාගේ ජීවිතය භවයෙන් භවයට මනුෂ්‍යත්වය වෙනුවෙන් ම
+කැප කරමි.”
+</h1>
 						<!-- <p> The point of using Lorem Ipsum is that it has a more-or-less normal distribution of letters, as opposed to using 'Content here, content here. </p> -->
-						<p>Anagarika Dharmapala - 1897</p>
+						<p>අනගාරික ධර්මපාල - 1897</p>
 						<a href="events.html" class="btn dark-btn templezen-top-btn">Explore Events</a>
 					</div>
 				</div>
 			</div>
-			<div class="item section-padding" style="background-image:url(assets/images/home-banner/banner-03.png);">
+			<div class="item section-padding" style="background-image:url(assets/images/custom_images/banner_buddagaya_3_update.jpg);">
 				<div class="container">
 					<div class="intro_text white_text">
+			
 						<!-- <h1>god is within us</h1> -->
-						<h1>“The householder must follow the Middle Way…. Above all he must practice charity and love”</h1>
+
+						<!-- <h1 id=long_text_home>"ගෙහිමියා සැම විටම මැද මාවත අනුගමනය කළයුතුය.<br>සියල්ලටම වඩා ත්‍යාගශීලිභාවය සහ සෙනෙහස ප‍්‍රගුණ කළ යුතුය."</h1> -->
+						<h1 id=long_text_home>"ගෙහිමියා සැම විටම මැද මාවත අනුගමනය කළයුතුය."</h1>
+
+
 						<!-- <p> The point of using Lorem Ipsum is that it has a more-or-less normal distribution of letters, as opposed to using 'Content here, content here. </p> -->
-						<p>Anagarika Dharmapala - 1910</p>
-						<a href="events.html" class="btn dark-btn templezen-top-btn">Explore Events</a>
+						<p>අනගාරික ධර්මපාල- 1910</p>
+						<a href="sinhala_life_1_our-teachers.php" class="btn dark-btn templezen-top-btn">Explore Events</a>
 					</div>
 				</div>
 			</div>
@@ -794,7 +815,7 @@ ob_start();
 		</ul>
 	</section>
 	<!-- Footer -->
-	<?php include_once 'footer.php';?>
+	<?php include_once 'sinhala_footer.php';?>
 	<!-- /Footer -->
 
 	<!-- Scripts -->

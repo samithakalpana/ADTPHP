@@ -1913,7 +1913,10 @@ footer{
 #inner_intro_without_image {
 	position: relative;
 	background-color: #4c4c4c;
-	background-image: url(../images/cpage1.jpeg);
+
+	background-image: url(../images/custom_images/banner_vehicle.jpg);
+
+
 	background-position: center;
 	background-size: cover;
 }
