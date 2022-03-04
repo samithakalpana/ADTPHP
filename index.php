@@ -1,7 +1,7 @@
 <!DOCTYPE HTML>
 <?php 
-// ob_start();
-// @session_start();
+ob_start();
+@session_start();
 // $_SESSION["lang"]="english";
 // $_SESSION["page"]="index.php";
 
