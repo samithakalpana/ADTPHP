@@ -1,7 +1,13 @@
 <?php
+// if (session_id() == "") {
+// 	session_start();
+// }
 
+// // echo "123";
+// // echo $_SESSION["page"];
+// $pageName=$_SESSION["page"];
+// echo $pageName;
 ?>
-
 
 
 <!-- Header -->

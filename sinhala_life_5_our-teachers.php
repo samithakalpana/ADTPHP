@@ -46,8 +46,9 @@
 			<div class="inner_wp z_index white_text">
 				<div class="row">
 					<div class="col-md-12">
-						<h1 class="text-center">Life of Anagarika Dharmapala</h1>
-						<h5 class="text-center">(17th of September 1864 – 29th of April 1933)</h5>
+
+					<h1 class="text-center">අනගාරික ධර්මපාලයන්ගේ ජීවිතය</h1>
+						<h5 class="text-center">(1864 සැප්තැම්බර් 17 සිට 1933 අපේ‍්‍රල් 29 දින දක්වා)</h5>
 						<nav class="breadcrumb">
 							<ul>
 								<li class="breadcrumb-item"><a href="index.php">Home</a></li>
@@ -123,7 +124,9 @@ The legacy Anagarika Dharmapala wanted to leave to the future generations of Sri
 		</section>
 
 	<!-- Footer -->
-	<?php include_once 'footer.php';?>
+
+	<?php include_once 'sinhala_footer.php';?>
+
 	<!-- /Footer -->
 
 	<!-- Scripts -->
