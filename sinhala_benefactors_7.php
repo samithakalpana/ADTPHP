@@ -123,7 +123,7 @@ Buddhism, that Valisinha - then only 8 years — first saw and heard him. He cou
 		</section>
 
 	<!-- Footer -->
-	<?php include_once 'footer.php';?>
+	<?php include_once 'sinhala_footer.php';?>
 	<!-- /Footer -->
 
 	<!-- Scripts -->

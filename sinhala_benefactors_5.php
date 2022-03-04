@@ -117,7 +117,7 @@ Ramesh, J (2021). The Light of Asia: The Poem that Defined India. Penguin, Gurga
 		</section>
 
 	<!-- Footer -->
-	<?php include_once 'footer.php';?>
+	<?php include_once 'sinhala_footer.php';?>
 	<!-- /Footer -->
 
 	<!-- Scripts -->

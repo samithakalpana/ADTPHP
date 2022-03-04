@@ -122,7 +122,7 @@ https://www.gutenberg.org/ebooks/authors/search/?query=Blavatsky,+H.+P.+(Helena+
 		</section>
 
 	<!-- Footer -->
-	<?php include_once 'footer.php';?>
+	<?php include_once 'sinhala_footer.php';?>
 	<!-- /Footer -->
 
 	<!-- Scripts -->

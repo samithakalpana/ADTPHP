@@ -1,5 +1,12 @@
 <?php
+// if (session_id() == "") {
+// 	session_start();
+// }
 
+// // echo "123";
+// // echo $_SESSION["page"];
+// $pageName=$_SESSION["page"];
+// echo $pageName;
 ?>
 
 
@@ -67,7 +74,7 @@
 						
 						<li class="dropdown" ><a href="about-us.php">අනගාරික<br/>ධර්මපාලතුමාගෙ ජීවිතය<span class="nav_arrow"></span></a>
 							<ul class="sub-menu">
-								<li><a href="sinhala_life_1_our-teachers.php">Don David Hewavitarne දොන් ඩේවිඩ් හේවාවිතාරණ</a></li>
+								<li><a href="sinhala_life_1_our-teachers.php">දොන් ඩේවිඩ් හේවාවිතාරණ</a></li>
 								<li><a href="sinhala_life_2_our-teachers.php">අනගාරික ධර්මපාලතුමා</a></li>
 								<li><a href="sinhala_life_3_our-teachers.php">ශ්‍රී දේවමිත්ත ධම්මපාල</a></li>
 								<li><a href="sinhala_life_4_our-teachers.php">බුද්ධ ගයා සටන</a></li>
@@ -79,29 +86,27 @@
 							<ul class="sub-menu">
 								<li class="dropdown"><a href="our-teachers.php">පවුල</a>
 								<ul class="sub-menu">
-								<li><a href="sinhala_family_1.php"> H. Don Carolis</a>
-								<li><a href="sinhala_family_2.php">Mallika Hewavitarne</a>
-								<li><a href="sinhala_family_3.php">Engeltina Moonesinghe</a>
-								<li><a href="sinhala_family_4.php">Edmund Hewavitarne</a>
-								<li><a href="sinhala_family_5.php">Simon Hewavitarne</a>
-								<li><a href="sinhala_family_6.php">Charles Hewavitarne</a>
+								<li><a href="sinhala_family_1.php">එච්. දොන් කරෝලිස්</a>
+								<li><a href="sinhala_family_2.php">මල්ලිකා හේවාවිතාරණ</a>
+								<li><a href="sinhala_family_3.php">දෝන එංගල්තිනා මුණසිංහ</a>
+								<li><a href="sinhala_family_4.php">එඞ්මන්ඞ් හේවාවිතාරණ</a>
+								<li><a href="sinhala_family_5.php">සයිමන් ඇලෙස්සැන්ඩර් හේවාවිතාරණ</a>
+								<li><a href="sinhala_family_6.php">චාර්ල්ස් අල්විස් හේවාවිතාරණ</a>
 								</ul>
 							</li>
 							<li class="dropdown"><a href="our-teachers.php">ප්‍රතිලාභීන්</a>
 								<ul class="sub-menu">
-								<li><a href="sinhala_benefactors_1.php">Ven. Hikkaduwe Sri Sumangala</a>
-								<li><a href="sinhala_benefactors_2.php">Mary Robinson Foster</a>
-								<li><a href="sinhala_benefactors_3.php">Col. Henry Steel Olcott</a>
-								<li><a href="sinhala_benefactors_4.php">Helena Petrovna Blavatsky</a>
-								<li><a href="sinhala_benefactors_5.php">Sir Edwin Arnold</a>
-								<li><a href="sinhala_benefactors_6.php">Neelkamal Mukherjee</a>
-								<li><a href="sinhala_benefactors_7.php">Devapriya Valisinha</a>
+								<li><a href="sinhala_benefactors_1.php">හික්කඩුවේ ශ්‍රී සුමංගල හිමි</a>
+								<li><a href="sinhala_benefactors_2.php">මේරි ජොබින්සන් ෆොස්ටර්</a>
+								<li><a href="sinhala_benefactors_3.php">හෙන් රි ස්ටීල් ඕල්කට්</a>
+								<li><a href="sinhala_benefactors_4.php">හෙලේනා පෙට්‍රොව්නා බ්ලැවැස්කි</a>
+								<li><a href="sinhala_benefactors_5.php">සර් එඩ්වින් ආර්නෝල්ඩ්</a>
+								<li><a href="sinhala_benefactors_6.php">නීල්කමල් මුකර්ජි</a>
+								<li><a href="sinhala_benefactors_7.php">දේවප්‍රිය වලිසිංහ</a>
 								</ul>
 							</li>
 						
-								<!-- <li><a href="events.php">Family and Benefactors</a></li>
-								<li><a href="events.php">Family and Benefactors</a></li>
-								<li><a href="event-detail.php">Family and Benefactors</a></li> -->
+							
 							</ul>
 						</li>
 						<li class="dropdown">
@@ -109,13 +114,7 @@
 							<ul class="sub-menu">
 								<li><a href="our-teachers.html">සභාපතිතුමගේ පණිවුඩය</a></li>
 								<li><a href="our-teachers.html">භාරය පිළිබදව</a></li>
-								<!-- <li><a href="our-teachers.html">our-teachers</a></li> -->
-								<!-- <li><a href="our-teachers.html">our-teachers</a></li>
-								<li><a href="shop-full-width.html">shop-full-width</a></li>
-								<li><a href="shop-left.html">shop-left</a></li>
-								<li><a href="shop-right.html">shop-right</a></li>
-								<li><a href="log-in.html">log-in</a></li>
-								<li><a href="sign-up.html">sign-up</a></li> -->
+								
 							</ul>
 						</li>
 						<li class="dropdown" ><a href="#">ප්‍රකාශන සහ<br/> පර්‍යෙශන  <span class="nav_arrow"></span></a>

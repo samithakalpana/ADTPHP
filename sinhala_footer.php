@@ -40,7 +40,7 @@
 			<div class="row">
 				<div class="col-md-4 footer_widget">
 					<div class="widget_inner">
-						<h5>Contact Us</h5>
+						<h5>ඇමතුම්</h5>
 						<p>අනගාරික ධර්මපාල භාරය,<br/>
 						130,<br/>
 						මාලිගාකන්ද පාර,<br/>
@@ -70,15 +70,15 @@
 				</div> -->
 				<div class="col-md-4 footer_widget">
 					<div class="widget_inner">
-						<h5>Useful Links</h5>
+						<h5>ප්‍රයොජනවත් යොමු</h5>
 						<div class="footer_nav">
 							<ul>
 								<li><a href="#">මුල් පිටුව</a></li>
-								<li><a href="#">ධර්මපාල තුමාගේ ජීවිතයLife Of Dharmapala</a></li>
+								<li><a href="#">ධර්මපාල තුමාගේ ජීවිතය</a></li>
+								<li><a href="#">පවුල සහ ප්‍රත්‍රිලාභීන්</a></li>
 								<li><a href="#">භාරය</a></li>
 								<li><a href="#">සාප්පුව</a></li>
 								<li><a href="#">ඇමතුම්</a></li>
-								<li><a href="#">පවුල සහ ප්‍රත්‍රිලාභීන්</a></li>
 								<!-- <li><a href="#">FAQ</a></li>
 								<li><a href="#">Account</a></li>
 								<li><a href="#">Privacy</a></li>
@@ -98,7 +98,7 @@
 			<div class="container">
 				<div class="row">
 					<div class="col-lg-4 align-self-center">
-						<p class="mb-0">&copy; 2020  All Rights Reserved</p>
+						<p class="mb-0">&copy; 2020  සියලු හිමිකම් ඇවිරිනි</p>
 					</div>
 					<div class="col-lg-4 align-self-center">
 						<div id="back-top" class="back-top">

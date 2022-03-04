@@ -146,7 +146,7 @@ Blackburn, Anne M (2010). Locations of Buddhism: Colonialism and Modernity in Sr
 		</section>
 
 	<!-- Footer -->
-	<?php include_once 'footer.php';?>
+	<?php include_once 'sinhala_footer.php';?>
 	<!-- /Footer -->
 
 	<!-- Scripts -->

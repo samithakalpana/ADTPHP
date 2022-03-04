@@ -1,3 +1,8 @@
+<?php 
+session_start();
+$_SESSION["page"]="life_1_our-teachers.php";
+// echo $_SESSION["page"];
+?>
 <!DOCTYPE HTML>
 <html lang="si">
 
@@ -201,7 +206,7 @@
 		</section>
 
 	<!-- Footer -->
-	<?php include_once 'footer.php';?>
+	<?php include_once 'sinhala_footer.php';?>
 	<!-- /Footer -->
 
 	<!-- Scripts -->
