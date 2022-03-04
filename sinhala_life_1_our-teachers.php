@@ -1,8 +1,10 @@
+
 <?php 
 session_start();
 $_SESSION["page"]="life_1_our-teachers.php";
 // echo $_SESSION["page"];
 ?>
+
 <!DOCTYPE HTML>
 <html lang="si">
 
@@ -10,7 +12,9 @@ $_SESSION["page"]="life_1_our-teachers.php";
 <!-- Mirrored from primehostingindia.com/templatemonster/html/templezen/our-teachers.html by HTTrack Website Copier/3.x [XR&CO'2014], Thu, 06 Jan 2022 18:06:09 GMT -->
 <head>
 
+
 <meta charset="UTF-8">
+
 	<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
 	<meta http-equiv="X-UA-Compatible" content="IE=edge">
 	<meta name="viewport" content="width=device-width,initial-scale=1">
@@ -53,12 +57,14 @@ $_SESSION["page"]="life_1_our-teachers.php";
 			<div class="inner_wp z_index white_text">
 				<div class="row">
 					<div class="col-md-12">
+
 						<h1 class="text-center">අනගාරික ධර්මපාලයන්ගේ ජීවිතය</h1>
 						<h5 class="text-center">(1864 සැප්තැම්බර් 17 සිට 1933 අපේ‍්‍රල් 29 දින දක්වා)</h5>
 						<nav class="breadcrumb">
 							<ul>
 								<li class="breadcrumb-item"><a href="index.php">Home</a></li>
 								<li class="breadcrumb-item active">දොන් ඬේවිඞ් හේවාවිතාරණ</li>
+
 							</ul>
 						</nav>
 					</div>
@@ -74,6 +80,7 @@ $_SESSION["page"]="life_1_our-teachers.php";
 					<div class="col-lg-7">
 						<div class="sa-paster-about-area">
 							<!-- <h3>Gopal dhanam</h3> -->
+
 							<h3>දොන් ඬේවිඞ් හේවාවිතාරණ</h3>
 							<!-- <p class="designation">Yoga Teacher</p> -->
 							<p class="designation">(1864 සිට-1885 දක්වා)</p>
@@ -111,6 +118,7 @@ $_SESSION["page"]="life_1_our-teachers.php";
 	
 
 			
+
 							<!-- <div class="sa-team-social">
 								<h5>Social links</h5>
 								<ul class="text-center">
@@ -128,6 +136,7 @@ $_SESSION["page"]="life_1_our-teachers.php";
 							<!-- <img src="assets/images/pastor-1.jpg" alt="img"> -->
 							<!-- <img src="assets/images/pastor-1.jpg" alt="img"> -->
 							<img src="assets/images/custom_images/devid.jpg" alt="img">
+
 							<!-- <img src="assets/images/custom_images/devid.jpg" alt="img"> -->
 						</div>
 					</div>
@@ -202,11 +211,14 @@ $_SESSION["page"]="life_1_our-teachers.php";
 පවුලේ නිවසින් බැහැර වී තාපස ජීවිතය සඳහා පිටත් විය.
 
 							</p>
+
 			</div>
 		</section>
 
 	<!-- Footer -->
+
 	<?php include_once 'sinhala_footer.php';?>
+
 	<!-- /Footer -->
 
 	<!-- Scripts -->

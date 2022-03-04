@@ -1,8 +1,10 @@
+
 <?php 
 session_start();
 $_SESSION["page"]="life_2_our-teachers.php";
 // echo $_SESSION["page"];
 ?>
+
 <!DOCTYPE HTML>
 <html lang="en">
 
@@ -42,7 +44,9 @@ $_SESSION["page"]="life_2_our-teachers.php";
 
 <body id="tl">
 		<!-- Header -->
+
 		<?php include_once 'sinhala_header.php'; ?>
+
 	<!-- /Header -->
 
 	<!-- Inner-intro -->
@@ -51,6 +55,7 @@ $_SESSION["page"]="life_2_our-teachers.php";
 			<div class="inner_wp z_index white_text">
 				<div class="row">
 					<div class="col-md-12">
+
 					<h1 class="text-center">අනගාරික ධර්මපාලයන්ගේ ජීවිතය</h1>
 						<h5 class="text-center">(1864 සැප්තැම්බර් 17 සිට 1933 අපේ‍්‍රල් 29 දින දක්වා)</h5>
 						<nav class="breadcrumb">
@@ -72,6 +77,7 @@ $_SESSION["page"]="life_2_our-teachers.php";
 					<div class="col-lg-7">
 						<div class="sa-paster-about-area">
 							<!-- <h3>Gopal dhanam</h3> -->
+
 							<h3>අනගාරික ධර්මපාල</h3>
 							<!-- <p class="designation">Yoga Teacher</p> -->
 							<p class="designation">(1885 සිට-1931 දක්වා)</p>
@@ -104,10 +110,12 @@ $_SESSION["page"]="life_2_our-teachers.php";
 	<p>
 	
 
+
 							
 							</p>
 
 							<p>
+
 					
 							</p>
 
@@ -143,6 +151,7 @@ $_SESSION["page"]="life_2_our-teachers.php";
 						</div>
 					</div>
 				</div>
+
 				<p>අවශ්‍ය සෝදු පත් බලමින් ඔවුන්ට සහය විය.
 කාර්යාලය වෙත පැමිණෙන අය හා සම්මුඛ සාකච්ඡුා
 පැවැත්වීය. ලංකාවේ සියලූ ජනතාවට ලියා විවෘත ආරාධනයක්
@@ -252,11 +261,14 @@ $_SESSION["page"]="life_2_our-teachers.php";
 ප‍්‍රධාන කරුණුය.
 
 					</p>
+
 			</div>
 		</section>
 
 	<!-- Footer -->
+
 	<?php include_once 'sinhala_footer.php';?>
+
 	<!-- /Footer -->
 
 	<!-- Scripts -->

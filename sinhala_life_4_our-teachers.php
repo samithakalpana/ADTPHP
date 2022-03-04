@@ -46,6 +46,7 @@
 			<div class="inner_wp z_index white_text">
 				<div class="row">
 					<div class="col-md-12">
+
 					<h1 class="text-center">අනගාරික ධර්මපාලයන්ගේ ජීවිතය</h1>
 						<h5 class="text-center">(1864 සැප්තැම්බර් 17 සිට 1933 අපේ‍්‍රල් 29 දින දක්වා)</h5>
 						<nav class="breadcrumb">
@@ -153,7 +154,9 @@ UNESCO declared Buddha Gaya as a World Heritage site in 2002.
 		</section>
 
 	<!-- Footer -->
+
 	<?php include_once 'sinhala_footer.php';?>
+
 	<!-- /Footer -->
 
 	<!-- Scripts -->
