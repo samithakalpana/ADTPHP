@@ -37,7 +37,7 @@
 
 <body id="tl">
 		<!-- Header -->
-		<?php include_once 'header.php'; ?>
+		<?php include_once 'sinhala_header.php'; ?>
 	<!-- /Header -->
 
 	<!-- Inner-intro -->
@@ -66,7 +66,7 @@
 				<div class="row">
 					<div class="col-lg-7">
 						<div class="sa-paster-about-area">
-							<!-- <h3>Gopal dhanam</h3> -->
+							<!-- <h3>Gopal dhanam</h3> 
 							<h3>‍ශ‍්‍රී දේවමිත්ත ධර්මපාල</h3>
 							<!-- <p class="designation">Yoga Teacher</p> -->
 							<p class="designation">(1931 සිට-1933 දක්වා)</p>
@@ -222,11 +222,14 @@
 					</p><p>
 					
 					</p>
+
 			</div>
 		</section>
 
 	<!-- Footer -->
+
 	<?php include_once 'sinhala_footer.php';?>
+
 	<!-- /Footer -->
 
 	<!-- Scripts -->
