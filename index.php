@@ -53,8 +53,7 @@
 	<section id="intro">
 		<div class="overlay overlay-bg"></div>
 		<div class="owl-carousel">
-			<!-- <div class="item section-padding" style="background-image:url(assets/images/home-banner/banner-01.png);"> -->
-			<div class="item section-padding" style="background-image:url(assets/images/custom_images/banner_anagarika.jpg);">
+			<div class="item section-padding" style="background-image:url(assets/images/home-banner/banner-01.png);">
 				<div class="container">
 					<div class="intro_text white_text">
 						<!-- <h1>creator of life</h1> -->
@@ -67,8 +66,7 @@
 					</div>
 				</div>
 			</div>
-			<!-- <div class="item section-padding" style="background-image:url(assets/images/home-banner/banner-03.png);"> -->
-			<div class="item section-padding" style="background-image:url(assets/images/custom_images/banner_vehicle.jpg);">
+			<div class="item section-padding" style="background-image:url(assets/images/home-banner/banner-03.png);">
 				<div class="container">
 					<div class="intro_text white_text">
 						<!-- <h1>god is within us</h1> -->
