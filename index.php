@@ -79,8 +79,7 @@ ob_start();
 					</div>
 				</div>
 			</div>
-			<!-- <div class="item section-padding" style="background-image:url(assets/images/home-banner/banner-03.png);"> -->
-			<div class="item section-padding" style="background-image:url(assets/images/custom_images/banner_buddagaya.jpg);">
+			<div class="item section-padding" style="background-image:url(assets/images/home-banner/banner-03.png);">
 				<div class="container">
 					<div class="intro_text white_text">
 						<!-- <h1>god is within us</h1> -->
@@ -91,8 +90,7 @@ ob_start();
 					</div>
 				</div>
 			</div>
-			<!-- <div class="item section-padding" style="background-image:url(assets/images/home-banner/banner-03.png);"> -->
-			<div class="item section-padding" style="background-image:url(assets/images/custom_images/banner_buddagaya_3_update.jpg);">
+			<div class="item section-padding" style="background-image:url(assets/images/home-banner/banner-03.png);">
 				<div class="container">
 					<div class="intro_text white_text">
 						<!-- <h1>god is within us</h1> -->
