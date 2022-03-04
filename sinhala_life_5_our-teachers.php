@@ -71,6 +71,7 @@
 							<!-- <p class="designation">Yoga Teacher</p> -->
 							<p class="designation"></p>
 							<p>	
+
 							අනගාරික ධර්මපාලයන්ගේ ජීවිතය සමාජ
 ක‍්‍රියාකරුවකු ධර්මදානයෙකු නිදහස් සටන් කාමියෙකු සමාජ
 ප‍්‍රතිසංස්කරණයෙකු අනගාරික වූවකු යනාදී වශයෙන්
@@ -97,27 +98,29 @@
 වඩා වැදගත් වනුයේ බෞද්ධයින් වශයෙන් ස්වකීය වටිනාකම
 හඳුනන අය අතර ස්වයං විඥානයක් ඇති කරමින් බෞද්ධ
 ඉගැන්වීම්වල ඇති සුවිශේෂත්වය ඔවුනට වටහා දීමය
+
+							Anagarika Dharmapala’s life as an activist, missionary, freedom fighter, social reformer and renunciant was remarkable as it was extraordinary. 
+							</p><p>
+							He managed to spread the word of the Buddha in the West on a scale that had not been attempted before, at a time when colonial powers and their socio-religious ideas were dominating the world. He used the existing tropes and frameworks of the colonizers to revive Buddhism in the public consciousness. He understood that the revival needed to take place within the milieu of his times and used the same tools of the rulers. With Col Olcott, where there were Christian Sunday schools he offered people Buddhist Sunday schools, he spearheaded schools of the same standard for Buddhist children as those the Christian missionaries had founded, and where locals were ashamed or embarrassed of native dress and customs, he urged them to change their mindset. Most importantly, he revived a self-consciousness in Buddhists of their own worth and the uniqueness of the Buddha’s teachings.
+							</p>	<p>
+							An internationalist with a global viewpoint, he thereby founded a vision for a world community of Buddhists with the Maha Bodhi Society he founded. The organization became a banner, the earliest representative body of all Buddhists, and the earliest unifying banner for all Buddhists from the different continents.
+							</p><p>
+							He travelled extensively, at a time when travel was not easy, enduring physical pain and hardship, not only spreading his vision and message, but also visiting the premier institutions of his time in America and Europe to study the latest ideas on education and industrial training. As a result, he met and inter-acted with major thinkers and activists of his day. They ranged from Swami Vivekananda, Tagore and Gandhi in India, to royalty and leaders in Rangoon, Siam, Japan, to scholars such as Rhys Davis and Sir Edwin Arnold in England and educationists such as William Rainey Harper, the founding president of the University of Chicago in America.  He was quick to grasp the value of the latest innovations in technology, for communication, healthcare and production. He understood the importance of the use of publications, translations, education and most importantly, dialogue between societies and within societies, for his mission.
+Anagarika Dharmapala’s multifaceted nature and work gave rise to multiple narratives, and left room for a few in contemporary society to distort his vision and take his rhetoric out of context, in many instances without verifying against primary sources. Some have used his words to advocate racism, ethnic violence, political activism of Buddhist clergy and divisive nationalisms, pointing to Anagarika Dharmapala, his speeches and his writings. They have, by default, or by design, missed the ‘woods for the trees’.
+
+							</p>	<p>
+
+							The Anagarika Dharmapala Trust does not condone or support the use of his words that are not cited by credible sources, that are misquoted, misreported, taken in parts and out of context and/or incorrectly paraphrased and, in particular, used to incite racial and religious hatred.
+The legacy Anagarika Dharmapala wanted to leave to the future generations of Sri Lanka and the world is clear in the objects of the Trust he created, bearing his name, to continue his work of a lifetime. 
+
+							</p><p>
+							Anagarika Dharmapala envisioned a world where there would be widespread knowledge of the Buddha’s teaching, with people who dedicated their lives to that mission by living as renunciants and, the upliftment of under privileged people through better healthcare, education and vocational training. 
+							</p>	<p>
+							That was the legacy Angarika Dharmapala wished to leave to the future generations.
+
 							</p>				
 							
 
-
-
-
-
-
-
-
-
-							<!-- <div class="sa-team-social">
-								<h5>Social links</h5>
-								<ul class="text-center">
-									<li><a href="#"><i class="fab fa-facebook-f"></i></a></li>
-									<li><a href="#"><i class="fab fa-twitter"></i></a></li>
-									<li><a href="#"><i class="fab fa-linkedin-in"></i></a></li>
-									<li><a href="#"><i class="fab fa-youtube"></i></a></li>
-									<li><a href="#"><i class="fab fa-instagram"></i></a></li>
-								</ul>
-							</div> -->
 						</div>
 					</div>
 					<div class="col-xl-4 col-lg-5 offset-xl-1 align-self-center">
@@ -127,6 +130,7 @@
 						</div>
 					</div>
 				</div>
+
 				<p>ගෝලියා දෘෂ්ටි කෝණයකින් බැලිය හැකි
 ජාත්‍යන්තරවාදියා වශයෙන් බෞද්ධ ලෝක ප‍්‍රජාව තුළ දර්ශනයක් ඇරඹීම සඳහා ඔහු විසින් මහ බෝධි සංගමය
 පිහිටුවන ලදී.
@@ -196,11 +200,14 @@
 හේතුවෙන් වඩා වැදගත් දෙය පසෙකලා කටයුතු කර ඇත.
 						</p>
 
+
 			</div>
 		</section>
 
 	<!-- Footer -->
+
 	<?php include_once 'sinhala_footer.php';?>
+
 	<!-- /Footer -->
 
 	<!-- Scripts -->

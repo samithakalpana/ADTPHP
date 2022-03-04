@@ -74,6 +74,9 @@
 						
 						<li class="dropdown" ><a href="about-us.php">අනගාරික<br/>ධර්මපාලතුමාගෙ ජීවිතය<span class="nav_arrow"></span></a>
 							<ul class="sub-menu">
+
+
+
 								<li><a href="sinhala_life_1_our-teachers.php">දොන් ඩේවිඩ් හේවාවිතාරණ</a></li>
 								<li><a href="sinhala_life_2_our-teachers.php">අනගාරික ධර්මපාලතුමා</a></li>
 								<li><a href="sinhala_life_3_our-teachers.php">ශ්‍රී දේවමිත්ත ධම්මපාල</a></li>
