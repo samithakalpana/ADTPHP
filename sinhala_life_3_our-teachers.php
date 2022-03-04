@@ -37,7 +37,7 @@
 
 <body id="tl">
 		<!-- Header -->
-		<?php include_once 'header.php'; ?>
+		<?php include_once 'sinhala_header.php'; ?>
 	<!-- /Header -->
 
 	<!-- Inner-intro -->
@@ -45,7 +45,7 @@
 		<div class="container">
 			<div class="inner_wp z_index white_text">
 				<div class="row">
-					<div class="col-md-
+					<div class="col-md-12">
 					<h1 class="text-center">අනගාරික ධර්මපාලයන්ගේ ජීවිතය</h1>
 						<h5 class="text-center">(1864 සැප්තැම්බර් 17 සිට 1933 අපේ‍්‍රල් 29 දින දක්වා)</h5>
 						<nav class="breadcrumb">
