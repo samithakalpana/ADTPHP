@@ -44,7 +44,7 @@
 			<div class="container">
 				<div class="navbar-header">
 					<div class="logo">
-						<a href="/"><img src="assets/images/logo.png" alt="image" /></a>
+						<a href="index.php"><img src="assets/images/logo.png" alt="image" /></a>
 					</div> <!-- /Logo -->
 					<div id="menu_slide">
 						<div id="nav-toggle-label">
