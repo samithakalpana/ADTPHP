@@ -3474,6 +3474,10 @@ text-align: center;
 align-items: center;
 }
 
+.align_left{
+	align-items: left;
+	text-align: left;
+}
 
 
 
