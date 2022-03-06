@@ -77,7 +77,7 @@
 								<li><a href="life_2_our-teachers.php">The Anagarika</a></li>
 								<li><a href="life_3_our-teachers.php">Sri Devamitta Dhammapala</a></li>
 								<li><a href="life_4_our-teachers.php">Battle for Buddha Gaya</a></li>
-								<li><a href="sermon-detail.php">Timeline</a></li>
+								<li><a href="life_6_timeline.php">Timeline</a></li>
 								<li><a href="life_5_our-teachers.php">Legacy</a></li>
 								<!-- <li><a href="sermon-detail.php">Legacy</a></li> -->
 							</ul>
@@ -117,7 +117,9 @@
 							<ul class="sub-menu">
 
 								
-								<li><a href="about-us.php">About the Trust</a></li>
+								<li><a href="about-us.php">Chairman's Message</a></li>
+								<li><a href="about-us.php#section_2">About the Trust</a></li>
+								<li><a href="about-us.php#section_3">Managing Trustees</a></li>
 								
 
 								<li class="dropdown"><a href="#">Associates</a>

@@ -33,6 +33,12 @@
         <script src="https://oss.maxcdn.com/libs/html5shiv/3.7.0/html5shiv.js"></script>
         <script src="https://oss.maxcdn.com/libs/respond.js/1.4.2/respond.min.js"></script>
 <![endif]-->
+
+<style>
+html {
+  scroll-behavior: smooth;
+}
+</style>
 </head>
 
 <body id="tl">
@@ -67,7 +73,7 @@
 			<div class="row">
 
 
-<br><br><div class="col-xl-9 col-md-7">
+<br><br><div id="section_1" class="col-xl-9 col-md-7">
 					<div class="about-us-content">
 						<div class="section-heade col-xl-9r">
 							<h2>The Chairman's Message
@@ -80,7 +86,7 @@
 						<p>Anagarika Dharmapala's inner aspiration was his spiritual growth. For that, he worked tirelessly; waking up very early in the morning to meditate and finally renouncing even his life as an Anagarika ('The Homeless One') to enter the Buddhist clergy. He determined as follows:
 <br><br><i>My life will be given birth after birth to Humanity. I will practice paramitas. I will save the world. I will take vivarana from the coming Buddha.</i>
 </p>
-							<p>May Anagarika Dharmapala's aspirations come true.<br><br>
+							<p id="section_2">May Anagarika Dharmapala's aspirations come true.<br><br>
  
  Sudhammika Hewavitarne<br>
  Chairman <br><br><br>
@@ -93,7 +99,7 @@
 
 
 
-				<div class="col-xl-7 col-md-7">
+				<div  class="col-xl-7 col-md-7">
 					<div class="about-us-content">
 						<div class="section-header">
 							<h2>The  <u class="text-custom-primary">Vision</u></h2>
@@ -123,6 +129,7 @@ The Trustees were expected to appoint succeeding Trustees, and in 1947, the Publ
 							<br><br><br><h2>The  <u class="text-custom-primary">Mission</u></h2>
 							<p>The Anagarika Dharmapala Trust has been responsible for continuing the work of the Anagarika Dharmapala by carrying the message of the Buddha to India, Britain and other countries by sending Bhikkhu missionaries on Dhammadutha (Buddhist missionary) service. It also supports the Maha Bodhi Societies of Sri Lanka, India and Britain, and the viharas (temples), centres and pilgrims’ rests that are under its management. In Sri Lanka, the Trust manages a Free Ayurvedic Hospital in Colombo; finances and supports temples, conducts an Education programme for novice Bhikkhus (samanera monks); manages orphanages and schools; prints and publishes Buddhist Literature, and implements such matters as are provided for in the Trust Deed.
 </p>
+
 						</div>
 					</div>
 				</div>
@@ -148,7 +155,7 @@ The Trustees were expected to appoint succeeding Trustees, and in 1947, the Publ
 						
 						</div>
 
-				<div class="row">
+				<div  class="row">
 				
 					<div class="col-lg-4 col-md-6">
 						<div class="features_wrap features-after-none">
@@ -279,7 +286,7 @@ The Trustees were expected to appoint succeeding Trustees, and in 1947, the Publ
 	</div>
 	<!-- /Video -->
 
-
+	<p id="section_3"></p>
 
 	<!-- Team -->
 	<section class="section-padding" id="about-team">
