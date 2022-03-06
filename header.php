@@ -115,16 +115,18 @@
 						<li class="dropdown">
 							<a href="about-us.php">The Trust <span class="nav_arrow"></span></a>
 							<ul class="sub-menu">
-								<li><a href="our-teachers.html">Chairman’s message</a></li>
-								<li><a href="shop-full-width.html">About the Trust</a></li>
-								<li><a href="shop-left.html">Managing Trustees</a></li>
-								<li class="dropdown"><a href="shop-right.html">Associates</a>
+
+								
+								<li><a href="about-us.php">About the Trust</a></li>
+								
+
+								<li class="dropdown"><a href="#">Associates</a>
 								<ul class="sub-menu">
-								<li><a href="log-in.html">Maha Bodhi Society</a></li>
-								<li><a href="log-in.html">Maha Bodhi Society India</a></li>
-								<li><a href="log-in.html">London Buddhist Vihara</a></li>
-								<li><a href="log-in.html">Mallika Nivasa Samithiya</a></li>
-								<li><a href="log-in.html">Simon Hewavitarne Trust and Somawati Hewavitarne Trust </a></li>
+								<li><a href="Associates_1_Maha_Bodhi_Society.php">Maha Bodhi Society</a></li>
+								<li><a href="Associates_1_Maha_Bodhi_Society_India.php">Maha Bodhi Society India</a></li>
+								<li><a href="Associates_1_london_buddist_vihara.php">London Buddhist Vihara</a></li>
+								<li><a href="Associates_1_British_Maha_Bodhi_society.php">British Maha Maha Bodhi Society</a></li>
+								<li><a href="Associates_1_somawati_hevavitarana_trust.php">Somawati Hewavitarne Trust </a></li>
 								<!-- <li><a href="log-in.html">Somawati Hewavitarne Trust</a></li> -->
 								</ul>
 							</li>
