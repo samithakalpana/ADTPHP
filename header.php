@@ -117,7 +117,9 @@
 							<ul class="sub-menu">
 
 								
-								<li><a href="about-us.php">About the Trust</a></li>
+								<li><a href="about-us.php">Chairman's Message</a></li>
+								<li><a href="about-us.php#section_2">About the Trust</a></li>
+								<li><a href="about-us.php#section_3">Managing Trustees</a></li>
 								
 
 								<li class="dropdown"><a href="#">Associates</a>
