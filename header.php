@@ -120,11 +120,11 @@
 								<li><a href="shop-left.html">Managing Trustees</a></li>
 								<li class="dropdown"><a href="shop-right.html">Associates</a>
 								<ul class="sub-menu">
-								<li><a href="log-in.html">Maha Bodhi Society</a></li>
-								<li><a href="log-in.html">Maha Bodhi Society India</a></li>
-								<li><a href="log-in.html">London Buddhist Vihara</a></li>
-								<li><a href="log-in.html">Mallika Nivasa Samithiya</a></li>
-								<li><a href="log-in.html">Simon Hewavitarne Trust and Somawati Hewavitarne Trust </a></li>
+								<li><a href="Associates_1_Maha_Bodhi_Society.php">Maha Bodhi Society</a></li>
+								<li><a href="Associates_1_Maha_Bodhi_Society_India.php">Maha Bodhi Society India</a></li>
+								<li><a href="Associates_1_london_buddist_vihara.php">London Buddhist Vihara</a></li>
+								<li><a href="Associates_1_British_Maha_Bodhi_society.php">British Maha Maha Bodhi Society</a></li>
+								<li><a href="Associates_1_somawati_hevavitarana_trust.php">Somawati Hewavitarne Trust </a></li>
 								<!-- <li><a href="log-in.html">Somawati Hewavitarne Trust</a></li> -->
 								</ul>
 							</li>
