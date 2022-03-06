@@ -115,9 +115,11 @@
 						<li class="dropdown">
 							<a href="about-us.php">The Trust <span class="nav_arrow"></span></a>
 							<ul class="sub-menu">
+
 								
 								<li><a href="about-us.php">About the Trust</a></li>
 								
+
 								<li class="dropdown"><a href="#">Associates</a>
 								<ul class="sub-menu">
 								<li><a href="Associates_1_Maha_Bodhi_Society.php">Maha Bodhi Society</a></li>
