@@ -44,7 +44,7 @@
 			<div class="container">
 				<div class="navbar-header">
 					<div class="logo">
-						<a href="/"><img src="assets/images/logo.png" alt="image" /></a>
+						<a href="index.php"><img src="assets/images/logo.png" alt="image" /></a>
 					</div> <!-- /Logo -->
 					<div id="menu_slide">
 						<div id="nav-toggle-label">
@@ -77,7 +77,7 @@
 								<li><a href="life_2_our-teachers.php">The Anagarika</a></li>
 								<li><a href="life_3_our-teachers.php">Sri Devamitta Dhammapala</a></li>
 								<li><a href="life_4_our-teachers.php">Battle for Buddha Gaya</a></li>
-								<li><a href="sermon-detail.php">Timeline</a></li>
+								<li><a href="life_6_timeline.php">Timeline</a></li>
 								<li><a href="life_5_our-teachers.php">Legacy</a></li>
 								<!-- <li><a href="sermon-detail.php">Legacy</a></li> -->
 							</ul>
@@ -115,16 +115,20 @@
 						<li class="dropdown">
 							<a href="about-us.php">The Trust <span class="nav_arrow"></span></a>
 							<ul class="sub-menu">
-								<li><a href="our-teachers.html">Chairman’s message</a></li>
-								<li><a href="shop-full-width.html">About the Trust</a></li>
-								<li><a href="shop-left.html">Managing Trustees</a></li>
-								<li class="dropdown"><a href="shop-right.html">Associates</a>
+
+								
+								<li><a href="about-us.php">Chairman's Message</a></li>
+								<li><a href="about-us.php#section_2">About the Trust</a></li>
+								<li><a href="about-us.php#section_3">Managing Trustees</a></li>
+								
+
+								<li class="dropdown"><a href="#">Associates</a>
 								<ul class="sub-menu">
-								<li><a href="log-in.html">Maha Bodhi Society</a></li>
-								<li><a href="log-in.html">Maha Bodhi Society India</a></li>
-								<li><a href="log-in.html">London Buddhist Vihara</a></li>
-								<li><a href="log-in.html">Mallika Nivasa Samithiya</a></li>
-								<li><a href="log-in.html">Simon Hewavitarne Trust and Somawati Hewavitarne Trust </a></li>
+								<li><a href="Associates_1_Maha_Bodhi_Society.php">Maha Bodhi Society</a></li>
+								<li><a href="Associates_1_Maha_Bodhi_Society_India.php">Maha Bodhi Society India</a></li>
+								<li><a href="Associates_1_london_buddist_vihara.php">London Buddhist Vihara</a></li>
+								<li><a href="Associates_1_British_Maha_Bodhi_society.php">British Maha Maha Bodhi Society</a></li>
+								<li><a href="Associates_1_somawati_hevavitarana_trust.php">Somawati Hewavitarne Trust </a></li>
 								<!-- <li><a href="log-in.html">Somawati Hewavitarne Trust</a></li> -->
 								</ul>
 							</li>

@@ -1905,7 +1905,8 @@ footer{
 	position: relative;
 	background-color: #4c4c4c;
 
-	background-image: url(../images/home-banner/banner-02.png);
+	/* background-image: url(../images/home-banner/banner-02.png); */
+	background-image: url(../images/custom_images/banner_vehicle.jpg);
 
 	background-position: center;
 	background-size: cover;
@@ -2936,23 +2937,26 @@ ul.sermons_meta {
 	padding: 30px;
 	transition: 0.5s;
 	cursor: pointer;
+	
+	
 }
 .features_wrap.features-after-none .f-f-icon i {
-	background: #fff;
+	background: rgb(255, 255, 255);
 	padding: 17px 17px;
 	border: 1px solid rgba(40, 40, 40, 0.01);
 	color: #010101;
 	border-radius: 100%;
 	margin-bottom: 24px;
-	box-shadow: 0px 3px 3px 0px rgba(40, 40, 40, 0.2);
+	box-shadow: 0px 3px 3px 0px rgba(197, 83, 8, 0.2);
 }
 .features_wrap.features-after-none .f-f-icon img {
 	margin-bottom: 20px;
 }
 .features_wrap.features-after-none:hover {
-	box-shadow: 0 15px 25px rgba(0, 0, 0, 0.09);
+	box-shadow: 0 15px 25px rgba(194, 88, 2, 0.09);
 	margin-top: -10px;
 	transition: 0.5s;
+
 }
 .features_wrap:hover h6 {
 	color: #010101 !important;
@@ -3466,3 +3470,20 @@ a:hover {
 .commentlist ol .comment.the-comment{
 	margin-bottom: 0;
 }
+.align_center{
+text-align: center;
+align-items: center;
+}
+
+.align_left{
+	align-items: left;
+	text-align: left;
+}
+
+
+
+
+
+
+
+

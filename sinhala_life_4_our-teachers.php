@@ -37,7 +37,7 @@
 
 <body id="tl">
 		<!-- Header -->
-		<?php include_once 'header.php'; ?>
+		<?php include_once 'sinhala_header.php'; ?>
 	<!-- /Header -->
 
 	<!-- Inner-intro -->
@@ -153,7 +153,9 @@ UNESCO declared Buddha Gaya as a World Heritage site in 2002.
 		</section>
 
 	<!-- Footer -->
+
 	<?php include_once 'sinhala_footer.php';?>
+
 	<!-- /Footer -->
 
 	<!-- Scripts -->

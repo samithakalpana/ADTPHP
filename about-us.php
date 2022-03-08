@@ -33,6 +33,12 @@
         <script src="https://oss.maxcdn.com/libs/html5shiv/3.7.0/html5shiv.js"></script>
         <script src="https://oss.maxcdn.com/libs/respond.js/1.4.2/respond.min.js"></script>
 <![endif]-->
+
+<style>
+html {
+  scroll-behavior: smooth;
+}
+</style>
 </head>
 
 <body id="tl">
@@ -47,11 +53,11 @@
 			<div class="inner_wp z_index white_text">
 				<div class="row">
 					<div class="col-md-12">
-						<h1 class="text-center">About Us</h1>
+						<h1 class="text-center">The Trust</h1>
 						<nav class="breadcrumb">
 							<ul>
 								<li class="breadcrumb-item"><a href="index.html">Home</a></li>
-								<li class="breadcrumb-item active">About Us</li>
+								<li class="breadcrumb-item active">The Trust</li>
 							</ul>
 						</nav>
 					</div>
@@ -65,48 +71,202 @@
 	<section class="section-padding">
 		<div class="container">
 			<div class="row">
-				<div class="col-xl-7 col-md-7">
+
+
+<br><br><div id="section_1" class="col-xl-9 col-md-7">
+					<div class="about-us-content">
+						<div class="section-heade col-xl-9r">
+							<h2>The Chairman's Message
+  </h2>
+  <p>Anagarika Dharmapala's life as a Buddhist missionary, social activist and reformer in the colonial era was remarkable as it was extra-ordinary. His work and missions were a response to the religious, social, political and economic issues of his day, which made him very much a man of his times. Yet if one takes into account his innumerable projects for educational and industrial reform, the institutions he established, the global community of Buddhists he envisioned and the links he formed across nations, he would be considered one of the greatest thinkers and social activists of even today, had he lived in the 21st century.
+</p>
+  <p>Anagarika Dharmapala had a multifaceted personality. He worked on numerous projects simultaneously. Therefore, it is easy to give him one-dimensional labels and take his words out of context. However, to do so is to ignore that he was responding to a conflicting body of issues as they arose around him in the complex world of colonial power and resistance he had to navigate.   </p>
+							<p>As the Trustees of his legacy, myself and other Managing Trustees, are honoured to be able to continue the work he envisioned of the Trust. The Anagarika Dharmapala Trust does not condone or support the use of his words that are not cited by credible sources, that are misquoted, misreported, taken in parts and out of context and/or incorrectly paraphrased and, in particular, used to incite racial and religious hatred.</p>
+						</div>
+						<p>Anagarika Dharmapala's inner aspiration was his spiritual growth. For that, he worked tirelessly; waking up very early in the morning to meditate and finally renouncing even his life as an Anagarika ('The Homeless One') to enter the Buddhist clergy. He determined as follows:
+<br><br><i>My life will be given birth after birth to Humanity. I will practice paramitas. I will save the world. I will take vivarana from the coming Buddha.</i>
+</p>
+							<p id="section_2">May Anagarika Dharmapala's aspirations come true.<br><br>
+ 
+ Sudhammika Hewavitarne<br>
+ Chairman <br><br><br>
+ </p>
+					</div>
+				</div>
+
+
+
+
+
+
+				<div  class="col-xl-7 col-md-7">
 					<div class="about-us-content">
 						<div class="section-header">
-							<h2>some important life lessons from lord <u class="text-custom-primary">buddha</u></h2>
-							<p>There are many variations of passages of Lorem Ipsum available, but the majority have suffered alteration in some</p>
+							<h2>The  <u class="text-custom-primary">Vision</u></h2>
+							<p>Anagarika Hewavitarne Dharmapala, after a lifetime of activism on behalf of the people of Sri Lanka in general, of uniting the Buddhists of the world and promoting the Buddhist philosophy worldwide, having reached an advanced age and wishing to give up the life of a layman and become a Buddhist monk, transferred all his private properties and those gifts he had received from various parties, to a Trust known as the Anagarika Dharmapala Trust, to perpetuate the work he had begun. The Trust Deed was signed in Colombo by the Anagarika Dharmapala on the 29th of November, 1930 and attested by Julius & Creasy, Notaries Public. He handpicked his nominees to be the first Trustees of the Trust that bore his name. The objects of the Trust were announced to the public through the local newspapers.
+</p>
 						</div>
-						<p>Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen
-							book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged.</p>
-							<p>It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum.</p>
+						<p>LSeveral strands clearly emerge in the objectives of the Trust. Anagarika Dharmapala envisions the Trust reviving his mission for Buddhism through the work of the Maha Bodhi Society; the preserving Buddhists viharas; helping orphanages and engaging in social service activities to uplift the lives of the poor; and the publishing journals and disseminating  pali texts and their translation into local languages. He also placed great emphasis on the revival of Buddhist arts and crafts and centres of learning, including a university along the lines of the ancient university at Nalanda in India. He envisioned a dynamic exchange of ideas between the East and the West through scholar monks and researchers.
+</p>
+							<p>He also wished to promote social studies and vocational skills among youth through the establishment of schools, and trade and industrial schools. Significantly he specifies that these should be for “either sex”, thereby establishing himself as one of the earliest proponents of education and professionalism for women in any vocation.  
+The Trustees were expected to appoint succeeding Trustees, and in 1947, the Public Trustee of the Government of Sri Lanka was added as the ex-officio Custodian Trustee of the Anagarika Dharmapala Trust.
+</p>
 					</div>
 				</div>
 				<div class="col-xl-5 col-md-5 align-self-center">
 					<div class="about-us-image">
-						<img src="assets/images/lotus.png" alt="img" class="img-fluid mx-auto d-block">
+						<img src="assets/images/trust1.jpeg" alt="img" class="img-fluid mx-auto d-block">
+						<br>
+						<img src="assets/images/trust3.jpeg" alt="img" class="img-fluid mx-auto d-block">
+						
+
 					</div>
 				</div>
+				
+				<div class="col-xl-7 col-md-7">
+					<div class="about-us-content">
+						<div class="section-header">
+							<br><br><br><h2>The  <u class="text-custom-primary">Mission</u></h2>
+							<p>The Anagarika Dharmapala Trust has been responsible for continuing the work of the Anagarika Dharmapala by carrying the message of the Buddha to India, Britain and other countries by sending Bhikkhu missionaries on Dhammadutha (Buddhist missionary) service. It also supports the Maha Bodhi Societies of Sri Lanka, India and Britain, and the viharas (temples), centres and pilgrims’ rests that are under its management. In Sri Lanka, the Trust manages a Free Ayurvedic Hospital in Colombo; finances and supports temples, conducts an Education programme for novice Bhikkhus (samanera monks); manages orphanages and schools; prints and publishes Buddhist Literature, and implements such matters as are provided for in the Trust Deed.
+</p>
+
+						</div>
+					</div>
+				</div>
+
+				<div class="col-xl-5 col-md-5 align-self-center">
+					<div class="about-us-image">
+					<br><br>
+						<img src="assets/images/trust2.jpeg" alt="img" class="img-fluid mx-auto d-block">
+						
+						<!-- <img src="assets/images/lotus.png" alt="img" class="img-fluid mx-auto d-block"> -->
+						
+
+					</div>
+				</div>
+
 			</div>
 
 			<!-- Features -->
 			<div class="features">
-				<div class="row">
+			<div class="section-header">
+							<br><br><br><h2>The Anagarika Dharmapala Trust:
+ </h2>
+						
+						</div>
+
+				<div  class="row">
+				
 					<div class="col-lg-4 col-md-6">
 						<div class="features_wrap features-after-none">
-							<div class="f-f-icon"><img src="assets/images/peace.png" alt="img"></div>
-							<h4 class="text-custom-secondary">Meditation</h4>
-							<p class="mb-0">Uncover many web sites still in their infancy. Various versions have evolved over the years, sometimes by accident.</p>
+							<!-- <div class="f-f-icon"><img src="assets/images/peace.png" alt="img"></div> -->
+							<!-- <h4 class="text-custom-secondary">Meditation</h4> -->
+							<p class="mb-0"><b>Assists novice monks in their religious and general education.</b>
+</p>
 						</div>
 					</div>
 					<div class="col-lg-4 col-md-6">
 						<div class="features_wrap features-after-none">
-							<div class="f-f-icon"><img src="assets/images/team.png" alt="img"></div>
-							<h4 class="text-custom-secondary">Community</h4>
-							<p class="mb-0">Uncover many web sites still in their infancy. Various versions have evolved over the years, sometimes by accident.</p>
+							<!-- <div class="f-f-icon"><img src="assets/images/peace.png" alt="img"></div> -->
+							<!-- <h4 class="text-custom-secondary">Meditation</h4> -->
+							<p class="mb-0"><b> Trains monks for Dhammadutha (Buddhist missionary) service and sends them to Centres overseas. 
+</b>
+</p>
 						</div>
 					</div>
+
 					<div class="col-lg-4 col-md-6">
 						<div class="features_wrap features-after-none">
-							<div class="f-f-icon"><img src="assets/images/open-book.png" alt="img"></div>
-							<h4 class="text-custom-secondary">Philosophy</h4>
-							<p class="mb-0">Uncover many web sites still in their infancy. Various versions have evolved over the years, sometimes by accident.</p>
+							<!-- <div class="f-f-icon"><img src="assets/images/peace.png" alt="img"></div> -->
+							<!-- <h4 class="text-custom-secondary">Meditation</h4> -->
+							<p class="mb-0"><b>   Has representation overseas at Buddhist temples and in Maha Bodhi Society activities.</b>
+</p>
 						</div>
 					</div>
+
+					<div class="col-lg-4 col-md-6">
+						<div class="features_wrap features-after-none">
+							<!-- <div class="f-f-icon"><img src="assets/images/peace.png" alt="img"></div> -->
+							<!-- <h4 class="text-custom-secondary">Meditation</h4> -->
+							<p class="mb-0"><b>Offers ayurvedic medical treatment to needy patients free of charge.
+</b>
+</p>
+						</div>
+					</div>
+
+					<div class="col-lg-4 col-md-6">
+						<div class="features_wrap features-after-none">
+							<!-- <div class="f-f-icon"><img src="assets/images/peace.png" alt="img"></div> -->
+							<!-- <h4 class="text-custom-secondary">Meditation</h4> -->
+							<p class="mb-0"><b>Helps the restoration of rural temples.</b>
+</p>
+						</div>
+					</div>
+
+					<div class="col-lg-4 col-md-6">
+						<div class="features_wrap features-after-none">
+							<!-- <div class="f-f-icon"><img src="assets/images/peace.png" alt="img"></div> -->
+							<!-- <h4 class="text-custom-secondary">Meditation</h4> -->
+							<p class="mb-0"><b>Prints books and reproduces out of print publications.
+</b>
+</p>
+						</div>
+					</div>
+
+					<div class="col-lg-4 col-md-6">
+						<div class="features_wrap features-after-none">
+							<!-- <div class="f-f-icon"><img src="assets/images/peace.png" alt="img"></div> -->
+							<!-- <h4 class="text-custom-secondary">Meditation</h4> -->
+							<p class="mb-0"><b>Donates the Trust's publications to Dhamma schools and those interested in the study of Buddhism
+</b>
+</p>
+						</div>
+					</div>
+
+					<div class="col-lg-4 col-md-6">
+						<div class="features_wrap features-after-none">
+							<!-- <div class="f-f-icon"><img src="assets/images/peace.png" alt="img"></div> -->
+							<!-- <h4 class="text-custom-secondary">Meditation</h4> -->
+							<p class="mb-0"><b> Administers the Anagarika Dharmapala International Research Centre at the Trust head office in Colombo.
+
+</b>
+</p>
+						</div>
+					</div>
+
+					<div class="col-lg-4 col-md-6">
+						<div class="features_wrap features-after-none">
+							<!-- <div class="f-f-icon"><img src="assets/images/peace.png" alt="img"></div> -->
+							<!-- <h4 class="text-custom-secondary">Meditation</h4> -->
+							<p class="mb-0"><b>   Offers alms to monks.
+.</b>
+</p>
+						</div>
+					</div>
+
+					<div class="col-lg-4 col-md-6">
+						<div class="features_wrap features-after-none">
+							<!-- <div class="f-f-icon"><img src="assets/images/peace.png" alt="img"></div> -->
+							<!-- <h4 class="text-custom-secondary">Meditation</h4> -->
+							<p class="mb-0"><b> Supports residential care centres for orphaned boys established by the Trust’s associates
+</b>
+</p>
+						</div>
+					</div>
+
+					<div class="col-lg-4 col-md-6">
+						<div class="features_wrap features-after-none">
+							<!-- <div class="f-f-icon"><img src="assets/images/peace.png" alt="img"></div> -->
+							<!-- <h4 class="text-custom-secondary">Meditation</h4> -->
+							<p class="mb-0"><b> Supports secondary schools in educational and social service activities  
+</b>
+</p>
+						</div>
+					</div>
+
+			
+
+					
 				</div>
 			</div>
 			<!-- /Features -->
@@ -126,7 +286,7 @@
 	</div>
 	<!-- /Video -->
 
-
+	<p id="section_3"></p>
 
 	<!-- Team -->
 	<section class="section-padding" id="about-team">
@@ -134,8 +294,8 @@
 			<div class="our_team">
 				<div class="section-header-center text-center">
 					<!-- <h3>Our Teachers</h3> -->
-					<h3>Our Trustees</h3>
-					<p>Will uncover many web sites still in their infancy. Various versions have Evolved over the years</p>
+					<h3>The Managing Trustees</h3>
+					<p>The Trust is overseen by a board of six members</p>
 				</div>
 				<div class="row">
 					<div class="col-12">
@@ -143,72 +303,77 @@
 							<div class="item">
 								<div class="box_wrap">
 									<div class="team_img">
-										<img src="assets/images/About-us/Preachers-01.png" alt="image">
-										<div class="team_url"><a href="our-teachers.html"><i class="fa fa-plus"></i></a></div>
+										<img src="assets/images/About-us/person.png">
+										<!-- <div class="team_url"><a href="our-teachers.html"><i class="fa fa-plus"></i></a></div> -->
 									</div>
-									<div class="icon"><img src="assets/images/Templezen-team-icon.html" alt="image"></div>
-									<h6>Gopal dhanam</h6>
-									<p>Lead Preacher</p>
+									<!-- <div class="icon"><img src="assets/images/Templezen-team-icon.html" alt="image"></div> -->
+									<h6>Sudhammika Hewavitarne</h6>
+									<p>Chairman, is a grandnephew of Anagarika Dharmapala and grandson of Charles Hewavitarne and, Life Member Maha Bodhi Society of Sri Lanka. He was the former Jt. Managing Director of H Don Carolis & Sons.
+</p>
 								</div>
 							</div>
 
 							<div class="item">
 								<div class="box_wrap">
 									<div class="team_img">
-										<img src="assets/images/About-us/Preachers-02.png" alt="image">
-										<div class="team_url"><a href="our-teachers.html"><i class="fa fa-plus"></i></a></div>
+										<img src="assets/images/About-us/person.png" alt="image">
+										<!-- <div class="team_url"><a href="our-teachers.html"><i class="fa fa-plus"></i></a></div> -->
 									</div>
-									<div class="icon"><img src="assets/images/Templezen-team-icon.html" alt="image"></div>
-									<h6>Gopal dhanam</h6>
-									<p>Lead Preacher</p>
+									<!-- <div class="icon"><img src="assets/images/Templezen-team-icon.html" alt="image"></div> -->
+									<h6>Rajiv Hewavitarne</h6>
+									<p>Is a great grandnephew of Anagarika Dharmapala and great grandson of Edmund Hewavitarne and, Life Member Maha Bodhi Society of Sri Lanka He was the former Chairman and Managing Director of H Don Carolis & Sons</p>
 								</div>
 							</div>
 
 							<div class="item">
 								<div class="box_wrap">
 									<div class="team_img">
-										<img src="assets/images/About-us/Preachers-03.png" alt="image">
-										<div class="team_url"><a href="our-teachers.html"><i class="fa fa-plus"></i></a></div>
+										<img src="assets/images/About-us/person.png" alt="image">
+										<!-- <div class="team_url"><a href="our-teachers.html"><i class="fa fa-plus"></i></a></div> -->
 									</div>
-									<div class="icon"><img src="assets/images/Templezen-team-icon.html" alt="image"></div>
-									<h6>Jagdish prasad</h6>
-									<p>Lead Preacher</p>
+									<!-- <div class="icon"><img src="assets/images/Templezen-team-icon.html" alt="image"></div> -->
+									<h6>Sinha Ratnatunga</h6>
+									<p>Is a Life Member Maha Bodhi Society of Sri Lanka, Member, British Maha Bodhi Society and Trustee & Vice President, Maha Bodhi Society of India. He is an Executive Director of Wijeya Newspapers Limited, the Editor in chief of the Sunday Times and an Attorney at Law. 
+</p>
 								</div>
 							</div>
 
 							<div class="item">
 								<div class="box_wrap">
 									<div class="team_img">
-										<img src="assets/images/About-us/Preachers-04.png" alt="image">
-										<div class="team_url"><a href="our-teachers.html"><i class="fa fa-plus"></i></a></div>
+										<img src="assets/images/About-us/person.png" alt="image">
+										<!-- <div class="team_url"><a href="our-teachers.html"><i class="fa fa-plus"></i></a></div> -->
 									</div>
-									<div class="icon"><img src="assets/images/Templezen-team-icon.html" alt="image"></div>
-									<h6>Jagdish prasad</h6>
-									<p>Lead Preacher</p>
+									<!-- <div class="icon"><img src="assets/images/Templezen-team-icon.html" alt="image"></div> -->
+									<h6>Lakshman Perera</h6>
+									<p> Is a President's Counsel and member of the board of the Colombo YMBA
+</p>
 								</div>
 							</div>
 
 							<div class="item">
 								<div class="box_wrap">
 									<div class="team_img">
-										<img src="assets/images/About-us/Preachers-01.png" alt="image">
-										<div class="team_url"><a href="our-teachers.html"><i class="fa fa-plus"></i></a></div>
+										<img src="assets/images/About-us/person.png" alt="image">
+										<!-- <div class="team_url"><a href="our-teachers.html"><i class="fa fa-plus"></i></a></div> -->
 									</div>
-									<div class="icon"><img src="assets/images/Templezen-team-icon.html" alt="image"></div>
-									<h6>Gopal dhanam</h6>
-									<p>Lead Preacher</p>
+									<!-- <div class="icon"><img src="assets/images/Templezen-team-icon.html" alt="image"></div> -->
+									<h6>Nalin Walpita</h6>
+									<p>Is an Engineering Consultant and CEO of I-Vation. He holds a doctorate in Engineering.
+</p>
 								</div>
 							</div>
 
 							<div class="item">
 								<div class="box_wrap">
 									<div class="team_img">
-										<img src="assets/images/About-us/Preachers-02.png" alt="image">
-										<div class="team_url"><a href="our-teachers.html"><i class="fa fa-plus"></i></a></div>
+										<img src="assets/images/About-us/person.png" alt="image">
+										<!-- <div class="team_url"><a href="our-teachers.html"><i class="fa fa-plus"></i></a></div> -->
 									</div>
-									<div class="icon"><img src="assets/images/Templezen-team-icon.html" alt="image"></div>
-									<h6>Gopal dhanam</h6>
-									<p>Lead Preacher</p>
+									<!-- <div class="icon"><img src="assets/images/Templezen-team-icon.html" alt="image"></div> -->
+									<h6>Amitha Wijesekera</h6>
+									<p>Is a great grandnephew of Anagarika Dharmapala and great grandson of Edmund Hewavitarne. He is the Managing Director of Tea Select (Pvt) Ltd.
+</p>
 								</div>
 							</div>
 
@@ -223,6 +388,13 @@
 		</div>
 	</section>
 	<!-- /Team -->
+
+
+
+
+
+
+	
 
 	<!-- Footer -->
 <?php include_once 'footer.php';?>

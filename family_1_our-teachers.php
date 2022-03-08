@@ -104,7 +104,7 @@
 					<div class="col-xl-4 col-lg-5 offset-xl-1 align-self-center">
 						<div class="ss-pastor-img-wrap">
 							<!-- <img src="assets/images/pastor-1.jpg" alt="img"> -->
-							<img src="assets/images/pastor-1.jpg" alt="img">
+							<img src="assets/images/custom_images/kaolis.jpg" alt="img">
 						</div>
 					</div>
 				</div>

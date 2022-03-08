@@ -37,7 +37,7 @@
 
 <body id="tl">
 		<!-- Header -->
-		<?php include_once 'header.php'; ?>
+		<?php include_once 'sinhala_header.php'; ?>
 	<!-- /Header -->
 
 	<!-- Inner-intro -->
@@ -51,7 +51,7 @@
 						<nav class="breadcrumb">
 							<ul>
 								<li class="breadcrumb-item"><a href="index.php">Home</a></li>
-								<li class="breadcrumb-item active">The Legacy</li>
+								<li class="breadcrumb-item active">උරුමය</li>
 							</ul>
 						</nav>
 					</div>
@@ -67,10 +67,11 @@
 					<div class="col-lg-7">
 						<div class="sa-paster-about-area">
 							<!-- <h3>Gopal dhanam</h3> -->
-							<h3>The Battle for Buddha Gaya</h3>
+							<h3>ඌරුමය</h3>
 							<!-- <p class="designation">Yoga Teacher</p> -->
 							<p class="designation"></p>
 							<p>	
+
 							අනගාරික ධර්මපාලයන්ගේ ජීවිතය සමාජ
 ක‍්‍රියාකරුවකු ධර්මදානයෙකු නිදහස් සටන් කාමියෙකු සමාජ
 ප‍්‍රතිසංස්කරණයෙකු අනගාරික වූවකු යනාදී වශයෙන්
@@ -97,27 +98,10 @@
 වඩා වැදගත් වනුයේ බෞද්ධයින් වශයෙන් ස්වකීය වටිනාකම
 හඳුනන අය අතර ස්වයං විඥානයක් ඇති කරමින් බෞද්ධ
 ඉගැන්වීම්වල ඇති සුවිශේෂත්වය ඔවුනට වටහා දීමය
-							</p>				
+
 							
+							</p>	
 
-
-
-
-
-
-
-
-
-							<!-- <div class="sa-team-social">
-								<h5>Social links</h5>
-								<ul class="text-center">
-									<li><a href="#"><i class="fab fa-facebook-f"></i></a></li>
-									<li><a href="#"><i class="fab fa-twitter"></i></a></li>
-									<li><a href="#"><i class="fab fa-linkedin-in"></i></a></li>
-									<li><a href="#"><i class="fab fa-youtube"></i></a></li>
-									<li><a href="#"><i class="fab fa-instagram"></i></a></li>
-								</ul>
-							</div> -->
 						</div>
 					</div>
 					<div class="col-xl-4 col-lg-5 offset-xl-1 align-self-center">
@@ -127,6 +111,7 @@
 						</div>
 					</div>
 				</div>
+
 				<p>ගෝලියා දෘෂ්ටි කෝණයකින් බැලිය හැකි
 ජාත්‍යන්තරවාදියා වශයෙන් බෞද්ධ ලෝක ප‍්‍රජාව තුළ දර්ශනයක් ඇරඹීම සඳහා ඔහු විසින් මහ බෝධි සංගමය
 පිහිටුවන ලදී.
@@ -196,11 +181,14 @@
 හේතුවෙන් වඩා වැදගත් දෙය පසෙකලා කටයුතු කර ඇත.
 						</p>
 
+
 			</div>
 		</section>
 
 	<!-- Footer -->
+
 	<?php include_once 'sinhala_footer.php';?>
+
 	<!-- /Footer -->
 
 	<!-- Scripts -->
