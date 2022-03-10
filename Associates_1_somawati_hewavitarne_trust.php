@@ -51,7 +51,7 @@
 						<nav class="breadcrumb">
 							<ul>
 								<li class="breadcrumb-item"><a href="index.html">Home</a></li>
-								<li class="breadcrumb-item active">The Somawati Hewavitarne Trust</li>
+								<li class="breadcrumb-item active">Somawati Hewavitarne Trust</li>
 							</ul>
 						</nav>
 					</div>
@@ -103,10 +103,7 @@
 						<div class="owl-carousel team-carousel">
 							<div class="item">
 								<div class="box_wrap">
-									<div class="team_img">
-										<img src="assets/images/About-us/person.png">
-										<!-- <div class="team_url"><a href="our-teachers.html"><i class="fa fa-plus"></i></a></div> -->
-									</div>
+									
 									<!-- <div class="icon"><img src="assets/images/Templezen-team-icon.html" alt="image"></div> -->
 									<h6>Shakila Wijewardena</h6>
 									<p>is the Chairman of Sarvodaya Economic Enterprise Development Services Gte Ltd.  He holds a degree in Batchelor of Science from the University of Colombo and is a member of the chartered management institute of UK. </p>
@@ -115,10 +112,8 @@
 
 							<div class="item">
 								<div class="box_wrap">
-									<div class="team_img">
-										<img src="assets/images/About-us/person.png" alt="image">
-										<!-- <div class="team_url"><a href="our-teachers.html"><i class="fa fa-plus"></i></a></div> -->
-									</div>
+									
+									
 									<!-- <div class="icon"><img src="assets/images/Templezen-team-icon.html" alt="image"></div> -->
 									<h6>Ruvan Ratnatunga</h6>
 									<p>Is a great grandnephew of Anagarika Dharmapala and great grandson of Edmund Hewavitarne and, Life Member Maha Bodhi Society of Sri Lanka He was the former Chairman and Managing Director of H Don Carolis & Sons</p>
@@ -128,10 +123,7 @@
 
 							<div class="item">
 								<div class="box_wrap">
-									<div class="team_img">
-										<img src="assets/images/About-us/person.png" alt="image">
-										<!-- <div class="team_url"><a href="our-teachers.html"><i class="fa fa-plus"></i></a></div> -->
-									</div>
+									
 									<!-- <div class="icon"><img src="assets/images/Templezen-team-icon.html" alt="image"></div> -->
 									<h6>Nalin Walpita</h6>
 									<p> is an Engineering Consultant and CEO of I-Vation. He holds a doctorate in engineering.
@@ -168,10 +160,7 @@
 						<div class="owl-carousel team-carousel">
 							<div class="item">
 								<div class="box_wrap">
-									<div class="team_img">
-										<img src="assets/images/About-us/person.png">
-										<!-- <div class="team_url"><a href="our-teachers.html"><i class="fa fa-plus"></i></a></div> -->
-									</div>
+									
 									<!-- <div class="icon"><img src="assets/images/Templezen-team-icon.html" alt="image"></div> -->
 									<h6>Noel Wijenaike</h6>
 									<p>Founder trustee, was former Bribery Commissioner of the Republic of Sri Lanka, the former Honorary Secretary General and subsequently President of the YMBA, former Chairman of the Anagarika Dharmapala Trust and former Chairman of the Board of Trustees of the Eye Donation Society.
@@ -180,10 +169,7 @@
 
 							<div class="item">
 								<div class="box_wrap">
-									<div class="team_img">
-										<img src="assets/images/About-us/person.png" alt="image">
-										<!-- <div class="team_url"><a href="our-teachers.html"><i class="fa fa-plus"></i></a></div> -->
-									</div>
+									
 									<!-- <div class="icon"><img src="assets/images/Templezen-team-icon.html" alt="image"></div> -->
 									<h6>Roland Tissa Ratnatunga</h6>
 									<p>Founder trustee was a member of the Ceylon Civil Service and retired as Additional Permanent Secretary, Ministry of Agriculture & Lands. He was a UNDP FAO expert and served in Syria, Ethiopia and Indonesia. He was a Vice President of the Maha Bodhi Society of Sri Lanka.
@@ -192,10 +178,7 @@
 
 							<div class="item">
 								<div class="box_wrap">
-									<div class="team_img">
-										<img src="assets/images/About-us/person.png" alt="image">
-										<!-- <div class="team_url"><a href="our-teachers.html"><i class="fa fa-plus"></i></a></div> -->
-									</div>
+									<!--  -->
 									<!-- <div class="icon"><img src="assets/images/Templezen-team-icon.html" alt="image"></div> -->
 									<h6>Nanda Amarasinghe</h6>
 									<p>Founder trustee. 
@@ -206,10 +189,10 @@
 
                             <div class="item">
 								<div class="box_wrap">
-									<div class="team_img">
-										<img src="assets/images/About-us/person.png" alt="image">
+									<!-- <div class="team_img"> -->
+										<!-- <img src="assets/images/About-us/person.png" alt="image"> -->
 										<!-- <div class="team_url"><a href="our-teachers.html"><i class="fa fa-plus"></i></a></div> -->
-									</div>
+									<!-- </div> -->
 									<!-- <div class="icon"><img src="assets/images/Templezen-team-icon.html" alt="image"></div> -->
 									<h6>Parinda Ranasinghe</h6>
 									<p>Trustee,  was the 38th Chief Justice of the Supreme Court of Ceylon and former President of the Asia Crime Prevention Foundation

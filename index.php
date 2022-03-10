@@ -244,7 +244,7 @@ ob_start();
 			<div class="row">
 				<div class="col-md-6 col-lg-5">
 					<div class="heading">
-						<h3>Latest Events</h3>
+						<h3><a href="life_6_timeline.php">Timeline</a></h3>
 						<div class="tl-slider-arrow float-right">
 							<div class="tl-left-arrow slick-arrow mr-2" style="">
 								<span><i class="fa fa-chevron-up"></i></span>
@@ -261,38 +261,38 @@ ob_start();
 									<div class="event-list">
 										<ul>
 											<li>
-												<div class="event_info">
+											<div class="event_info">
 													<div class="event_date">
-														<span>02</span> sep'19
+														<span>1915</span> March'2
 													</div>
-													<h6><a href="event-detail.html">Vinayaka Chathurthy</a></h6>
+													<!-- <h6><a href="event-detail.html">Vinayaka Chathurthy</a></h6> -->
 													<ul>
-														<li><i class="far fa-clock"></i> Sunday (8:00 am -9:00 am)</li>
-														<li><i class="fas fa-map-marker-alt"></i>4873 Pretty View Lane New York</li>
+														<li><i class="far fa-clock"></i> The Kandyan Kingdom of Sri Lanka cedes to the British. The  Kandyan Convention is signed – 2nd March</li>
+														<!-- <li><i class="fas fa-map-marker-alt"></i></li> -->
 													</ul>
 												</div>
 											</li>
 											<li>
 												<div class="event_info">
 													<div class="event_date">
-														<span>16</span> sep'19
+														<span>1932</span> sep'19
 													</div>
-													<h6><a href="event-detail.html">Navarathri Celebrations</a></h6>
+													<!-- <h6><a href="event-detail.html">Navarathri Celebrations</a></h6> -->
 													<ul>
-														<li><i class="far fa-clock"></i> tuesday (9:00 am -8:00 pm)</li>
-														<li><i class="fas fa-map-marker-alt"></i>4873 Pretty View Lane New York</li>
+														<li><i class="far fa-clock"></i>English becomes the official language in Ceylon (Sri Lanka)</li>
+														<!-- <li><i class="fas fa-map-marker-alt"></i>4873 Pretty View Lane New York</li> -->
 													</ul>
 												</div>
 											</li>
 											<li>
-												<div class="event_info">
+											<div class="event_info">
 													<div class="event_date">
-														<span>12</span> oct'19
+														<span>1837</span>
 													</div>
-													<h6><a href="event-detail.html">Durgashtami </a></h6>
+													<!-- <h6><a href="event-detail.html">Durgashtami </a></h6> -->
 													<ul>
-														<li><i class="far fa-clock"></i> Sunday (8:00 pm -9:00 pm)</li>
-														<li><i class="fas fa-map-marker-alt"></i>4873 Pretty View Lane New York</li>
+														<li><i class="far fa-clock"></i>George Turner’s English translation of the Mahavamsa published</li>
+														<!-- <li><i class="fas fa-map-marker-alt"></i>4873 Pretty View Lane New York</li> -->
 													</ul>
 												</div>
 											</li>
@@ -310,38 +310,40 @@ ob_start();
 									<div class="event-list">
 										<ul>
 											<li>
-												<div class="event_info">
+											<div class="event_info">
 													<div class="event_date">
-														<span>02</span> sep'19
+														<span>1860</span>
 													</div>
-													<h6><a href="event-detail.html">Vinayaka Chathurthy</a></h6>
+													<!-- <h6><a href="event-detail.html">Vinayaka Chathurthy</a></h6> -->
 													<ul>
-														<li><i class="far fa-clock"></i> Sunday (8:00 am -9:00 am)</li>
-														<li><i class="fas fa-map-marker-alt"></i>4873 Pretty View Lane New York</li>
+														<li><i class="far fa-clock"></i>
+														1860	•	H. Don Carolis, the father of the future Anagarika Dharmapala, migrates to Colombo from Matara
+•	Marriage of H. Don Carolis to Mallika Dharmagunawardhana
+•	H. Don Carolis establishes Don Carolis & Sons in Pettah
+														</li></ul>
+													
+											</li>
+											<li>
+											<div class="event_info">
+													<div class="event_date">
+														<span>1963</span> sep'19
+													</div>
+													<!-- <h6><a href="event-detail.html">Navarathri Celebrations</a></h6> -->
+													<ul>
+														<li><i class="far fa-clock"></i> •	Baddegma Controversy (debated in writing), headed by Miggetuwatte Gunananda Thero</li>
+														<!-- <li><i class="fas fa-map-marker-alt"></i>4873 Pretty View Lane New York</li> -->
 													</ul>
 												</div>
 											</li>
 											<li>
-												<div class="event_info">
+											<div class="event_info">
 													<div class="event_date">
-														<span>16</span> sep'19
+														<span>1964</span> oct'19
 													</div>
-													<h6><a href="event-detail.html">Navarathri Celebrations</a></h6>
+													<!-- <h6><a href="event-detail.html">Durgashtami </a></h6> -->
 													<ul>
-														<li><i class="far fa-clock"></i> tuesday (9:00 am -8:00 pm)</li>
-														<li><i class="fas fa-map-marker-alt"></i>4873 Pretty View Lane New York</li>
-													</ul>
-												</div>
-											</li>
-											<li>
-												<div class="event_info">
-													<div class="event_date">
-														<span>12</span> oct'19
-													</div>
-													<h6><a href="event-detail.html">Durgashtami </a></h6>
-													<ul>
-														<li><i class="far fa-clock"></i> Sunday (8:00 pm -9:00 pm)</li>
-														<li><i class="fas fa-map-marker-alt"></i>4873 Pretty View Lane New York</li>
+														<li><i class="far fa-clock"></i>•	Birth of Don David Hewavitarne – 17th September</li>
+														<!-- <li><i class="fas fa-map-marker-alt"></i>4873 Pretty View Lane New York</li> -->
 													</ul>
 												</div>
 											</li>
