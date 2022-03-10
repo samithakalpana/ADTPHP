@@ -1,7 +1,7 @@
 
 <?php 
-session_start();
-$_SESSION["page"]="life_1_our-teachers.php";
+// session_start();
+// $_SESSION["page"]="life_1_our-teachers.php";
 // echo $_SESSION["page"];
 ?>
 <!DOCTYPE HTML>
