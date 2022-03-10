@@ -149,7 +149,7 @@
 								</ul>
 						</li>
 						
-						<li><a href="shop-left.php">Store</a></li>
+						<li><a href="shop_main_ADT_books.php">Store</a></li>
 						<li ><a href="contact-us.php">Contact Us<span class="nav_arrow"></span></a>
 							<!-- <ul class="sub-menu">
 								<li><a href="sermon.html">Life of Anagarika Dharmapala</a></li>
