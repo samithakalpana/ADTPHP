@@ -127,9 +127,11 @@
 								<li><a href="Associates_1_Maha_Bodhi_Society.php">Maha Bodhi Society</a></li>
 								<li><a href="Associates_1_Maha_Bodhi_Society_India.php">Maha Bodhi Society India</a></li>
 								<li><a href="Associates_1_london_buddist_vihara.php">London Buddhist Vihara</a></li>
-								<li><a href="Associates_1_British_Maha_Bodhi_society.php">British Maha Maha Bodhi Society</a></li>
-								<li><a href="Associates_1_somawati_hevavitarana_trust.php">Somawati Hewavitarne Trust </a></li>
-								<!-- <li><a href="log-in.html">Somawati Hewavitarne Trust</a></li> -->
+								<li><a href="https://www.mallikahomes.org/">Mallika Nivasa Samithiya</a></li>
+								<li><a href="Associates_1_British_Maha_Bodhi_society.php">British Maha Bodhi Society</a></li>
+								<li><a href="Associates_1_somawati_hewavitarne_trust.php">Somawati Hewavitarne Trust </a></li>
+								<li><a href="Associates_1_simon_hewavitarne_trust.php">Simon Hewavitarne Trust </a></li>
+								
 								</ul>
 							</li>
 								<!-- <li><a href="log-in.html">log-in</a></li> -->
@@ -142,9 +144,9 @@
 								<li><a href="blog-detail.html">Blog Detail</a></li>
 							</ul> -->						
 								<ul class="sub-menu">
-								<li><a href="our-teachers.php">Diaries</a>
-								<li><a href="our-teachers.php">Other publications</a>
-								<li><a href="our-teachers.php">Information for Researchers</a>
+								<li><a href="Diaries.php">Diaries</a>
+								<li><a href="Other_publications.php">Other publications</a>
+								<li><a href="Information_for_researchers.php">Information for Researchers</a>
 						
 								</ul>
 						</li>

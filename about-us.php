@@ -302,10 +302,7 @@ The Trustees were expected to appoint succeeding Trustees, and in 1947, the Publ
 						<div class="owl-carousel team-carousel">
 							<div class="item">
 								<div class="box_wrap">
-									<div class="team_img">
-										<img src="assets/images/About-us/person.png">
-										<!-- <div class="team_url"><a href="our-teachers.html"><i class="fa fa-plus"></i></a></div> -->
-									</div>
+									
 									<!-- <div class="icon"><img src="assets/images/Templezen-team-icon.html" alt="image"></div> -->
 									<h6>Sudhammika Hewavitarne</h6>
 									<p>Chairman, is a grandnephew of Anagarika Dharmapala and grandson of Charles Hewavitarne and, Life Member Maha Bodhi Society of Sri Lanka. He was the former Jt. Managing Director of H Don Carolis & Sons.
@@ -315,10 +312,7 @@ The Trustees were expected to appoint succeeding Trustees, and in 1947, the Publ
 
 							<div class="item">
 								<div class="box_wrap">
-									<div class="team_img">
-										<img src="assets/images/About-us/person.png" alt="image">
-										<!-- <div class="team_url"><a href="our-teachers.html"><i class="fa fa-plus"></i></a></div> -->
-									</div>
+									
 									<!-- <div class="icon"><img src="assets/images/Templezen-team-icon.html" alt="image"></div> -->
 									<h6>Rajiv Hewavitarne</h6>
 									<p>Is a great grandnephew of Anagarika Dharmapala and great grandson of Edmund Hewavitarne and, Life Member Maha Bodhi Society of Sri Lanka He was the former Chairman and Managing Director of H Don Carolis & Sons</p>
@@ -327,10 +321,7 @@ The Trustees were expected to appoint succeeding Trustees, and in 1947, the Publ
 
 							<div class="item">
 								<div class="box_wrap">
-									<div class="team_img">
-										<img src="assets/images/About-us/person.png" alt="image">
-										<!-- <div class="team_url"><a href="our-teachers.html"><i class="fa fa-plus"></i></a></div> -->
-									</div>
+									
 									<!-- <div class="icon"><img src="assets/images/Templezen-team-icon.html" alt="image"></div> -->
 									<h6>Sinha Ratnatunga</h6>
 									<p>Is a Life Member Maha Bodhi Society of Sri Lanka, Member, British Maha Bodhi Society and Trustee & Vice President, Maha Bodhi Society of India. He is an Executive Director of Wijeya Newspapers Limited, the Editor in chief of the Sunday Times and an Attorney at Law. 
@@ -340,10 +331,7 @@ The Trustees were expected to appoint succeeding Trustees, and in 1947, the Publ
 
 							<div class="item">
 								<div class="box_wrap">
-									<div class="team_img">
-										<img src="assets/images/About-us/person.png" alt="image">
-										<!-- <div class="team_url"><a href="our-teachers.html"><i class="fa fa-plus"></i></a></div> -->
-									</div>
+									
 									<!-- <div class="icon"><img src="assets/images/Templezen-team-icon.html" alt="image"></div> -->
 									<h6>Lakshman Perera</h6>
 									<p> Is a President's Counsel and member of the board of the Colombo YMBA
@@ -353,10 +341,7 @@ The Trustees were expected to appoint succeeding Trustees, and in 1947, the Publ
 
 							<div class="item">
 								<div class="box_wrap">
-									<div class="team_img">
-										<img src="assets/images/About-us/person.png" alt="image">
-										<!-- <div class="team_url"><a href="our-teachers.html"><i class="fa fa-plus"></i></a></div> -->
-									</div>
+									
 									<!-- <div class="icon"><img src="assets/images/Templezen-team-icon.html" alt="image"></div> -->
 									<h6>Nalin Walpita</h6>
 									<p>Is an Engineering Consultant and CEO of I-Vation. He holds a doctorate in Engineering.
@@ -366,10 +351,7 @@ The Trustees were expected to appoint succeeding Trustees, and in 1947, the Publ
 
 							<div class="item">
 								<div class="box_wrap">
-									<div class="team_img">
-										<img src="assets/images/About-us/person.png" alt="image">
-										<!-- <div class="team_url"><a href="our-teachers.html"><i class="fa fa-plus"></i></a></div> -->
-									</div>
+									
 									<!-- <div class="icon"><img src="assets/images/Templezen-team-icon.html" alt="image"></div> -->
 									<h6>Amitha Wijesekera</h6>
 									<p>Is a great grandnephew of Anagarika Dharmapala and great grandson of Edmund Hewavitarne. He is the Managing Director of Tea Select (Pvt) Ltd.
