@@ -115,8 +115,8 @@
 						<li class="dropdown">
 							<a href="about-us.php">භාරය<span class="nav_arrow"></span></a>
 							<ul class="sub-menu">
-								<li><a href="our-teachers.html">සභාපතිතුමගේ පණිවුඩය</a></li>
-								<li><a href="our-teachers.html">භාරය පිළිබදව</a></li>
+								<li><a href="sinhala_about-us.php">සභාපතිතුමගේ පණිවුඩය</a></li>
+								<li><a href="sinhala_about-us.php#section_2">භාරය පිළිබදව</a></li>
 								
 							</ul>
 						</li>
@@ -140,7 +140,7 @@
 					</li>
 
 			
-						<li ><a href="contact-us.php">ඇමතුම්<span class="nav_arrow"></span></a>
+						<li ><a href="sinhala_contact-us.php">ඇමතුම්<span class="nav_arrow"></span></a>
 							<!-- <ul class="sub-menu">
 								<li><a href="sermon.html">Life of Anagarika Dharmapala</a></li>
 								<li><a href="sermon-detail.html">Sermon Detail</a></li>

@@ -214,7 +214,7 @@
 		</section>
 
 	<!-- Footer -->
-
+	<?php include_once 'sinhala_footer.php';?>
 	<!-- /Footer -->
 
 	<!-- Scripts -->
