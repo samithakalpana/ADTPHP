@@ -72,7 +72,7 @@
 							</ul>
 						</li> -->
 						
-						<li class="dropdown" ><a href="about-us.php">අනගාරික<br/>ධර්මපාලතුමාගෙ ජීවිතය<span class="nav_arrow"></span></a>
+						<li class="dropdown" ><a href="sinhala_life_1_our-teachers.php">අනගාරික<br/>ධර්මපාලතුමාගෙ ජීවිතය<span class="nav_arrow"></span></a>
 							<ul class="sub-menu">
 
 
@@ -87,7 +87,7 @@
 						</li>
 						<li class="dropdown"><a href="#">පවුල සහ<br/>ප්‍රත්‍රිලාභීන් <span class="nav_arrow"></span></a>
 							<ul class="sub-menu">
-								<li class="dropdown"><a href="our-teachers.php">පවුල</a>
+								<li class="dropdown"><a href="#">පවුල</a>
 								<ul class="sub-menu">
 								<li><a href="sinhala_family_1.php">එච්. දොන් කරෝලිස්</a>
 								<li><a href="sinhala_family_2.php">මල්ලිකා හේවාවිතාරණ</a>
@@ -97,7 +97,7 @@
 								<li><a href="sinhala_family_6.php">චාර්ල්ස් අල්විස් හේවාවිතාරණ</a>
 								</ul>
 							</li>
-							<li class="dropdown"><a href="our-teachers.php">ප්‍රතිලාභීන්</a>
+							<li class="dropdown"><a href="#">ප්‍රතිලාභීන්</a>
 								<ul class="sub-menu">
 								<li><a href="sinhala_benefactors_1.php">හික්කඩුවේ ශ්‍රී සුමංගල හිමි</a>
 								<li><a href="sinhala_benefactors_2.php">මේරි ජොබින්සන් ෆොස්ටර්</a>
@@ -113,7 +113,7 @@
 							</ul>
 						</li>
 						<li class="dropdown">
-							<a href="about-us.php">භාරය<span class="nav_arrow"></span></a>
+							<a href="#">භාරය<span class="nav_arrow"></span></a>
 							<ul class="sub-menu">
 								<li><a href="sinhala_about-us.php">සභාපතිතුමගේ පණිවුඩය</a></li>
 								<li><a href="sinhala_about-us.php#section_2">භාරය පිළිබදව</a></li>
@@ -133,9 +133,9 @@
 								</ul>
 						</li>
 						
-						<li class="dropdown"><a href="shop-left.php">සාප්පුව</a>
+						<li class="dropdown"><a href="shop_pages1.php">සාප්පුව</a>
 						<ul class="sub-menu">
-								<li><a href="our-teachers.php">ත්‍රිපාලිකා ප්‍රකාශන</a>
+								<li><a href="our-teachers.php">ත්‍රිපිටක ප්‍රකාශන</a>
 								</ul>
 					</li>
 
