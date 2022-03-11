@@ -37,7 +37,7 @@
 
 <body id="tl">
 	<!-- Header -->
-        	<?php include_once 'header.php'; ?>
+        	<?php include_once 'sinhala_header.php'; ?>
 	
 	<!-- /Header -->
 
@@ -47,11 +47,11 @@
 			<div class="inner_wp z_index white_text">
 				<div class="row">
 					<div class="col-md-12">
-						<h1 class="text-center">Other Publications
+						<h1 class="text-center">අනෙකුත් ලියවිලි
 						<nav class="breadcrumb">
 							<ul>
 								<li class="breadcrumb-item"><a href="index.html">Home</a></li>
-								<li class="breadcrumb-item active">Other Publications
+								<li class="breadcrumb-item active">අනෙකුත් ලියවිලි
 </li>
 							</ul>
 						</nav>
@@ -78,17 +78,47 @@
 				<div  class="col-xl-7 col-md-7">
 					<div class="about-us-content">
 						<div class="section-header">
-							<h2>  <u class="text-custom-primary">Other Publications</u></h2>
+							<h2>  <u class="text-custom-primary">අනෙකුත් ලියවිලි</u></h2>
 							
 						</div>
-						<p>In addition to his own daily records of his life and work, Anagarika Dharmapala, founded several seminal publications that are remarkable commentaries of his times, the politico-socio-economic-religious issues of his day and his mission. He founded the Mahabodhi and the United World Journal as a monthly journal of the Mahabodhi Society of India in 1893. In the United Kingdom, he launched The British Buddhist. These are today a repository of essays and commentaries by him and many thinkers and activists of the late 19th and early 20th centuries.
+						<p>
+						තම ජීවිතය සහ තම කාර්යයන්ට අදාළ යෙදූ දෛනික
+සටහන් වලට අමතරව අනගාරික ධර්මපාලයන් ප‍්‍රකාශණ
+ගණනාවක් නිකුත් කර ඇති අතර ඒවා තම ජීවිත කාලය පිළිබඳව විවරණයන් ලෙසත් ඒ කාලයේ දේශපාලන සමාජීය,
+ආර්ථික සහ ආගමික ගැටලූ සහ තම දූත මෙහෙවරන් පිළිබඳව
+විශිෂ්ට ලේඛනයන් බවත් ඉඳුරාම පිළිගෙන ඇත.	
+				
 </p>
+<p>වසර 1893 දී ඉන්දියාවේ මහාබෝධි සංගමය
+වෙනුවෙන් මාසික ස`ගරාවක් වශයෙන් ”මහාබෝධි සහ එක්සත්
+ලෝක ස`ගරාවද” ආරම්භ කරන ලදී. එක්සත් රාජධානියේදී
+හෙතෙම ‘‘බි‍්‍රතාන්‍ය බෞද්ධයා’’ ද ආරම්භ කරනලදී.
+වර්තමානයේදී මෙම රචනා සහ විවරණයන් එතුමාගේ සහ
+චින්තකයන්ගේ හා ක‍්‍රියාකාරීන්ගේ වටිනා නිධියක් ලෙසට
+හඳුන්වයි.</p>
 
 
-<p>In 1906, Anagarika Dharmapala founded the Sinhala Bauddhaya as a publication of the Mahabodhi Society in Sri Lanka to publicize his mission, especially the resistance to British colonial rule and the mission of reclaiming Buddha Gaya in India for the Buddhists of the world. Mary Foster Robinson, his benefactor, provided the initial capital for the newspaper while well-known writers in Sinhala contributed articles.  Piyadasa Sirisena and Walisinha Harischandra were appointed by the Society as the editors. The Colonial Government in Sri Lanka sealed the Sinhala Bauddhaya in 1915 following the imposition of Martial Law. It was returned to the Mahabodhi Society in 1922.
+<p>1906 දී අනගාරික ධර්මපාල තුමන් විසින් ශ‍්‍රී ලංකාවේ
+මහ බෝධි සංගමය වෙනුවෙන් ‘‘සිංහල බෞද්ධයා’’ එළි දැක්වූ
+අතර විශේෂයෙන් තම ¥ත කාර්යය සහ බි‍්‍රතාන්‍ය යටත් විජිත
+පාලනය මගින් ඇති වූ විරෝධයන් සහ බෞද්ධයින් වෙනුවෙන්
+ඉන්දියාවේ බුද්ධගයාව නැවත අත්පත් කර ගැනීමත් පිළිබඳව
+දැනුවත් කිරීම මෙහි මූලික පරමාර්ථය විය. ඔහුගේ උපකාරකයා
+වූ මේර් ෆොස්ටර් රොබින්සන් ඔහුගේ පුවත්පත සඳහා අවශ්‍ය
+මූල්‍ය ධනය ලබා දුන් අතර සුප‍්‍රකට සිංහල ලේඛකයින් විසින්
+ලිපි සපයන ලදී. පියදාස සිරිසේන සහ වලිසිංහ හරිස්චන්ද්‍රයන්
+කතුවරුන් වශයෙන් සංගමය විසින් පත් කරන ලදී. 1915 ශ‍්‍රී
+ලංකාවේ යටත් විජිත පාලන රජය යටතේ යුද නීතිය පැනවීමත්
+සමග සිංහල බෞද්ධයා පුවත්පතට මුද්‍රා තැබීය. 1922 නැවතත්
+එය මහබෝධි සංගමය සතු විය. මීට අමතරව අනගාරික
+ධර්මපාල තුමන්ගේ රචනා කරන ලද ලිපි පත‍්‍රිකා ස`ගරා සහ
+පුවත්පත්වලට ලියන ලද ලිපි (ඔහුගේ කාලයේ පරමවිඥාර්ථ
+ස`ගරා සඳහා ලියන ලද ලිපි සහ කථාද වේ. ඔහුගේ සියලූම
+කෘතීන් එකම ප‍්‍රකාශයන් ලෙස ලබා ගැනීමට නොහැකි වුවත්
+කෘතීන් ගණනාවක් එක් රැස් කොට ඔහුගේ ලේඛන පරාසයක
+සාම්පලයන් ලෙස එළි දැක්වීමට ප‍්‍රයත්නයන් දරා ඇත.
 </p>
-<p>In addition to these, Anagarika Dharmapala’s writings include pamphlets, contributions to journals/newspapers (several to the theosophical journals of his time)  letters and speeches. While no complete compilation of his writings is available as one publication, there are several collections that have attempted to put together samples of a range of his writings. Dr. Ananda Guruge, scholar-diplomat's tome 'Return to Righteouness', a 1965 publication is arguably the best effort at consolidating most of Dharmapala's works into a single volume.
-</p>
+
 
 					</div>
 				</div>
@@ -131,7 +161,7 @@
 	
 
 	
-<?php include_once 'footer.php';?>
+<?php include_once 'sinhala_footer.php';?>
 
 
 

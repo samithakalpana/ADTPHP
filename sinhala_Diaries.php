@@ -37,7 +37,7 @@
 
 <body id="tl">
 	<!-- Header -->
-        	<?php include_once 'header.php'; ?>
+        	<?php include_once 'sinhala_header.php'; ?>
 	
 	<!-- /Header -->
 
@@ -47,12 +47,12 @@
 			<div class="inner_wp z_index white_text">
 				<div class="row">
 					<div class="col-md-12">
-						<h1 class="text-center">Diaries and notebooks of Anagarika Dharmapala
+						<h1 class="text-center">අනගාරික ධර්මපාලයන්ගේ දිනපොත් සහ සටහන් පොත්
 </h1>
 						<nav class="breadcrumb">
 							<ul>
 								<li class="breadcrumb-item"><a href="index.html">Home</a></li>
-								<li class="breadcrumb-item active">Diaries and notebooks of Anagarika Dharmapala
+								<li class="breadcrumb-item active">අනගාරික ධර්මපාලයන්ගේ දිනපොත් සහ සටහන් පොත්
 </li>
 							</ul>
 						</nav>
@@ -79,15 +79,35 @@
                     
 					<div class="about-us-content">
 						<div class="section-header">
-							<div class="align-left"><h2><u class="text-custom-primary">Diaries and notebooks of Anagarika Dharmapala
+							<div class="align-left"><h2><u class="text-custom-primary">අනගාරික ධර්මපාලයන්ගේ දිනපොත් සහ සටහන් පොත්
 
 </u></h2></div>
 
 </div>  
-<p class="align_left">As a prolific writer, editor and publisher, as well as an eloquent orator, both in his native tongue of Sinhala and in English, Anagarika Dharmapala produced a remarkable collection of writings in the form of pamphlets, diary entries, letters, newspaper articles and speeches. Many of these have been carefully preserved and are accessible to the public.
+<p class="align_left">
+විශිෂ්ට ගනයේ ලේඛකයෙකු කතුවරයෙකු
+ප‍්‍රකාශකයෙකු සහ දක්‍ෂ කථිකයෙකු ලෙස තම මව් බස වූ
+සිංහල සහ ඉංග‍්‍රීසි බසද මැනවින් හසුරුවමින් පත‍්‍රිකා,
+දිනපොත්වල යෙ¥ සටහන් ලිපි පුවත්පත්වල පළවූ ලිපි, සහ
+දේශනයන් එක්කොට විශිෂ්ට ලේඛන එකතුවක් අනගාරික
+ධර්මපාලයන් විසින් එළි දක්වා ඇත. මේවායින් බොහොමයක්
+මහජනයාට ප‍්‍රවේශ විය හැකි අයුරෙන් මැනවින් සුරක්ෂිත
+කොට ඇත.
+
 </p>
-<p>Anagarika Dharmapala maintained notebooks and diaries throughout his adult life and most of these have survived for over a century. The original handwritten diaries were gifted by the Maha Bodhi Society to the Department of National Archives of Sri Lanka while his notebooks are held at the Dharmapala Museum in Sarnath, India. The Anagarika Dharmapala </p>
-<p>Trust maintains a set of transcribed (some as soft copies) of the following diaries in its library at the Trust office in Colombo.
+<p>
+අනගාරික ධර්මපාලයන් තම ජීවිතයේ වැඩිහිටි
+අවධියේදී දිනපොත් සහ සටහන් පොත් බෙහෙවින් පරිහරණය
+කර ඇත. මේවායින් බොහොමයක් ශත වර්ෂයකට අධික
+කාලයක් මැනවින් ආරක්‍ෂිත වී ඇත. මුල් අවධියේ අතින් සටහන්
+යෙ¥ දිනපොත් අනගාරික ධර්මපාල භාරය විසින් ජාතික
+ලේඛනාගාරය වෙත ප‍්‍රදානය කර ඇත. ඔහුගේ සටහන් පොත්
+සාරාණාත් හි ධර්මපාල කෞතුකාගාරයේ තබා ඇත.	</p>
+<p> අනගාරික
+ධර්මපාල භාරය විසින් පිටපත් කරන ලද 1889 සිට 1939 වසර
+දක්වා වූ කාලයට අදාළ වෙළුම් වශයෙන් බඳින ලද දින පොත්
+36ක් භාරය සතු කොළඹ පිහිටි කාර්යාලයේ පුස්තකාලයේ තබා
+ඇත.
 </p>
 
 
@@ -95,7 +115,7 @@
 
 <br><br>
 
-<p><b>Diary Entry April/May 1889: On tour of Japan with Col H. S. Olcott</b>
+<!-- <p><b>Diary Entry April/May 1889: On tour of Japan with Col H. S. Olcott</b>
 </p>
 <p><b>Diary Note 1889: On the Noble Eightfold Path
 </b></p>
@@ -107,7 +127,7 @@
 <p><b>Diary Entry December 1913: On practicing the Dhamma
 </b></p>
 <p><b>Diary Entry December 1931: On asking the Devas for protection to complete the Mulaghandakuti Vihara
-</b></p>
+</b></p> -->
 
 </div>
 	</div>
@@ -134,7 +154,7 @@
 	
 
 	
-<?php include_once 'footer.php';?>
+<?php include_once 'sinhala_footer.php';?>
 
 
 

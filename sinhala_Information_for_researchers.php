@@ -37,7 +37,7 @@
 
 <body id="tl">
 	<!-- Header -->
-        	<?php include_once 'header.php'; ?>
+        	<?php include_once 'sinhala_header.php'; ?>
 	
 	<!-- /Header -->
 
@@ -47,11 +47,11 @@
 			<div class="inner_wp z_index white_text">
 				<div class="row">
 					<div class="col-md-12">
-						<h1 class="text-center">Information for Researchers
+						<h1 class="text-center">පර්යේෂකයින්/විද්වතුන් සඳහා තොරතුරු
 						<nav class="breadcrumb">
 							<ul>
 								<li class="breadcrumb-item"><a href="index.html">Home</a></li>
-								<li class="breadcrumb-item active">Information for Researchers
+								<li class="breadcrumb-item active">පර්යේෂකයින්/විද්වතුන් සඳහා තොරතුරු
 </li>
 							</ul>
 						</nav>
@@ -78,16 +78,29 @@
 				<div  class="col-xl-7 col-md-7">
 					<div class="about-us-content">
 						<div class="section-header">
-							<h2>  <u class="text-custom-primary">Information for Researchers</u></h2>
+							<h2>  <u class="text-custom-primary">පර්යේෂකයින්/විද්වතුන් සඳහා තොරතුරු</u></h2>
 							
 						</div>
-<p>The Trust supports and encourages researchers and scholars to contribute to the constantly evolving discourse on the life, work and impact of Angarika Dharmapala.
+<p>අනගාරික ධර්මපාල තුමන්ගේ ජීවිතය ඔහුගේ
+ක‍්‍රියාකාරකම් සහ ඒවායේ ඇති බලපෑම පිළිබඳව නිරන්තරයෙන්
+විකාශනය වන කතිකාව සඳහා දායක වීමට පර්යේෂකයින්/
+විද්වතුන් උනන්දු කරවීමටත් ඔවුනට සහයෝගය දැක්වීමටත්
+මෙම භාරය කටයුතු කරයි. අනගාරික ධර්මපාල තුමන්ගේ දින
+පොත් සටහන්වල අත්පිටපත් ලබාගැනීම සඳහා හෝ එතුමාගේ
+කෘතීන් සහ ප‍්‍රකාශන පොත් යනාදිය සඳහා හෝ එතුමාගේ
+කෘතීන් සහ ප‍්‍රකාශන පොත් යනාදිය සඳහා ප‍්‍රවේශයක් ලබා
+ගැනීමට විද්වතුන් භාරය විසින් පවත්වා ගෙන යනු ලබන
+පුස්තකාලය වෙත අයදුමක් කළ යුතුය. ඒ සඳහා ලිපියක් ඊ
+තැපැල් මගින් සභාපති, භාරය වෙත ඉල්ලූමක් කළ යුතුය. එම
+අයදුම් පතෙන් පර්යේෂකයා සම්බන්ධ අදාළ ආයතනයේ නම
+ප‍්‍රධාන අයදුම්කරුගේ නාමය සහ අනෙකුත් අයගේ නාමයන්
+සඳහන් විය යුතුය. 
  
  </p>
- <p>To access the transcribed diaries and other publications, including books on Anagarika Dharmapala at the Trust office library, scholars need to submit a request in writing. Please send a letter/email addressed to the Chairman of the Trust, with the names, institutional affiliation of the researcher/s (lead and others if any) and brief details of the research project.
- 
- </p>
-<p>The Trust office library is open from 10.00 am to 3.00 pm every weekday (please make an appointment  before visiting).
+
+<p>භාරය සතු පුස්තකාලය සෑම දිනකම උදෑසන
+10.00 සිට සවස 03.30 දක්වා විවෘතව ඇත. (පැමිණීමට පෙර
+කාර්යාලයෙන් විමසන්න)_
 </p>
 <br><br>
 <h6>Resources:
@@ -138,7 +151,7 @@
 	
 
 	
-<?php include_once 'footer.php';?>
+<?php include_once 'sinhala_footer.php';?>
 
 
 
