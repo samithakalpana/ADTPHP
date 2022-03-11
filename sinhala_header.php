@@ -126,14 +126,14 @@
 								<li><a href="blog-detail.html">Blog Detail</a></li>
 							</ul> -->						
 								<ul class="sub-menu">
-								<li><a href="our-teachers.php">දිනපොත්</a>
-								<li><a href="our-teachers.php">අනෙකුත් ප්‍රකාශන</a>
-								<li><a href="our-teachers.php">පර්‍යේෂකයන් සදහා තොරතුරු</a>
+								<li><a href="sinhala_Diaries.php">දිනපොත්</a>
+								<li><a href="sinhala_Other_publications.php">අනෙකුත් ප්‍රකාශන</a>
+								<li><a href="sinhala_Information_for_researchers.php">පර්‍යේෂකයන් සදහා තොරතුරු</a>
 						
 								</ul>
 						</li>
 						
-						<li class="dropdown"><a href="shop_pages1.php">සාප්පුව</a>
+						<li class="dropdown"><a href="sinhala_shop_main_ADT_books.php">සාප්පුව</a>
 						<ul class="sub-menu">
 								<li><a href="our-teachers.php">ත්‍රිපිටක ප්‍රකාශන</a>
 								</ul>
