@@ -367,6 +367,170 @@ The Trustees were expected to appoint succeeding Trustees, and in 1947, the Publ
 				</div>
 
 			</div>
+<br>
+<br> <h4 class="section-header-center text-center">Former Trustees
+</h4><br>
+			<table>
+  <thead>
+    <tr>
+      <th>Trustee Name</th>
+      <th>From</th>
+      <th>To</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>N.  Don Stephen Silva     </td>
+      <td>  01.12.1930  </td>
+      <td> 19.05.1942
+</td>
+      
+    </tr>
+     <tr>
+      <td>Neil Hewavitarne </td>
+      <td>01.12.1930</td>
+      <td>  19.05.1942
+</td>
+      
+    </tr>
+     <tr>
+      <td>Rajasinghe Hewavitarne   </td>
+      <td>  01.12.1930  </td>
+      <td>     19.05.1942
+</td>
+      
+    </tr>
+     <tr>
+      <td>S. K. Moonasinghe  </td>
+      <td>   01.12.1930 </td>
+      <td>   19.05.1942</td>
+      
+    </tr>
+
+	<tr>
+      <td>U. B. Dolapihilla   </td>
+      <td>   01.12.1930</td>
+      <td>19.05.1942
+</td>
+      
+    </tr>
+
+	<tr>
+      <td>J. R. Jayewardene (sole Managing Trustee)  </td>
+      <td> 25.05.1942</td>
+      <td>  30.09.1954
+</td>
+      
+    </tr>
+
+	<tr>
+      <td>H. W. Amarasuriya    </td>
+      <td>30.09.1954</td>
+      <td> 06.03.1981 </td>
+      
+    </tr>
+
+	<tr>
+      <td>Nalin Moonasinghe</td>
+      <td>30.09.1954   </td>
+      <td>31.07.1974
+</td>
+      
+    </tr>
+
+	<tr>
+      <td>R. A. Rathnapala   </td>
+      <td>   30.09.1954  </td>
+      <td>   27.11.1957
+</td>
+      
+    </tr>
+
+	<tr>
+      <td>Mudaliyar  P.D. Ratnatunga </td>
+      <td>30.09.1954   </td>
+      <td>  27.11.1957</td>
+      
+    </tr>
+
+	<tr>
+      <td>Gamani  N. Jayasuriya     </td>
+      <td>  27.11.1957  </td>
+      <td> 30.11.1995
+</td>
+      
+    </tr>
+
+	<tr>
+      <td>P. Upajiva Ratnatunga</td>
+      <td> 27.11.1957 </td>
+      <td> 31.07.1974
+</td>
+      
+    </tr>
+
+	<tr>
+      <td>Wimaladharma Hewavitarne  </td>
+      <td> 27.11.1957 </td>
+      <td>06.03.1981
+</td>
+      
+    </tr>
+
+	<tr>
+      <td>Lalith K. Hewavitarne  </td>
+      <td>  07.05.1968  </td>
+      <td> 03.05.1984 
+</td>
+      
+    </tr>
+
+	<tr>
+      <td>Singha Weerasekera </td>
+      <td>  01.08.1974 </td>
+      <td>   25.02.2002
+</td>
+      
+    </tr>
+
+	<tr>
+      <td>Nanda Amarasinghe </td>
+      <td>  01.08.1974</td>
+      <td>   18.05.1995
+</td>
+      
+    </tr>
+
+	<tr>
+      <td>Noel Wijenaike  </td>
+      <td>     14.08.1981   </td>
+      <td>  04.11.2014
+</td>
+      
+    </tr>
+
+	<tr>
+      <td>Prasanna Jayasuriya    </td>
+      <td> 01.12.1995  </td>
+      <td>   06.01.2015
+</td>
+      
+    </tr>
+
+	<tr>
+      <td>Anil Moonasinghe</td>
+      <td> 16.02.1999   </td>
+      <td>  14.09.2000
+</td>
+      
+    </tr>
+
+
+  </tbody>
+</table>
+
+
+
 		</div>
 	</section>
 	<!-- /Team -->
