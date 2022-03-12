@@ -47,7 +47,7 @@
 			<div class="inner_wp z_index white_text">
 				<div class="row">
 					<div class="col-md-12">
-						<h1 class="text-center">පර්යේෂකයින්/විද්වතුන් සඳහා තොරතුරු
+						<h1 class="text-center">පර්යේෂකයින්/විද්වතුන් සඳහා තොරතුරු</h1>
 						<nav class="breadcrumb">
 							<ul>
 								<li class="breadcrumb-item"><a href="sinhala_index.php">මුල් පිටුව</a></li>
@@ -103,7 +103,7 @@
 කාර්යාලයෙන් විමසන්න)_
 </p>
 <br><br>
-<h6>Resources:
+<h6>මූලාශ්‍ර:
 </h6>
 <p>Sangharakshita, B (1952), <i>Angarika Dharmapala: A Biographical Sketch,</i> Buddhist Publications Society, Kandy (1983 printing).
 </p>

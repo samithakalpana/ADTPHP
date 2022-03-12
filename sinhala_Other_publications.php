@@ -47,7 +47,7 @@
 			<div class="inner_wp z_index white_text">
 				<div class="row">
 					<div class="col-md-12">
-						<h1 class="text-center">අනෙකුත් ලියවිලි
+						<h1 class="text-center">අනෙකුත් ලියවිලි</h1>
 						<nav class="breadcrumb">
 							<ul>
 								<li class="breadcrumb-item"><a href="sinhala_index.php">මුල් පිටුව</a></li>

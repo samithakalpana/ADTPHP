@@ -69,8 +69,41 @@
 							<!-- <h3>Gopal dhanam</h3> -->
 							<h3>චාර්ල්ස් අල්විස් හේවාවිතාරණ</h3>
 							<!-- <p class="designation">Yoga Teacher</p> -->
-							<p class="designation">(From 1876–1929)</p>
-							<p>	චාර්ල්ස් අනගාරික ධර්මපාලයන්ගේ බාලම
+							<p class="designation">(1876 සිට – 1929 දක්වා)</p>
+<p>
+
+
+	
+
+
+	</p>
+	
+	<p>
+
+
+							
+							</p>
+							<!-- <div class="sa-team-social">
+								<h5>Social links</h5>
+								<ul class="text-center">
+									<li><a href="#"><i class="fab fa-facebook-f"></i></a></li>
+									<li><a href="#"><i class="fab fa-twitter"></i></a></li>
+									<li><a href="#"><i class="fab fa-linkedin-in"></i></a></li>
+									<li><a href="#"><i class="fab fa-youtube"></i></a></li>
+									<li><a href="#"><i class="fab fa-instagram"></i></a></li>
+								</ul>
+							</div> -->
+						</div>
+					</div>
+					<!-- <div class="col-xl-4 col-lg-5 offset-xl-1 align-self-center">
+						<div class="ss-pastor-img-wrap">
+						
+							<img src="assets/images/pastor-1.jpg" alt="img">
+						</div>
+					</div> -->
+				</div>
+
+				<p>	චාර්ල්ස් අනගාරික ධර්මපාලයන්ගේ බාලම
 සොහොයුරාය. ඔහු විද්වතෙකු දානපතියෙකු
 කර්මාන්තකරුවෙකු සහ නිදහස් සටන්කාමියෙකු විය. ලංකා
 වෛද්‍ය විද්‍යාලයේ වෛද්‍ය ශාස්ත‍්‍රය හැදෑරූ ඔහු ලංකා වෛද්‍ය
@@ -109,48 +142,18 @@
 යාම චාර්ල්ස් හට භාරව තිබුණේය.				
 							
 
-	</p><p>
-
-
-	
-
-
 	</p>
-	
-	<p>
-
-
-							
-							</p>
-							<!-- <div class="sa-team-social">
-								<h5>Social links</h5>
-								<ul class="text-center">
-									<li><a href="#"><i class="fab fa-facebook-f"></i></a></li>
-									<li><a href="#"><i class="fab fa-twitter"></i></a></li>
-									<li><a href="#"><i class="fab fa-linkedin-in"></i></a></li>
-									<li><a href="#"><i class="fab fa-youtube"></i></a></li>
-									<li><a href="#"><i class="fab fa-instagram"></i></a></li>
-								</ul>
-							</div> -->
-						</div>
-					</div>
-					<div class="col-xl-4 col-lg-5 offset-xl-1 align-self-center">
-						<div class="ss-pastor-img-wrap">
-							<!-- <img src="assets/images/pastor-1.jpg" alt="img"> -->
-							<img src="assets/images/pastor-1.jpg" alt="img">
-						</div>
-					</div>
-				</div>
 				<p>1915 ඔහුව සිරභාරයට ගත් අවස්ථාවේ චාර්ල්ස් විසින්
 රචනා කරන ලද මෙම කාව්‍යයෙන් පිළිබිඹු වන්නේ බුදුන්
 වහන්සේ වෙත ඔහු පෑ අසීමිත භක්තියක් ආර්ය අෂ්ටාංගික
 මාර්ගය තුළ ඔහුගේ සිත නැඹුරු වී තිබූ ආකාරයත්ය.
 
-				</p><p><b>”ඔබ දෙපා අභියස”</b>
+				</p>
+				<h4><b>”ඔබ දෙපා අභියස” </b></h4>
 					
-				</p><p>වෛද්‍ය චාර්ල්ස් හේවාවිතාරණ යන්ගෙනි.
+				<p><b>වෛද්‍ය චාර්ල්ස් හේවාවිතාරණ යන්ගෙනි.</b></p>
 					
-					</p><p>”දයානු කම්පිත ඔබ ලේකයාගේ අසංඛ්‍යත නැගිටීම්
+					<p>”දයානු කම්පිත ඔබ ලේකයාගේ අසංඛ්‍යත නැගිටීම්
 සහ වැටීම් වෙනස් නොවන උනන්දුවක් තුළින් ඔබ දුටුයෙව්.
 ඔවුන්ගේ උත්පත්ති පුරාවට මිනිසුන් ආදරයෙන් රකින සත්‍යය
 සොයා ගැනීමට ඔවුනගේ වෙහෙස මහන්සිය තුළ ඔබ මග

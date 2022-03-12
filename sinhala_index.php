@@ -126,27 +126,31 @@ ob_start();
 		</div>
 	</section>
 	<!-- /Intro -->
-
-	<!-- Next-Events-Sermons -->
-	<section class="latest_event_sermons home-sermon">
+		<!-- Next-Events-Sermons -->
+		<section class="latest_event_sermons home-sermon">
 		<div class="container">
 			<div class="row">
 				<div class="col-md-6">
 					<div class="box_wrap next_sermons">
-						<p class="subtitle">Latest Sermons</p>
-						<h4><a href="sermon-detail.html">Man is made by his belief</a></h4>
+						<!-- <p class="subtitle">Latest Sermons</p> -->
+						<h4><a href="about-us.php">Life Of Anagarika Dharmapala</a></h4>
 						<ul class="sermons_meta">
-							<li><i class="fa fa-user"></i> Message from <a href="#">yogbhagat</a></li>
-							<li><i class="far fa-calendar-alt"></i> sep 03, 2020</li>
+							<li><i class="fa fa-user"></i> <a href="life_1_our-teachers.php">Don David Hewavitarne</a></li><br>
+							<li><i class="fa fa-user"></i> <a href="life_2_our-teachers.php">The Anagarika</a></li><br>
+							<li><i class="fa fa-user"></i> <a href="life_3_our-teachers.php">Sri Dewamitta Dhammapala</a></li><br>
+							<li><i class="fa fa-user"></i> <a href="life_4_our-teachers.php">The Battle For Buddha Gaya</a></li><br>
+							<li><i class="fa fa-user"></i> <a href="life_6_our-teachers.php">Time Line</a></li><br>
+							<li><i class="fa fa-user"></i> <a href="life_5_our-teachers.php">Legacy</a></li>
+							<!-- <li><i class="far fa-calendar-alt"></i> sep 03, 2020</li> -->
 						</ul>
-						<div class="sermons_inside">
+						<!-- <div class="sermons_inside">
 							<ul>
 								<li><a href="#"><i class="fab fa-youtube"></i></a></li>
 								<li><a href="#"><i class="far fa-file-pdf"></i></a></li>
 								<li><a href="#"><i class="fa fa-share-alt"></i></a></li>
 							</ul>
-						</div>
-						<div class="audio-player">
+						</div> -->
+						<!-- <div class="audio-player">
 							<div id="play-btn">
 								<i class="fa fa-play"> </i>
 								<i class="fa fa-pause"></i>
@@ -164,7 +168,7 @@ ob_start();
 								<i class="fa fa-angle-left"></i>
 								<i class="fa fa-angle-right"></i>
 							</div>
-						</div>
+						</div> -->
 					</div>
 				</div>
 				<div class="col-md-6">
@@ -190,42 +194,44 @@ ob_start();
 				<div class="col-xl-7 col-md-7">
 					<div class="about-us-content">
 						<div class="section-header">
-							<h2>some important life lessons from lord <u class="text-custom-primary">buddha</u></h2>
-							<p>There are many variations of passages of Lorem Ipsum available, but the majority have suffered alteration in some</p>
+							<h2>The <u class="text-custom-primary">Anagarika Dharmapala
+</u></h2><br><br>
+							<p>From the age of 21 years, the young Don David called himself the Angarika ("the homeless one")  and began a new phase of his life as a renunciant, i.e. a life betwixt that of a lay individual and a monk.</p>
 						</div>
-						<p>Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen
-							book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged.</p>
-							<p>It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum.</p>
+						<p> He took up residence at the Buddhist Theosophical Society in Colombo and worked tirelessly to promote the work for the betterment of society and the promulgation of Buddhism.
+</p>
+							<p><a class="text-custom-primary" href="life_2_our-teachers.php">Read More...</a></p>
 					</div>
 				</div>
 				<div class="col-xl-5 col-md-5 align-self-center">
 					<div class="about-us-image">
-						<img src="assets/images/lotus.png" alt="img" class="img-fluid mx-auto d-block">
+						<img src="assets/images/homehome3.jpg" alt="img" class="img-fluid mx-auto d-block">
 					</div>
 				</div>
 			</div>
 				<!-- Features -->
 				<div class="features">
 					<div class="row">
+					<div class="col-lg-4 col-md-6">
+							<div class="features_wrap features-after-none">
+								<div class="f-f-icon"><a href="Diaries.php"><img src="assets/images/team.png" alt="img"></div>
+								<h4 class="text-custom-secondary">publications and Research</h4></a>
+								</div>
+						</div>
+
 						<div class="col-lg-4 col-md-6">
 							<div class="features_wrap features-after-none">
-								<div class="f-f-icon"><img src="assets/images/peace.png" alt="img"></div>
-								<h4 class="text-custom-secondary">Meditation</h4>
-								<p class="mb-0">Uncover many web sites still in their infancy. Various versions have evolved over the years, sometimes by accident.</p>
+								<div class="f-f-icon"><a href="about-us.php"><img src="assets/images/peace.png" alt="img"></div>
+								<h4 class="text-custom-secondary">The Trust</a></h4></a>
+								
 							</div>
 						</div>
+						
 						<div class="col-lg-4 col-md-6">
 							<div class="features_wrap features-after-none">
-								<div class="f-f-icon"><img src="assets/images/team.png" alt="img"></div>
-								<h4 class="text-custom-secondary">Community</h4>
-								<p class="mb-0">Uncover many web sites still in their infancy. Various versions have evolved over the years, sometimes by accident.</p>
-							</div>
-						</div>
-						<div class="col-lg-4 col-md-6">
-							<div class="features_wrap features-after-none">
-								<div class="f-f-icon"><img src="assets/images/open-book.png" alt="img"></div>
-								<h4 class="text-custom-secondary">Philosophy</h4>
-								<p class="mb-0">Uncover many web sites still in their infancy. Various versions have evolved over the years, sometimes by accident.</p>
+								<div class="f-f-icon"><a href="shop_main_ADT_books.php"><img src="assets/images/team.png" alt="img"></div>
+								<h4 class="text-custom-secondary">Store</a></h4></a>
+								
 							</div>
 						</div>
 					</div>
@@ -235,22 +241,36 @@ ob_start();
 	</section>
 	<!-- /About -->
 
-	<!-- Causes -->
-	<section id="causes" class="section-padding gray_bg">
+		<!-- Causes -->
+		<section id="causes" class="section-padding gray_bg">
 		<div class="container">
 			<div class="owl-carousel">
 				<div class="item">
 					<div class="causes_info">
-						<p class="subtitle text-white">Gita's sermony</p>
-						<h3 class="white_text">Five quotes of bhagwat gita</h3>
-						<p class="white_text mb-0">A Karma-yogi performs action by body, mind, intellect, and senses, without attachment (or ego), only for self-purification."</p>
+						<!-- <p class="subtitle text-white">Gita's sermony</p> -->
+						<h3 class="white_text">“Wherever I went I have worked for the public good”</h3>
+						<p class="white_text mb-0">Anagarika Dharmapala - 1915 </p>
 					</div>
 				</div>
 				<div class="item">
 					<div class="causes_info">
-						<p class="subtitle text-white">krishna's preaching</p>
-						<h3 class="white_text">Five quotes of mahabharat</h3>
-						<p class="white_text mb-0">Meet this transient world with neither grasping nor fear,trust the unfolding of life,and you will attain true serenity.</p>
+						<!-- <p class="subtitle text-white">krishna's preaching</p> -->
+						<h3 class="white_text">“My comfort is the Buddha, His Dhamma and the Holy Ones”</h3>
+						<p class="white_text mb-0">Anagarika Dharmapala - 1915</p>
+					</div>
+				</div>
+				<div class="item">
+					<div class="causes_info">
+						<!-- <p class="subtitle text-white">krishna's preaching</p> -->
+						<h3 class="white_text">“My life will be given birth after birth to Humanity”</h3>
+						<p class="white_text mb-0">Anagarika Dharmapala - 1897</p>
+					</div>
+				</div>
+				<div class="item">
+					<div class="causes_info">
+						<!-- <p class="subtitle text-white">krishna's preaching</p> -->
+						<h3 class="white_text">“The householder must follow the Middle Way…. Above all he must practice charity and love”</h3>
+						<p class="white_text mb-0">Anagarika Dharmapala - 1910</p>
 					</div>
 				</div>
 			</div>
@@ -258,13 +278,13 @@ ob_start();
 	</section>
 	<!-- /Causes -->
 
-	<!-- Latest-Events-Sermons -->
-	<section class="section-padding latest_event_sermons m-0">
+		<!-- Latest-Events-Sermons -->
+		<section class="section-padding latest_event_sermons m-0">
 		<div class="container">
 			<div class="row">
 				<div class="col-md-6 col-lg-5">
 					<div class="heading">
-						<h3>Latest Events</h3>
+						<h3><a href="life_6_timeline.php">Timeline</a></h3>
 						<div class="tl-slider-arrow float-right">
 							<div class="tl-left-arrow slick-arrow mr-2" style="">
 								<span><i class="fa fa-chevron-up"></i></span>
@@ -281,38 +301,38 @@ ob_start();
 									<div class="event-list">
 										<ul>
 											<li>
-												<div class="event_info">
+											<div class="event_info">
 													<div class="event_date">
-														<span>02</span> sep'19
+														<span>1915</span>
 													</div>
-													<h6><a href="event-detail.html">Vinayaka Chathurthy</a></h6>
+													<!-- <h6><a href="event-detail.html">Vinayaka Chathurthy</a></h6> -->
 													<ul>
-														<li><i class="far fa-clock"></i> Sunday (8:00 am -9:00 am)</li>
-														<li><i class="fas fa-map-marker-alt"></i>4873 Pretty View Lane New York</li>
+														<li><i class="far fa-clock"></i> The Kandyan Kingdom of Sri Lanka cedes to the British. The  Kandyan Convention is signed – 2nd March</li>
+														<!-- <li><i class="fas fa-map-marker-alt"></i></li> -->
 													</ul>
 												</div>
 											</li>
 											<li>
 												<div class="event_info">
 													<div class="event_date">
-														<span>16</span> sep'19
+														<span>1932</span> 
 													</div>
-													<h6><a href="event-detail.html">Navarathri Celebrations</a></h6>
+													<!-- <h6><a href="event-detail.html">Navarathri Celebrations</a></h6> -->
 													<ul>
-														<li><i class="far fa-clock"></i> tuesday (9:00 am -8:00 pm)</li>
-														<li><i class="fas fa-map-marker-alt"></i>4873 Pretty View Lane New York</li>
+														<li><i class="far fa-clock"></i>English becomes the official language in Ceylon (Sri Lanka)</li>
+														<!-- <li><i class="fas fa-map-marker-alt"></i>4873 Pretty View Lane New York</li> -->
 													</ul>
 												</div>
 											</li>
 											<li>
-												<div class="event_info">
+											<div class="event_info">
 													<div class="event_date">
-														<span>12</span> oct'19
+														<span>1837</span>
 													</div>
-													<h6><a href="event-detail.html">Durgashtami </a></h6>
+													<!-- <h6><a href="event-detail.html">Durgashtami </a></h6> -->
 													<ul>
-														<li><i class="far fa-clock"></i> Sunday (8:00 pm -9:00 pm)</li>
-														<li><i class="fas fa-map-marker-alt"></i>4873 Pretty View Lane New York</li>
+														<li><i class="far fa-clock"></i>George Turner’s English translation of the Mahavamsa published</li>
+														<!-- <li><i class="fas fa-map-marker-alt"></i>4873 Pretty View Lane New York</li> -->
 													</ul>
 												</div>
 											</li>
@@ -330,38 +350,40 @@ ob_start();
 									<div class="event-list">
 										<ul>
 											<li>
-												<div class="event_info">
+											<div class="event_info">
 													<div class="event_date">
-														<span>02</span> sep'19
+														<span>1860</span>
 													</div>
-													<h6><a href="event-detail.html">Vinayaka Chathurthy</a></h6>
+													<!-- <h6><a href="event-detail.html">Vinayaka Chathurthy</a></h6> -->
 													<ul>
-														<li><i class="far fa-clock"></i> Sunday (8:00 am -9:00 am)</li>
-														<li><i class="fas fa-map-marker-alt"></i>4873 Pretty View Lane New York</li>
+														<li><i class="far fa-clock"></i>
+														1860	•	H. Don Carolis, the father of the future Anagarika Dharmapala, migrates to Colombo from Matara
+•	Marriage of H. Don Carolis to Mallika Dharmagunawardhana
+•	H. Don Carolis establishes Don Carolis & Sons in Pettah
+														</li></ul>
+													
+											</li>
+											<li>
+											<div class="event_info">
+													<div class="event_date">
+														<span>1963</span> 
+													</div>
+													<!-- <h6><a href="event-detail.html">Navarathri Celebrations</a></h6> -->
+													<ul>
+														<li><i class="far fa-clock"></i> •	Baddegma Controversy (debated in writing), headed by Miggetuwatte Gunananda Thero</li>
+														<!-- <li><i class="fas fa-map-marker-alt"></i>4873 Pretty View Lane New York</li> -->
 													</ul>
 												</div>
 											</li>
 											<li>
-												<div class="event_info">
+											<div class="event_info">
 													<div class="event_date">
-														<span>16</span> sep'19
+														<span>1964</span> 
 													</div>
-													<h6><a href="event-detail.html">Navarathri Celebrations</a></h6>
+													<!-- <h6><a href="event-detail.html">Durgashtami </a></h6> -->
 													<ul>
-														<li><i class="far fa-clock"></i> tuesday (9:00 am -8:00 pm)</li>
-														<li><i class="fas fa-map-marker-alt"></i>4873 Pretty View Lane New York</li>
-													</ul>
-												</div>
-											</li>
-											<li>
-												<div class="event_info">
-													<div class="event_date">
-														<span>12</span> oct'19
-													</div>
-													<h6><a href="event-detail.html">Durgashtami </a></h6>
-													<ul>
-														<li><i class="far fa-clock"></i> Sunday (8:00 pm -9:00 pm)</li>
-														<li><i class="fas fa-map-marker-alt"></i>4873 Pretty View Lane New York</li>
+														<li><i class="far fa-clock"></i>•	Birth of Don David Hewavitarne – 17th September</li>
+														<!-- <li><i class="fas fa-map-marker-alt"></i>4873 Pretty View Lane New York</li> -->
 													</ul>
 												</div>
 											</li>
@@ -378,107 +400,54 @@ ob_start();
 
 				<div class="col-md-6 col-lg-5 offset-lg-2">
 					<div class="heading">
-						<h3>Latest Sermons</h3>
-						<a href="sermon.html" class="btn btn-sm float-right">See All</a>
+						<h3>Associates</h3>
+						<a href="Associates_1_Maha_Bodhi_Society.php" class="btn btn-sm float-right">See All</a>
 					</div>
 					<div class="panel-group" id="accordion" role="tablist" aria-multiselectable="true">
 						<div class="panel panel-default">
 							<div class="panel-heading" role="tab" id="headingOne">
 								<h6 class="panel-title">
-									<a role="button" data-toggle="collapse" data-parent="#accordion" href="#collapseOne" aria-expanded="true" aria-controls="collapseOne">
-										It is no use lying to one's self </a>
+									<a href="Associates_1_Maha_Bodhi_Society.php" >
+									 Maha Bodhi Society </a>
 								</h6>
 							</div>
-							<div id="collapseOne" class="panel-collapse collapse in show" role="tabpanel" aria-labelledby="headingOne">
-								<div class="panel-body">
-									<ul class="sermons_meta">
-										<li><i class="fa fa-user"></i> Message from <a href="#">yogbhagat</a></li>
-										<li><i class="far fa-calendar-alt"></i> sep 03, 2020</li>
-									</ul>
-									<div class="sermons_inside">
-										<ul>
-											<li><a href="#"><i class="fa fa-music"></i></a></li>
-											<li><a href="#"><i class="fab fa-youtube"></i></a></li>
-											<li><a href="#"><i class="far fa-file-pdf"></i></a></li>
-											<li><a href="#"><i class="fa fa-share-alt"></i></a></li>
-										</ul>
-									</div>
-								</div>
-							</div>
+
 						</div>
 
-						<div class="panel panel-default">
-							<div class="panel-heading" role="tab" id="headingTwo">
-								<h6 class="panel-title">
-									<a class="collapsed" role="button" data-toggle="collapse" data-parent="#accordion" href="#collapseTwo" aria-expanded="false" aria-controls="collapseTwo">
-										Detached action is unselfish work.</a>
-								</h6>
-							</div>
-							<div id="collapseTwo" class="panel-collapse collapse" role="tabpanel" aria-labelledby="headingTwo">
-								<div class="panel-body">
-									<ul class="sermons_meta">
-										<li><i class="fa fa-user"></i> Message from <a href="#">yogbhagat</a></li>
-										<li><i class="far fa-calendar-alt"></i> Aug 30, 2020</li>
-									</ul>
-									<div class="sermons_inside">
-										<ul>
-											<li><a href="#"><i class="fa fa-music"></i></a></li>
-											<li><a href="#"><i class="fab fa-youtube"></i></a></li>
-											<li><a href="#"><i class="far fa-file-pdf"></i></a></li>
-											<li><a href="#"><i class="fa fa-share-alt"></i></a></li>
-										</ul>
-									</div>
-								</div>
-							</div>
-						</div>
 
 						<div class="panel panel-default">
-							<div class="panel-heading" role="tab" id="headingThree">
+							<div class="panel-heading" role="tab" id="headingOne">
 								<h6 class="panel-title">
-									<a class="collapsed" role="button" data-toggle="collapse" data-parent="#accordion" href="#collapseThree" aria-expanded="false" aria-controls="collapseThree">action is indeed better than inaction</a>
+									<a href="Associates_1_Maha_Bodhi_Society_India.php" >
+									 Maha Bodhi Society India </a>
 								</h6>
 							</div>
-							<div id="collapseThree" class="panel-collapse collapse" role="tabpanel" aria-labelledby="headingThree">
-								<div class="panel-body">
-									<ul class="sermons_meta">
-										<li><i class="fa fa-user"></i> Message from <a href="#">yogbhagat</a></li>
-										<li><i class="far fa-calendar-alt"></i> sep 02, 2020</li>
-									</ul>
-									<div class="sermons_inside">
-										<ul>
-											<li><a href="#"><i class="fa fa-music"></i></a></li>
-											<li><a href="#"><i class="fab fa-youtube"></i></a></li>
-											<li><a href="#"><i class="far fa-file-pdf"></i></a></li>
-											<li><a href="#"><i class="fa fa-share-alt"></i></a></li>
-										</ul>
-									</div>
-								</div>
-							</div>
+
 						</div>
 
+
 						<div class="panel panel-default">
-							<div class="panel-heading" role="tab" id="headingfour">
+							<div class="panel-heading" role="tab" id="headingOne">
 								<h6 class="panel-title">
-									<a class="collapsed" role="button" data-toggle="collapse" data-parent="#accordion" href="#collapsefour" aria-expanded="false" aria-controls="collapsefour">one who has faith,has supreme peace</a>
+									<a href="Associates_1_london_buddist_vihara.php" >
+									london Buddhist Vihara </a>
 								</h6>
 							</div>
-							<div id="collapsefour" class="panel-collapse collapse" role="tabpanel" aria-labelledby="headingfour">
-								<div class="panel-body">
-									<ul class="sermons_meta">
-										<li><i class="fa fa-user"></i> Message from <a href="#">yogbhagat</a></li>
-										<li><i class="far fa-calendar-alt"></i> sep 03, 2020</li>
-									</ul>
-									<div class="sermons_inside">
-										<ul>
-											<li><a href="#"><i class="fa fa-music"></i></a></li>
-											<li><a href="#"><i class="fab fa-youtube"></i></a></li>
-											<li><a href="#"><i class="far fa-file-pdf"></i></a></li>
-											<li><a href="#"><i class="fa fa-share-alt"></i></a></li>
-										</ul>
-									</div>
-								</div>
-							</div>
+
 						</div>
+
+
+						<div class="panel panel-default">
+							<div class="panel-heading" role="tab" id="headingOne">
+								<h6 class="panel-title">
+									<a href="https://www.mallikahomes.org/" >
+									Mallika Nivasa Samithiya </a>
+								</h6>
+							</div>
+
+						</div>
+
+				
 
 					</div>
 				</div>

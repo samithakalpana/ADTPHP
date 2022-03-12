@@ -76,19 +76,6 @@
 							<p>	He penned a monumental poem, <i>The Light of Asia</i>, giving a narrative of the life and message of the Buddha. The poem mesmerized the intellectuals around the world, especially in America and Europe, showing the bond between the Buddha and science. In Ceylon, it lit the spark in the young Anagarika Dharmapala to visit the holy site and thereafter form the Maha Bodhi Society to initiate a global campaign to wrest back the management control of Buddha Gaya to the Buddhist. 						
 							
 
-	</p><p>Arnold’s articles in <i>the London Daily Telegraph </i>later fully supported the efforts of Dharmapala to liberate Buddha Gaya from the control of non-Buddhists and restore it to its pristine glory. He petitioned the British Colonial Government whipping up support for the cause in London with influential colonial personalities of the time. His famous poem also struck a chord with Indian national leaders of the time like Mahatma Gandhi, Jawaharlal Nehru and Dr. B. R. Ambedkar who were independent India's first and foremost leaders and who saw to the enactment of the Buddha Gaya Temple Act of 1949, two years after independence. The Act gave 50 per cent of the control of the temple to the Buddhists through a Joint Management Committee with the Hindus. 
-
-	</p><p>Arnold and Angarika Dharmapala maintained a close and affable friendship, with Arnold meeting the Angarika each time the latter travelled to London, greeting him at the docks on arrival, hosting him in his house, and introducing him to a network of intellectuals in England. He was a linguist par excellence conversant not only in English, but Japanese, Latin, Pali, Sanskrit, Turkish, Arabic, Greek, French, German, Hebrew, Persian and Marathi. His famous poem and his writings had a marked influence on literati with the likes of D. H. Lawrence, T. S. Eliot, Rudyard Kipling, W. B. Yeats, Leo Tolstoy and James Masefield. Sir Winston Churchill would quote the title of the poem,<i> The Light of Asia</i>, when writing to Jawaharlal Nehru, a copy of which poem Nehru kept with him whenever he was incarcerated for political activism in a British jail in India. The poem was translated into 13 other languages and were depicted in dramas, films and operas. Almost every Ceylonese Buddhist family had a copy of <i> The Light of Asia </i> in their homes. Arnold married thrice, the last being a Japanese lady. He had four sons, one of whom was a coffee planter for a brief period in Ceylon.
-	<a href="#"> <b>The YMBA </b></a>(Young Mens Buddhist Association) in Sri Lanka still has a <i>Light of Asia</i> oratorical contest annually in memory of Sir Edwin Arnold and his groundbreaking poem that took the world by storm in the latter part of the 19th and early part of the 20th centuries. 
-
-	</p><p>For more details see: <br/>
-https://www.gutenberg.org/ebooks/8920 <br/> <br/>
- 
-https://www.bps.lk/olib/wh/wh159_Peiris_Edwin-Arnold--His-Service-To-Buddhism.html <br/><br/>
- 
-Ramesh, J (2021). The Light of Asia: The Poem that Defined India. Penguin, Gurgaon.<br/>
-
-
 	</p>
 	<p>
 
@@ -114,6 +101,25 @@ Ramesh, J (2021). The Light of Asia: The Poem that Defined India. Penguin, Gurga
 						</div>
 					</div>
 				</div>
+
+				<p>Arnold’s articles in <i>the London Daily Telegraph </i>later fully supported the efforts of Dharmapala to liberate Buddha Gaya from the control of non-Buddhists and restore it to its pristine glory. He petitioned the British Colonial Government whipping up support for the cause in London with influential colonial personalities of the time. His famous poem also struck a chord with Indian national leaders of the time like Mahatma Gandhi, Jawaharlal Nehru and Dr. B. R. Ambedkar who were independent India's first and foremost leaders and who saw to the enactment of the Buddha Gaya Temple Act of 1949, two years after independence. The Act gave 50 per cent of the control of the temple to the Buddhists through a Joint Management Committee with the Hindus. 
+
+	</p><p>Arnold and Angarika Dharmapala maintained a close and affable friendship, with Arnold meeting the Angarika each time the latter travelled to London, greeting him at the docks on arrival, hosting him in his house, and introducing him to a network of intellectuals in England. He was a linguist par excellence conversant not only in English, but Japanese, Latin, Pali, Sanskrit, Turkish, Arabic, Greek, French, German, Hebrew, Persian and Marathi. His famous poem and his writings had a marked influence on literati with the likes of D. H. Lawrence, T. S. Eliot, Rudyard Kipling, W. B. Yeats, Leo Tolstoy and James Masefield. Sir Winston Churchill would quote the title of the poem,<i> The Light of Asia</i>, when writing to Jawaharlal Nehru, a copy of which poem Nehru kept with him whenever he was incarcerated for political activism in a British jail in India. The poem was translated into 13 other languages and were depicted in dramas, films and operas. Almost every Ceylonese Buddhist family had a copy of <i> The Light of Asia </i> in their homes. Arnold married thrice, the last being a Japanese lady. He had four sons, one of whom was a coffee planter for a brief period in Ceylon.
+	<a href="#"> <b>The YMBA </b></a>(Young Mens Buddhist Association) in Sri Lanka still has a <i>Light of Asia</i> oratorical contest annually in memory of Sir Edwin Arnold and his groundbreaking poem that took the world by storm in the latter part of the 19th and early part of the 20th centuries. 
+
+	</p><p>For more details see: 
+		<br/>
+		<br/>
+<a href="https://www.gutenberg.org/ebooks/8920"><b>https://www.gutenberg.org/ebooks/8920</b></a>
+ <br/> <br/>
+ 
+<a href="https://www.bps.lk/olib/wh/wh159_Peiris_Edwin-Arnold--His-Service-To-Buddhism.html"><b>https://www.bps.lk/olib/wh/wh159_Peiris_Edwin-Arnold--His-Service-To-Buddhism.html</b></a>
+	 <br/><br/>
+ 
+Ramesh, J (2021). The Light of Asia: The Poem that Defined India. Penguin, Gurgaon.<br/>
+
+
+	</p>
 			</div>
 		</section>
 
