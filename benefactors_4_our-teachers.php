@@ -69,7 +69,7 @@
 							<!-- <h3>Gopal dhanam</h3> -->
 							<h3>Helena Petrovna Blavatsky</h3>
 							<!-- <p class="designation">Yoga Teacher</p> -->
-							<p class="designation">(From --)</p>
+							<!-- <p class="designation">(From --)</p> -->
 							<p>	 Helena Blavatsky, a Russian, a founder  of  the    Theosophical       Society, travelled from Adyar to Sri Lanka with Olcott, a fellow founder of the Society.  The   two   of   them arrived  in  the island’s southern  port of  Galle and  embraced Buddhism while  kneeling down before   the  high  priest,  sending   spasms      of  delight  through  a   public,    hitherto accustomed  to witnessing white-skinned  people only attacking Buddhism.
 							
 							</p>

@@ -69,7 +69,7 @@
 							<!-- <h3>Gopal dhanam</h3> -->
 							<h3>The Battle for Buddha Gaya</h3>
 							<!-- <p class="designation">Yoga Teacher</p> -->
-							<p class="designation"></p>
+							<!-- <p class="designation"></p> -->
 							<p>	
 							A few kilometers from the city of Gaya in the North Eastern Indian state of Bihar is Bodh Gaya, or Buddha Gaya, so named because it is here that Siddhartha Gautama, the son of King Suddhodana, having renounced his princely life, became an ascetic and attained enlightenment or "Buddhahood" after years of meditation. To the estimated 300 million Buddhists around the world, this is the holiest of holy sites.
 							</p><p>							
