@@ -135,12 +135,12 @@ ob_start();
 						<!-- <p class="subtitle">Latest Sermons</p> -->
 						<h4><a href="about-us.php">Life Of Anagarika Dharmapala</a></h4>
 						<ul class="sermons_meta">
-							<li><i class="fa fa-user"></i> <a href="life_1_our-teachers.php">Don David Hewavitarne</a></li><br>
-							<li><i class="fa fa-user"></i> <a href="life_2_our-teachers.php">The Anagarika</a></li><br>
-							<li><i class="fa fa-user"></i> <a href="life_3_our-teachers.php">Sri Dewamitta Dhammapala</a></li><br>
-							<li><i class="fa fa-user"></i> <a href="life_4_our-teachers.php">The Battle For Buddha Gaya</a></li><br>
-							<li><i class="fa fa-user"></i> <a href="life_6_our-teachers.php">Time Line</a></li><br>
-							<li><i class="fa fa-user"></i> <a href="life_5_our-teachers.php">Legacy</a></li>
+							<li><i class="fa fa-user"></i> <a href="sinhala_life_1_our-teachers.php">දොන් ඬේවිඞ් හේවාවිතාරණ</a></li><br>
+							<li><i class="fa fa-user"></i> <a href="sinhala_life_2_our-teachers.php">අනගාරික ධර්මපාල</a></li><br>
+							<li><i class="fa fa-user"></i> <a href="sinhala_life_3_our-teachers.php">ශ‍්‍රී දේවමිත්ත ධර්මපාල</a></li><br>
+							<li><i class="fa fa-user"></i> <a href="sinhala_under_construction_page.php">බුද්ධගයා සටන</a></li><br>
+							<li><i class="fa fa-user"></i> <a href="sinhala_under_construction_page.php">පෙලගැස්ම</a></li><br>
+							<li><i class="fa fa-user"></i> <a href="sinhala_life_5_our-teachers.php">උරුමය</a></li>
 							<!-- <li><i class="far fa-calendar-alt"></i> sep 03, 2020</li> -->
 						</ul>
 						<!-- <div class="sermons_inside">
@@ -194,13 +194,13 @@ ob_start();
 				<div class="col-xl-7 col-md-7">
 					<div class="about-us-content">
 						<div class="section-header">
-							<h2>The <u class="text-custom-primary">Anagarika Dharmapala
+							<h2><u class="text-custom-primary">අනගාරික ධර්මපාල
 </u></h2><br><br>
-							<p>From the age of 21 years, the young Don David called himself the Angarika ("the homeless one")  and began a new phase of his life as a renunciant, i.e. a life betwixt that of a lay individual and a monk.</p>
+							<p>තරුණ අනගාරික (නිවසක් නොමැති) ගිහියකු හා පැවිද්දකු අතරමැදි තපස්වරයකු ලෙස තම ජීවිතයේ නව අවධිය ඇරඹීය. </p>
 						</div>
-						<p> He took up residence at the Buddhist Theosophical Society in Colombo and worked tirelessly to promote the work for the betterment of society and the promulgation of Buddhism.
+						<p> ඔහු කොළඹ බෞද්ධ පරම විඥානාර්ථ සංගමයේ පදිංචි වී සිට එම සංගමයේ දියුණුව සහ බෞද්ධ ආගමේ ප‍්‍රචලිත කිරීම උදෙසා ඇප කැපවී කටයුතු කළේය.
 </p>
-							<p><a class="text-custom-primary" href="life_2_our-teachers.php">Read More...</a></p>
+							<p><a class="text-custom-primary" href="life_2_our-teachers.php">වැඩිදුර කියවන්න...</a></p>
 					</div>
 				</div>
 				<div class="col-xl-5 col-md-5 align-self-center">
@@ -215,14 +215,14 @@ ob_start();
 					<div class="col-lg-4 col-md-6">
 							<div class="features_wrap features-after-none">
 								<div class="f-f-icon"><a href="Diaries.php"><img src="assets/images/team.png" alt="img"></div>
-								<h4 class="text-custom-secondary">publications and Research</h4></a>
+								<h4 class="text-custom-secondary">ප්‍රකාශන සහ පර්‍යෙශන</h4></a>
 								</div>
 						</div>
 
 						<div class="col-lg-4 col-md-6">
 							<div class="features_wrap features-after-none">
 								<div class="f-f-icon"><a href="about-us.php"><img src="assets/images/peace.png" alt="img"></div>
-								<h4 class="text-custom-secondary">The Trust</a></h4></a>
+								<h4 class="text-custom-secondary">භාරය</a></h4></a>
 								
 							</div>
 						</div>
@@ -230,7 +230,7 @@ ob_start();
 						<div class="col-lg-4 col-md-6">
 							<div class="features_wrap features-after-none">
 								<div class="f-f-icon"><a href="shop_main_ADT_books.php"><img src="assets/images/team.png" alt="img"></div>
-								<h4 class="text-custom-secondary">Store</a></h4></a>
+								<h4 class="text-custom-secondary">සාප්පුව</a></h4></a>
 								
 							</div>
 						</div>
@@ -248,29 +248,32 @@ ob_start();
 				<div class="item">
 					<div class="causes_info">
 						<!-- <p class="subtitle text-white">Gita's sermony</p> -->
-						<h3 class="white_text">“Wherever I went I have worked for the public good”</h3>
-						<p class="white_text mb-0">Anagarika Dharmapala - 1915 </p>
+						<h3 class="white_text">”මා ගිය කොතැනකද ඒ හැම තැනකම මා ජනතාවගේ හිත
+සුව පිණිස කටයුතු කර ඇත.”</h3>
+						<p class="white_text mb-0">අනගාරික ධර්මපාල  - 1915 </p>
 					</div>
 				</div>
 				<div class="item">
 					<div class="causes_info">
 						<!-- <p class="subtitle text-white">krishna's preaching</p> -->
-						<h3 class="white_text">“My comfort is the Buddha, His Dhamma and the Holy Ones”</h3>
-						<p class="white_text mb-0">Anagarika Dharmapala - 1915</p>
+						<h3 class="white_text">“මාගේ සැනසීම බුදුන් වහන්සේගේ දහම සහ ශුද්ධ
+ආත්මයන් පමණි.”</h3>
+						<p class="white_text mb-0">අනගාරික ධර්මපාල  - 1915</p>
 					</div>
 				</div>
 				<div class="item">
 					<div class="causes_info">
 						<!-- <p class="subtitle text-white">krishna's preaching</p> -->
-						<h3 class="white_text">“My life will be given birth after birth to Humanity”</h3>
-						<p class="white_text mb-0">Anagarika Dharmapala - 1897</p>
+						<h3 class="white_text">“මාගේ ජීවිතය භවයෙන් භවයට මනුෂ්‍යත්වය වෙනුවෙන් ම
+කැප කරමි.”</h3>
+						<p class="white_text mb-0">අනගාරික ධර්මපාල  - 1897</p>
 					</div>
 				</div>
 				<div class="item">
 					<div class="causes_info">
 						<!-- <p class="subtitle text-white">krishna's preaching</p> -->
-						<h3 class="white_text">“The householder must follow the Middle Way…. Above all he must practice charity and love”</h3>
-						<p class="white_text mb-0">Anagarika Dharmapala - 1910</p>
+						<h3 class="white_text">“ගෙහිමියා සැම විටම මැද මාවත අනුගමනය කළයුතුය.”</h3>
+						<p class="white_text mb-0">අනගාරික ධර්මපාල  - 1910</p>
 					</div>
 				</div>
 			</div>
@@ -284,7 +287,7 @@ ob_start();
 			<div class="row">
 				<div class="col-md-6 col-lg-5">
 					<div class="heading">
-						<h3><a href="life_6_timeline.php">Timeline</a></h3>
+						<h3><a href="life_6_timeline.php">පෙළගැස්ම</a></h3>
 						<div class="tl-slider-arrow float-right">
 							<div class="tl-left-arrow slick-arrow mr-2" style="">
 								<span><i class="fa fa-chevron-up"></i></span>
@@ -400,15 +403,15 @@ ob_start();
 
 				<div class="col-md-6 col-lg-5 offset-lg-2">
 					<div class="heading">
-						<h3>Associates</h3>
-						<a href="Associates_1_Maha_Bodhi_Society.php" class="btn btn-sm float-right">See All</a>
+						<h3>වෙනත් භාරයන්</h3>
+						<a href="Associates_1_Maha_Bodhi_Society.php" class="btn btn-sm float-right">සියල්ල බලන්න</a>
 					</div>
 					<div class="panel-group" id="accordion" role="tablist" aria-multiselectable="true">
 						<div class="panel panel-default">
 							<div class="panel-heading" role="tab" id="headingOne">
 								<h6 class="panel-title">
 									<a href="Associates_1_Maha_Bodhi_Society.php" >
-									 Maha Bodhi Society </a>
+									මහා බෝධි සංගමය </a>
 								</h6>
 							</div>
 
@@ -419,7 +422,7 @@ ob_start();
 							<div class="panel-heading" role="tab" id="headingOne">
 								<h6 class="panel-title">
 									<a href="Associates_1_Maha_Bodhi_Society_India.php" >
-									 Maha Bodhi Society India </a>
+									ඉන්දියානු මහා බෝධි සංගමය</a>
 								</h6>
 							</div>
 
@@ -430,7 +433,7 @@ ob_start();
 							<div class="panel-heading" role="tab" id="headingOne">
 								<h6 class="panel-title">
 									<a href="Associates_1_london_buddist_vihara.php" >
-									london Buddhist Vihara </a>
+									ලන්ඩන් බෞද්ධ විහාර </a>
 								</h6>
 							</div>
 
@@ -441,7 +444,7 @@ ob_start();
 							<div class="panel-heading" role="tab" id="headingOne">
 								<h6 class="panel-title">
 									<a href="https://www.mallikahomes.org/" >
-									Mallika Nivasa Samithiya </a>
+								මල්ලිකා නිවාස සමිතිය </a>
 								</h6>
 							</div>
 
@@ -462,30 +465,30 @@ ob_start();
 			<div class="row">
 				<div class="col-md-6 align-self-center">
 					<div class="section-header">
-						<h3>Support Our Mission</h3>
-						<p>There are many variations of passages of Lorem Ipsum available, but the majority have suffered alteration in some</p>
+						<h3> අපගේ මෙහෙවර</h3>
+						<p>The Anagarika Dharmapala Trust has been responsible for continuing the work of the Anagarika Dharmapala by carrying the message of the Buddha to India, Britain and other countries by sending Bhikkhu missionaries on Dhammadutha (Buddhist missionary) service. 
+</p>
 					</div>
-					<p>We provide Buddhism and meditation resources. We try to make our classes relaxed, informal and interactive,
-						and relevant to ordinary people leading ordinary lives. You do not have to be a Buddhist or become a Buddhist or anything else in order to attend our classes.</p>
+					<p>It also supports the Maha Bodhi Societies of Sri Lanka, India and Britain, and the viharas (temples), centres and pilgrims’ rests that are under its management. In Sri Lanka, the Trust manages a Free Ayurvedic Hospital in Colombo; finances and supports temples, conducts an Education programme for novice Bhikkhus (samanera monks); manages orphanages and schools; prints and publishes Buddhist Literature, and implements such matters as are provided for in the Trust Deed.</p>
 					<div class="donation_form">
 						<form>
 							<div class="form-group">
 								<div class="row">
 									<div class="col-md-12 col-lg-12">
-										<div class="input-group">
+										<!-- <div class="input-group">
 											<div class="input-group-prepend">
 												<span class="input-group-text" id="basic-addon1">$</span>
 											</div>
 											<input type="text" class="form-control w-auto mb-0" value="$100">
-										</div>
-										<ul class="select_amount">
+										</div> -->
+										<!-- <ul class="select_amount">
 											<li class="mb-0">$10.00</li>
 											<li class="mb-0">$25.00</li>
 											<li class="mb-0">$50.00</li>
 											<li class="mb-0 active">$100.00</li>
 											<li class="mb-0">$500.00</li>
-										</ul>
-										<input type="submit" class="btn dark-btn" value="Donate Now">
+										</ul> -->
+										<a href="sinhala_about-us.php" class="btn btn-sm float-left">භාරය පිළිබද තවදුරටත්</a>
 									</div>
 								</div>
 							</div>
@@ -495,7 +498,7 @@ ob_start();
 				</div>
 
 				<div class="col-md-6 align-self-center img-width-100">
-					<img src="assets/images/home-page/img-2.jpg" alt="img" class="img-fluid">
+					<img src="assets/images/homehome1.jpg" alt="img" class="img-fluid">
 				</div>
 			</div>
 		</div>
@@ -504,82 +507,24 @@ ob_start();
 	<!-- /Donation-img section -->
 
 	<!-- Testimonials -->
-	<section class="our_testimonials section-padding">
-		<div class="container">
-			<div class="row">
-				<div class="col-md-6 align-self-center">
-					<img src="assets/images/home-page/our-history.png" alt="" class="img-fluid Mb_20">
-				</div>
-				<div class="col-md-6 align-self-center">
-					<div class="about_company">
-						<div class="section-header">
-							<h3>Our History</h3>
-							<p>There are many variations of passages of Lorem Ipsum available, but the majority have suffered alteration in some</p>
-						</div>
-						<ul class="nav nav-tabs testi-nav-tabs">
-							<li class="nav-item">
-								<a class="nav-link active" data-toggle="tab" href="#home">1980</a>
-							</li>
-							<li class="nav-item">
-								<a class="nav-link" data-toggle="tab" href="#menu1">1990</a>
-							</li>
-							<li class="nav-item">
-								<a class="nav-link" data-toggle="tab" href="#menu2">2000</a>
-							</li>
-							<li class="nav-item">
-								<a class="nav-link" data-toggle="tab" href="#menu3">2010</a>
-							</li>
-						</ul>
-
-						<!-- Tab panes -->
-						<div class="tab-content">
-							<div id="home" class="container tab-pane active pl-0 pr-0"><br>
-								<h4>1980</h4>
-								<p>Aliquam nec sem vulputate, sagittis felis id, semper nibh. Lorem ipsum dolor sit amet, consectetuer adipiscing elit, sed diam nonummy nibh euismod tincidunt ut laoreet dolore magna aliquam erat volutpat. Ut wisi enim ad minim
-									veniam, quis nostrud exerci tation ullamcorper suscipit lobortis nisl ut aliquip.</p>
-								<a href="#" class="btn-link tk-btn-link"><u>Learn More <i class="fa fa-angle-right"></i></u></a>
-							</div>
-							<div id="menu1" class="container tab-pane fade pl-0 pr-0"><br>
-								<h4>1990</h4>
-								<p>Integer tincidunt. Cras dapibus. Vivamus elementum semper nisi. Aenean vulputate eleifend tellus. Aenean leo ligula, porttitor eu, consequat vitae, eleifend ac, enim. Aliquam lorem ante, dapibus in, viverra quis, feugiat a, tellus.
-									Phasellus viverra nulla ut metus varius laoreet. Nam ornare pellentesque tortor.</p>
-								<a href="#" class="btn-link tk-btn-link"><u>Learn More <i class="fa fa-angle-right"></i></u></a>
-							</div>
-							<div id="menu2" class="container tab-pane fade pl-0 pr-0"><br>
-								<h4>2000</h4>
-								<p>Aliquam nec sem vulputate, sagittis felis id, semper nibh. Lorem ipsum dolor sit amet, consectetuer adipiscing elit, sed diam nonummy nibh euismod tincidunt ut laoreet dolore magna aliquam erat volutpat. Ut wisi enim ad minim
-									veniam, quis nostrud exerci tation ullamcorper suscipit lobortis nisl ut aliquip.</p>
-								<a href="#" class="btn-link tk-btn-link"><u>Learn More <i class="fa fa-angle-right"></i></u></a>
-							</div>
-							<div id="menu3" class="container tab-pane fade pl-0 pr-0"><br>
-								<h4>2010</h4>
-								<p>Integer tincidunt. Cras dapibus. Vivamus elementum semper nisi. Aenean vulputate eleifend tellus. Aenean leo ligula, porttitor eu, consequat vitae, eleifend ac, enim. Aliquam lorem ante, dapibus in, viverra quis, feugiat a, tellus.
-									Phasellus viverra nulla ut metus varius laoreet. Nam ornare pellentesque tortor.</p>
-								<a href="#" class="btn-link tk-btn-link"><u>Learn More <i class="fa fa-angle-right"></i></u></a>
-							</div>
-						</div>
-
-					</div>
-
-				</div>
-			</div>
-		</div>
-	</section>
+	
 	<!-- /Testimonials -->
 
-	<!-- Call to Action -->
-	<section class="section-padding call-action-section">
+		<!-- Call to Action -->
+		<section class="section-padding call-action-section">
 		<div class="container">
 			<div class="row">
 				<div class="col-12">
 					<div class="call-content mx-auto text-center event-content">
-						<p class="subtitle text-white">Upcoming Event</p>
-						<h3 class="text-white fs-36">Festivals Of Color Holi 2020</h3>
-						<p class="text-white">Meet this transient world with neither grasping nor fear,trust the unfolding of life,and you will attain true serenity.</p>
+						<!-- <p class="subtitle text-white">Upcoming Event</p> -->
+						<h3 class="text-white fs-36">ඇමතුම්</h3>
+						<p class="text-white">දැන් ඔබට අපව දුරකතන,විද්‍යුත් තැපෑල හෝ භාරය වෙත පැමිණීම මගින් සම්බන්ධ කරගත හැක. </p>
 					</div>
 					<div class="timer event-timer">
-						<div id="countdown"></div>
-						<a href="#" class="btn btn-lg dark-btn margin-top-30">Register Now</a>
+						
+						<a href="tel:+94 011 269 5012" class="btn btn-lg dark-btn margin-top-30">දුරකතන ඇමතුම්</a>
+						<a href="mailto:adtrust@sltnet.lk" class="btn btn-lg dark-btn margin-top-30">විද්‍යුත් තැපෑල</a><br>
+						<a href="contact-us.php" class="btn btn-lg dark-btn margin-top-30">Reach US</a>
 					</div>
 				</div>
 
@@ -589,179 +534,26 @@ ob_start();
 	</section>
 	<!-- /Call to Action -->
 
-	<!-- Latest-Blog -->
-	<section class="latest_blog section-padding" id="blog">
-		<div class="container">
-			<div class="blog">
-				<div class="section-header-center text-center">
-					<h3>Latest News</h3>
-					<p>There are many variations of passages of Lorem Ipsum available, but the majority have suffered alteration in some</p>
-				</div>
-				<div class="row">
-					<div class="col-12">
-						<div class="owl-carousel blog-slider">
-							<div class="item">
-								<article class="blog-section">
-									<div class="blog_wrap position-relative">
-										<div class="blog-post-date">
-											<strong>03</strong>Dec
-										</div>
-										<div class="blog_img ">
-											<a href="blog-detail.html"><img src="assets/images/home-page/news-01.png" alt="image"></a>
-										</div>
-										<div class="blog_info">
-											<div class="post_meta">
-												<span><a href="#">Meditation</a></span>
-											</div>
-											<h5><a href="blog-detail.html">haridwar at night</a></h5>
-											<p>You need to be sure there isn't anything embarrassing hidden in the middle of text.
-												All the Lorem Ipsum generators on the Internet tend to repeat predefined</p>
-											<a href="blog-detail.html" class="btn">Read More <i class="fa fa-caret-right"></i> </a>
-										</div>
-									</div>
-								</article>
-							</div>
-
-							<div class="item">
-								<article class="blog-section">
-									<div class="blog_wrap position-relative">
-										<div class="blog-post-date">
-											<strong>13</strong>Jan
-										</div>
-										<div class="blog_img">
-											<a href="blog-detail.html"><img src="assets/images/home-page/news-02.png" alt="image"></a>
-										</div>
-										<div class="blog_info">
-											<div class="post_meta">
-												<span><a href="#">Yoga</a></span>
-												<span><a href="#">Books</a></span>
-											</div>
-											<h5><a href="blog-detail.html">chaar dhaam yatra</a></h5>
-											<p>You need to be sure there isn't anything embarrassing hidden in the middle of text.
-												All the Lorem Ipsum generators on the Internet tend to repeat predefined</p>
-											<a href="blog-detail.html" class="btn">Read More <i class="fa fa-caret-right"></i> </a>
-										</div>
-									</div>
-								</article>
-							</div>
-
-							<div class="item">
-								<article class="blog-section">
-									<div class="blog_wrap position-relative">
-										<div class="blog-post-date">
-											<strong>31</strong>Dec
-										</div>
-										<div class="blog_img">
-											<a href="blog-detail.html"><img src="assets/images/home-page/news-01.png" alt="image"></a>
-										</div>
-										<div class="blog_info">
-											<div class="post_meta">
-												<span><a href="#">Meditation</a></span>
-												<span><a href="#">Peace</a></span>
-											</div>
-											<h5><a href="blog-detail.html">Vaishno Devi Yatra</a></h5>
-											<p>You need to be sure there isn't anything embarrassing hidden in the middle of text.
-												All the Lorem Ipsum generators on the Internet tend to repeat predefined</p>
-											<a href="blog-detail.html" class="btn">Read More <i class="fa fa-caret-right"></i> </a>
-										</div>
-									</div>
-								</article>
-							</div>
-
-							<div class="item">
-								<article class="blog-section">
-									<div class="blog_wrap position-relative">
-										<div class="blog-post-date">
-											<strong>04</strong>Nov
-										</div>
-										<div class="blog_img">
-											<a href="blog-detail.html"><img src="assets/images/home-page/news-01.png" alt="image"></a>
-										</div>
-										<div class="blog_info">
-											<div class="post_meta">
-												<span><a href="#">Enlightment</a></span>
-												<span><a href="#">Peace</a></span>
-											</div>
-											<h5><a href="blog-detail.html">haridwar at night</a></h5>
-											<p>You need to be sure there isn't anything embarrassing hidden in the middle of text.
-												All the Lorem Ipsum generators on the Internet tend to repeat predefined</p>
-											<a href="blog-detail.html" class="btn">Read More <i class="fa fa-caret-right"></i> </a>
-										</div>
-									</div>
-								</article>
-							</div>
-
-							<div class="item">
-								<article class="blog-section">
-									<div class="blog_wrap position-relative">
-										<div class="blog-post-date">
-											<strong>13</strong>Nov
-										</div>
-										<div class="blog_img">
-											<a href="blog-detail.html"><img src="assets/images/home-page/news-02.png" alt="image"></a>
-										</div>
-										<div class="blog_info">
-											<div class="post_meta">
-												<span><a href="#">Meditation</a></span>
-												<span><a href="#">Books</a></span>
-											</div>
-											<h5><a href="blog-detail.html">chaar dhaam yatra</a></h5>
-											<p>You need to be sure there isn't anything embarrassing hidden in the middle of text.
-												All the Lorem Ipsum generators on the Internet tend to repeat predefined</p>
-											<a href="blog-detail.html" class="btn">Read More <i class="fa fa-caret-right"></i> </a>
-										</div>
-									</div>
-								</article>
-							</div>
-
-							<div class="item">
-								<article class="blog-section">
-									<div class="blog_wrap position-relative">
-										<div class="blog-post-date">
-											<strong>20</strong>Dec
-										</div>
-										<div class="blog_img">
-											<a href="blog-detail.html"><img src="assets/images/home-page/news-01.png" alt="image"></a>
-										</div>
-										<div class="blog_info">
-											<div class="post_meta">
-												<span><a href="#">Buddha</a></span>
-												<span><a href="#">Enlightment</a></span>
-											</div>
-											<h5><a href="blog-detail.html">Vaishno Devi Yatra</a></h5>
-											<p>You need to be sure there isn't anything embarrassing hidden in the middle of text.
-												All the Lorem Ipsum generators on the Internet tend to repeat predefined</p>
-											<a href="blog-detail.html" class="btn">Read More <i class="fa fa-caret-right"></i> </a>
-										</div>
-									</div>
-								</article>
-							</div>
-
-						</div>
-					</div>
-				</div>
-
-			</div>
-		</div>
-	</section>
-	<!-- Latest-Blog -->
-
 	<section class="section-padding p-0">
 		<div class="container">
 			<div class="section-header-center text-center">
-				<h2>Instagram</h2>
-				<p>There are many variations of passages of Lorem Ipsum available, but the majority have suffered alteration in some</p>
+				<br><br>
+				<h2>හදුන්වාදෙන අපගේ පිංතූර ගැලරිය</h2>
+				<p>අනගාරික ධර්මපාලයන්ගේ වටිනා සහ ඓතිහාසික පිංතූර ගැලරියක් සකස් කිරීම අප දැනටමත් අරඹා ඇත.ඉන් රූපරාමු කිහිපයක් පහත දක්වා ඇත. We are almost ready to launch a bunch of valuable & historical Images of Anagarika Dharmapala on near future. You may find a glimpse of images for the moment. </p>
 			</div>
 		</div>
 		<ul class="hm-list hm-instagram">
 			<li>
-				<a href="#"><img src="assets/images/home-page/insta-01.png" alt="instagram"></a>
+				<a href="#"><img src="assets/images/home-page/insta-09.png" alt="instagram"></a>
 			</li>
 			<li>
 				<a href="#"><img src="assets/images/home-page/insta-02.png" alt="instagram"></a>
 			</li>
 			<li>
 				<a href="#"><img src="assets/images/home-page/insta-03.png" alt="instagram"></a>
+			</li>
+			<li>
+				<a href="#"><img src="assets/images/home-page/insta-04.png" alt="instagram"></a>
 			</li>
 			<li>
 				<a href="#"><img src="assets/images/home-page/insta-05.png" alt="instagram"></a>
@@ -770,19 +562,18 @@ ob_start();
 				<a href="#"><img src="assets/images/home-page/insta-06.png" alt="instagram"></a>
 			</li>
 			<li>
-				<a href="#"><img src="assets/images/home-page/insta-03.png" alt="instagram"></a>
+				<a href="#"><img src="assets/images/home-page/insta-07.png" alt="instagram"></a>
+			</li>
+			<li>
+				<a href="#"><img src="assets/images/home-page/insta-08.png" alt="instagram"></a>
 			</li>
 			<li>
 				<a href="#"><img src="assets/images/home-page/insta-01.png" alt="instagram"></a>
 			</li>
-			<li>
-				<a href="#"><img src="assets/images/home-page/insta-05.png" alt="instagram"></a>
-			</li>
-			<li>
-				<a href="#"><img src="assets/images/home-page/insta-02.png" alt="instagram"></a>
-			</li>
 		</ul>
 	</section>
+
+
 	<!-- Footer -->
 	<?php include_once 'sinhala_footer.php';?>
 	<!-- /Footer -->
