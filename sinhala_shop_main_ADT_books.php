@@ -52,7 +52,7 @@
 						<nav class="breadcrumb">
 							<ul>
 								<li class="breadcrumb-item"><a href="index.html">Home</a></li>
-								<li class="breadcrumb-item"><a href="shop-full-width.html">සාප්පුව</a></li>
+								<!-- <li class="breadcrumb-item"><a href="shop-full-width.html">සාප්පුව</a></li> -->
 								<li class="breadcrumb-item active">සාප්පුව</li>
 							</ul>
 						</nav>
@@ -78,7 +78,7 @@
 						<div class="sidebar_widgets">
 							<!-- added items for store side bar -->
 								<div class="widget_title">
-								<h6>How To Purcase</h6>
+								<h6>මිලදී ගන්නා ආකාරය</h6>
 							</div>
 							<p>
 								<!-- All books: Rs 150/- 	<br/> -->
@@ -91,8 +91,8 @@
 කාර්යාලයෙන් මිලදී ගත හැක.
 <br/>
 
-<br/> <b>ලිපිනය:<br/> අනගාරික ධර්මපාල භාරය <br/>130 <br/>මහබෝධි මන්දිරය<br/>
-පූජ්‍ය හික්කඩුවේ ශ‍්‍රී සුමංගල නාහිමි මාවත<br> කොළඹ 10<br/></b>
+<br/> <b>ලිපිනය:<br/> අනගාරික ධර්මපාල භාරය, <br/>130, <br/>මහබෝධි මන්දිරය,<br/>
+පූජ්‍ය හික්කඩුවේ ශ‍්‍රී සුමංගල නාහිමි මාවත,<br> කොළඹ 10.<br/></b>
 
 <a style="color: orangered;" href="tel:+9411 269 5012">Tel: 011 269 5012</a> <br/>(පැමිණීමට පෙර දුරකතන ඇමතුමක් දෙන්න.)
 <br/>
