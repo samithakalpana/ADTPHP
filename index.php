@@ -57,7 +57,7 @@ ob_start();
 				<div class="container">
 					<div class="intro_text white_text">
 						<!-- <h1>creator of life</h1> -->
-						<h1>“Wherever I went I have worked for the public good” <br>
+						<h1>“Wherever <br/> I went<br/>I have worked <br/>for the <br/> public good” <br>
 
 </h1>
 						<!-- <p>The point of using Lorem Ipsum is that it has a more-or-less normal distribution of letters, as opposed to using 'Content here, content here. </p> -->
@@ -70,7 +70,7 @@ ob_start();
 				<div class="container">
 					<div class="intro_text white_text">
 						<!-- <h1>god is within us</h1> -->
-						<h1>“My comfort is the Buddha, His Dhamma and the Holy Ones”
+						<h1>“My comfort <br/> is the Buddha, <br/>His Dhamma <br/>and the <br/> Holy Ones”
 
 </h1>
 						<!-- <p> The point of using Lorem Ipsum is that it has a more-or-less normal distribution of letters, as opposed to using 'Content here, content here. </p> -->
@@ -84,7 +84,7 @@ ob_start();
 				<div class="container">
 					<div class="intro_text white_text">
 						<!-- <h1>god is within us</h1> -->
-						<h1>“My life will be given birth after birth to Humanity”</h1>
+						<h1>“My life <br/>will be given<br/> birth after<br/> birth to<br/> Humanity”</h1>
 						<!-- <p> The point of using Lorem Ipsum is that it has a more-or-less normal distribution of letters, as opposed to using 'Content here, content here. </p> -->
 						<p>Anagarika Dharmapala - 1897</p>
 						<a href="life_4_our-teachers.php" class="btn dark-btn templezen-top-btn">Explore Events</a>
@@ -120,7 +120,7 @@ ob_start();
 							<li><i class="fa fa-user"></i> <a href="life_2_our-teachers.php">The Anagarika</a></li><br>
 							<li><i class="fa fa-user"></i> <a href="life_3_our-teachers.php">Sri Dewamitta Dhammapala</a></li><br>
 							<li><i class="fa fa-user"></i> <a href="life_4_our-teachers.php">The Battle For Buddha Gaya</a></li><br>
-							<li><i class="fa fa-user"></i> <a href="life_6_our-teachers.php">Time Line</a></li><br>
+							<li><i class="fa fa-user"></i> <a href="life_6_timeline.php">Time Line</a></li><br>
 							<li><i class="fa fa-user"></i> <a href="life_5_our-teachers.php">Legacy</a></li>
 							<!-- <li><i class="far fa-calendar-alt"></i> sep 03, 2020</li> -->
 						</ul>
