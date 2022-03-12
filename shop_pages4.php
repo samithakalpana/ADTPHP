@@ -52,7 +52,7 @@
 						<nav class="breadcrumb">
 							<ul>
 								<li class="breadcrumb-item"><a href="index.php">Home</a></li>
-								<li class="breadcrumb-item"><a href="shop_pages1.php">Tipitaka Publications</a></li>
+								<li class="breadcrumb-item"><a href="shop_pages4.php">Tipitaka Publications</a></li>
 								<!-- <li class="breadcrumb-item active">Tipitaka Publications</li> -->
 							</ul>
 						</nav>
@@ -210,7 +210,9 @@ There may be unexpected delays in the event of curfews, travel restrictions, pos
 				<img src="assets/images/shop_images/sample_book.png" alt="image" class ="mx-auto image-fluid d-block">
 						</div>
 						<div class="tl-product-content">
-								<h4>Attuwa:Anguttaratta 1</h4>
+								<h4>TEXT:Mahawaggapali 11
+
+</h4>
 							</div>
 						</div>
 			</div>
@@ -221,7 +223,7 @@ There may be unexpected delays in the event of curfews, travel restrictions, pos
 						<img src="assets/images/shop_images/sample_book.png" alt="image" class ="mx-auto image-fluid d-block">
 					</div>
 					<div class="tl-product-content">
-							<h4>Attuwa:Anguttaratta 11</h4>
+							<h4>TEXT:Majjimanikayo 1</h4>
 						
 						</div>
 					</div>
@@ -233,7 +235,9 @@ There may be unexpected delays in the event of curfews, travel restrictions, pos
 			<img src="assets/images/shop_images/sample_book.png" alt="image" class ="mx-auto image-fluid d-block">
 					</div>
 					<div class="tl-product-content">
-							<h4>Attuwa:Apadanatta 1</h4>
+							<h4>TEXT:Majjimanikayo 11
+
+</h4>
 							
 								<!-- <span class="off-price">$56</span> -->
 							</p>
@@ -252,7 +256,9 @@ There may be unexpected delays in the event of curfews, travel restrictions, pos
 			<img src="assets/images/shop_images/sample_book.png" alt="image" class ="mx-auto image-fluid d-block">
 					</div>
 					<div class="tl-product-content">
-							<h4>Attuwa:Apadanatta 11</h4>
+							<h4>TEXT:Majjimanikayo 111
+
+</h4>
 							
 
 						</div>
@@ -266,7 +272,9 @@ There may be unexpected delays in the event of curfews, travel restrictions, pos
 		<img src="assets/images/shop_images/sample_book.png" alt="image" class ="mx-auto image-fluid d-block">
 				</div>
 				<div class="tl-product-content">
-						<h4>Attuwa:Buddhawansa</h4>
+						<h4>TEXT:Nettippakaranapali
+
+</h4>
 						
 					</div>
 				</div>
@@ -278,7 +286,7 @@ There may be unexpected delays in the event of curfews, travel restrictions, pos
 		<img src="assets/images/shop_images/sample_book.png" alt="image" class ="mx-auto image-fluid d-block">
 				</div>
 				<div class="tl-product-content">
-						<h4>Attuwa:Chariyatta</h4>
+						<h4>TEXT:Niddesapali</h4>
 					
 					
 					</div>
@@ -294,7 +302,9 @@ There may be unexpected delays in the event of curfews, travel restrictions, pos
 			<img src="assets/images/shop_images/sample_book.png" alt="image" class ="mx-auto image-fluid d-block">
 					</div>
 					<div class="tl-product-content">
-							<h4>Attuwa:Chatubanawaratta</h4>
+							<h4>TEXT:Pachittiyapali 1
+
+</h4>
 						
 
 						</div>
@@ -308,7 +318,9 @@ There may be unexpected delays in the event of curfews, travel restrictions, pos
 		<img src="assets/images/shop_images/sample_book.png" alt="image" class ="mx-auto image-fluid d-block">
 				</div>
 				<div class="tl-product-content">
-						<h4>Attuwa:Chullaneddesa</h4>
+						<h4>TEXT:Pachittiyapali 11
+
+</h4>
 					
 					</div>
 				</div>
@@ -320,7 +332,9 @@ There may be unexpected delays in the event of curfews, travel restrictions, pos
 		<img src="assets/images/shop_images/sample_book.png" alt="image" class ="mx-auto image-fluid d-block">
 				</div>
 				<div class="tl-product-content">
-						<h4>Attuwa:Dhammapada 1</h4>
+						<h4>TEXT:Parajikapali
+
+</h4>
 				
 					</div>
 				</div>
@@ -335,7 +349,9 @@ There may be unexpected delays in the event of curfews, travel restrictions, pos
 				<img src="assets/images/shop_images/sample_book.png" alt="image" class ="mx-auto image-fluid d-block">
 						</div>
 						<div class="tl-product-content">
-								<h4>Attuwa:Dhammapada 11</h4>
+								<h4>TEXT:Parivarapali 1
+
+</h4>
 							
 
 							</div>
@@ -348,7 +364,9 @@ There may be unexpected delays in the event of curfews, travel restrictions, pos
 			<img src="assets/images/shop_images/sample_book.png" alt="image" class ="mx-auto image-fluid d-block">
 					</div>
 					<div class="tl-product-content">
-							<h4>Attuwa:Dhammasangani</h4>
+							<h4>TEXT:Parivarapali 11
+
+</h4>
 							
 						</div>
 					</div>
@@ -360,7 +378,9 @@ There may be unexpected delays in the event of curfews, travel restrictions, pos
 			<img src="assets/images/shop_images/sample_book.png" alt="image" class ="mx-auto image-fluid d-block">
 					</div>
 					<div class="tl-product-content">
-							<h4>Attuwa:Diganikaya 1</h4>
+							<h4>TEXT:Patawattu Pali
+
+</h4>
 						</div>
 					</div>
 				</div>
@@ -375,7 +395,9 @@ There may be unexpected delays in the event of curfews, travel restrictions, pos
 			<img src="assets/images/shop_images/sample_book.png" alt="image" class ="mx-auto image-fluid d-block">
 					</div>
 					<div class="tl-product-content">
-							<h4>Attuwa:Diganikaya 11</h4>
+							<h4>TEXT:Pattana 1
+
+</h4>
 
 						</div>
 					</div>
@@ -388,7 +410,9 @@ There may be unexpected delays in the event of curfews, travel restrictions, pos
 		<img src="assets/images/shop_images/sample_book.png" alt="image" class ="mx-auto image-fluid d-block">
 				</div>
 				<div class="tl-product-content">
-						<h4>Attuwa:Ethivuttaka</h4>
+						<h4>TEXT:Pattana 11
+
+</h4>
 					
 					</div>
 				</div>
@@ -400,7 +424,9 @@ There may be unexpected delays in the event of curfews, travel restrictions, pos
 		<img src="assets/images/shop_images/sample_book.png" alt="image" class ="mx-auto image-fluid d-block">
 				</div>
 				<div class="tl-product-content">
-						<h4>Attuwa:Jataka 1</h4>
+						<h4>TEXT:Pattana 111
+
+</h4>
 					
 					</div>
 				</div>
@@ -415,7 +441,9 @@ There may be unexpected delays in the event of curfews, travel restrictions, pos
 			<img src="assets/images/shop_images/sample_book.png" alt="image" class ="mx-auto image-fluid d-block">
 					</div>
 					<div class="tl-product-content">
-							<h4>Attuwa:Jataka 11</h4>
+							<h4>TEXT:Pattana 1v
+
+</h4>
 												</div>
 					</div>
 
@@ -427,7 +455,9 @@ There may be unexpected delays in the event of curfews, travel restrictions, pos
 		<img src="assets/images/shop_images/sample_book.png" alt="image" class ="mx-auto image-fluid d-block">
 				</div>
 				<div class="tl-product-content">
-						<h4>Attuwa:Jataka 111</h4>
+						<h4>TEXT:Puggalapachappa
+
+</h4>
 										</div>
 				</div>
 		</div>
@@ -438,7 +468,7 @@ There may be unexpected delays in the event of curfews, travel restrictions, pos
 		<img src="assets/images/shop_images/sample_book.png" alt="image" class ="mx-auto image-fluid d-block">
 				</div>
 				<div class="tl-product-content">
-						<h4>Attuwa:Jataka 1v</h4>
+						<h4>TEXT:Samyuttanika 1</h4>
 					
 					</div>
 				</div>
@@ -451,7 +481,9 @@ There may be unexpected delays in the event of curfews, travel restrictions, pos
 				<img src="assets/images/shop_images/sample_book.png" alt="image" class ="mx-auto image-fluid d-block">
 						</div>
 						<div class="tl-product-content">
-								<h4>Attuwa:Jataka v</h4>
+								<h4>TEXT:Samyuttanika 11
+
+</h4>
 							
 
 							</div>
@@ -464,7 +496,9 @@ There may be unexpected delays in the event of curfews, travel restrictions, pos
 			<img src="assets/images/shop_images/sample_book.png" alt="image" class ="mx-auto image-fluid d-block">
 					</div>
 					<div class="tl-product-content">
-							<h4>Attuwa:Jataka v1</h4>
+							<h4>TEXT:Samyuttanika111
+
+</h4>
 						
 						</div>
 					</div>
@@ -476,7 +510,9 @@ There may be unexpected delays in the event of curfews, travel restrictions, pos
 			<img src="assets/images/shop_images/sample_book.png" alt="image" class ="mx-auto image-fluid d-block">
 					</div>
 					<div class="tl-product-content">
-							<h4>Attuwa:Jataka v11</h4>
+							<h4>TEXT:Samyuttanikaya 1v
+
+</h4>
 						
 						</div>
 					</div>
@@ -492,7 +528,9 @@ There may be unexpected delays in the event of curfews, travel restrictions, pos
 			<img src="assets/images/shop_images/sample_book.png" alt="image" class ="mx-auto image-fluid d-block">
 					</div>
 					<div class="tl-product-content">
-							<h4>Attuwa:Kuddhaka</h4>
+							<h4>TEXT:Samyuttanikaya v
+
+</h4>
 						
 
 						</div>
@@ -506,7 +544,9 @@ There may be unexpected delays in the event of curfews, travel restrictions, pos
 		<img src="assets/images/shop_images/sample_book.png" alt="image" class ="mx-auto image-fluid d-block">
 				</div>
 				<div class="tl-product-content">
-						<h4>Attuwa:Mahaneddesa</h4>
+						<h4>TEXT:Samyuttanikayo S1
+
+</h4>
 					
 					</div>
 				</div>
@@ -518,7 +558,9 @@ There may be unexpected delays in the event of curfews, travel restrictions, pos
 		<img src="assets/images/shop_images/sample_book.png" alt="image" class ="mx-auto image-fluid d-block">
 				</div>
 				<div class="tl-product-content">
-						<h4>Attuwa:Majjhima 1</h4>
+						<h4>TEXT:Suttanipathapali
+
+</h4>
 						
 					</div>
 				</div>
@@ -533,7 +575,9 @@ There may be unexpected delays in the event of curfews, travel restrictions, pos
 			<img src="assets/images/shop_images/sample_book.png" alt="image" class ="mx-auto image-fluid d-block">
 					</div>
 					<div class="tl-product-content">
-							<h4>Attuwa:MajjIma  11</h4>
+							<h4>TEXT:Theragathapali
+
+</h4>
 						
 
 						</div>
@@ -547,7 +591,9 @@ There may be unexpected delays in the event of curfews, travel restrictions, pos
 		<img src="assets/images/shop_images/sample_book.png" alt="image" class ="mx-auto image-fluid d-block">
 				</div>
 				<div class="tl-product-content">
-						<h4>Attuwa:Majjima 111</h4>
+						<h4>TEXT:Therigathapali
+
+</h4>
 					
 					</div>
 				</div>
@@ -558,7 +604,9 @@ There may be unexpected delays in the event of curfews, travel restrictions, pos
 		<img src="assets/images/shop_images/sample_book.png" alt="image" class ="mx-auto image-fluid d-block">
 				</div>
 				<div class="tl-product-content">
-						<h4>Attuwa:Majjimma 1v</h4>
+						<h4>TEXT:Udanapali
+
+</h4>
 					</div>
 				</div>
 			</div>
@@ -569,7 +617,9 @@ There may be unexpected delays in the event of curfews, travel restrictions, pos
 		<img src="assets/images/shop_images/sample_book.png" alt="image" class ="mx-auto image-fluid d-block">
 				</div>
 				<div class="tl-product-content">
-						<h4>Attuwa:Mathikatta</h4>
+						<h4>TEXT:Vibangapprakarana
+
+</h4>
 					</div>
 				</div>
 			</div>
@@ -580,7 +630,7 @@ There may be unexpected delays in the event of curfews, travel restrictions, pos
 		<img src="assets/images/shop_images/sample_book.png" alt="image" class ="mx-auto image-fluid d-block">
 				</div>
 				<div class="tl-product-content">
-						<h4>Attuwa:Nettippatta</h4>
+						<h4>TEXT:Vimanavattupali 1</h4>
 					</div>
 				</div>
 			</div>
@@ -591,7 +641,46 @@ There may be unexpected delays in the event of curfews, travel restrictions, pos
 		<img src="assets/images/shop_images/sample_book.png" alt="image" class ="mx-auto image-fluid d-block">
 				</div>
 				<div class="tl-product-content">
-						<h4>Attuwa:Panchappa 1
+						<h4>TEXT:Vimanavattupali 11
+
+
+
+
+
+</h4>
+					</div>
+				</div>
+			</div>
+
+
+			<div class="col-lg-4 col-md-6 col-sm-6">
+			<div class="img-shop-wrapper tl-shop-single">
+		<div class="tl-img-shop">
+		<img src="assets/images/shop_images/sample_book.png" alt="image" class ="mx-auto image-fluid d-block">
+				</div>
+				<div class="tl-product-content">
+						<h4>TEXT:Yamaka 1
+
+
+
+
+
+</h4>
+					</div>
+				</div>
+			</div>
+
+
+
+			<div class="col-lg-4 col-md-6 col-sm-6">
+			<div class="img-shop-wrapper tl-shop-single">
+		<div class="tl-img-shop">
+		<img src="assets/images/shop_images/sample_book.png" alt="image" class ="mx-auto image-fluid d-block">
+				</div>
+				<div class="tl-product-content">
+						<h4>TEXT:Yamaka 11
+
+
 
 
 
@@ -675,12 +764,12 @@ There may be unexpected delays in the event of curfews, travel restrictions, pos
 					<div class="col-md-12">
 							<nav class="page-navigation ">
 								<ul class="pagination">
-									<li class="page-item"><a class="page-link" href="#">Previous</a></li>
-									<li class="page-item active"><a class="page-link" href="#">1</a></li>
+									<li class="page-item"><a class="page-link" href="shop_pages3.php">Previous</a></li>
+									<li class="page-item "><a class="page-link" href="shop_pages1.php">1</a></li>
 									<li class="page-item"><a class="page-link" href="shop_pages2.php">2</a></li>
 									<li class="page-item"><a class="page-link" href="shop_pages3.php">3</a></li>
-									<li class="page-item"><a class="page-link" href="shop_pages4.php">4</a></li>
-									<li class="page-item"><a class="page-link" href="shop_pages2.php">Next</a></li>
+									<li class="page-item active"><a class="page-link" href="shop_pages4.php">4</a></li>
+									<li class="page-item"><a class="page-link" href="#">Next</a></li>
 								</ul>
 							</nav>
 						</div>
