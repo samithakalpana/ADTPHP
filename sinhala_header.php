@@ -80,8 +80,12 @@
 								<li><a href="sinhala_life_1_our-teachers.php">දොන් ඩේවිඩ් හේවාවිතාරණ</a></li>
 								<li><a href="sinhala_life_2_our-teachers.php">අනගාරික ධර්මපාලතුමා</a></li>
 								<li><a href="sinhala_life_3_our-teachers.php">ශ්‍රී දේවමිත්ත ධම්මපාල</a></li>
-								<li><a href="sinhala_life_4_our-teachers.php">බුද්ධ ගයා සටන</a></li>
-								<li><a href="sinhala_life_6_our-teachers.php">පෙළගැස්ම</a></li>
+
+								<li><a href="under_construction_page.php">බුද්ධ ගයා සටන</a></li> -->
+								<<li><a href="under_construction_page.php">පෙළගැස්ම</a></li>
+								
+								<!-- <li><a href="sinhala_life_4_our-teachers.php">බුද්ධ ගයා සටන</a></li> -->
+								<!-- <li><a href="sinhala_life_6_our-teachers.php">පෙළගැස්ම</a></li> -->
 								<li><a href="sinhala_life_5_our-teachers.php">උරුමය</a></li>
 							</ul>
 						</li>
@@ -99,8 +103,14 @@
 							</li>
 							<li class="dropdown"><a href="#">ප්‍රතිලාභීන්</a>
 								<ul class="sub-menu">
+								<li><a href="under_construction_page.php">හික්කඩුවේ ශ්‍රී සුමංගල හිමි</a>
 								<!-- <li><a href="sinhala_benefactors_1.php">හික්කඩුවේ ශ්‍රී සුමංගල හිමි</a> -->
 								<li><a href="sinhala_benefactors_2.php">මේරි ජොබින්සන් ෆොස්ටර්</a>
+										<li><a href="under_construction_page.php">හෙන් රි ස්ටීල් ඕල්කට්</a>
+								<li><a href="under_construction_page.php">හෙලේනා පෙට්‍රොව්නා බ්ලැවැස්කි</a>
+								<li><a href="under_construction_page.php">සර් එඩ්වින් ආර්නෝල්ඩ්</a>
+								<li><a href="under_construction_page.php">නීල්කමල් මුකර්ජි</a>
+								<li><a href="under_construction_page.php">දේවප්‍රිය වලිසිංහ</a>
 								<!-- <li><a href="sinhala_benefactors_3.php">හෙන් රි ස්ටීල් ඕල්කට්</a>
 								<li><a href="sinhala_benefactors_4.php">හෙලේනා පෙට්‍රොව්නා බ්ලැවැස්කි</a>
 								<li><a href="sinhala_benefactors_5.php">සර් එඩ්වින් ආර්නෝල්ඩ්</a>
@@ -117,6 +127,8 @@
 							<ul class="sub-menu">
 								<li><a href="sinhala_about-us.php">සභාපතිතුමගේ පණිවුඩය</a></li>
 								<li><a href="sinhala_about-us.php#section_2">භාරය පිළිබදව</a></li>
+								<li><a href="sinhala_about-us.php#section_3">කළමනාකරණ භාරකරුවන්</a></li>
+								<li><a href="sinhala_Associates_1_somawati_and_simon_trust.php">වෙනත් භාරයන්</a></li>
 								
 							</ul>
 						</li>

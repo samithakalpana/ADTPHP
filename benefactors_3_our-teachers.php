@@ -80,35 +80,8 @@
 
 	</p><p>When Olcott was in New York he met by chance a lady by the name of Helena Blavatsky who came from an elite Russian family but had left her home country and arrived in America. She too was interested in Spiritualism and together with Olcott formed the Theosophical Society in 1875. Their object was; 
 
-	</p><p>* To form a nucleaus of the universal brotherhood of humanity, without distinction of race, creed, sex, caste or colour  <br/>
-* To encourage the comparative study of religion, philosophy and science <br/>
-* To investigate unexplained laws of nature and the powers latent in humanity.<br/>
-
-
 	</p>
-	<p> Olcott was in correspondence with the Ven. Migettuwatte Gunananda, the main speaker on behalf of Buddhism at the debate and the Ven. Hikkaduwe Sri Sumangala of the Vidyodaya Pirivena, an erudite scholar-monk of the time. Both Olcott and Blavatsky decided to embark on a voyage to Ceylon via India and arrived in the southern port of Galle where they were welcomed by a large crowd of locals. On May 16, 1880 both Olcott and Blavatsky took their five precepts of refuge, the five precepts observed by Buddhist laity and became Buddhists at a temple in Galle. They could be considered the first two Western converts to Buddhism.
-
-
-							
-							</p><p>Anagarika Dharmapala, then a lad of 16, was at the temple at that event that day and was inspired by what he saw. He has said how he walked all the way from school with his father and an uncle to listen to Olcott's first public speech and how elated he was when both Olcott and Blavatsky shook his young hand. The arrival of Olcott and the subsequent meetings he held throughout the island journeying in a double-decker horse-drawn cart  with the ‘silver-tongued’ Ven. Migettuwatte electrified the Buddhists, especially in rural Sri Lanka. With his knowledge of English, Dharmapala was later to become Olcott's translator at these meetings and a full-time activist and worker of the Theosophical Society.
-
-							</p><p>Olcott along with C. W. Leadbeater spent much of his time in Buddhist educational work in Sri Lanka. They started some 300 schools for Buddhist children. Dharmapala also had joined the Theosophist Society by then, as Theosophy was intertwined with Buddhist revivalism. There were contradictions however as the Theosphists were somehow promoting non-secrtarian religion. Olcott and Blavatsky quickly realised this distinction and formed the Buddhist section of the Ceylon Theosophist Society. Young Dharmapala travelled with Olcott to Japan where they were given a rousing welcome by the Buddhists of Japan. It was the first time in a thousand years that the Theravada traditon of Buddhists found in countries like Sri Lanka (then sometimes referred to as 'southern Buddhism') had met with the Mahayana tradition found in Japan.
-
-							</p><p>When Dharmapala embarked on his campaign for the restoration of Buddha Gaya for the Buddhists in the early stages it was Olcott who spent his own monies to obtain legal counsel and paid the rent for the resident Buddhist monks during their stay at Buddha Gaya while litigation was in progress. In later years, years however, Olcott linked up with the Theosophist and social activist Mrs Annie Besant who had by then established herself in Adyar, Madras, India finding the goal of her desires in the Hindu holy book, the Bagavat Gita. Olcott gradually became indifferent to Buddhism and concentrated on Theosophy and in a way, directed his energies to reviving Hinduism in India. 
-
-							</p><p>Anagarika Dharmapala had serious differences with Olcott at one stage - especially when the old soldier questioned the authenticity of the sacred Buddha Tooth Relic at Sri Lanka's hill capital of Kandy and over the issue of a creator in Buddhism. Olcott in his memoirs says that he was against Dharmapala incurring heavy expenses for legal advice at Buddha Gaya and the purchase of property in Buddha Gaya. The Bengal branch of the Theosophical Society fully backed Dharmapala. Even at a time certain Hindus were critical of the Maha Bodhi Society alleging they were trying to convert Hindus to Buddhism, the Bengal TS backed Dharmapala's campaign for Buddha Gaya. Differences grew sharper as Olcott resigned from the Maha Bodhi Society and Dharmapala consciously broke away from the Theosophical Society to ensure that the Maha Bodhi Society became the representative of the Buddhists and the Buddhists alone, and not the Theosophical Society. 
-
-							</p><p>Olcott is held in very high esteem in Sri Lanka to this day as the man who revived Buddhism in Sri Lanka among locals who had been subjugated by then for over three centuries by European rule, and whose religion was kept alive only by the Clergy in remote villages. He is remembered for the schools he started, some of which are still functioning. His statue has been erected opposite the main railway station in the capital, Colombo and in other towns, including Galle where he first arrived. The Buddhist section of the Ceylon Theosophical Society, which began in Galle with branches elsewhere later shifted to Colombo as steamer ships made the Colombo harbour, and not Galle the island's main port of call. It is known  today as 
-								<a href="#"><b>the Buddhist Theosophical Society (BTS)</b></a> in Sri Lanka. 
-
-							</p><p>For more details see:
-·         https://www.gutenberg.org/ebooks/authors/search/?query=Olcott,+Henry+Steel <br/>
-·         Guruge, Ananda W. P. Free at Last in Paradise, Authuhouse, Bloomington, Ind, 1998 <br/>
-·         Murphet, Howard: Hammer on the mountain, life of Henry Steel Olcott (1832–1907); Theosophical Publishing House, Wheaton 1972; ISBN 0-8356-0210-9 <br/>
-·         Prothero, Stephen R.: The White Buddhist: The Asian Odyssey of Henry Steel Olcott; Indiana University Press, Bloomington 1996; ISBN 0-253-33014-9 <br/>
-
-
-							</p>
+	
 							<!-- <div class="sa-team-social">
 								<h5>Social links</h5>
 								<ul class="text-center">
@@ -128,6 +101,38 @@
 						</div>
 					</div>
 				</div>
+				<p>* To form a nucleaus of the universal brotherhood of humanity, without distinction of race, creed, sex, caste or colour  <br/>
+* To encourage the comparative study of religion, philosophy and science <br/>
+* To investigate unexplained laws of nature and the powers latent in humanity.<br/>
+
+
+	</p>
+				<p> Olcott was in correspondence with the Ven. Migettuwatte Gunananda, the main speaker on behalf of Buddhism at the debate and the Ven. Hikkaduwe Sri Sumangala of the Vidyodaya Pirivena, an erudite scholar-monk of the time. Both Olcott and Blavatsky decided to embark on a voyage to Ceylon via India and arrived in the southern port of Galle where they were welcomed by a large crowd of locals. On May 16, 1880 both Olcott and Blavatsky took their five precepts of refuge, the five precepts observed by Buddhist laity and became Buddhists at a temple in Galle. They could be considered the first two Western converts to Buddhism.
+
+
+							
+</p><p>Anagarika Dharmapala, then a lad of 16, was at the temple at that event that day and was inspired by what he saw. He has said how he walked all the way from school with his father and an uncle to listen to Olcott's first public speech and how elated he was when both Olcott and Blavatsky shook his young hand. The arrival of Olcott and the subsequent meetings he held throughout the island journeying in a double-decker horse-drawn cart  with the ‘silver-tongued’ Ven. Migettuwatte electrified the Buddhists, especially in rural Sri Lanka. With his knowledge of English, Dharmapala was later to become Olcott's translator at these meetings and a full-time activist and worker of the Theosophical Society.
+
+</p><p>Olcott along with C. W. Leadbeater spent much of his time in Buddhist educational work in Sri Lanka. They started some 300 schools for Buddhist children. Dharmapala also had joined the Theosophist Society by then, as Theosophy was intertwined with Buddhist revivalism. There were contradictions however as the Theosphists were somehow promoting non-secrtarian religion. Olcott and Blavatsky quickly realised this distinction and formed the Buddhist section of the Ceylon Theosophist Society. Young Dharmapala travelled with Olcott to Japan where they were given a rousing welcome by the Buddhists of Japan. It was the first time in a thousand years that the Theravada traditon of Buddhists found in countries like Sri Lanka (then sometimes referred to as 'southern Buddhism') had met with the Mahayana tradition found in Japan.
+
+</p><p>When Dharmapala embarked on his campaign for the restoration of Buddha Gaya for the Buddhists in the early stages it was Olcott who spent his own monies to obtain legal counsel and paid the rent for the resident Buddhist monks during their stay at Buddha Gaya while litigation was in progress. In later years, years however, Olcott linked up with the Theosophist and social activist Mrs Annie Besant who had by then established herself in Adyar, Madras, India finding the goal of her desires in the Hindu holy book, the Bagavat Gita. Olcott gradually became indifferent to Buddhism and concentrated on Theosophy and in a way, directed his energies to reviving Hinduism in India. 
+
+</p><p>Anagarika Dharmapala had serious differences with Olcott at one stage - especially when the old soldier questioned the authenticity of the sacred Buddha Tooth Relic at Sri Lanka's hill capital of Kandy and over the issue of a creator in Buddhism. Olcott in his memoirs says that he was against Dharmapala incurring heavy expenses for legal advice at Buddha Gaya and the purchase of property in Buddha Gaya. The Bengal branch of the Theosophical Society fully backed Dharmapala. Even at a time certain Hindus were critical of the Maha Bodhi Society alleging they were trying to convert Hindus to Buddhism, the Bengal TS backed Dharmapala's campaign for Buddha Gaya. Differences grew sharper as Olcott resigned from the Maha Bodhi Society and Dharmapala consciously broke away from the Theosophical Society to ensure that the Maha Bodhi Society became the representative of the Buddhists and the Buddhists alone, and not the Theosophical Society. 
+
+</p><p>Olcott is held in very high esteem in Sri Lanka to this day as the man who revived Buddhism in Sri Lanka among locals who had been subjugated by then for over three centuries by European rule, and whose religion was kept alive only by the Clergy in remote villages. He is remembered for the schools he started, some of which are still functioning. His statue has been erected opposite the main railway station in the capital, Colombo and in other towns, including Galle where he first arrived. The Buddhist section of the Ceylon Theosophical Society, which began in Galle with branches elsewhere later shifted to Colombo as steamer ships made the Colombo harbour, and not Galle the island's main port of call. It is known  today as 
+	<a href="#"><b>the Buddhist Theosophical Society (BTS)</b></a> in Sri Lanka. 
+
+</p><p>For more details see:
+·         https://www.gutenberg.org/ebooks/authors/search/?query=Olcott,+Henry+Steel <br/>
+·         Guruge, Ananda W. P. Free at Last in Paradise, Authuhouse, Bloomington, Ind, 1998 <br/>
+·         Murphet, Howard: Hammer on the mountain, life of Henry Steel Olcott (1832–1907); Theosophical Publishing House, Wheaton 1972; ISBN 0-8356-0210-9 <br/>
+·         Prothero, Stephen R.: The White Buddhist: The Asian Odyssey of Henry Steel Olcott; Indiana University Press, Bloomington 1996; ISBN 0-253-33014-9 <br/>
+
+
+</p>
+
+
+
 			</div>
 		</section>
 

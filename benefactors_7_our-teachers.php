@@ -81,25 +81,7 @@ Buddhism, that Valisinha - then only 8 years — first saw and heard him. He cou
 
 	</p><p>And so, the young Valisinha came to Colombo where the Anagarika’s mother, Mallika Hewavitarne, looked after the boy. U. B. Dolapihilla, an English-educated Kandyan, who had won a scholarship awarded by the Hewavitarne family to study textile weaving in Japan, was  asked  to  educate the young lad who had been admitted to the Maha Bodhi College, started by the Maha Bodhi Society at Maradana.
 
-	</p><p>In 1917, when  Anagarika Dharmapala’s mother went to India on a pilgrimage, Valisinha, now 13 years old, accompanied her. The Anagarika had spent most of his time all those years ’imprisoned’ in Calcutta by the British authorities, following the 1915 race riots in Sri Lanka. Valisinha was taught to do the accounts of the Maha Bodhi Society, India, and learnt the Bengali language and was thereafter sent to Santiniketan, the most famous seat of spiritual learning in India, founded by the great Bengali poet Rabindranath Tagore. He later went on to join Presidency College, a well-known University in Madras.
-
-	</p><p>When Anagarika Dharmapala became a  monk in 1931, Valisinha became the natural choice for the post of General-Secretary and Treasurer of the Maha Bodhi Society. Anagarika Dharmapala, tired and weary by then, realised it was time to write his last will. It was to Valisinha that he entrusted the task of journeying to faraway Australia, where, in consultation with Anagarika Dharmapala’s friend, John de Silva, papers  were  drafted  in  the  State of Queensland. The last will was executed in Sri Lanka by Julius & Creasy Notaries Public.
-
 	</p>
-	<p>After Anagarika Dharmapala’s death Valisinha and Raja Hewavitarne (a nephew of Angarika Dharmapala) brought  the ashes to Ceylon. They were received by the biggest congregation of people seen in the Island at the time. At the meeting held in the Maligakande Temple, attended by 50,000 people, Valishina requested the people to pledge with him, repeating word  after word, to not  rest until Buddha Gaya was restored to the Buddhists, as a  tribute to the memory of  Anagarika Dharmapala for  his selfless  services  towards  the cause  of   Buddhism. This electrified the  audience to leave no stone  unturned for the restoration of Buddha Gaya to the Buddhist world. 
-
-							
-							</p><p>Valisinha continued most of the unfinished work of Anagarika Dharmapala with almost equal gusto. He was the quiet negotiator who appears to have pursued the objectives of the Maha Bodhi Society. His skills at negotiation are best remembered for the role he played in convincing the British Government to part with the relics  of Sariputta and Moggallana, which had been spirited away to London during the British occupation of India.
-
-							</p><p>In 1941, during World War II, Devapriya Valisinha was arrested by the British and jailed in India for his links with Buddhist Japan. He was later released. When he arrived in Ceylon immediately thereafter,  the British ordered him, as the General-Secretary of the Maha Bodhi Society, not to return to India till the war was over.
-
-							</p><p>A prolific writer like the founder, Valisinha made the Maha Bodhi  Press  a hive  of  activity  as  he  helped   boost the influence of the   “Sinhala Bauddhaya”. When  the Balance  Sheet  of  the Maha Bodhi Society  showed  profits   he started a Provident  Fund  for workers at the Press. He revised the Rules of the Maha Bodhi Society and introduced Life Membership during his enforced stay in Ceylon
-
-							</p><p>While in Ceylon he edited the book "Buddhist Shrines in India”, which became  the  standard  guide  for  pilgrims  going  to  the  holy land.  The man, who was once declared persona-non-grata by the British, was later awarded the Silver jubilee medal  by  the  British  King, George V and,  Queen Elizabeth II met him at Sarnath in 1961.
-
-							</p><p>
-							Devapriya Valisinha was a terrific source of strength for the Maha Bodhi Society in general and to  its  branches in Sri Lanka, India and UK in particular. He was the one person who ensured that the Society did not wither away after the death of its founder.
-							</p>
 							<!-- <div class="sa-team-social">
 								<h5>Social links</h5>
 								<ul class="text-center">
@@ -119,6 +101,26 @@ Buddhism, that Valisinha - then only 8 years — first saw and heard him. He cou
 						</div>
 					</div>
 				</div>
+				<p>In 1917, when  Anagarika Dharmapala’s mother went to India on a pilgrimage, Valisinha, now 13 years old, accompanied her. The Anagarika had spent most of his time all those years ’imprisoned’ in Calcutta by the British authorities, following the 1915 race riots in Sri Lanka. Valisinha was taught to do the accounts of the Maha Bodhi Society, India, and learnt the Bengali language and was thereafter sent to Santiniketan, the most famous seat of spiritual learning in India, founded by the great Bengali poet Rabindranath Tagore. He later went on to join Presidency College, a well-known University in Madras.
+
+</p><p>When Anagarika Dharmapala became a  monk in 1931, Valisinha became the natural choice for the post of General-Secretary and Treasurer of the Maha Bodhi Society. Anagarika Dharmapala, tired and weary by then, realised it was time to write his last will. It was to Valisinha that he entrusted the task of journeying to faraway Australia, where, in consultation with Anagarika Dharmapala’s friend, John de Silva, papers  were  drafted  in  the  State of Queensland. The last will was executed in Sri Lanka by Julius & Creasy Notaries Public.
+
+</p>
+<p>After Anagarika Dharmapala’s death Valisinha and Raja Hewavitarne (a nephew of Angarika Dharmapala) brought  the ashes to Ceylon. They were received by the biggest congregation of people seen in the Island at the time. At the meeting held in the Maligakande Temple, attended by 50,000 people, Valishina requested the people to pledge with him, repeating word  after word, to not  rest until Buddha Gaya was restored to the Buddhists, as a  tribute to the memory of  Anagarika Dharmapala for  his selfless  services  towards  the cause  of   Buddhism. This electrified the  audience to leave no stone  unturned for the restoration of Buddha Gaya to the Buddhist world. 
+
+						
+						</p><p>Valisinha continued most of the unfinished work of Anagarika Dharmapala with almost equal gusto. He was the quiet negotiator who appears to have pursued the objectives of the Maha Bodhi Society. His skills at negotiation are best remembered for the role he played in convincing the British Government to part with the relics  of Sariputta and Moggallana, which had been spirited away to London during the British occupation of India.
+
+						</p><p>In 1941, during World War II, Devapriya Valisinha was arrested by the British and jailed in India for his links with Buddhist Japan. He was later released. When he arrived in Ceylon immediately thereafter,  the British ordered him, as the General-Secretary of the Maha Bodhi Society, not to return to India till the war was over.
+
+						</p><p>A prolific writer like the founder, Valisinha made the Maha Bodhi  Press  a hive  of  activity  as  he  helped   boost the influence of the   “Sinhala Bauddhaya”. When  the Balance  Sheet  of  the Maha Bodhi Society  showed  profits   he started a Provident  Fund  for workers at the Press. He revised the Rules of the Maha Bodhi Society and introduced Life Membership during his enforced stay in Ceylon
+
+						</p><p>While in Ceylon he edited the book "Buddhist Shrines in India”, which became  the  standard  guide  for  pilgrims  going  to  the  holy land.  The man, who was once declared persona-non-grata by the British, was later awarded the Silver jubilee medal  by  the  British  King, George V and,  Queen Elizabeth II met him at Sarnath in 1961.
+
+						</p><p>
+						Devapriya Valisinha was a terrific source of strength for the Maha Bodhi Society in general and to  its  branches in Sri Lanka, India and UK in particular. He was the one person who ensured that the Society did not wither away after the death of its founder.
+						</p>
+
 			</div>
 		</section>
 

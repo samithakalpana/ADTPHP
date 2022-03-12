@@ -13,8 +13,8 @@
 						<!-- <div class="newsletter"> -->
 						<div class="follow_us">
 						<ul class="text-custom-align-center">
-						Email Us :<br/> 
-						<li> <a href="adtrust@sltnet.lk">adtrust@sltnet.lk</a></li>
+						විද්‍යුත් තැපෑල :<br/> 
+						<li> <a href="mailto:adtrust@sltnet.lk">adtrust@sltnet.lk</a></li>
 						</ul>
 							<!-- <form>
 								<div class="email_input">
@@ -28,7 +28,7 @@
 						<div class="follow_us">
 							<!-- <ul class="text-custom-align-right"> -->
 							<ul class="text-custom-align-center">
-							Call Us:<br/>
+							ඇමතුම්:<br/>
 						
 								<li><a href="tel:+940112695012">+94 11 269 5012<a></li>
 								<!-- <li><a href="#"><i class="fab fa-facebook-f"></i></a></li>
@@ -84,7 +84,7 @@
 							<ul>
 								<li><a href="sinhala_index.php">මුල් පිටුව</a></li>
 								<li><a href="sinhala_life_1_our-teachers.php">ධර්මපාල තුමාගේ ජීවිතය</a></li>
-								<li><a href="sinhala_family_1.php">පවුල සහ ප්‍රත්‍රිලාභීන්</a></li>
+								<li><a href="sinhala_family_1.php">පවුල සහ ප්‍රතිලාභීන්</a></li>
 								<li><a href="sinhala_about-us.php">භාරය</a></li>
 								<li><a href="sinhala_shop_main_ADT_books.php">සාප්පුව</a></li>
 								<li><a href="sinhala_contact-us.php">ඇමතුම්</a></li>

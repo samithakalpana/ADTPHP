@@ -69,7 +69,7 @@
 							<!-- <h3>Gopal dhanam</h3> -->
 							<h3>ඌරුමය</h3>
 							<!-- <p class="designation">Yoga Teacher</p> -->
-							<p class="designation"></p>
+							<!-- <p class="designation"></p> -->
 							<p>	
 
 							අනගාරික ධර්මපාලයන්ගේ ජීවිතය සමාජ
