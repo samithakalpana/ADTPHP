@@ -107,7 +107,7 @@
 						
 							<p>
 				</p><p>His widow, Somawati Hewavitarne created the Somawati Hewavitarne Trust prior to her death in 1982 to ensure the continuation of the execution of the bequest. To this day, 
-					<a href="#"><b>the Simon Hewavitarne Trust and the Somawati Hewavitarne Trust</b></a> continue to work diligently to keep alive the visions of Simon and Somawati Hewavitarne.
+					<a href="Associates_1_somawati_and_simon_trust.php"><b>the Simon Hewavitarne Trust and the Somawati Hewavitarne Trust</b></a> continue to work diligently to keep alive the visions of Simon and Somawati Hewavitarne.
 
 </p>
 			</div>

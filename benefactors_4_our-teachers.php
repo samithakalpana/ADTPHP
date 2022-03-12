@@ -112,8 +112,18 @@ He believed, at the age of 20, like many other Buddhists at the time, that the i
 
 							
 							</p><p>For more details see:
-https://blavatskyarchives.com/  <br/>
-https://www.gutenberg.org/ebooks/authors/search/?query=Blavatsky,+H.+P.+(Helena+Petrovna) <br/>
+
+
+
+<a href="https://blavatskyarchives.com/ "><b>https://blavatskyarchives.com/  </b></a>
+
+
+<br/>
+
+
+<a href="https://www.gutenberg.org/ebooks/authors/search/?query=Blavatsky,+H.+P.+(Helena+Petrovna)"><b>https://www.gutenberg.org/ebooks/authors/search/?query=Blavatsky,+H.+P.+(Helena+Petrovna)</b></a>
+
+<br/>
 ·         Caldwell, Daniel H (2000). The esoteric world of Madame Blavatsky: insights into the life of a modern sphinx. Theosophical Pub. House. ISBN 978-0-8356-0794-0.<br/>
 ·         Cranston, Sylvia (1993). HPB: The Extraordinary Life and Influence of Helena Blavatsky, Founder of the Modern Theosophical Movement. London: G.P. Putnam's Sons. ISBN 978-0-87477-688-1. <br/>
 ·                       Lachman, Gary (2012). Madame Blavatsky: The Mother of Modern Spirituality. New York: Jeremy P. Tarcher/Penguin. ISBN 978-1-58542-863-2. <br/>

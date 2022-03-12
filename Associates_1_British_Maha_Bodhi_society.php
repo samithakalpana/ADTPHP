@@ -101,8 +101,7 @@ Sudanta Abeyakoon <br>
 Sinha Ratnatunga 
 </p>
 
-<p>For more details see the<a class="text-custom-primary" href="#
-">  London Buddhist Vihara website</a></p>
+<p>For more details see the<a class="text-custom-primary" href="Associates_1_london_buddist_vihara.php">  London Buddhist Vihara website</a></p>
 
 
 

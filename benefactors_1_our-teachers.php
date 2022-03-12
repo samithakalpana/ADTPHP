@@ -120,7 +120,7 @@
 <p>Even those who followed the teachings of Mahayana Buddhism, such as Rev. Kojin Gunaratana, Rev. Kojina Kondanna, Sato and Tochibana, from foreign countries like Thailand, Burma, Bangladesh and Japan, also came to Vidyodaya Monastic College to study the teachings of Theravada Buddhism under the tutelage of the Ven. Thera. 
 
 </p>
-<p>Ven. Mohottiwatte Gunananda Thera who participated in the famous Panadura debate in 1873, made sure that Ven. Hikkaduwe Sumangala Thera also came along to assist him with the debate. The debate became so famous that information about it was published in a magazine called “The Truth Seeker” in America (Thomas Paine who played a major role in creating the Constitution of the United States was also one of the patrons of this magazine). As a result of the published article about this debate, many important persons such as <a target="_blank" href="benefactors_3_our-teachers.php"><b>Colonel Henry Steel Olcott</b></a> and the Russian philosopher and author,<a target="_blank" href="benefactors_4_our-teachers.php"><b> Helena Blavatsky</b></a>, were encouraged to visit Sri Lanka. On May 17, 1880, they both embraced Buddhism as their religion at Vidyananda Monastic College in Galle, and started studying the Pali language and Buddhist philosophy under the tutelage of the Ven. Thera.
+<p>Ven. Mohottiwatte Gunananda Thera who participated in the famous Panadura debate in 1873, made sure that Ven. Hikkaduwe Sumangala Thera also came along to assist him with the debate. The debate became so famous that information about it was published in a magazine called “The Truth Seeker” in America (Thomas Paine who played a major role in creating the Constitution of the United States was also one of the patrons of this magazine). As a result of the published article about this debate, many important persons such as <a href="benefactors_3_our-teachers.php"><b>Colonel Henry Steel Olcott</b></a> and the Russian philosopher and author,<a href="benefactors_4_our-teachers.php"><b> Helena Blavatsky</b></a>, were encouraged to visit Sri Lanka. On May 17, 1880, they both embraced Buddhism as their religion at Vidyananda Monastic College in Galle, and started studying the Pali language and Buddhist philosophy under the tutelage of the Ven. Thera.
 
 </p><p>They understood the importance of education and how it could be used to salvage the pitiful situation that the Buddhist religion in Sri Lanka has fallen into. As a result, Parama Vignanartha Corporation was established in Colombo. In 1895, this corporation established Ananda Vidyalaya in Colombo with the Cambridge graduate A.E. Bultjens of American descent as its principal. This was followed by the establishment of several other schools in the country such as Nalanda Vidyalaya in Colombo, Dharmaraja Vidyalaya in Kandy, and Mahinda Vidyalaya in Galle.
 
@@ -140,7 +140,7 @@
 
 <b>For more details see:<br/></b>
 Blackburn, Anne M (2010). Locations of Buddhism: Colonialism and Modernity in Sri Lanka, Chicago University Press, Chicago.<br/>
-<a target="_blank" href="https://press.uchicago.edu/ucp/books/book/chicago/L/bo8503417.html"><b>https://press.uchicago.edu/ucp/books/book/chicago/L/bo8503417.html</b> </a>
+<a  href="https://press.uchicago.edu/ucp/books/book/chicago/L/bo8503417.html"><b>https://press.uchicago.edu/ucp/books/book/chicago/L/bo8503417.html</b> </a>
 
 
 </p>
