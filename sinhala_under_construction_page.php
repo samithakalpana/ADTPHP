@@ -37,7 +37,7 @@
 
 <body id="tl">
 	<!-- Header -->
-        	<?php include_once 'header.php'; ?>
+        	<?php include_once 'sinhala_header.php'; ?>
 	
 	<!-- /Header -->
 
@@ -47,12 +47,12 @@
 			<div class="inner_wp z_index white_text">
 				<div class="row">
 					<div class="col-md-12">
-						<h1 class="text-center">Comming soon <br/>Page Under Construction
+						<h1 class="text-center">මෙම පිටුව යාවත්කලීන කරමින් පවතී<br/>
 </h1>
 						<nav class="breadcrumb">
 							<ul>
-								<li class="breadcrumb-item"><a href="index.php">Home</a></li>
-								<li class="breadcrumb-item active">Under Construction
+								<li class="breadcrumb-item"><a href="index.php">මුල් පිටුව</a></li>
+								<li class="breadcrumb-item active">මෙම පිටුව යාවත්කලීන කරමින් පවතී
 </li>
 							</ul>
 						</nav>
@@ -63,11 +63,11 @@
 	</section>
 	<!-- /Inner-intro -->
 
-<img src="assets/images/under_construction_page/under_construct.jpg" alt="img" class="w-100  img-fluid max-width">
+<!-- <img src="assets/images/under_construction_page/under_construct.jpg" alt="img" class="w-100  img-fluid max-width"> -->
 
 
 	
-<?php include_once 'footer.php';?>
+<?php include_once 'sinhala_footer.php';?>
 
 
 

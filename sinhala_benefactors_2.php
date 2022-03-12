@@ -67,7 +67,7 @@
 					<div class="col-lg-7">
 						<div class="sa-paster-about-area">
 							<!-- <h3>Gopal dhanam</h3> -->
-							<h3>මේරි ජොබින්සන් ෆොස්ටර්</h3>
+							<h3>මේරි රොබින්සන් ෆොස්ටර්</h3>
 							<!-- <p class="designation">Yoga Teacher</p> -->
 							<p class="designation">(1844 සැප්තැම්බර් 20 සිට – 1930 දෙසැම්බර් 29 දක්වා)</p>
 							<p>මේරි එලිසබෙත් මකහලා රොබින්සන් 1844
