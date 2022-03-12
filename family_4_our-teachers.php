@@ -76,7 +76,29 @@
 							<p>	One of his great grandsons writes of what happened:						
 							
 
-	</p><p>“It was on my Achchi's (grandmother's) knee that I first heard of the 1915 riots. To my young ears, it was just another of grandma's tales. The significance of those turbulent times dawned on me only later, when as a youthful law student I came across the proceedings of the Field General Court Martial of the British Raj, which probed those riots.
+	</p>
+
+
+							<!-- <div class="sa-team-social">
+								<h5>Social links</h5>
+								<ul class="text-center">
+									<li><a href="#"><i class="fab fa-facebook-f"></i></a></li>
+									<li><a href="#"><i class="fab fa-twitter"></i></a></li>
+									<li><a href="#"><i class="fab fa-linkedin-in"></i></a></li>
+									<li><a href="#"><i class="fab fa-youtube"></i></a></li>
+									<li><a href="#"><i class="fab fa-instagram"></i></a></li>
+								</ul>
+							</div> -->
+						</div>
+					</div>
+					<div class="col-xl-4 col-lg-5 offset-xl-1 align-self-center">
+						<div class="ss-pastor-img-wrap">
+							<!-- <img src="assets/images/pastor-1.jpg" alt="img"> -->
+							<img src="assets/images/custom_images/edmund_hewavitharana.png" alt="img">
+						</div>
+					</div>
+				</div>
+				<p>“It was on my Achchi's (grandmother's) knee that I first heard of the 1915 riots. To my young ears, it was just another of grandma's tales. The significance of those turbulent times dawned on me only later, when as a youthful law student I came across the proceedings of the Field General Court Martial of the British Raj, which probed those riots.
 
 
 	</p><p>Achchi's husband - my grandfather - had been a teenager when his own father Edmund Hewavitarne (younger brother of the Anagarika Dharmapala) along with Namanidewage Albert Wijesekera was hauled up before the drumhead Court Martial presided over by Lt. Colonel R.L. Muspratt-Williams of the Royal Garrison Artillery and charged with treason and shop-breaking.
@@ -102,27 +124,6 @@ Edmund Hewavitarne died on November 19, 1915, five months after he was sentenced
 
 	</p>
 
-
-
-							<!-- <div class="sa-team-social">
-								<h5>Social links</h5>
-								<ul class="text-center">
-									<li><a href="#"><i class="fab fa-facebook-f"></i></a></li>
-									<li><a href="#"><i class="fab fa-twitter"></i></a></li>
-									<li><a href="#"><i class="fab fa-linkedin-in"></i></a></li>
-									<li><a href="#"><i class="fab fa-youtube"></i></a></li>
-									<li><a href="#"><i class="fab fa-instagram"></i></a></li>
-								</ul>
-							</div> -->
-						</div>
-					</div>
-					<div class="col-xl-4 col-lg-5 offset-xl-1 align-self-center">
-						<div class="ss-pastor-img-wrap">
-							<!-- <img src="assets/images/pastor-1.jpg" alt="img"> -->
-							<img src="assets/images/custom_images/edmund_hewavitharana.png" alt="img">
-						</div>
-					</div>
-				</div>
 			</div>
 		</section>
 

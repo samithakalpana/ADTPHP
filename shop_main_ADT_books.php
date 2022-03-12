@@ -48,12 +48,12 @@
 			<div class="inner_wp z_index white_text">
 				<div class="row">
 					<div class="col-md-12">
-						<h1 class="text-center">shop-left</h1>
+						<h1 class="text-center">ADT BOOK STORE</h1>
 						<nav class="breadcrumb">
 							<ul>
-								<li class="breadcrumb-item"><a href="index.html">Home</a></li>
-								<li class="breadcrumb-item"><a href="shop-full-width.html">Shop</a></li>
-								<li class="breadcrumb-item active">shop-left</li>
+								<li class="breadcrumb-item"><a href="index.php">Home</a></li>
+								<!-- <li class="breadcrumb-item"><a href="shop-full-width.html">Shop</a></li> -->
+								<li class="breadcrumb-item active">ADT BOOK STORE</li>
 							</ul>
 						</nav>
 					</div>
@@ -209,7 +209,7 @@ There may be unexpected delays in the event of curfews, travel restrictions, pos
 				<img src="assets/images/shop_images/sample_book.png" alt="image" class ="mx-auto image-fluid d-block">
 						</div>
 						<div class="tl-product-content">
-								<h4>Coffee Table Book</h4>
+								<h4>Coffee Table<br/> Book</h4>
 								<p>Rs 5000.00 
 									<!-- <span class="off-price">$56</span> -->
 								</p>
@@ -223,10 +223,10 @@ There may be unexpected delays in the event of curfews, travel restrictions, pos
 						<div class="img-shop-wrapper tl-shop-single">
 				<div class="tl-img-shop">
 
-				<img src="assets/images/shop_images/main_book_1.jpg" alt="image" class ="mx-auto image-fluid d-block">
+				<img src="assets/images/shop_images/main_book_1.png" alt="image" class ="mx-auto image-fluid d-block">
 						</div>
 						<div class="tl-product-content">
-								<h4>they turn the tide</h4>
+								<h4>they turn <br/> the tide</h4>
 								<p>Rs 150.00 
 									<!-- <span class="off-price">$56</span> -->
 								</p>
@@ -240,7 +240,7 @@ There may be unexpected delays in the event of curfews, travel restrictions, pos
 
 				<div class="img-shop-wrapper tl-shop-single">
 			<div class="tl-img-shop">
-						<img src="assets/images/shop_images/main_book_2.jpg" alt="image" class ="mx-auto image-fluid d-block">
+						<img src="assets/images/shop_images/main_book_2.png" alt="image" class ="mx-auto image-fluid d-block">
 					</div>
 					<div class="tl-product-content">
 							<h4>anagarika darmapala pradanaya</h4>
@@ -256,7 +256,7 @@ There may be unexpected delays in the event of curfews, travel restrictions, pos
 
 				<div class="img-shop-wrapper tl-shop-single">
 			<div class="tl-img-shop">
-			<img src="assets/images/shop_images/main_book_3.jpg" alt="image" class ="mx-auto image-fluid d-block">
+			<img src="assets/images/shop_images/main_book_3.png" alt="image" class ="mx-auto image-fluid d-block">
 					</div>
 					<div class="tl-product-content">
 							<h4>Anagarika darmapala abhiyogaya saha api</h4>
@@ -275,10 +275,10 @@ There may be unexpected delays in the event of curfews, travel restrictions, pos
 					<div class="img-shop-wrapper tl-shop-single">
 			<div class="tl-img-shop">
 
-			<img src="assets/images/shop_images/main_book_4.jpg" alt="image" class ="mx-auto image-fluid d-block">
+			<img src="assets/images/shop_images/main_book_4.png" alt="image" class ="mx-auto image-fluid d-block">
 					</div>
 					<div class="tl-product-content">
-							<h4>mahabodi kathawa</h4>
+							<h4>mahabodi <br/>kathawa</h4>
 							<p>Rs 150.00 
 								<!-- <span class="off-price">$56</span> -->
 							</p>
@@ -293,10 +293,10 @@ There may be unexpected delays in the event of curfews, travel restrictions, pos
 
 			<div class="img-shop-wrapper tl-shop-single">
 		<div class="tl-img-shop">
-		<img src="assets/images/shop_images/main_book_5.jpg" alt="image" class ="mx-auto image-fluid d-block">
+		<img src="assets/images/shop_images/main_book_5.png" alt="image" class ="mx-auto image-fluid d-block">
 				</div>
 				<div class="tl-product-content">
-						<h4>Anagarika Dharmapala</h4>
+						<h4>Anagarika <br/>Dharmapala</h4>
 						<p>Rs 150.00 
 								<!-- <span class="off-price">$56</span> -->
 							</p>
@@ -309,7 +309,7 @@ There may be unexpected delays in the event of curfews, travel restrictions, pos
 
 			<div class="img-shop-wrapper tl-shop-single">
 		<div class="tl-img-shop">
-		<img src="assets/images/shop_images/main_book_6.jpg" alt="image" class ="mx-auto image-fluid d-block">
+		<img src="assets/images/shop_images/main_book_6.png" alt="image" class ="mx-auto image-fluid d-block">
 				</div>
 				<div class="tl-product-content">
 						<h4>The Lion Of Cylon in Chicago</h4>
@@ -328,10 +328,10 @@ There may be unexpected delays in the event of curfews, travel restrictions, pos
 					<div class="img-shop-wrapper tl-shop-single">
 			<div class="tl-img-shop">
 
-			<img src="assets/images/shop_images/main_book_7.jpg" alt="image" class ="mx-auto image-fluid d-block">
+			<img src="assets/images/shop_images/main_book_7.png" alt="image" class ="mx-auto image-fluid d-block">
 					</div>
 					<div class="tl-product-content">
-							<h4>Flame In Darkness</h4>
+							<h4>Flame In<br/> Darkness</h4>
 							<p>Rs 150.00 
 								<!-- <span class="off-price">$56</span> -->
 							</p>

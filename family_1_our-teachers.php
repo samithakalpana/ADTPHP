@@ -73,15 +73,7 @@
 							<p>	Don Carolis Hewavitarne, the father of Anagarika Dharmapala, was born in Yatiyana, Hittatiya, Matara, in the South of then Ceylon (now Sri Lanka) as one of the two sons of Hewavitarne Dingiri Appuhamy, a wealthy landowner.  Don Carolis could be considered the pater-familia of the modern Hewavitarne family, which was to be in the forefront of the country's freedom struggle. From his early life, the links to the village temple were closely formed with Don Carolis and his brother receiving their education at the Hittatiya Raja Maha Vihara under the tutelage of Ven. Mirrise Revatha. His brother ordained as a bhikkhu, taking on the ordination name, Ven. Hittatiye Atthadassi Thero and became an incumbent at the Hittatiye Raja Maha Vihara.
 							
 							</p>
-							<p>	Don Carolis, migrated to Colombo and married, Mallika, the daughter of the wealthy Colombo-based  entrepreneur,  Andiris Perera Dharmagunawardene, and established H. Don Carolis & Sons, a furniture shop in Pettah. The small shop that was established in Pettah evolved into one of the largest and most prestigious industrial companies of Ceylon and Asia in the 19th and 20th Centuries under the astute business acumen of Don Carolis. By 1886 H. Don Carolis & Sons was exporting furniture to Australia. An Indo-Africa syndicate was formed in London in 1895 to carry out a large furniture business with South Africa. Don Carolis established the firm’s first factory, 'Steam Furniture Works' in Colombo's Slave Island area.  By the turn of the century, H. Don Carolis & Sons was exporting its products not only to Australia, but also to South Africa, India, Burma, England, Europe and the USA. The beauty and the quality of the furniture crafted by the company won it  Gold and Silver medals at the Ceylon Agricultural Exhibitions, the Indian Industrial Exhibition of 1901, the Paris Exhibition of 1900, and the Saint Louis Exposition of 1904.						
-							
-
-	</p><p>The influence of Don Carolis on his eldest son, David, was immeasurable. Anagarika Dharmapala writes in his diary that “The germ of Bodhi was impregnated in my heart by my father.” It was Don Carolis who encouraged Anagarika Dharmapala to take on the vow of Brahmachariya, to not depend on worldly wealth and to practice humility. He then went on to finance his son’s numerous projects, wholeheartedly supporting his work for the revival of Buddhism and for an economic and social revival of the under privileged in the country.  The initial support for the large number of schools and technical colleges that Anagarika Dharmapala established in Ceylon and the purchase of part of the land at Sarnath were covered by Don Carolis.
-
-	</p><p>
-	Don Carolis was personally involved in many of the revival activities that Anagarika was part of. In January 1884 The Buddhism Protection Committee (also known as the Colombo Committee) was formed under the patronage of Colonel Olcott, with the objective of getting the Vesak full-moon holiday restored. Don Carolis was elected Vice President of the steering committee and his father-in-law was elected the President. In  May 1885, the Vesak holiday was restored by the British Colonial Office and Ven. Migettuwatte Gunananda Thera of the Committee publicly hoisted the Buddhist flag  at Dipaduttamarama, Kotahena. On his death in 1906, Don Carolis left a bequest for Anagarika Dharmapala to use in his Buddhist missionary work.
-
-	</p><p>
+	<p>	Don Carolis, migrated to Colombo and married, Mallika, the daughter of the wealthy Colombo-based  entrepreneur,  Andiris Perera Dharmagunawardene, and established H. Don Carolis & Sons, a furniture shop in Pettah. The small shop that was established in Pettah evolved into one of the largest and most prestigious industrial companies of Ceylon and Asia in the 19th and 20th Centuries under the astute business acumen of Don Carolis.
 
 	</p>
 	<p>
@@ -108,6 +100,16 @@
 						</div>
 					</div>
 				</div>
+
+				<p> By 1886 H. Don Carolis & Sons was exporting furniture to Australia. An Indo-Africa syndicate was formed in London in 1895 to carry out a large furniture business with South Africa. Don Carolis established the firm’s first factory, 'Steam Furniture Works' in Colombo's Slave Island area.  By the turn of the century, H. Don Carolis & Sons was exporting its products not only to Australia, but also to South Africa, India, Burma, England, Europe and the USA. The beauty and the quality of the furniture crafted by the company won it  Gold and Silver medals at the Ceylon Agricultural Exhibitions, the Indian Industrial Exhibition of 1901, the Paris Exhibition of 1900, and the Saint Louis Exposition of 1904.						
+							
+
+							</p><p>The influence of Don Carolis on his eldest son, David, was immeasurable. Anagarika Dharmapala writes in his diary that “The germ of Bodhi was impregnated in my heart by my father.” It was Don Carolis who encouraged Anagarika Dharmapala to take on the vow of Brahmachariya, to not depend on worldly wealth and to practice humility. He then went on to finance his son’s numerous projects, wholeheartedly supporting his work for the revival of Buddhism and for an economic and social revival of the under privileged in the country.  The initial support for the large number of schools and technical colleges that Anagarika Dharmapala established in Ceylon and the purchase of part of the land at Sarnath were covered by Don Carolis.
+						
+							</p><p>
+							Don Carolis was personally involved in many of the revival activities that Anagarika was part of. In January 1884 The Buddhism Protection Committee (also known as the Colombo Committee) was formed under the patronage of Colonel Olcott, with the objective of getting the Vesak full-moon holiday restored. Don Carolis was elected Vice President of the steering committee and his father-in-law was elected the President. In  May 1885, the Vesak holiday was restored by the British Colonial Office and Ven. Migettuwatte Gunananda Thera of the Committee publicly hoisted the Buddhist flag  at Dipaduttamarama, Kotahena. On his death in 1906, Don Carolis left a bequest for Anagarika Dharmapala to use in his Buddhist missionary work.
+						
+							</p>
 			</div>
 		</section>
 

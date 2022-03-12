@@ -85,7 +85,7 @@
 								<li><a href="sinhala_life_5_our-teachers.php">උරුමය</a></li>
 							</ul>
 						</li>
-						<li class="dropdown"><a href="#">පවුල සහ<br/>ප්‍රත්‍රිලාභීන් <span class="nav_arrow"></span></a>
+						<li class="dropdown"><a href="#">පවුල සහ<br/>ප්‍රතිලාභීන් <span class="nav_arrow"></span></a>
 							<ul class="sub-menu">
 								<li class="dropdown"><a href="#">පවුල</a>
 								<ul class="sub-menu">
@@ -133,10 +133,11 @@
 								</ul>
 						</li>
 						
-						<li class="dropdown"><a href="sinhala_shop_main_ADT_books.php">සාප්පුව</a>
-						<ul class="sub-menu">
-								<li><a href="our-teachers.php">ත්‍රිපිටක ප්‍රකාශන</a>
-								</ul>
+						<!-- <li class="dropdown"><a href="sinhala_shop_main_ADT_books.php">සාප්පුව</a> -->
+						<li><a href="sinhala_shop_main_ADT_books.php">සාප්පුව</a>
+						<!-- <ul class="sub-menu"> -->
+								<!-- <li><a href="our-teachers.php">ත්‍රිපිටක ප්‍රකාශන</a> -->
+								<!-- </ul> -->
 					</li>
 
 			

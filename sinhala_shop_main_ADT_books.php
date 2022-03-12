@@ -80,11 +80,12 @@
 								<div class="widget_title">
 								<h6>How To Purcase</h6>
 							</div>
-							<p>All books: Rs 150/- 	<br/>
+							<p>
+								<!-- All books: Rs 150/- 	<br/> -->
 							
 
-Coffee Table Book: Rs. 5,000/- per copy 	<br/>
-(20% Discount for religious and charitable organizations and for bulk orders of over 5 copies)
+<!-- Coffee Table Book: Rs. 5,000/- per copy 	<br/> -->
+<!-- (20% Discount for religious and charitable organizations and for bulk orders of over 5 copies) -->
 
 ඉහත දැක්වෙන අයිතමයන් අනගාරික ධර්මපාල භාර
 කාර්යාලයෙන් මිලදී ගත හැක.
@@ -95,29 +96,39 @@ Coffee Table Book: Rs. 5,000/- per copy 	<br/>
 
 <a style="color: orangered;" href="tel:+9411 269 5012">Tel: 011 269 5012</a> <br/>(පැමිණීමට පෙර දුරකතන ඇමතුමක් දෙන්න.)
 <br/>
+<br/>
 ඔන්ලයින් මිලදී ගැනීම සඳහා
 කරුණාකර ඊ මේල් කරන්න. 
 <br/>adtrust@sltnet.lk<br/>
 1.      අවශ්‍ය අයිතමවල නාමයන්<br/>
 2.     අවශ්‍ය ප‍්‍රමාණයන්<br/>
-
+<br/>
+<br/>
 සියලූම අයිතමවල මිල ගණන් දක්වා මුද්දර ගාස්තු සහ
 බැංකු විස්තර ද දැක්වෙන ඉන්වොයිසියක් ඔබ වෙත එවන්නෙමු.
 කරුණාකර බැංකු මගින් මුදල් එවා එම ලදු පතේ පිටපතක් හෝ
 කෙලින්ම බැංකු හරහා පැවරුමක් නම් ඊ මේල් මගින් එය තහවුරු
-කරන්න.<br/>
+කරන්න.
+<br/>
+<br/>
+<br/>
 
 අප විසින් එම භාණ්ඩ අන්තර්ගත පැකැට්ටුව බැංකුව
 තහවුරු කිරීමෙන් දින 3-4 කින් කුරියර් වෙත භාර දෙනු ලැබේ.
 විදේශීය රටවලට යැවිය යුතු පාසර්ල් වෙතොත් ඒවා ශ‍්‍රී ලංකා
-තැපැල් සේවය ෑඵී හරහා එවනු ඇත.<br/>
+තැපැල් සේවය ෑඵී හරහා එවනු ඇත.
+<br/>
+<br/>
+<br/>
 
 
 <i>සැ.යු. කුරියර් මගින් එවන විට දින 3-4 වැඩ කරන දින
 ගණනක් කොළඹින් පිට බෙදා හැරීම් සඳහා ගත වියහැකි අතර
 දින 7-21 දක්වා කාලයක් හෝ ඊට වැඩි කාලයක් විදේශ ලිපිනයන්ට
 බෙදා හැරීමේදී ගත විය හැකිය.
-
+<br/>
+<br/>
+<br/>
  </i><br/>
  ඇඳිරි නීතිය සංචරණ සීමා යන තැපෑලේ අවහිරතා සහ
 පවතින වසංගත තත්ත්වය යටතේ බලාපොරොත්තු නොවන
@@ -246,7 +257,7 @@ Coffee Table Book: Rs. 5,000/- per copy 	<br/>
 						<div class="img-shop-wrapper tl-shop-single">
 				<div class="tl-img-shop">
 
-				<img src="assets/images/shop_images/main_book_1.jpg" alt="image" class ="mx-auto image-fluid d-block">
+				<img src="assets/images/shop_images/main_book_1.png" alt="image" class ="mx-auto image-fluid d-block">
 						</div>
 						<div class="tl-product-content">
 								<h4>they turn the tide</h4>
@@ -263,7 +274,7 @@ Coffee Table Book: Rs. 5,000/- per copy 	<br/>
 
 				<div class="img-shop-wrapper tl-shop-single">
 			<div class="tl-img-shop">
-						<img src="assets/images/shop_images/main_book_2.jpg" alt="image" class ="mx-auto image-fluid d-block">
+						<img src="assets/images/shop_images/main_book_2.png" alt="image" class ="mx-auto image-fluid d-block">
 					</div>
 					<div class="tl-product-content">
 							<h4>anagarika darmapala pradanaya</h4>
@@ -279,7 +290,7 @@ Coffee Table Book: Rs. 5,000/- per copy 	<br/>
 
 				<div class="img-shop-wrapper tl-shop-single">
 			<div class="tl-img-shop">
-			<img src="assets/images/shop_images/main_book_3.jpg" alt="image" class ="mx-auto image-fluid d-block">
+			<img src="assets/images/shop_images/main_book_3.png" alt="image" class ="mx-auto image-fluid d-block">
 					</div>
 					<div class="tl-product-content">
 							<h4>Anagarika darmapala abhiyogaya saha api</h4>
@@ -298,7 +309,7 @@ Coffee Table Book: Rs. 5,000/- per copy 	<br/>
 					<div class="img-shop-wrapper tl-shop-single">
 			<div class="tl-img-shop">
 
-			<img src="assets/images/shop_images/main_book_4.jpg" alt="image" class ="mx-auto image-fluid d-block">
+			<img src="assets/images/shop_images/main_book_4.png" alt="image" class ="mx-auto image-fluid d-block">
 					</div>
 					<div class="tl-product-content">
 							<h4>mahabodi kathawa</h4>
@@ -316,7 +327,7 @@ Coffee Table Book: Rs. 5,000/- per copy 	<br/>
 
 			<div class="img-shop-wrapper tl-shop-single">
 		<div class="tl-img-shop">
-		<img src="assets/images/shop_images/main_book_5.jpg" alt="image" class ="mx-auto image-fluid d-block">
+		<img src="assets/images/shop_images/main_book_5.png" alt="image" class ="mx-auto image-fluid d-block">
 				</div>
 				<div class="tl-product-content">
 						<h4>Anagarika Dharmapala</h4>
@@ -332,7 +343,7 @@ Coffee Table Book: Rs. 5,000/- per copy 	<br/>
 
 			<div class="img-shop-wrapper tl-shop-single">
 		<div class="tl-img-shop">
-		<img src="assets/images/shop_images/main_book_6.jpg" alt="image" class ="mx-auto image-fluid d-block">
+		<img src="assets/images/shop_images/main_book_6.png" alt="image" class ="mx-auto image-fluid d-block">
 				</div>
 				<div class="tl-product-content">
 						<h4>The Lion Of Cylon in Chicago</h4>
@@ -351,7 +362,7 @@ Coffee Table Book: Rs. 5,000/- per copy 	<br/>
 					<div class="img-shop-wrapper tl-shop-single">
 			<div class="tl-img-shop">
 
-			<img src="assets/images/shop_images/main_book_7.jpg" alt="image" class ="mx-auto image-fluid d-block">
+			<img src="assets/images/shop_images/main_book_7.png" alt="image" class ="mx-auto image-fluid d-block">
 					</div>
 					<div class="tl-product-content">
 							<h4>Flame In Darkness</h4>
