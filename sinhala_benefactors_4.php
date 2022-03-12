@@ -50,7 +50,7 @@
 						<h5 class="text-center">Helena Petrovna Blavatsky</h5>
 						<nav class="breadcrumb">
 							<ul>
-								<li class="breadcrumb-item"><a href="index.php">Home</a></li>
+								<li class="breadcrumb-item"><a href="index.php">මුල් පිටුව</a></li>
 								<li class="breadcrumb-item active">Helena Petrovna Blavatsky</li>
 							</ul>
 						</nav>
@@ -114,7 +114,7 @@ https://www.gutenberg.org/ebooks/authors/search/?query=Blavatsky,+H.+P.+(Helena+
 					<div class="col-xl-4 col-lg-5 offset-xl-1 align-self-center">
 						<div class="ss-pastor-img-wrap">
 							<!-- <img src="assets/images/pastor-1.jpg" alt="img"> -->
-							<img src="assets/images/custom_images/helena.jpg" alt="img">
+							<img src="assets/images/custom_images/helena_wikipidia.png" alt="img">
 						</div>
 					</div>
 				</div>

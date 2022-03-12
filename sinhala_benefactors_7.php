@@ -50,7 +50,7 @@
 						<h5 class="text-center">Devapriya Valisinha</h5>
 						<nav class="breadcrumb">
 							<ul>
-								<li class="breadcrumb-item"><a href="index.php">Home</a></li>
+								<li class="breadcrumb-item"><a href="index.php">මුල් පිටුව/a></li>
 								<li class="breadcrumb-item active">Devapriya Valisinha</li>
 							</ul>
 						</nav>
@@ -115,7 +115,7 @@ Buddhism, that Valisinha - then only 8 years — first saw and heard him. He cou
 					<div class="col-xl-4 col-lg-5 offset-xl-1 align-self-center">
 						<div class="ss-pastor-img-wrap">
 							<!-- <img src="assets/images/pastor-1.jpg" alt="img"> -->
-							<img src="assets/images/pastor-1.jpg" alt="img">
+							<img src="assets/images/custom_images/walisinha_page153.png" alt="img">
 						</div>
 					</div>
 				</div>

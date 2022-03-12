@@ -67,31 +67,14 @@
 					<div class="col-lg-7">
 						<div class="sa-paster-about-area">
 							<!-- <h3>Gopal dhanam</h3> -->
-							<h3>The Battle for Buddha Gaya</h3>
+							<h3>The Legacy</h3>
 							<!-- <p class="designation">Yoga Teacher</p> -->
 							<p class="designation"></p>
 							<p>	
 							Anagarika Dharmapala’s life as an activist, missionary, freedom fighter, social reformer and renunciant was remarkable as it was extraordinary. 
 							</p><p>
 							He managed to spread the word of the Buddha in the West on a scale that had not been attempted before, at a time when colonial powers and their socio-religious ideas were dominating the world. He used the existing tropes and frameworks of the colonizers to revive Buddhism in the public consciousness. He understood that the revival needed to take place within the milieu of his times and used the same tools of the rulers. With Col Olcott, where there were Christian Sunday schools he offered people Buddhist Sunday schools, he spearheaded schools of the same standard for Buddhist children as those the Christian missionaries had founded, and where locals were ashamed or embarrassed of native dress and customs, he urged them to change their mindset. Most importantly, he revived a self-consciousness in Buddhists of their own worth and the uniqueness of the Buddha’s teachings.
-							</p>	<p>
-							An internationalist with a global viewpoint, he thereby founded a vision for a world community of Buddhists with the Maha Bodhi Society he founded. The organization became a banner, the earliest representative body of all Buddhists, and the earliest unifying banner for all Buddhists from the different continents.
-							</p><p>
-							He travelled extensively, at a time when travel was not easy, enduring physical pain and hardship, not only spreading his vision and message, but also visiting the premier institutions of his time in America and Europe to study the latest ideas on education and industrial training. As a result, he met and inter-acted with major thinkers and activists of his day. They ranged from Swami Vivekananda, Tagore and Gandhi in India, to royalty and leaders in Rangoon, Siam, Japan, to scholars such as Rhys Davis and Sir Edwin Arnold in England and educationists such as William Rainey Harper, the founding president of the University of Chicago in America.  He was quick to grasp the value of the latest innovations in technology, for communication, healthcare and production. He understood the importance of the use of publications, translations, education and most importantly, dialogue between societies and within societies, for his mission.
-Anagarika Dharmapala’s multifaceted nature and work gave rise to multiple narratives, and left room for a few in contemporary society to distort his vision and take his rhetoric out of context, in many instances without verifying against primary sources. Some have used his words to advocate racism, ethnic violence, political activism of Buddhist clergy and divisive nationalisms, pointing to Anagarika Dharmapala, his speeches and his writings. They have, by default, or by design, missed the ‘woods for the trees’.
-
-							</p>	<p>
-
-							The Anagarika Dharmapala Trust does not condone or support the use of his words that are not cited by credible sources, that are misquoted, misreported, taken in parts and out of context and/or incorrectly paraphrased and, in particular, used to incite racial and religious hatred.
-The legacy Anagarika Dharmapala wanted to leave to the future generations of Sri Lanka and the world is clear in the objects of the Trust he created, bearing his name, to continue his work of a lifetime. 
-
-							</p><p>
-							Anagarika Dharmapala envisioned a world where there would be widespread knowledge of the Buddha’s teaching, with people who dedicated their lives to that mission by living as renunciants and, the upliftment of under privileged people through better healthcare, education and vocational training. 
-							</p>	<p>
-							That was the legacy Angarika Dharmapala wished to leave to the future generations.
-							</p>				
-							
-
+							</p>
 
 
 
@@ -115,10 +98,30 @@ The legacy Anagarika Dharmapala wanted to leave to the future generations of Sri
 					<div class="col-xl-4 col-lg-5 offset-xl-1 align-self-center">
 						<div class="ss-pastor-img-wrap">
 							<!-- <img src="assets/images/pastor-1.jpg" alt="img"> -->
-							<img src="assets/images/pastor-1.jpg" alt="img">
+							<img src="assets/images/custom_images/legacy.jpg" alt="img">
 						</div>
 					</div>
 				</div>
+
+				<p>
+							An internationalist with a global viewpoint, he thereby founded a vision for a world community of Buddhists with the Maha Bodhi Society he founded. The organization became a banner, the earliest representative body of all Buddhists, and the earliest unifying banner for all Buddhists from the different continents.
+							</p><p>
+							He travelled extensively, at a time when travel was not easy, enduring physical pain and hardship, not only spreading his vision and message, but also visiting the premier institutions of his time in America and Europe to study the latest ideas on education and industrial training. As a result, he met and inter-acted with major thinkers and activists of his day. They ranged from Swami Vivekananda, Tagore and Gandhi in India, to royalty and leaders in Rangoon, Siam, Japan, to scholars such as Rhys Davis and Sir Edwin Arnold in England and educationists such as William Rainey Harper, the founding president of the University of Chicago in America.  He was quick to grasp the value of the latest innovations in technology, for communication, healthcare and production. He understood the importance of the use of publications, translations, education and most importantly, dialogue between societies and within societies, for his mission.
+Anagarika Dharmapala’s multifaceted nature and work gave rise to multiple narratives, and left room for a few in contemporary society to distort his vision and take his rhetoric out of context, in many instances without verifying against primary sources. Some have used his words to advocate racism, ethnic violence, political activism of Buddhist clergy and divisive nationalisms, pointing to Anagarika Dharmapala, his speeches and his writings. They have, by default, or by design, missed the ‘woods for the trees’.
+
+							</p>	<p>
+
+							The Anagarika Dharmapala Trust does not condone or support the use of his words that are not cited by credible sources, that are misquoted, misreported, taken in parts and out of context and/or incorrectly paraphrased and, in particular, used to incite racial and religious hatred.
+The legacy Anagarika Dharmapala wanted to leave to the future generations of Sri Lanka and the world is clear in the objects of the Trust he created, bearing his name, to continue his work of a lifetime. 
+
+							</p><p>
+							Anagarika Dharmapala envisioned a world where there would be widespread knowledge of the Buddha’s teaching, with people who dedicated their lives to that mission by living as renunciants and, the upliftment of under privileged people through better healthcare, education and vocational training. 
+							</p>	<p>
+							That was the legacy Angarika Dharmapala wished to leave to the future generations.
+							</p>				
+							
+
+
 			</div>
 		</section>
 

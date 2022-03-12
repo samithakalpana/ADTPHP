@@ -50,7 +50,7 @@
 						<h5 class="text-center">Colonel Henry Steel Olcott</h5>
 						<nav class="breadcrumb">
 							<ul>
-								<li class="breadcrumb-item"><a href="index.php">Home</a></li>
+								<li class="breadcrumb-item"><a href="index.php">මුල් පිටුව</a></li>
 								<li class="breadcrumb-item active">Colonel Henry Steel Olcott</li>
 							</ul>
 						</nav>
@@ -98,7 +98,8 @@
 
 							</p><p>Anagarika Dharmapala had serious differences with Olcott at one stage - especially when the old soldier questioned the authenticity of the sacred Buddha Tooth Relic at Sri Lanka's hill capital of Kandy and over the issue of a creator in Buddhism. Olcott in his memoirs says that he was against Dharmapala incurring heavy expenses for legal advice at Buddha Gaya and the purchase of property in Buddha Gaya. The Bengal branch of the Theosophical Society fully backed Dharmapala. Even at a time certain Hindus were critical of the Maha Bodhi Society alleging they were trying to convert Hindus to Buddhism, the Bengal TS backed Dharmapala's campaign for Buddha Gaya. Differences grew sharper as Olcott resigned from the Maha Bodhi Society and Dharmapala consciously broke away from the Theosophical Society to ensure that the Maha Bodhi Society became the representative of the Buddhists and the Buddhists alone, and not the Theosophical Society. 
 
-							</p><p>Olcott is held in very high esteem in Sri Lanka to this day as the man who revived Buddhism in Sri Lanka among locals who had been subjugated by then for over three centuries by European rule, and whose religion was kept alive only by the Clergy in remote villages. He is remembered for the schools he started, some of which are still functioning. His statue has been erected opposite the main railway station in the capital, Colombo and in other towns, including Galle where he first arrived. The Buddhist section of the Ceylon Theosophical Society, which began in Galle with branches elsewhere later shifted to Colombo as steamer ships made the Colombo harbour, and not Galle the island's main port of call. It is known  today as <b>the Buddhist Theosophical Society (BTS)</b> in Sri Lanka. 
+							</p><p>Olcott is held in very high esteem in Sri Lanka to this day as the man who revived Buddhism in Sri Lanka among locals who had been subjugated by then for over three centuries by European rule, and whose religion was kept alive only by the Clergy in remote villages. He is remembered for the schools he started, some of which are still functioning. His statue has been erected opposite the main railway station in the capital, Colombo and in other towns, including Galle where he first arrived. The Buddhist section of the Ceylon Theosophical Society, which began in Galle with branches elsewhere later shifted to Colombo as steamer ships made the Colombo harbour, and not Galle the island's main port of call. It is known  today as
+								<a href="#"> <b>the Buddhist Theosophical Society (BTS)</b></a> in Sri Lanka. 
 
 							</p><p>For more details see:
 ·         https://www.gutenberg.org/ebooks/authors/search/?query=Olcott,+Henry+Steel <br/>

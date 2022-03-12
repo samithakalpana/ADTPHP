@@ -47,10 +47,10 @@
 				<div class="row">
 					<div class="col-md-12">
 						<h1 class="text-center">පවුල සහ ප‍්‍රතිලාභීන්</h1>
-						<h5 class="text-center">Anagarika Dharmapala’s Younger Brother</h5>
+						<h5 class="text-center">අනගාරික ධර්මපාලයන්ගේ බාල සොහොයුරා</h5>
 						<nav class="breadcrumb">
 							<ul>
-								<li class="breadcrumb-item"><a href="index.php">Home</a></li>
+								<li class="breadcrumb-item"><a href="index.php">මුල් පිටුව</a></li>
 								<li class="breadcrumb-item active">එඞ්මන්ඞ් හේවාවිතාරණ</li>
 							</ul>
 						</nav>
@@ -142,7 +142,7 @@
 					<div class="col-xl-4 col-lg-5 offset-xl-1 align-self-center">
 						<div class="ss-pastor-img-wrap">
 							<!-- <img src="assets/images/pastor-1.jpg" alt="img"> -->
-							<img src="assets/images/pastor-1.jpg" alt="img">
+							<img src="assets/images/custom_images/edmund_hewavitharana.png" alt="img">
 						</div>
 					</div>
 				</div>

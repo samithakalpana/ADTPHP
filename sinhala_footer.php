@@ -6,28 +6,37 @@
 				<div class="row">
 					<div class="col-md-4 top_widget">
 						<div class="footer_logo">
-							<a href="#"><img src="assets/images/logo.png" alt="image"></a>
+							<a href="sinhala_index.php"><img src="assets/images/logo.png" alt="image"></a>
 						</div>
 					</div>
 					<div class="col-md-4 top_widget">
-						<div class="newsletter">
-							<form>
+						<!-- <div class="newsletter"> -->
+						<div class="follow_us">
+						<ul class="text-custom-align-center">
+						Email Us :<br/> 
+						<li> <a href="adtrust@sltnet.lk">adtrust@sltnet.lk</a></li>
+						</ul>
+							<!-- <form>
 								<div class="email_input">
 									<input type="email" placeholder="Email address">
 								</div>
 								<button type="submit">Submit <i class="fa fa-caret-right"></i></button>
-							</form>
+							</form> -->
 						</div>
 					</div>
 					<div class="col-md-4 top_widget">
 						<div class="follow_us">
-							<!-- <ul class="text-custom-align-right">
-								<li><a href="#"><i class="fab fa-facebook-f"></i></a></li>
+							<!-- <ul class="text-custom-align-right"> -->
+							<ul class="text-custom-align-center">
+							Call Us:<br/>
+						
+								<li><a href="tel:+940112695012">+94 11 269 5012<a></li>
+								<!-- <li><a href="#"><i class="fab fa-facebook-f"></i></a></li>
 								<li><a href="#"><i class="fab fa-twitter"></i></a></li>
 								<li><a href="#"><i class="fab fa-linkedin-in"></i></a></li>
 								<li><a href="#"><i class="fab fa-youtube"></i></a></li>
-								<li><a href="#"><i class="fab fa-instagram"></i></a></li>
-							</ul> -->
+								<li><a href="#"><i class="fab fa-instagram"></i></a></li> -->
+							</ul>
 						</div>
 					</div>
 				</div>
@@ -73,12 +82,12 @@
 						<h5>ප්‍රයොජනවත් යොමු</h5>
 						<div class="footer_nav">
 							<ul>
-								<li><a href="#">මුල් පිටුව</a></li>
-								<li><a href="#">ධර්මපාල තුමාගේ ජීවිතය</a></li>
-								<li><a href="#">පවුල සහ ප්‍රත්‍රිලාභීන්</a></li>
-								<li><a href="#">භාරය</a></li>
-								<li><a href="#">සාප්පුව</a></li>
-								<li><a href="#">ඇමතුම්</a></li>
+								<li><a href="sinhala_index.php">මුල් පිටුව</a></li>
+								<li><a href="sinhala_life_1_our-teachers.php">ධර්මපාල තුමාගේ ජීවිතය</a></li>
+								<li><a href="sinhala_family_1.php">පවුල සහ ප්‍රත්‍රිලාභීන්</a></li>
+								<li><a href="sinhala_about-us.php">භාරය</a></li>
+								<li><a href="sinhala_shop_main_ADT_books.php">සාප්පුව</a></li>
+								<li><a href="sinhala_contact-us.php">ඇමතුම්</a></li>
 								<!-- <li><a href="#">FAQ</a></li>
 								<li><a href="#">Account</a></li>
 								<li><a href="#">Privacy</a></li>
