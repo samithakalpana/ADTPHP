@@ -129,8 +129,8 @@
 								<li><a href="Associates_1_london_buddist_vihara.php">London Buddhist Vihara</a></li>
 								<li><a href="https://www.mallikahomes.org/">Mallika Nivasa Samithiya</a></li>
 								<li><a href="Associates_1_British_Maha_Bodhi_society.php">British Maha Bodhi Society</a></li>
-								<li><a href="Associates_1_somawati_hewavitarne_trust.php">Somawati Hewavitarne Trust </a></li>
-								<li><a href="Associates_1_simon_hewavitarne_trust.php">Simon Hewavitarne Trust </a></li>
+								<li><a href="Associates_1_somawati_and_simon_trust.php">Somawati Hewavitarne Trust & Simon Hewavitarne Trust </a></li>
+								<!-- <li><a href="Associates_1_simon_hewavitarne_trust.php">Simon Hewavitarne Trust </a></li> -->
 								
 								</ul>
 							</li>
