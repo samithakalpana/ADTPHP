@@ -106,7 +106,8 @@
 On the 29th of April 1933, surrounded by Buddhist monks chanting Buddhist stanzas (pirith) and in the presence of his disciple Devapriya Valisinha, his nephew, Raja Hewavitarne who had travelled from Ceylon, his physician, Dr Nandy, and the samaneras (novice-monks) who had been sent to Buddha Gaya, Ven. Sri Devamitta Dhammapla’s life came to an end. His face was turned towards the Mulaghandakuti and the last word to leave his lips was “devamitta” (beloved friend of the devas).
 
 	</p><p>
-	Two weeks later, his ashes were carried from Sarnath by Devapriya Valisinha to the Mahabodhi Society headquarters in Calcutta (now Kolkota). A portion was interred later in a small stupa at the Mulaghandakuti premises in Sarnath and a portion carried to Ceylon by Valisinha, first by train to Rameshwaran, at the southern tip of India, then by ferry across to Talaimannar in Ceylon, and again by train to Colombo.
+	Two weeks later, his ashes were carried from Sarnath by 
+	<a href="benefactors_7_our-teachers.php"><b>Devapriya Valisinha</b></a> to the Mahabodhi Society headquarters in Calcutta (now Kolkota). A portion was interred later in a small stupa at the Mulaghandakuti premises in Sarnath and a portion carried to Ceylon by Valisinha, first by train to Rameshwaran, at the southern tip of India, then by ferry across to Talaimannar in Ceylon, and again by train to Colombo.
 	</p><p>
 	Unprecedented crowds had gathered at the railway station in Colombo, lining the rail track, chanting “sadhu, sadhu, sadhu”. The urn with the ashes was then taken to the Vidyodaya Pirivena, the monastic college founded by the Hewavitarne family, by procession and handed to the monks there. The monks in turn handed it to Sir Baron Jayatilaka (then the Minister of Home Affairs).
 
