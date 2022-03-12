@@ -69,7 +69,7 @@
 							<!-- <h3>Gopal dhanam</h3> -->
 							<h3>The Legacy</h3>
 							<!-- <p class="designation">Yoga Teacher</p> -->
-							<p class="designation"></p>
+							<!-- <p class="designation"></p> -->
 							<p>	
 							Anagarika Dharmapala’s life as an activist, missionary, freedom fighter, social reformer and renunciant was remarkable as it was extraordinary. 
 							</p><p>

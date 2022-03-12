@@ -30,7 +30,7 @@
 					<div class="col-lg-6 col-md-8 col-4">
 						<ul class="top-btn list-inline">
 							<li class="list-inline-item"><i class="fa fa-phone"></i><a href="tel:+94 011 269 5012">+94 11 269 5012</a></li>
-							<li class="list-inline-item"><i class="fa fa-envelope"></i><a href="adtrust@sltnet.lk">adtrust@sltnet.lk</a></li>
+							<li class="list-inline-item"><i class="fa fa-envelope"></i><a href="mailto:adtrust@sltnet.lk">adtrust@sltnet.lk</a></li>
 							<li class="list-inline-item"><a class="btn btn-sm dark-btn templezen-top-btn" href="actions/languageAction.php?lang=english&&page=index.php">සිංහල</a></li>
 						</ul>
 					</div>
@@ -71,7 +71,7 @@
 						</li> -->
 						
 
-						<li class="dropdown" ><a href="about-us.php">Life of Anagarika <br/>Dharmapala <span class="nav_arrow"></span></a>
+						<li class="dropdown" ><a href="#">Life of Anagarika <br/>Dharmapala <span class="nav_arrow"></span></a>
 							<ul class="sub-menu">
 								<li><a href="life_1_our-teachers.php">Don David Hewavitarne</a></li>
 								<li><a href="life_2_our-teachers.php">The Anagarika</a></li>

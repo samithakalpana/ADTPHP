@@ -69,7 +69,7 @@
 							<!-- <h3>Gopal dhanam</h3> -->
 							<h3>Devapriya Valisinha</h3>
 							<!-- <p class="designation">Yoga Teacher</p> -->
-							<p class="designation">(From ----)</p>
+							<!-- <p class="designation">(From ----)</p> -->
 							<p>The principal disciple of AnagariÏka Dharmapala, Valisinha made a remarkable contribution to the work of the Society, having been the General Secretary of both the Maha Bodhi Society of Sri Lanka, as well as of India, for many years.
 Born on 10  February, 1904, Valisinha was the sixth child of a family of seven.   He was  a  descendant  of  the  Kandyan  aristocracy  and,  like  most   of them in later years, was respected though not affluent.
 

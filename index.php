@@ -62,7 +62,7 @@ ob_start();
 </h1>
 						<!-- <p>The point of using Lorem Ipsum is that it has a more-or-less normal distribution of letters, as opposed to using 'Content here, content here. </p> -->
 						<p>Anagarika Dharmapala - 1915 </p>
-						<a href="events.html" class="btn dark-btn templezen-top-btn">Explore Events</a>
+						<a href="life_1_our-teachers.php" class="btn dark-btn templezen-top-btn">Explore Events</a>
 					</div>
 				</div>
 			</div>
@@ -75,7 +75,7 @@ ob_start();
 </h1>
 						<!-- <p> The point of using Lorem Ipsum is that it has a more-or-less normal distribution of letters, as opposed to using 'Content here, content here. </p> -->
 						<p>Anagarika Dharmapala - 1915</p>
-						<a href="events.html" class="btn dark-btn templezen-top-btn">Explore Events</a>
+						<a href="life_2_our-teachers.php" class="btn dark-btn templezen-top-btn">Explore Events</a>
 					</div>
 				</div>
 			</div>
@@ -87,7 +87,7 @@ ob_start();
 						<h1>“My life will be given birth after birth to Humanity”</h1>
 						<!-- <p> The point of using Lorem Ipsum is that it has a more-or-less normal distribution of letters, as opposed to using 'Content here, content here. </p> -->
 						<p>Anagarika Dharmapala - 1897</p>
-						<a href="events.html" class="btn dark-btn templezen-top-btn">Explore Events</a>
+						<a href="life_4_our-teachers.php" class="btn dark-btn templezen-top-btn">Explore Events</a>
 					</div>
 				</div>
 			</div>
@@ -99,7 +99,7 @@ ob_start();
 						<h1>“The householder must follow the Middle Way…. Above all he must practice charity and love”</h1>
 						<!-- <p> The point of using Lorem Ipsum is that it has a more-or-less normal distribution of letters, as opposed to using 'Content here, content here. </p> -->
 						<p>Anagarika Dharmapala - 1910</p>
-						<a href="events.html" class="btn dark-btn templezen-top-btn">Explore Events</a>
+						<a href="about-us.php" class="btn dark-btn templezen-top-btn">Explore Events</a>
 					</div>
 				</div>
 			</div>

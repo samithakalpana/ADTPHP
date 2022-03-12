@@ -69,7 +69,7 @@
 							<!-- <h3>Gopal dhanam</h3> -->
 							<h3>Sir Edwin Arnold</h3>
 							<!-- <p class="designation">Yoga Teacher</p> -->
-							<p class="designation">(From ---)</p>
+							<!-- <p class="designation">(From ---)</p> -->
 							<p>	Sir Edwin Arnold was  a  journalist, teacher and   student of  oriental  studies.  An ardent supporter of the British Empire, Arnold was nevertheless an admirer of India's ancient cultural heritage. He first went to India (city of Poona) as a school teacher and later became a principal. To him goes the credit of rediscovering Buddha Gaya, one of the holiest sites of Buddhists following a visit in 1886 and bringing it to the attention of the English-speaking world.
 							
 							</p>

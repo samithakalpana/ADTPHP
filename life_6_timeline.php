@@ -72,14 +72,9 @@
 				<!-- <div class="center col-md-6 col-lg-5"> -->
 				<div class="mx-auto col-md-6 col-lg-5">
 					<div class=" heading">
-						<h3>Latest Events</h3>
+						<h3>Time Line</h3>
 						<div class="tl-slider-arrow float-right">
-							<div class="tl-left-arrow slick-arrow mr-2" style="">
-								<span><i class="fa fa-chevron-up"></i></span>
-							</div>
-							<div class="tl-right-arrow slick-arrow" style="">
-								<span><i class="fa fa-chevron-down"></i></span>
-							</div>
+							<!--  -->
 						</div>
 					</div>
 					<div class="event_list event-slider slick-vertical">

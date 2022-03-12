@@ -279,9 +279,9 @@ The Trustees were expected to appoint succeeding Trustees, and in 1947, the Publ
 	<div class="video-wrap-section">
 		<div class="video_wrap">
 			<img src="assets/images/About-us/Video-01.png" alt="image">
-			<div class="video_icon">
+			<!-- <div class="video_icon">
 				<a class="popup-youtube" href="https://www.youtube.com/watch?v=AdZrEIo6UYU"><i class="fa fa-play"></i></a>
-			</div>
+			</div> -->
 		</div>
 	</div>
 	<!-- /Video -->
