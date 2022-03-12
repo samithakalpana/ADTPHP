@@ -188,7 +188,7 @@ There may be unexpected delays in the event of curfews, travel restrictions, pos
 
 				<div class="col-md-8">
 						<div class="shop-top-filter">
-							<div class="row">
+							<!-- <div class="row">
 								<div class="col-lg-4 col-md-6 col-sm-12">
 									<form>
 										<div class="sort-select-filter">
@@ -212,7 +212,7 @@ There may be unexpected delays in the event of curfews, travel restrictions, pos
 										<p> showing all result</p>
 									</div>
 								</div>
-							</div>
+							</div> -->
 						</div>
 				 <div class="row">
 <!-- items -->
@@ -388,7 +388,7 @@ There may be unexpected delays in the event of curfews, travel restrictions, pos
 			 		
 
 					<!-- /Pagination /-->
-
+<!-- 
 					<div class="col-md-12">
 							<nav class="page-navigation ">
 								<ul class="pagination">
@@ -399,7 +399,7 @@ There may be unexpected delays in the event of curfews, travel restrictions, pos
 									<li class="page-item"><a class="page-link" href="#">Next</a></li>
 								</ul>
 							</nav>
-						</div>
+						</div> -->
 
 <!-- pagination-->
 

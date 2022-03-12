@@ -30,7 +30,7 @@
 					<div class="col-lg-6 col-md-8 col-4">
 						<ul class="top-btn list-inline">
 							<li class="list-inline-item"><i class="fa fa-phone"></i><a href="tel:+94 011 269 5012">+94 11 269 5012</a></li>
-							<li class="list-inline-item"><i class="fa fa-envelope"></i><a href="adtrust@sltnet.lk">adtrust@sltnet.lk</a></li>
+							<li class="list-inline-item"><i class="fa fa-envelope"></i><a href="mailto:adtrust@sltnet.lk">adtrust@sltnet.lk</a></li>
 							<li class="list-inline-item"><a class="btn btn-sm dark-btn templezen-top-btn" href="actions/languageAction.php?lang=english&&page=index.php">සිංහල</a></li>
 						</ul>
 					</div>
@@ -71,7 +71,7 @@
 						</li> -->
 						
 
-						<li class="dropdown" ><a href="about-us.php">Life of Anagarika <br/>Dharmapala <span class="nav_arrow"></span></a>
+						<li class="dropdown" ><a href="#">Life of Anagarika <br/>Dharmapala <span class="nav_arrow"></span></a>
 							<ul class="sub-menu">
 								<li><a href="life_1_our-teachers.php">Don David Hewavitarne</a></li>
 								<li><a href="life_2_our-teachers.php">The Anagarika</a></li>
@@ -129,8 +129,8 @@
 								<li><a href="Associates_1_london_buddist_vihara.php">London Buddhist Vihara</a></li>
 								<li><a href="https://www.mallikahomes.org/">Mallika Nivasa Samithiya</a></li>
 								<li><a href="Associates_1_British_Maha_Bodhi_society.php">British Maha Bodhi Society</a></li>
-								<li><a href="Associates_1_somawati_hewavitarne_trust.php">Somawati Hewavitarne Trust </a></li>
-								<li><a href="Associates_1_simon_hewavitarne_trust.php">Simon Hewavitarne Trust </a></li>
+								<li><a href="Associates_1_somawati_and_simon_trust.php">Somawati Hewavitarne Trust & Simon Hewavitarne Trust </a></li>
+								<!-- <li><a href="Associates_1_simon_hewavitarne_trust.php">Simon Hewavitarne Trust </a></li> -->
 								
 								</ul>
 							</li>

@@ -69,7 +69,7 @@
 							<!-- <h3>Gopal dhanam</h3> -->
 							<h3>Neelkamal Mukherjee</h3>
 							<!-- <p class="designation">Yoga Teacher</p> -->
-							<p class="designation">(From ------)</p>
+							<!-- <p class="designation">(From ------)</p> -->
 							<p> From a wealthy family in Calcutta, Mukherjee’s home was a welcoming haven for Anagarika Dharmapala during his maiden visit to Calcutta when he first visited Buddha Gaya. He stayed in their home when he built the Dharmarajika Vihara, the Indian Head Quarters of the Maha Bodhi Society. The Mukherjee family remained lifelong friends of Anagarika Dharmapala and of the Maha Bodhi Society in India.
 							
 							</p>
