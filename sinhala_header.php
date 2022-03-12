@@ -46,7 +46,7 @@
 			<div class="container">
 				<div class="navbar-header">
 					<div class="logo">
-						<a href="sinhala_index.html"><img src="assets/images/logo.png" alt="image" /></a>
+						<a href="sinhala_index.php"><img src="assets/images/logo.png" alt="image" /></a>
 					</div> <!-- /Logo -->
 					<div id="menu_slide">
 						<div id="nav-toggle-label">
@@ -99,13 +99,13 @@
 							</li>
 							<li class="dropdown"><a href="#">ප්‍රතිලාභීන්</a>
 								<ul class="sub-menu">
-								<li><a href="sinhala_benefactors_1.php">හික්කඩුවේ ශ්‍රී සුමංගල හිමි</a>
+								<!-- <li><a href="sinhala_benefactors_1.php">හික්කඩුවේ ශ්‍රී සුමංගල හිමි</a> -->
 								<li><a href="sinhala_benefactors_2.php">මේරි ජොබින්සන් ෆොස්ටර්</a>
-								<li><a href="sinhala_benefactors_3.php">හෙන් රි ස්ටීල් ඕල්කට්</a>
+								<!-- <li><a href="sinhala_benefactors_3.php">හෙන් රි ස්ටීල් ඕල්කට්</a>
 								<li><a href="sinhala_benefactors_4.php">හෙලේනා පෙට්‍රොව්නා බ්ලැවැස්කි</a>
 								<li><a href="sinhala_benefactors_5.php">සර් එඩ්වින් ආර්නෝල්ඩ්</a>
 								<li><a href="sinhala_benefactors_6.php">නීල්කමල් මුකර්ජි</a>
-								<li><a href="sinhala_benefactors_7.php">දේවප්‍රිය වලිසිංහ</a>
+								<li><a href="sinhala_benefactors_7.php">දේවප්‍රිය වලිසිංහ</a> -->
 								</ul>
 							</li>
 						

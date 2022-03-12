@@ -51,7 +51,7 @@
 </h1>
 						<nav class="breadcrumb">
 							<ul>
-								<li class="breadcrumb-item"><a href="index.html">Home</a></li>
+								<li class="breadcrumb-item"><a href="index.html">මුල් පිටුව</a></li>
 								<li class="breadcrumb-item active">අනගාරික ධර්මපාලයන්ගේ දිනපොත් සහ සටහන් පොත්
 </li>
 							</ul>

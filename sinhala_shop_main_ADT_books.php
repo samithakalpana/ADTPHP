@@ -51,7 +51,7 @@
 						<h1 class="text-center">සාප්පුව</h1>
 						<nav class="breadcrumb">
 							<ul>
-								<li class="breadcrumb-item"><a href="index.html">Home</a></li>
+								<li class="breadcrumb-item"><a href="sinhala_index.php">මුල් පිටුව</a></li>
 								<!-- <li class="breadcrumb-item"><a href="shop-full-width.html">සාප්පුව</a></li> -->
 								<li class="breadcrumb-item active">සාප්පුව</li>
 							</ul>

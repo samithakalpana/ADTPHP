@@ -50,7 +50,7 @@
 						<h1 class="text-center">අනෙකුත් ලියවිලි
 						<nav class="breadcrumb">
 							<ul>
-								<li class="breadcrumb-item"><a href="index.html">Home</a></li>
+								<li class="breadcrumb-item"><a href="sinhala_index.php">මුල් පිටුව</a></li>
 								<li class="breadcrumb-item active">අනෙකුත් ලියවිලි
 </li>
 							</ul>

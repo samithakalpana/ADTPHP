@@ -50,7 +50,7 @@
 						<h5 class="text-center">අනගාරික ධර්මපාලයන්ගේ පියා</h5>
 						<nav class="breadcrumb">
 							<ul>
-								<li class="breadcrumb-item"><a href="index.php">Home</a></li>
+								<li class="breadcrumb-item"><a href="index.php">මුල් පිටුව</a></li>
 								<li class="breadcrumb-item active">මුදලියාර් එච්. දොන් කරෝලිස් </li>
 							</ul>
 						</nav>

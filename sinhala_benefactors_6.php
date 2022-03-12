@@ -50,7 +50,7 @@
 						<h5 class="text-center">Neelkamal Mukherjee</h5>
 						<nav class="breadcrumb">
 							<ul>
-								<li class="breadcrumb-item"><a href="index.php">Home</a></li>
+								<li class="breadcrumb-item"><a href="index.php">මුල් පිටුව</a></li>
 								<li class="breadcrumb-item active">Neelkamal Mukherjee</li>
 							</ul>
 						</nav>

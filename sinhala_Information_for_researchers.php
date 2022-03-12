@@ -50,7 +50,7 @@
 						<h1 class="text-center">පර්යේෂකයින්/විද්වතුන් සඳහා තොරතුරු
 						<nav class="breadcrumb">
 							<ul>
-								<li class="breadcrumb-item"><a href="index.html">Home</a></li>
+								<li class="breadcrumb-item"><a href="sinhala_index.php">මුල් පිටුව</a></li>
 								<li class="breadcrumb-item active">පර්යේෂකයින්/විද්වතුන් සඳහා තොරතුරු
 </li>
 							</ul>

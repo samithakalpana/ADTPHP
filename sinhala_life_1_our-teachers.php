@@ -61,7 +61,7 @@
 						<h5 class="text-center">(1864 සැප්තැම්බර් 17 සිට 1933 අපේ‍්‍රල් 29 දින දක්වා)</h5>
 						<nav class="breadcrumb">
 							<ul>
-								<li class="breadcrumb-item"><a href="index.php">Home</a></li>
+								<li class="breadcrumb-item"><a href="sinhala_index.php">මුල් පිටුව</a></li>
 								<li class="breadcrumb-item active">දොන් ඬේවිඞ් හේවාවිතාරණ</li>
 							</ul>
 						</nav>

@@ -46,11 +46,11 @@
 			<div class="inner_wp z_index white_text">
 				<div class="row">
 					<div class="col-md-12">
-						<h1 class="text-center">Benefactors</h1>
+						<h1 class="text-center">ප්‍රතිලාභීන්</h1>
 						<h5 class="text-center">මේරි ජොබින්සන් ෆොස්ටර්</h5>
 						<nav class="breadcrumb">
 							<ul>
-								<li class="breadcrumb-item"><a href="index.php">Home</a></li>
+								<li class="breadcrumb-item"><a href="index.php">මුල් පිටුව</a></li>
 								<li class="breadcrumb-item active">මේරි ජොබින්සන් ෆොස්ටර්</li>
 							</ul>
 						</nav>

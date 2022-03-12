@@ -47,10 +47,10 @@
 				<div class="row">
 					<div class="col-md-12">
 						<h1 class="text-center">පවුල සහ ප‍්‍රතිලාභීන්</h1>
-						<h5 class="text-center">Anagarika Dharmapala’s Mother</h5>
+						<h5 class="text-center">අනගාරික ධර්මපාලයන්ගේ මෑණියන්</h5>
 						<nav class="breadcrumb">
 							<ul>
-								<li class="breadcrumb-item"><a href="index.php">Home</a></li>
+								<li class="breadcrumb-item"><a href="index.php">මුල් පිටුව</a></li>
 								<li class="breadcrumb-item active">මල්ලිකා හේවාවිතාරණ </li>
 							</ul>
 						</nav>

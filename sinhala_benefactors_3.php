@@ -50,7 +50,7 @@
 						<h5 class="text-center">Colonel Henry Steel Olcott</h5>
 						<nav class="breadcrumb">
 							<ul>
-								<li class="breadcrumb-item"><a href="index.php">Home</a></li>
+								<li class="breadcrumb-item"><a href="index.php">මුල් පිටුව</a></li>
 								<li class="breadcrumb-item active">Colonel Henry Steel Olcott</li>
 							</ul>
 						</nav>
