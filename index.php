@@ -523,13 +523,16 @@ ob_start();
 		</div>
 		<ul class="hm-list hm-instagram">
 			<li>
-				<a href="#"><img src="assets/images/home-page/insta-01.png" alt="instagram"></a>
+				<a href="#"><img src="assets/images/home-page/insta-09.png" alt="instagram"></a>
 			</li>
 			<li>
 				<a href="#"><img src="assets/images/home-page/insta-02.png" alt="instagram"></a>
 			</li>
 			<li>
 				<a href="#"><img src="assets/images/home-page/insta-03.png" alt="instagram"></a>
+			</li>
+			<li>
+				<a href="#"><img src="assets/images/home-page/insta-04.png" alt="instagram"></a>
 			</li>
 			<li>
 				<a href="#"><img src="assets/images/home-page/insta-05.png" alt="instagram"></a>
@@ -538,16 +541,13 @@ ob_start();
 				<a href="#"><img src="assets/images/home-page/insta-06.png" alt="instagram"></a>
 			</li>
 			<li>
-				<a href="#"><img src="assets/images/home-page/insta-03.png" alt="instagram"></a>
+				<a href="#"><img src="assets/images/home-page/insta-07.png" alt="instagram"></a>
+			</li>
+			<li>
+				<a href="#"><img src="assets/images/home-page/insta-08.png" alt="instagram"></a>
 			</li>
 			<li>
 				<a href="#"><img src="assets/images/home-page/insta-01.png" alt="instagram"></a>
-			</li>
-			<li>
-				<a href="#"><img src="assets/images/home-page/insta-05.png" alt="instagram"></a>
-			</li>
-			<li>
-				<a href="#"><img src="assets/images/home-page/insta-02.png" alt="instagram"></a>
 			</li>
 		</ul>
 	</section>
