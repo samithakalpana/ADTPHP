@@ -78,7 +78,29 @@
 
 	</p><p>From many accounts it appears that: Blavatsky 'hypnotised’ the young and agitated mind of  Don David. She succeeded in persuading Don Carolis Hewavitarne, 
 
-	</p><p>the father, to allow the young boy to go with her to India. The future Anagarika Dharmapala was drawn into the world of occultism in Adyar, Madras.
+</p>
+							<!-- <div class="sa-team-social">
+								<h5>Social links</h5>
+								<ul class="text-center">
+									<li><a href="#"><i class="fab fa-facebook-f"></i></a></li>
+									<li><a href="#"><i class="fab fa-twitter"></i></a></li>
+									<li><a href="#"><i class="fab fa-linkedin-in"></i></a></li>
+									<li><a href="#"><i class="fab fa-youtube"></i></a></li>
+									<li><a href="#"><i class="fab fa-instagram"></i></a></li>
+								</ul>
+							</div> -->
+						</div>
+					</div>
+					<div class="col-xl-4 col-lg-5 offset-xl-1 align-self-center">
+						<div class="ss-pastor-img-wrap">
+							<!-- <img src="assets/images/pastor-1.jpg" alt="img"> -->
+							<img src="assets/images/custom_images/helena_wikipidia.png" alt="img">
+						</div>
+					</div>
+				</div>
+
+
+				<p>the father, to allow the young boy to go with her to India. The future Anagarika Dharmapala was drawn into the world of occultism in Adyar, Madras.
 
 	</p><p>
 He believed, at the age of 20, like many other Buddhists at the time, that the interests of Buddhism and of the Theosophical Society were identical. These views were later to change as the death of Ms. Blavatsky and Olcott‘s ‘defection’ to Ms. Annie Besant’s theosophy, changed the course of that Society to a pro-Hindu stance.
@@ -99,25 +121,6 @@ https://www.gutenberg.org/ebooks/authors/search/?query=Blavatsky,+H.+P.+(Helena+
 
 
 							</p>
-							<!-- <div class="sa-team-social">
-								<h5>Social links</h5>
-								<ul class="text-center">
-									<li><a href="#"><i class="fab fa-facebook-f"></i></a></li>
-									<li><a href="#"><i class="fab fa-twitter"></i></a></li>
-									<li><a href="#"><i class="fab fa-linkedin-in"></i></a></li>
-									<li><a href="#"><i class="fab fa-youtube"></i></a></li>
-									<li><a href="#"><i class="fab fa-instagram"></i></a></li>
-								</ul>
-							</div> -->
-						</div>
-					</div>
-					<div class="col-xl-4 col-lg-5 offset-xl-1 align-self-center">
-						<div class="ss-pastor-img-wrap">
-							<!-- <img src="assets/images/pastor-1.jpg" alt="img"> -->
-							<img src="assets/images/custom_images/helena_wikipidia.png" alt="img">
-						</div>
-					</div>
-				</div>
 			</div>
 		</section>
 
