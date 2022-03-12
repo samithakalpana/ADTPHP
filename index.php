@@ -237,7 +237,7 @@ ob_start();
 					<div class="causes_info">
 						<!-- <p class="subtitle text-white">krishna's preaching</p> -->
 						<h3 class="white_text">“My comfort is the Buddha, His Dhamma and the Holy Ones”</h3>
-						<p class="white_text mb-0">>Anagarika Dharmapala - 1915</p>
+						<p class="white_text mb-0">Anagarika Dharmapala - 1915</p>
 					</div>
 				</div>
 				<div class="item">
@@ -284,7 +284,7 @@ ob_start();
 											<li>
 											<div class="event_info">
 													<div class="event_date">
-														<span>1915</span> March'2
+														<span>1915</span>
 													</div>
 													<!-- <h6><a href="event-detail.html">Vinayaka Chathurthy</a></h6> -->
 													<ul>
@@ -296,7 +296,7 @@ ob_start();
 											<li>
 												<div class="event_info">
 													<div class="event_date">
-														<span>1932</span> sep'19
+														<span>1932</span> 
 													</div>
 													<!-- <h6><a href="event-detail.html">Navarathri Celebrations</a></h6> -->
 													<ul>
@@ -347,7 +347,7 @@ ob_start();
 											<li>
 											<div class="event_info">
 													<div class="event_date">
-														<span>1963</span> sep'19
+														<span>1963</span> 
 													</div>
 													<!-- <h6><a href="event-detail.html">Navarathri Celebrations</a></h6> -->
 													<ul>
@@ -359,7 +359,7 @@ ob_start();
 											<li>
 											<div class="event_info">
 													<div class="event_date">
-														<span>1964</span> oct'19
+														<span>1964</span> 
 													</div>
 													<!-- <h6><a href="event-detail.html">Durgashtami </a></h6> -->
 													<ul>

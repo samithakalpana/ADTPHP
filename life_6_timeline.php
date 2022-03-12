@@ -92,7 +92,7 @@
 											<li>
 												<div class="event_info">
 													<div class="event_date">
-														<span>1915</span> March'2
+														<span>1915</span> 
 													</div>
 													<!-- <h6><a href="event-detail.html">Vinayaka Chathurthy</a></h6> -->
 													<ul>
@@ -104,7 +104,7 @@
 											<li>
 												<div class="event_info">
 													<div class="event_date">
-														<span>1932</span> sep'19
+														<span>1932</span> 
 													</div>
 													<!-- <h6><a href="event-detail.html">Navarathri Celebrations</a></h6> -->
 													<ul>
@@ -158,7 +158,7 @@
 											<li>
 												<div class="event_info">
 													<div class="event_date">
-														<span>1963</span> sep'19
+														<span>1963</span>
 													</div>
 													<!-- <h6><a href="event-detail.html">Navarathri Celebrations</a></h6> -->
 													<ul>
@@ -167,22 +167,11 @@
 													</ul>
 												</div>
 											</li>
+											
 											<li>
 												<div class="event_info">
 													<div class="event_date">
-														<span>12</span> oct'19
-													</div>
-													<!-- <h6><a href="event-detail.html">Durgashtami </a></h6> -->
-													<ul>
-														<li><i class="far fa-clock"></i> Sunday (8:00 pm -9:00 pm)</li>
-														<!-- <li><i class="fas fa-map-marker-alt"></i>4873 Pretty View Lane New York</li> -->
-													</ul>
-												</div>
-											</li>
-											<li>
-												<div class="event_info">
-													<div class="event_date">
-														<span>1964</span> oct'19
+														<span>1964</span> 
 													</div>
 													<!-- <h6><a href="event-detail.html">Durgashtami </a></h6> -->
 													<ul>
@@ -193,7 +182,7 @@
 											</li>		<li>
 												<div class="event_info">
 													<div class="event_date">
-														<span>1865-1866</span> oct'19
+														<span>1865 - </span> <span> 1866</span>
 													</div>
 													<!-- <h6><a href="event-detail.html">Durgashtami </a></h6> -->
 													<ul>
@@ -204,7 +193,8 @@
 											</li>		<li>
 												<div class="event_info">
 													<div class="event_date">
-														<span>1870-2</span> oct'19
+													<span>1870 - </span> <span> 1872</span>
+														
 													</div>
 													<!-- <h6><a href="event-detail.html">Durgashtami </a></h6> -->
 													<ul>
@@ -217,7 +207,8 @@
 											</li>		<li>
 												<div class="event_info">
 													<div class="event_date">
-														<span>1872-4</span> oct'19
+													<span>1872 - </span> <span> 1874</span>
+													
 													</div>
 													<!-- <h6><a href="event-detail.html">Durgashtami </a></h6> -->
 													<ul>
@@ -232,29 +223,32 @@
 											</li>		<li>
 												<div class="event_info">
 													<div class="event_date">
-														<span>1874-6</span> oct'19
+													<span>1874 - </span> <span> 1876</span>
+														
 													</div>
 													<!-- <h6><a href="event-detail.html">Durgashtami </a></h6> -->
 													<ul>
-														<li><i class="far fa-clock"></i>•	David Hewavitarne attends St Benedicts College</li>
+														<li><i class="far fa-clock"></i>•	David Hewavitarne attends St Benedicts College</li><br>
 														<!-- <li><i class="fas fa-map-marker-alt"></i>4873 Pretty View Lane New York</li> -->
 													</ul>
 												</div>
 											</li>		<li>
 												<div class="event_info">
 													<div class="event_date">
-														<span>1976-8</span> oct'19
+													<span>1876 - </span> <span> 1878</span>
+														
 													</div>
 													<!-- <h6><a href="event-detail.html">Durgashtami </a></h6> -->
 													<ul>
-														<li><i class="far fa-clock"></i> •	David Hewavitarne attends CMS Boys English School, Kotte</li>
+														<li><i class="far fa-clock"></i> •	David Hewavitarne attends CMS Boys English School, Kotte</li><br>
 														<!-- <li><i class="fas fa-map-marker-alt"></i>4873 Pretty View Lane New York</li> -->
 													</ul>
 												</div>
 											</li>		<li>
 												<div class="event_info">
 													<div class="event_date">
-														<span>1878-1879</span> oct'19
+													<span>1878 - </span> <span> 1879</span>
+													
 													</div>
 													<!-- <h6><a href="event-detail.html">Durgashtami </a></h6> -->
 													<ul>
@@ -269,7 +263,7 @@
 											</li>		<li>
 												<div class="event_info">
 													<div class="event_date">
-														<span>1880</span> oct'19
+														<span>1880</span> 
 													</div>
 													<!-- <h6><a href="event-detail.html">Durgashtami </a></h6> -->
 													<ul>
@@ -283,7 +277,7 @@
 											</li>		<li>
 												<div class="event_info">
 													<div class="event_date">
-														<span>1881</span> oct'19
+														<span>1881</span> 
 													</div>
 													<!-- <h6><a href="event-detail.html">Durgashtami </a></h6> -->
 													<ul>
@@ -294,7 +288,7 @@
 											</li>		<li>
 												<div class="event_info">
 													<div class="event_date">
-														<span>1882</span> oct'19
+														<span>1882</span> 
 													</div>
 													<!-- <h6><a href="event-detail.html">Durgashtami </a></h6> -->
 													<ul>
@@ -305,7 +299,7 @@
 											</li>		<li>
 												<div class="event_info">
 													<div class="event_date">
-														<span>1883</span> oct'19
+														<span>1883</span> 
 													</div>
 													<!-- <h6><a href="event-detail.html">Durgashtami </a></h6> -->
 													<ul>
@@ -318,7 +312,8 @@
 											</li>		<li>
 												<div class="event_info">
 													<div class="event_date">
-														<span>1884-6</span> oct'19
+													<span>1884 - </span> <span> 1886</span>
+														
 													</div>
 													<!-- <h6><a href="event-detail.html">Durgashtami </a></h6> -->
 													<ul>
@@ -336,7 +331,7 @@
 											</li>		<li>
 												<div class="event_info">
 													<div class="event_date">
-														<span>1887</span> oct'19
+														<span>1887</span>
 													</div>
 													<!-- <h6><a href="event-detail.html">Durgashtami </a></h6> -->
 													<ul>
@@ -347,7 +342,7 @@
 											</li>		<li>
 												<div class="event_info">
 													<div class="event_date">
-														<span>1889</span> oct'19
+														<span>1889</span>
 													</div>
 													<!-- <h6><a href="event-detail.html">Durgashtami </a></h6> -->
 													<ul>
@@ -358,7 +353,7 @@
 											</li>		<li>
 												<div class="event_info">
 													<div class="event_date">
-														<span>1891</span> oct'19
+														<span>1891</span> 
 													</div>
 													<!-- <h6><a href="event-detail.html">Durgashtami </a></h6> -->
 													<ul>
@@ -375,7 +370,7 @@
 											</li>		<li>
 												<div class="event_info">
 													<div class="event_date">
-														<span>1892</span> oct'19
+														<span>1892</span> 
 													</div>
 													<!-- <h6><a href="event-detail.html">Durgashtami </a></h6> -->
 													<ul>
@@ -388,7 +383,8 @@
 											</li>		<li>
 												<div class="event_info">
 													<div class="event_date">
-														<span>1893-4</span> oct'19
+													<span>1893 - </span> <span> 1894</span>
+														
 													</div>
 													<!-- <h6><a href="event-detail.html">Durgashtami </a></h6> -->
 													<ul>
@@ -410,7 +406,7 @@
 											</li>		<li>
 												<div class="event_info">
 													<div class="event_date">
-														<span>1895</span> oct'19
+														<span>1895</span> 
 													</div>
 													<!-- <h6><a href="event-detail.html">Durgashtami </a></h6> -->
 													<ul>
@@ -425,7 +421,8 @@
 											</li>		<li>
 												<div class="event_info">
 													<div class="event_date">
-														<span>1896-7</span> oct'19
+													<span>1896 - </span> <span> 1897</span>
+														
 													</div>
 													<!-- <h6><a href="event-detail.html">Durgashtami </a></h6> -->
 													<ul>
@@ -443,7 +440,8 @@ to manage the Sanghamitta convent for nuns
 											</li>		<li>
 												<div class="event_info">
 													<div class="event_date">
-														<span>1898-9</span> oct'19
+													<span>1898 - </span> <span> 1899</span>
+														
 													</div>
 													<!-- <h6><a href="event-detail.html">Durgashtami </a></h6> -->
 													<ul>
@@ -458,7 +456,8 @@ to manage the Sanghamitta convent for nuns
 											</li>		<li>
 												<div class="event_info">
 													<div class="event_date">
-														<span>1900-01</span> oct'19
+													<span>1900 - </span> <span> 1901</span>
+														
 													</div>
 													<!-- <h6><a href="event-detail.html">Durgashtami </a></h6> -->
 													<ul>
@@ -473,7 +472,8 @@ to manage the Sanghamitta convent for nuns
 											</li>		<li>
 												<div class="event_info">
 													<div class="event_date">
-														<span>1902-4</span> oct'19
+													<span>1902 - </span> <span> 1904</span>
+														
 													</div>
 													<!-- <h6><a href="event-detail.html">Durgashtami </a></h6> -->
 													<ul>
@@ -494,7 +494,7 @@ to manage the Sanghamitta convent for nuns
 											<li>
 												<div class="event_info">
 													<div class="event_date">
-														<span>1906</span> oct'19
+														<span>1906</span> 
 													</div>
 													<!-- <h6><a href="event-detail.html">Durgashtami </a></h6> -->
 													<ul>
@@ -513,7 +513,7 @@ to manage the Sanghamitta convent for nuns
 											<li>
 												<div class="event_info">
 													<div class="event_date">
-														<span>1907</span> oct'19
+														<span>1907</span> 
 													</div>
 													<!-- <h6><a href="event-detail.html">Durgashtami </a></h6> -->
 													<ul>
@@ -527,7 +527,7 @@ to manage the Sanghamitta convent for nuns
 											<li>
 												<div class="event_info">
 													<div class="event_date">
-														<span>1912</span> oct'19
+														<span>1912</span>
 													</div>
 													<!-- <h6><a href="event-detail.html">Durgashtami </a></h6> -->
 													<ul>
@@ -540,7 +540,8 @@ to manage the Sanghamitta convent for nuns
 											</li>	<li>
 												<div class="event_info">
 													<div class="event_date">
-														<span>1913-14</span> oct'19
+													<span>1913 - </span> <span> 1914</span>
+														
 													</div>
 													<!-- <h6><a href="event-detail.html">Durgashtami </a></h6> -->
 													<ul>
@@ -556,7 +557,7 @@ to manage the Sanghamitta convent for nuns
 											</li>	<li>
 												<div class="event_info">
 													<div class="event_date">
-														<span>1915</span> oct'19
+														<span>1915</span> 
 													</div>
 													<!-- <h6><a href="event-detail.html">Durgashtami </a></h6> -->
 													<ul>
@@ -577,7 +578,8 @@ to manage the Sanghamitta convent for nuns
 											</li>	<li>
 												<div class="event_info">
 													<div class="event_date">
-														<span>1916-17</span> oct'19
+													<span>1916 - </span> <span> 1917</span>
+														
 													</div>
 													<!-- <h6><a href="event-detail.html">Durgashtami </a></h6> -->
 													<ul>
@@ -592,7 +594,8 @@ to manage the Sanghamitta convent for nuns
 											</li>	<li>
 												<div class="event_info">
 													<div class="event_date">
-														<span>1918-19</span> oct'19
+													<span>1918 - </span> <span> 1919</span>
+														
 													</div>
 													<!-- <h6><a href="event-detail.html">Durgashtami </a></h6> -->
 													<ul>
@@ -608,7 +611,8 @@ to manage the Sanghamitta convent for nuns
 											</li>	<li>
 												<div class="event_info">
 													<div class="event_date">
-														<span>1920-22</span> oct'19
+													<span>1920 - </span> <span> 1922</span>
+														
 													</div>
 													<!-- <h6><a href="event-detail.html">Durgashtami </a></h6> -->
 													<ul>
@@ -622,7 +626,8 @@ to manage the Sanghamitta convent for nuns
 											</li>	<li>
 												<div class="event_info">
 													<div class="event_date">
-														<span>1922-24</span> oct'19
+													<span>1922 - </span> <span> 1924</span>
+													
 													</div>
 													<!-- <h6><a href="event-detail.html">Durgashtami </a></h6> -->
 													<ul>
@@ -635,7 +640,8 @@ to manage the Sanghamitta convent for nuns
 											</li>	<li>
 												<div class="event_info">
 													<div class="event_date">
-														<span>1925-27</span> oct'19
+													<span>1925 - </span> <span> 1927</span>
+														
 													</div>
 													<!-- <h6><a href="event-detail.html">Durgashtami </a></h6> -->
 													<ul>
@@ -652,8 +658,7 @@ to manage the Sanghamitta convent for nuns
 											</li>	<li>
 												<div class="event_info">
 													<div class="event_date">
-														<span>1928</span> oct'19
-													</div>
+														<span>1928</span> </div>
 													<!-- <h6><a href="event-detail.html">Durgashtami </a></h6> -->
 													<ul>
 														<li><i class="far fa-clock"></i> •	Maha Bodhi Society of London elects B. L. Broughton as Chairman
@@ -666,7 +671,7 @@ to manage the Sanghamitta convent for nuns
 											</li>	<li>
 												<div class="event_info">
 													<div class="event_date">
-														<span>1929</span> oct'19
+														<span>1929</span> 
 													</div>
 													<!-- <h6><a href="event-detail.html">Durgashtami </a></h6> -->
 													<ul>
@@ -677,7 +682,7 @@ to manage the Sanghamitta convent for nuns
 											</li>	<li>
 												<div class="event_info">
 													<div class="event_date">
-														<span>1930</span> oct'19
+														<span>1930</span> 
 													</div>
 													<!-- <h6><a href="event-detail.html">Durgashtami </a></h6> -->
 													<ul>
@@ -692,7 +697,8 @@ to manage the Sanghamitta convent for nuns
 											</li>	<li>
 												<div class="event_info">
 													<div class="event_date">
-														<span>1931-32</span> oct'19
+													<span>1931 - </span> <span> 1932</span>
+													
 													</div>
 													<!-- <h6><a href="event-detail.html">Durgashtami </a></h6> -->
 													<ul>
@@ -710,7 +716,7 @@ to manage the Sanghamitta convent for nuns
 											</li>	<li>
 												<div class="event_info">
 													<div class="event_date">
-														<span>1933</span> oct'19
+														<span>1933</span>
 													</div>
 													<!-- <h6><a href="event-detail.html">Durgashtami </a></h6> -->
 													<ul>
