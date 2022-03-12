@@ -69,8 +69,8 @@
 	<section class="section-padding latest_event_sermons m-0">
 		<div class="container">
 			<div class="row">
-				<div class="center col-md-6 col-lg-5">
-				<!-- <div class="mx-auto col-md-6 col-lg-5"> -->
+				<!-- <div class="center col-md-6 col-lg-5"> -->
+				<div class="mx-auto col-md-6 col-lg-5">
 					<div class=" heading">
 						<h3>Time Line</h3>
 						<div class="tl-slider-arrow float-right">
@@ -739,59 +739,114 @@ to manage the Sanghamitta convent for nuns
 				</div>
 
 				<!-- section two start here -->
-				<div class="col-md-6 col-lg-5 offset-lg-2">
-				<!-- <div class="col-md-12 col-lg-12 offset-lg-12"> -->
+				<!-- <div class="col-md-6 col-lg-5 offset-lg-2"> -->
+				<div class="col-md-12 col-lg-12 offset-lg-12">
 					<div class="heading">
-						
+						<h3>Latest Sermons</h3>
+						<a href="sermon.html" class="btn btn-sm float-right">See All</a>
 					</div>
-					<div class="ss-pastor-img-wrap">
-					<!-- <img src="assets/images/custom_images/1.jpg" alt="img"> -->
-					<img src="assets/images/custom_images/2.jpg" alt="img">
-					<!-- <img src="assets/images/custom_images/3.jpg" alt="img"> -->
-					<img src="assets/images/custom_images/4.jpg" alt="img">
-					<img src="assets/images/custom_images/5.jpg" alt="img">
-					<img src="assets/images/custom_images/6.jpg" alt="img">
-					<!-- <img src="assets/images/custom_images/7.jpg" alt="img"> -->
-					<img src="assets/images/custom_images/8.jpg" alt="img">
-					<!-- <img src="assets/images/custom_images/9.jpg" alt="img"> -->
-					<img src="assets/images/custom_images/10.jpg" alt="img">
-					<!-- <img src="assets/images/custom_images/11.jpg" alt="img">
-					<img src="assets/images/custom_images/12.jpg" alt="img"> -->
-					<img src="assets/images/custom_images/13.jpg" alt="img">
-					<img src="assets/images/custom_images/14.jpg" alt="img">
-					<img src="assets/images/custom_images/15.jpg" alt="img">
-					<img src="assets/images/custom_images/16.jpg" alt="img">
-					<img src="assets/images/custom_images/17.jpg" alt="img">
-					<img src="assets/images/custom_images/18.jpg" alt="img">
-					<!-- <img src="assets/images/custom_images/19.jpg" alt="img"> -->
-					<img src="assets/images/custom_images/20.jpg" alt="img">
-					<img src="assets/images/custom_images/21.jpg" alt="img">
-					<img src="assets/images/custom_images/22.jpg" alt="img">
-					<img src="assets/images/custom_images/23.jpg" alt="img">
-					<img src="assets/images/custom_images/24.jpg" alt="img">
-					<img src="assets/images/custom_images/25.jpg" alt="img">
-					<img src="assets/images/custom_images/26.jpg" alt="img">
-					<img src="assets/images/custom_images/27.jpg" alt="img">
-					<img src="assets/images/custom_images/28.jpg" alt="img">
-					<img src="assets/images/custom_images/29.jpg" alt="img">
-					<img src="assets/images/custom_images/30.jpg" alt="img">
-					<img src="assets/images/custom_images/31.jpg" alt="img">
-					<img src="assets/images/custom_images/32.jpg" alt="img">
-					<img src="assets/images/custom_images/33.jpg" alt="img">
-					<img src="assets/images/custom_images/34.jpg" alt="img">
-					<img src="assets/images/custom_images/35.jpg" alt="img">
-					<img src="assets/images/custom_images/36.jpg" alt="img">
-					<!-- <img src="assets/images/custom_images/37.jpg" alt="img"> -->
-					<img src="assets/images/custom_images/38.jpg" alt="img">
-					<img src="assets/images/custom_images/39.jpg" alt="img">
-					<img src="assets/images/custom_images/40.jpg" alt="img">
-					<img src="assets/images/custom_images/41.jpg" alt="img">
-					<img src="assets/images/custom_images/42.jpg" alt="img">
-					<img src="assets/images/custom_images/43.jpg" alt="img">
-					
+					<div class="panel-group" id="accordion" role="tablist" aria-multiselectable="true">
+						<div class="panel panel-default">
+							<div class="panel-heading" role="tab" id="headingOne">
+								<h6 class="panel-title">
+									<a role="button" data-toggle="collapse" data-parent="#accordion" href="#collapseOne" aria-expanded="true" aria-controls="collapseOne">
+										It is no use lying to one's self </a>
+								</h6>
+							</div>
+							<div id="collapseOne" class="panel-collapse collapse in show" role="tabpanel" aria-labelledby="headingOne">
+								<div class="panel-body">
+									<ul class="sermons_meta">
+										<li><i class="fa fa-user"></i> Message from <a href="#">yogbhagat</a></li>
+										<li><i class="far fa-calendar-alt"></i> sep 03, 2020</li>
+									</ul>
+									<div class="sermons_inside">
+										<ul>
+											<li><a href="#"><i class="fa fa-music"></i></a></li>
+											<li><a href="#"><i class="fab fa-youtube"></i></a></li>
+											<li><a href="#"><i class="far fa-file-pdf"></i></a></li>
+											<li><a href="#"><i class="fa fa-share-alt"></i></a></li>
+										</ul>
+									</div>
+								</div>
+							</div>
+						</div>
+
+						<div class="panel panel-default">
+							<div class="panel-heading" role="tab" id="headingTwo">
+								<h6 class="panel-title">
+									<a class="collapsed" role="button" data-toggle="collapse" data-parent="#accordion" href="#collapseTwo" aria-expanded="false" aria-controls="collapseTwo">
+										Detached action is unselfish work.</a>
+								</h6>
+							</div>
+							<div id="collapseTwo" class="panel-collapse collapse" role="tabpanel" aria-labelledby="headingTwo">
+								<div class="panel-body">
+									<ul class="sermons_meta">
+										<li><i class="fa fa-user"></i> Message from <a href="#">yogbhagat</a></li>
+										<li><i class="far fa-calendar-alt"></i> Aug 30, 2020</li>
+									</ul>
+									<div class="sermons_inside">
+										<ul>
+											<li><a href="#"><i class="fa fa-music"></i></a></li>
+											<li><a href="#"><i class="fab fa-youtube"></i></a></li>
+											<li><a href="#"><i class="far fa-file-pdf"></i></a></li>
+											<li><a href="#"><i class="fa fa-share-alt"></i></a></li>
+										</ul>
+									</div>
+								</div>
+							</div>
+						</div>
+
+						<div class="panel panel-default">
+							<div class="panel-heading" role="tab" id="headingThree">
+								<h6 class="panel-title">
+									<a class="collapsed" role="button" data-toggle="collapse" data-parent="#accordion" href="#collapseThree" aria-expanded="false" aria-controls="collapseThree">action is indeed better than inaction</a>
+								</h6>
+							</div>
+							<div id="collapseThree" class="panel-collapse collapse" role="tabpanel" aria-labelledby="headingThree">
+								<div class="panel-body">
+									<ul class="sermons_meta">
+										<li><i class="fa fa-user"></i> Message from <a href="#">yogbhagat</a></li>
+										<li><i class="far fa-calendar-alt"></i> sep 02, 2020</li>
+									</ul>
+									<div class="sermons_inside">
+										<ul>
+											<li><a href="#"><i class="fa fa-music"></i></a></li>
+											<li><a href="#"><i class="fab fa-youtube"></i></a></li>
+											<li><a href="#"><i class="far fa-file-pdf"></i></a></li>
+											<li><a href="#"><i class="fa fa-share-alt"></i></a></li>
+										</ul>
+									</div>
+								</div>
+							</div>
+						</div>
+
+						<div class="panel panel-default">
+							<div class="panel-heading" role="tab" id="headingfour">
+								<h6 class="panel-title">
+									<a class="collapsed" role="button" data-toggle="collapse" data-parent="#accordion" href="#collapsefour" aria-expanded="false" aria-controls="collapsefour">one who has faith,has supreme peace</a>
+								</h6>
+							</div>
+							<div id="collapsefour" class="panel-collapse collapse" role="tabpanel" aria-labelledby="headingfour">
+								<div class="panel-body">
+									<ul class="sermons_meta">
+										<li><i class="fa fa-user"></i> Message from <a href="#">yogbhagat</a></li>
+										<li><i class="far fa-calendar-alt"></i> sep 03, 2020</li>
+									</ul>
+									<div class="sermons_inside">
+										<ul>
+											<li><a href="#"><i class="fa fa-music"></i></a></li>
+											<li><a href="#"><i class="fab fa-youtube"></i></a></li>
+											<li><a href="#"><i class="far fa-file-pdf"></i></a></li>
+											<li><a href="#"><i class="fa fa-share-alt"></i></a></li>
+										</ul>
+									</div>
+								</div>
+							</div>
+						</div>
 
 					</div>
-
+				</div>
+			</div>
 		</div>
 	</section>
 	<!-- /Latest-Events-Sermons -->
