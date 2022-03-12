@@ -53,7 +53,7 @@ html {
 			<div class="inner_wp z_index white_text">
 				<div class="row">
 					<div class="col-md-12">
-						<h1 class="text-center">The Trust</h1>
+						<h1 class="text-center">භාරය</h1>
 						<nav class="breadcrumb">
 							<ul>
 								<li class="breadcrumb-item"><a href="index.php">මුල් පිටුව</a></li>
@@ -82,7 +82,7 @@ html {
 	යටත් විජිත යුගයේ බෞද්ධ ධර්ම ප‍්‍රචාරකයකු සමාජ
 ක‍්‍රියාකාරියෙකු හා ප‍්‍රතිසංස්කරණවාදියෙකු ලෙස අනගාරික
 ධර්මපාලයන්ගේ ජීවිතය අති විශිෂ්ටය. ඔහුගේ කාර්යයන් හා
-¥ත මෙහෙවර ඔහුගේ කාලයේ පැවති ආගමික සමාජීය
+දූත මෙහෙවර ඔහුගේ කාලයේ පැවති ආගමික සමාජීය
 දේශපාලනික හා ආර්ථික ප‍්‍රශ්නවලට පිළිතුරක් වූ අතර එය
 ඔහු එම කාලයේ යුග පුරුෂයෙකු කළේය. අධ්‍යාපන හා කාර්මික
 ප‍්‍රතිසංස්කරණ සඳහා ඔහු විසින් සිදු කරන ලද ගණන් කිරීමට
@@ -134,7 +134,7 @@ html {
 				<div  class="col-xl-7 col-md-7">
 					<div class="about-us-content">
 						<div class="section-header">
-							<h2>The  <u class="text-custom-primary">භාරය පිළිබඳව</u></h2>
+							<h2><u class="text-custom-primary">භාරය පිළිබඳව</u></h2>
 							<p>තම ජීවිතයේ සැඳෑ සමයට එළඹෙත්ම අනගාරික
 ධර්මපාලයන් ගිහි ගෙයින් බැහැරව භික්‍ෂු නමක් ලෙස පැවිදි
 දිවියට ඇතුල් වීමට සුදානම් වෙමින් තමන් විසින් බුදුන්
@@ -185,6 +185,8 @@ html {
 නම් කරන ලදී.</p>
 					</div>
 				</div>
+
+
 				<div class="col-xl-5 col-md-5 align-self-center">
 					<div class="about-us-image">
 						<img src="assets/images/trust1.jpeg" alt="img" class="img-fluid mx-auto d-block">
@@ -195,7 +197,7 @@ html {
 					</div>
 				</div>
 				
-				<div class="col-xl-7 col-md-7">
+				<!-- <div class="col-xl-7 col-md-7">
 					<div class="about-us-content">
 						<div class="section-header">
 							<br><br><br><h2>The  <u class="text-custom-primary">Mission</u></h2>
@@ -204,102 +206,105 @@ html {
 
 						</div>
 					</div>
-				</div>
+				</div> -->
 
-				<div class="col-xl-5 col-md-5 align-self-center">
+
+
+<!-- //image removed in sinhala page -->
+				<!-- <div class="col-xl-5 col-md-5 align-self-center">
 					<div class="about-us-image">
 					<br><br>
-						<img src="assets/images/trust2.jpeg" alt="img" class="img-fluid mx-auto d-block">
-						
+						<img src="assets/images/trust2.jpeg" alt="img" class="img-fluid mx-auto d-block">		 -->
 						<!-- <img src="assets/images/lotus.png" alt="img" class="img-fluid mx-auto d-block"> -->
-						
-
-					</div>
+					<!-- </div>
 				</div>
+			</div> -->
 
-			</div>
+
+
+<!-- //features section1  removed in sinhala page -->
 
 			<!-- Features -->
-			<div class="features">
+			<!-- <div class="features">
 			<div class="section-header">
-							<br><br><br><h2>The Anagarika Dharmapala Trust:
- </h2>
+							<br><br><br><h2>The Anagarika Dharmapala Trust: -->
+ <!-- </h2>
 						
 						</div>
 
 				<div  class="row">
 				
 					<div class="col-lg-4 col-md-6">
-						<div class="features_wrap features-after-none">
+						<div class="features_wrap features-after-none"> -->
 							<!-- <div class="f-f-icon"><img src="assets/images/peace.png" alt="img"></div> -->
 							<!-- <h4 class="text-custom-secondary">Meditation</h4> -->
-							<p class="mb-0"><b>Assists novice monks in their religious and general education.</b>
+							<!-- <p class="mb-0"><b>Assists novice monks in their religious and general education.</b>
 </p>
 						</div>
 					</div>
 					<div class="col-lg-4 col-md-6">
-						<div class="features_wrap features-after-none">
+						<div class="features_wrap features-after-none"> -->
 							<!-- <div class="f-f-icon"><img src="assets/images/peace.png" alt="img"></div> -->
 							<!-- <h4 class="text-custom-secondary">Meditation</h4> -->
-							<p class="mb-0"><b> Trains monks for Dhammadutha (Buddhist missionary) service and sends them to Centres overseas. 
+							<!-- <p class="mb-0"><b> Trains monks for Dhammadutha (Buddhist missionary) service and sends them to Centres overseas. 
 </b>
 </p>
 						</div>
 					</div>
 
 					<div class="col-lg-4 col-md-6">
-						<div class="features_wrap features-after-none">
+						<div class="features_wrap features-after-none"> -->
 							<!-- <div class="f-f-icon"><img src="assets/images/peace.png" alt="img"></div> -->
 							<!-- <h4 class="text-custom-secondary">Meditation</h4> -->
-							<p class="mb-0"><b>   Has representation overseas at Buddhist temples and in Maha Bodhi Society activities.</b>
+							<!-- <p class="mb-0"><b>   Has representation overseas at Buddhist temples and in Maha Bodhi Society activities.</b>
 </p>
 						</div>
 					</div>
 
 					<div class="col-lg-4 col-md-6">
-						<div class="features_wrap features-after-none">
+						<div class="features_wrap features-after-none"> -->
 							<!-- <div class="f-f-icon"><img src="assets/images/peace.png" alt="img"></div> -->
 							<!-- <h4 class="text-custom-secondary">Meditation</h4> -->
-							<p class="mb-0"><b>Offers ayurvedic medical treatment to needy patients free of charge.
+							<!-- <p class="mb-0"><b>Offers ayurvedic medical treatment to needy patients free of charge.
 </b>
 </p>
 						</div>
 					</div>
 
 					<div class="col-lg-4 col-md-6">
-						<div class="features_wrap features-after-none">
+						<div class="features_wrap features-after-none"> -->
 							<!-- <div class="f-f-icon"><img src="assets/images/peace.png" alt="img"></div> -->
 							<!-- <h4 class="text-custom-secondary">Meditation</h4> -->
-							<p class="mb-0"><b>Helps the restoration of rural temples.</b>
+							<!-- <p class="mb-0"><b>Helps the restoration of rural temples.</b>
 </p>
 						</div>
 					</div>
 
 					<div class="col-lg-4 col-md-6">
-						<div class="features_wrap features-after-none">
+						<div class="features_wrap features-after-none"> -->
 							<!-- <div class="f-f-icon"><img src="assets/images/peace.png" alt="img"></div> -->
 							<!-- <h4 class="text-custom-secondary">Meditation</h4> -->
-							<p class="mb-0"><b>Prints books and reproduces out of print publications.
+							<!-- <p class="mb-0"><b>Prints books and reproduces out of print publications.
 </b>
 </p>
 						</div>
 					</div>
 
 					<div class="col-lg-4 col-md-6">
-						<div class="features_wrap features-after-none">
+						<div class="features_wrap features-after-none"> -->
 							<!-- <div class="f-f-icon"><img src="assets/images/peace.png" alt="img"></div> -->
 							<!-- <h4 class="text-custom-secondary">Meditation</h4> -->
-							<p class="mb-0"><b>Donates the Trust's publications to Dhamma schools and those interested in the study of Buddhism
+							<!-- <p class="mb-0"><b>Donates the Trust's publications to Dhamma schools and those interested in the study of Buddhism
 </b>
 </p>
 						</div>
 					</div>
 
 					<div class="col-lg-4 col-md-6">
-						<div class="features_wrap features-after-none">
+						<div class="features_wrap features-after-none"> -->
 							<!-- <div class="f-f-icon"><img src="assets/images/peace.png" alt="img"></div> -->
 							<!-- <h4 class="text-custom-secondary">Meditation</h4> -->
-							<p class="mb-0"><b> Administers the Anagarika Dharmapala International Research Centre at the Trust head office in Colombo.
+							<!-- <p class="mb-0"><b> Administers the Anagarika Dharmapala International Research Centre at the Trust head office in Colombo.
 
 </b>
 </p>
@@ -307,30 +312,30 @@ html {
 					</div>
 
 					<div class="col-lg-4 col-md-6">
-						<div class="features_wrap features-after-none">
+						<div class="features_wrap features-after-none"> -->
 							<!-- <div class="f-f-icon"><img src="assets/images/peace.png" alt="img"></div> -->
 							<!-- <h4 class="text-custom-secondary">Meditation</h4> -->
-							<p class="mb-0"><b>   Offers alms to monks.
+							<!-- <p class="mb-0"><b>   Offers alms to monks.
 .</b>
 </p>
 						</div>
 					</div>
 
 					<div class="col-lg-4 col-md-6">
-						<div class="features_wrap features-after-none">
+						<div class="features_wrap features-after-none"> -->
 							<!-- <div class="f-f-icon"><img src="assets/images/peace.png" alt="img"></div> -->
 							<!-- <h4 class="text-custom-secondary">Meditation</h4> -->
-							<p class="mb-0"><b> Supports residential care centres for orphaned boys established by the Trust’s associates
+							<!-- <p class="mb-0"><b> Supports residential care centres for orphaned boys established by the Trust’s associates
 </b>
 </p>
 						</div>
 					</div>
 
 					<div class="col-lg-4 col-md-6">
-						<div class="features_wrap features-after-none">
+						<div class="features_wrap features-after-none"> -->
 							<!-- <div class="f-f-icon"><img src="assets/images/peace.png" alt="img"></div> -->
 							<!-- <h4 class="text-custom-secondary">Meditation</h4> -->
-							<p class="mb-0"><b> Supports secondary schools in educational and social service activities  
+							<!-- <p class="mb-0"><b> Supports secondary schools in educational and social service activities  
 </b>
 </p>
 						</div>
@@ -340,8 +345,12 @@ html {
 
 					
 				</div>
-			</div>
+			</div> -->
 			<!-- /Features -->
+
+
+
+
 
 		</div>
 	</section>
@@ -351,14 +360,15 @@ html {
 	<div class="video-wrap-section">
 		<div class="video_wrap">
 			<img src="assets/images/About-us/Video-01.png" alt="image">
-			<div class="video_icon">
+			<!-- <div class="video_icon">
 				<a class="popup-youtube" href="https://www.youtube.com/watch?v=AdZrEIo6UYU"><i class="fa fa-play"></i></a>
-			</div>
+			</div> -->
+			<p id="section_3"></p>
 		</div>
 	</div>
 	<!-- /Video -->
 
-	<p id="section_3"></p>
+
 
 	<!-- Team -->
 	<section class="section-padding" id="about-team">
@@ -366,18 +376,21 @@ html {
 			<div class="our_team">
 				<div class="section-header-center text-center">
 					<!-- <h3>Our Teachers</h3> -->
-					<h3>The Managing Trustees</h3>
-					<p>The Trust is overseen by a board of six members</p>
+					<h3>කළමනාකරණ භාරකරුවන්</h3>
+					<p>භාරය අධීක්‍ෂණය කරනු ලබන්නේ සය දෙනෙකුගෙන්
+සමන්විත මණ්ඩලයක් විසිනි.</p>
 				</div>
 				<div class="row">
 					<div class="col-12">
 						<div class="owl-carousel team-carousel">
+
 							<div class="item">
 								<div class="box_wrap">
-									<div class="team_img">
-										<img src="assets/images/About-us/person.png">
+
+									<!-- <div class="team_img">
+										<img src="assets/images/About-us/person.png"> -->
 										<!-- <div class="team_url"><a href="our-teachers.html"><i class="fa fa-plus"></i></a></div> -->
-									</div>
+									<!-- </div> -->
 									<!-- <div class="icon"><img src="assets/images/Templezen-team-icon.html" alt="image"></div> -->
 									<h6>සුධම්මික හේවාවිතාරණ</h6>
 									<p> සභාපති- <br/> වනාහි අනගාරික
@@ -392,10 +405,10 @@ html {
 
 							<div class="item">
 								<div class="box_wrap">
-									<div class="team_img">
-										<img src="assets/images/About-us/person.png" alt="image">
+									<!-- <div class="team_img">
+										<img src="assets/images/About-us/person.png" alt="image"> -->
 										<!-- <div class="team_url"><a href="our-teachers.html"><i class="fa fa-plus"></i></a></div> -->
-									</div>
+									<!-- </div> -->
 									<!-- <div class="icon"><img src="assets/images/Templezen-team-icon.html" alt="image"></div> -->
 									<h6>රජීවි හේවාවිතාරණ</h6>
 									<p> ඔහු වනාහී අනාගාරික
@@ -411,10 +424,11 @@ html {
 
 							<div class="item">
 								<div class="box_wrap">
-									<div class="team_img">
-										<img src="assets/images/About-us/person.png" alt="image">
+
+									<!-- <div class="team_img">
+										<img src="assets/images/About-us/person.png" alt="image"> -->
 										<!-- <div class="team_url"><a href="our-teachers.html"><i class="fa fa-plus"></i></a></div> -->
-									</div>
+									<!-- </div> -->
 									<!-- <div class="icon"><img src="assets/images/Templezen-team-icon.html" alt="image"></div> -->
 									<h6>සිංහ රත්නතුංග</h6>
 									<p>අනගාරික ධර්මපාලයන්ගේ (GREAT
@@ -431,10 +445,11 @@ GRAND SON) ඉන්දියාවේ මහ බෝධි සංගමයේ �
 
 							<div class="item">
 								<div class="box_wrap">
-									<div class="team_img">
-										<img src="assets/images/About-us/person.png" alt="image">
+
+									<!-- <div class="team_img">
+										<img src="assets/images/About-us/person.png" alt="image"> -->
 										<!-- <div class="team_url"><a href="our-teachers.html"><i class="fa fa-plus"></i></a></div> -->
-									</div>
+									<!-- </div> -->
 									<!-- <div class="icon"><img src="assets/images/Templezen-team-icon.html" alt="image"></div> -->
 									<h6>ලක්‍ෂ්මන් පෙරේරා</h6>
 									<p> හෙතෙම ජනාධිපති නීතිඥයෙකු
@@ -446,10 +461,11 @@ GRAND SON) ඉන්දියාවේ මහ බෝධි සංගමයේ �
 
 							<div class="item">
 								<div class="box_wrap">
-									<div class="team_img">
-										<img src="assets/images/About-us/person.png" alt="image">
+
+									<!-- <div class="team_img">
+										<img src="assets/images/About-us/person.png" alt="image"> -->
 										<!-- <div class="team_url"><a href="our-teachers.html"><i class="fa fa-plus"></i></a></div> -->
-									</div>
+									<!-- </div> -->
 									<!-- <div class="icon"><img src="assets/images/Templezen-team-icon.html" alt="image"></div> -->
 									<h6>නලින් වල්පිට</h6>
 									<p>
@@ -462,10 +478,10 @@ GRAND SON) ඉන්දියාවේ මහ බෝධි සංගමයේ �
 
 							<div class="item">
 								<div class="box_wrap">
-									<div class="team_img">
-										<img src="assets/images/About-us/person.png" alt="image">
+									<!-- <div class="team_img">
+										<img src="assets/images/About-us/person.png" alt="image"> -->
 										<!-- <div class="team_url"><a href="our-teachers.html"><i class="fa fa-plus"></i></a></div> -->
-									</div>
+									<!-- </div> -->
 									<!-- <div class="icon"><img src="assets/images/Templezen-team-icon.html" alt="image"></div> -->
 									<h6>අමිත විජේසේකර</h6>
 									<p>ඔහු අනගාරික ධර්මපාලයන්ගේ

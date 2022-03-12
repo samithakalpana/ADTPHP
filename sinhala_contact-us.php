@@ -40,7 +40,7 @@
 
 <body id="tl">
   <!-- Header -->
-	<?php include_once 'header.php'; ?>
+	<?php include_once 'sinhala_header.php'; ?>
     <!-- /Header -->
     <!-- Inner-intro -->
     <section id="inner_intro_without_image" class="section-padding">
@@ -83,7 +83,7 @@
                             <p>ලිපිනය<br>අනගාරික ධර්මපාල භාරය, <br>130, මාලිගාකන්ද පාර, <br> කොළඹ 10.
  </p>
                             <!-- <p>Call us: <span>+1 4532 5698 303</span></p> -->
-                            <p>දුරකතන: <span><a href="tel:+94112695161">+94-112 695 161<</a>/span></p>
+                            <p>දුරකතන: <span>+94-112 695 161</span></p>
                             <p>විද්‍යුත් තැපෑල: <span>Info@yourwebsite.com</span></p>
                         </div>
                     </div>
@@ -98,7 +98,7 @@
     </section>
     <!-- /Contact-Us -->
    <!-- Footer -->
-<?php include_once 'footer.php';?>
+<?php include_once 'sinhala_footer.php';?>
 	<!-- /Footer -->
     <!-- Scripts -->
     <script src="assets/js/jquery.min.js"></script>

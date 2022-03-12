@@ -209,7 +209,7 @@
 				<div class="col-md-8">
 						<div class="shop-top-filter">
 							<div class="row">
-								<div class="col-lg-4 col-md-6 col-sm-12">
+								<!-- <div class="col-lg-4 col-md-6 col-sm-12">
 									<form>
 										<div class="sort-select-filter">
 											<select name="sorting" id="sorting-1">
@@ -219,19 +219,19 @@
 											</select>
 										</div>
 									</form>
-								</div>
-								<div class="col-lg-4 col-md-6 col-sm-12">
+								</div> -->
+								<!-- <div class="col-lg-4 col-md-6 col-sm-12">
 									<select name="sorting" id="sorting-2">
 										<option value="0">1-6 Products</option>
 										<option value="1">6-16 Products</option>
 										<option value="2">16-25 Products</option>
 									</select>
-								</div>
-								<div class="col-lg-4 col-md-12 ">
+								</div> -->
+								<!-- <div class="col-lg-4 col-md-12 ">
 									<div class="shop-view">
 										<p> showing all result</p>
 									</div>
-								</div>
+								</div> -->
 							</div>
 						</div>
 				 <div class="row">
@@ -243,7 +243,7 @@
 				<img src="assets/images/shop_images/sample_book.png" alt="image" class ="mx-auto image-fluid d-block">
 						</div>
 						<div class="tl-product-content">
-								<h4>Coffee Table Book</h4>
+								<h4>Coffee Table<br/> Book</h4>
 								<p>Rs 5000.00 
 									<!-- <span class="off-price">$56</span> -->
 								</p>
@@ -260,7 +260,7 @@
 				<img src="assets/images/shop_images/main_book_1.png" alt="image" class ="mx-auto image-fluid d-block">
 						</div>
 						<div class="tl-product-content">
-								<h4>they turn the tide</h4>
+								<h4>they turn the <br/> tide</h4>
 								<p>Rs 150.00 
 									<!-- <span class="off-price">$56</span> -->
 								</p>
@@ -277,7 +277,7 @@
 						<img src="assets/images/shop_images/main_book_2.png" alt="image" class ="mx-auto image-fluid d-block">
 					</div>
 					<div class="tl-product-content">
-							<h4>anagarika darmapala pradanaya</h4>
+							<h4>අනගාරික ධර්මපාල<br/> අපදානය</h4>
 							<p>Rs 150.00
 								 <!-- <span class="off-price">$56</span> -->
 								</p>
@@ -293,7 +293,7 @@
 			<img src="assets/images/shop_images/main_book_3.png" alt="image" class ="mx-auto image-fluid d-block">
 					</div>
 					<div class="tl-product-content">
-							<h4>Anagarika darmapala abhiyogaya saha api</h4>
+							<h4>අනගාරික ධර්මපාල අභියෝගය සහ අපි</h4>
 							<p>Rs 150.00 
 								<!-- <span class="off-price">$56</span> -->
 							</p>
@@ -312,7 +312,7 @@
 			<img src="assets/images/shop_images/main_book_4.png" alt="image" class ="mx-auto image-fluid d-block">
 					</div>
 					<div class="tl-product-content">
-							<h4>mahabodi kathawa</h4>
+							<h4>මහාබෝධි<br/> කතාව</h4>
 							<p>Rs 150.00 
 								<!-- <span class="off-price">$56</span> -->
 							</p>
@@ -330,7 +330,7 @@
 		<img src="assets/images/shop_images/main_book_5.png" alt="image" class ="mx-auto image-fluid d-block">
 				</div>
 				<div class="tl-product-content">
-						<h4>Anagarika Dharmapala</h4>
+						<h4>අනගාරික<br/> ධර්මපාල</h4>
 						<p>Rs 150.00 
 								<!-- <span class="off-price">$56</span> -->
 							</p>
@@ -365,7 +365,7 @@
 			<img src="assets/images/shop_images/main_book_7.png" alt="image" class ="mx-auto image-fluid d-block">
 					</div>
 					<div class="tl-product-content">
-							<h4>Flame In Darkness</h4>
+							<h4>Flame In <br/>Darkness</h4>
 							<p>Rs 150.00 
 								<!-- <span class="off-price">$56</span> -->
 							</p>
@@ -409,7 +409,7 @@
 
 					<!-- /Pagination /-->
 
-					<div class="col-md-12">
+					<!-- <div class="col-md-12">
 							<nav class="page-navigation ">
 								<ul class="pagination">
 									<li class="page-item"><a class="page-link" href="#">Previous</a></li>
@@ -419,7 +419,7 @@
 									<li class="page-item"><a class="page-link" href="#">Next</a></li>
 								</ul>
 							</nav>
-						</div>
+						</div> -->
 
 <!-- pagination-->
 
