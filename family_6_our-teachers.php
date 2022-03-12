@@ -70,48 +70,7 @@
 							<h3>Charles Alwis Hewavitarne </h3>
 							<!-- <p class="designation">Yoga Teacher</p> -->
 							<p class="designation">(From 1876–1929)</p>
-							<p>	Charles was the youngest brother of Anagarika Dharmapala. A scholar, philanthropist, industrialist and freedom fighter, he read medicine at the Ceylon Medical College and joined the Medical Service of Ceylon. Charles obtained his LRCP (London) and FRCS at University College, University of London, in the UK, where he excelled at his studies and won medals for his performance in many subjects.   Charles was a member of the University College Ceylon Council. Several  memorial prizes are  awarded every year in his memory: at Royal College where he studied (then the Colombo Academy); at the University of Colombo for Physics & Sanskrit and the Faculty of Science, University of Peradeniya for Physics.  
-							
-							</p>
-							<p>	He was actively involved in the Buddhist revival movement with his brothers and was a trustee of the Vidyodaya Oriental College, donated by his maternal grandfather. In the aftermath of the 1915 riots, he was taken into custody with his brother Edmund. D.S. Senanayake and D. R, Wijewardene and later released. After the death of his elder brother Edmund in prison, it was Charles who bore the burden of carrying forward H Don Carolis & Sons and contributing to the industrial revival activities of  Ceylon,						
-							
-
-	</p><p>As a pioneer of the industrial movement of the country, he was one of the main industrialists instrumental in the construction of the  present Colombo Fort Railway Station. The station was opened in 1917 as a new central station for Colombo, a magnificent building modeled on the  Manchester Victoria station in England. The station was built on land reclaimed from the Beira Lake.  He was also the chair of the organizing committee for the industrial exhibition for the visit of the Prince of Wales to Ceylon in 1921 and accompanied the Prince on his tour of the exhibition.
-This poem was written by Charles when he was imprisoned in 1915. It reflects a heartfelt devotion to the Buddha and to the Noble Eightfold Path:
-
-
-	</p><p><b>At Thy Feet</b><br>
-<b>by Dr Charles Hewavitarne</b>
-
-
-	</p><p><i>Compassionate! Who with unceasing zeal
-Beheld rise and fall of myriad earths
-And in the rounds of births gave all that men
-Hold dear, for truth to find and for our weal
-That truth beyond compare, of pain and cause,
-Its ceasing, and the way,
-To thee, who showed the active life and calm
-That lies between the rungs of Eight-fold path
-Which lead to bliss that cooleth passion’s thirst.
-To thee, sole teacher of the truth, I bow –
-My lowly head and with a humble heart
-To thee I bring an offering of my joy
-All wise; who spurned the hope instant bliss
-When first though met prostrating thy forerunner
-That we may taste the nectar of thy words
-To hearten us who tread the wheel of life
-Which first began we know not where or how
-To thee, sweet Lord, I my humble brow I bend
-In lowly worship thrice, and at thy feet
-In faith and trust seek I sure refuge.
-	</i>
-
-	</p>
-	<p>Charles died in 1929, when a train crashed into his car at the road-railway intersection at Eheliyagoda, an area known for Ceylon's famous gems and also has mid grown tea plantations. It was Ceylon’s first motor car-train accident. Rail gates were installed in Ceylon following this accident. Seeing his brother’s shattered body, Anagarika Dharmapala had lamented in grief crying, “oh my brother, my doctor, why did this happen to you?”.
-
-
-							
-							</p>
+		
 							<!-- <div class="sa-team-social">
 								<h5>Social links</h5>
 								<ul class="text-center">
@@ -124,13 +83,61 @@ In faith and trust seek I sure refuge.
 							</div> -->
 						</div>
 					</div>
-					<div class="col-xl-4 col-lg-5 offset-xl-1 align-self-center">
+					<!-- //image section removed -->
+					<!-- <div class="col-xl-4 col-lg-5 offset-xl-1 align-self-center">
 						<div class="ss-pastor-img-wrap">
-							<!-- <img src="assets/images/pastor-1.jpg" alt="img"> -->
+						
 							<img src="assets/images/pastor-1.jpg" alt="img">
 						</div>
-					</div>
+					</div> -->
 				</div>
+				<p>	Charles was the youngest brother of Anagarika Dharmapala. A scholar, philanthropist, industrialist and freedom fighter, he read medicine at the Ceylon Medical College and joined the Medical Service of Ceylon. Charles obtained his LRCP (London) and FRCS at University College, University of London, in the UK, where he excelled at his studies and won medals for his performance in many subjects.   Charles was a member of the University College Ceylon Council. Several  memorial prizes are  awarded every year in his memory: at Royal College where he studied (then the Colombo Academy); at the University of Colombo for Physics & Sanskrit and the Faculty of Science, University of Peradeniya for Physics.  
+							
+							</p>
+							<p>	He was actively involved in the Buddhist revival movement with his brothers and was a trustee of the Vidyodaya Oriental College, donated by his maternal grandfather. In the aftermath of the 1915 riots, he was taken into custody with his brother Edmund. D.S. Senanayake and D. R, Wijewardene and later released. After the death of his elder brother Edmund in prison, it was Charles who bore the burden of carrying forward H Don Carolis & Sons and contributing to the industrial revival activities of  Ceylon,						
+							
+
+	</p>
+
+				<p>As a pioneer of the industrial movement of the country, he was one of the main industrialists instrumental in the construction of the  present Colombo Fort Railway Station. The station was opened in 1917 as a new central station for Colombo, a magnificent building modeled on the  Manchester Victoria station in England. The station was built on land reclaimed from the Beira Lake.  He was also the chair of the organizing committee for the industrial exhibition for the visit of the Prince of Wales to Ceylon in 1921 and accompanied the Prince on his tour of the exhibition.
+This poem was written by Charles when he was imprisoned in 1915. It reflects a heartfelt devotion to the Buddha and to the Noble Eightfold Path:
+
+
+	</p>
+	<p><b>At Thy Feet</b><br>
+<b>by Dr Charles Hewavitarne</b>
+	</p>
+	<p ><i>Compassionate! Who with unceasing zeal<br/>
+Beheld rise and fall of myriad earths<br/>
+And in the rounds of births gave all that men<br/>
+Hold dear, for truth to find and for our weal<br/>
+That truth beyond compare, of pain and cause,<br/>
+Its ceasing, and the way,<br/>
+To thee, who showed the active life and calm<br/>
+That lies between the rungs of Eight-fold path<br/>
+Which lead to bliss that cooleth passion’s thirst.<br/>
+To thee, sole teacher of the truth, I bow –<br/>
+My lowly head and with a humble heart<br/>
+To thee I bring an offering of my joy<br/>
+All wise; who spurned the hope instant bliss<br/>
+When first though met prostrating thy forerunner<br/>
+That we may taste the nectar of thy words<br/>
+To hearten us who tread the wheel of life<br/>
+Which first began we know not where or how<br/>
+To thee, sweet Lord, I my humble brow I bend<br/>
+In lowly worship thrice, and at thy feet<br/>
+In faith and trust seek I sure refuge.<br/>
+<br/><br/><br/>
+	</i>
+
+	</p>
+	<p>Charles died in 1929, when a train crashed into his car at the road-railway intersection at Eheliyagoda, an area known for Ceylon's famous gems and also has mid grown tea plantations. It was Ceylon’s first motor car-train accident. Rail gates were installed in Ceylon following this accident. Seeing his brother’s shattered body, Anagarika Dharmapala had lamented in grief crying, “oh my brother, my doctor, why did this happen to you?”.
+
+
+							
+							</p>
+
+
 			</div>
 		</section>
 

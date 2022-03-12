@@ -47,10 +47,10 @@
 				<div class="row">
 					<div class="col-md-12">
 						<h1 class="text-center">පවුල සහ ප‍්‍රතිලාභීන්</h1>
-						<h5 class="text-center">Anagarika Dharmapala’s 2nd Younger Brother</h5>
+						<h5 class="text-center">අනගාරික ධර්මපාලයන්ගේ දෙවන බාල සොහොයුරා</h5>
 						<nav class="breadcrumb">
 							<ul>
-								<li class="breadcrumb-item"><a href="index.php">Home</a></li>
+								<li class="breadcrumb-item"><a href="index.php">මුල් පිටුව</a></li>
 								<li class="breadcrumb-item active">සයිමන් ඇලෙස්සැන්ඩර් හේවාවිතාරණ</li>
 							</ul>
 						</nav>
@@ -153,8 +153,9 @@
 	</p><p>ඔහුගේ වැන්දඹුව වූ සෝමාවතී හේවාවිතාරණ 1982
 සිදුවූ ඇයගේ අභාවයට පෙර සෝමාවතී හේවාවිතාරණ භාරය
 ආරම්භ කරමින් තම සැමියාගේ අන්තිම කැමති පත‍්‍රයේ කටයුතු
-තවදුරටත් කරගෙන යාමට කටයුතු සලසන ලදී. සයිමන්
-හේවාවිතාරණ භාරය සහ සෝමා හේවාවිතාරණ භාරය ඔවුන්ගේ
+තවදුරටත් කරගෙන යාමට කටයුතු සලසන ලදී. 
+<a href="#"><b>සයිමන්
+හේවාවිතාරණ භාරය සහ සෝමා හේවාවිතාරණ භාරය</b></a> ඔවුන්ගේ
 දර්ශනයන් තව දුරටත් අනලස ලෙස ඉදිරියට නොකඩවා
 ක‍්‍රියාත්මකය.
 

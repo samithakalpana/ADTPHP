@@ -1946,7 +1946,8 @@ footer{
 	color: #fff;
 }
 .breadcrumb ul li a {
-	color: #010101;
+	/* color: #010101; */
+	color: #fff;
 }
 .breadcrumb ul li a:hover {
 	color: #f17024;

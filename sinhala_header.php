@@ -46,7 +46,7 @@
 			<div class="container">
 				<div class="navbar-header">
 					<div class="logo">
-						<a href="sinhala_index.html"><img src="assets/images/logo.png" alt="image" /></a>
+						<a href="sinhala_index.php"><img src="assets/images/logo.png" alt="image" /></a>
 					</div> <!-- /Logo -->
 					<div id="menu_slide">
 						<div id="nav-toggle-label">
@@ -85,7 +85,7 @@
 								<li><a href="sinhala_life_5_our-teachers.php">උරුමය</a></li>
 							</ul>
 						</li>
-						<li class="dropdown"><a href="#">පවුල සහ<br/>ප්‍රත්‍රිලාභීන් <span class="nav_arrow"></span></a>
+						<li class="dropdown"><a href="#">පවුල සහ<br/>ප්‍රතිලාභීන් <span class="nav_arrow"></span></a>
 							<ul class="sub-menu">
 								<li class="dropdown"><a href="#">පවුල</a>
 								<ul class="sub-menu">
@@ -99,13 +99,13 @@
 							</li>
 							<li class="dropdown"><a href="#">ප්‍රතිලාභීන්</a>
 								<ul class="sub-menu">
-								<li><a href="sinhala_benefactors_1.php">හික්කඩුවේ ශ්‍රී සුමංගල හිමි</a>
+								<!-- <li><a href="sinhala_benefactors_1.php">හික්කඩුවේ ශ්‍රී සුමංගල හිමි</a> -->
 								<li><a href="sinhala_benefactors_2.php">මේරි ජොබින්සන් ෆොස්ටර්</a>
-								<li><a href="sinhala_benefactors_3.php">හෙන් රි ස්ටීල් ඕල්කට්</a>
+								<!-- <li><a href="sinhala_benefactors_3.php">හෙන් රි ස්ටීල් ඕල්කට්</a>
 								<li><a href="sinhala_benefactors_4.php">හෙලේනා පෙට්‍රොව්නා බ්ලැවැස්කි</a>
 								<li><a href="sinhala_benefactors_5.php">සර් එඩ්වින් ආර්නෝල්ඩ්</a>
 								<li><a href="sinhala_benefactors_6.php">නීල්කමල් මුකර්ජි</a>
-								<li><a href="sinhala_benefactors_7.php">දේවප්‍රිය වලිසිංහ</a>
+								<li><a href="sinhala_benefactors_7.php">දේවප්‍රිය වලිසිංහ</a> -->
 								</ul>
 							</li>
 						
@@ -126,17 +126,18 @@
 								<li><a href="blog-detail.html">Blog Detail</a></li>
 							</ul> -->						
 								<ul class="sub-menu">
-								<li><a href="our-teachers.php">දිනපොත්</a>
-								<li><a href="our-teachers.php">අනෙකුත් ප්‍රකාශන</a>
-								<li><a href="our-teachers.php">පර්‍යේෂකයන් සදහා තොරතුරු</a>
+								<li><a href="sinhala_Diaries.php">දිනපොත්</a>
+								<li><a href="sinhala_Other_publications.php">අනෙකුත් ප්‍රකාශන</a>
+								<li><a href="sinhala_Information_for_researchers.php">පර්‍යේෂකයන් සදහා තොරතුරු</a>
 						
 								</ul>
 						</li>
 						
-						<li class="dropdown"><a href="shop_pages1.php">සාප්පුව</a>
-						<ul class="sub-menu">
-								<li><a href="our-teachers.php">ත්‍රිපිටක ප්‍රකාශන</a>
-								</ul>
+						<!-- <li class="dropdown"><a href="sinhala_shop_main_ADT_books.php">සාප්පුව</a> -->
+						<li><a href="sinhala_shop_main_ADT_books.php">සාප්පුව</a>
+						<!-- <ul class="sub-menu"> -->
+								<!-- <li><a href="our-teachers.php">ත්‍රිපිටක ප්‍රකාශන</a> -->
+								<!-- </ul> -->
 					</li>
 
 			

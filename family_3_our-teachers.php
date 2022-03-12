@@ -73,10 +73,7 @@
 							<p>	Engeltina was the only sister of Angarika Dharmapala.  She married Jacob Moonesinghe from Walgama, Matara who became a live-wire in the family, taking on many responsibilities of the family business and Buddhist activities to support Angarika Dharmapala’s younger brothers, Edmund and Charles, after the death of their father, Don Carolis. Jacob Moonesinghe was the Director of the Hewavitarne Textile Training School in Rajagiriya, Colombo. The school was the result of the bequest made by Don Carolis at his death for the training of Buddhist youth in industrial skills.
 							
 							</p>
-							<p>	 Engeltina’s untimely death, at the age of thirty six years, added great sadness to the family that had already lost a daughter and sister at a very young age. Engeltina’s four sons were looked after lovingly by Jocob,  her widowed husband, who was supported in the task of bringing up the boys by Engeltina’s mother and brothers. The three eldest boys, Sanath,  Kumaradasa and Piyadasa, as the three eldest grandchildren of the Hewavitarne family, supported their uncle Charles and their father in the management  of the family firm, Don Carolis & Sons after the deaths of Edmund and Simon. 						
-							
-
-	</p><p>
+					<p>Engeltina’s untimely death, at the age of thirty six years, added great sadness to the family that had already lost a daughter and sister at a very young age.  Engeltina’s four sons were looked after lovingly by Jocob,  her widowed husband, who was supported in the task of bringing up the boys by Engeltina’s mother and brothers. The three eldest boys, Sanath,  Kumaradasa and Piyadasa, as the three eldest grandchildren of the Hewavitarne family, supported their uncle Charles and their father in the management  of the family firm, Don Carolis & Sons after the deaths of Edmund and Simon. 	
 
  
 	</p><p>
@@ -108,6 +105,10 @@
 						</div>
 					</div>
 				</div>
+				<p>						
+							
+
+							</p>
 			</div>
 		</section>
 

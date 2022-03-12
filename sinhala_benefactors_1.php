@@ -50,7 +50,7 @@
 						<h5 class="text-center">Ven. Hikkaduwe Sri Sumangala </h5>
 						<nav class="breadcrumb">
 							<ul>
-								<li class="breadcrumb-item"><a href="index.php">Home</a></li>
+								<li class="breadcrumb-item"><a href="index.php">මුල් පිටුව</a></li>
 								<li class="breadcrumb-item active">Ven. Hikkaduwe Sri Sumangala </li>
 							</ul>
 						</nav>

@@ -50,7 +50,7 @@
 						<h5 class="text-center">(1864 සැප්තැම්බර් 17 සිට 1933 අපේ‍්‍රල් 29 දින දක්වා)</h5>
 						<nav class="breadcrumb">
 							<ul>
-								<li class="breadcrumb-item"><a href="index.php">Home</a></li>
+								<li class="breadcrumb-item"><a href="sinhala_index.php">මුල් පිටුව</a></li>
 								<li class="breadcrumb-item active">The Battle for Buddha Gaya</li>
 							</ul>
 						</nav>
@@ -145,7 +145,10 @@ UNESCO declared Buddha Gaya as a World Heritage site in 2002.
 					<div class="col-xl-4 col-lg-5 offset-xl-1 align-self-center">
 						<div class="ss-pastor-img-wrap">
 							<!-- <img src="assets/images/pastor-1.jpg" alt="img"> -->
-							<img src="assets/images/pastor-1.jpg" alt="img">
+							<img src="assets/images/custom_images/buddagaya_62.jpg" alt="img">
+							<img src="assets/images/custom_images/buddagaya_64.jpg" alt="img">
+							<img src="assets/images/custom_images/buddagaya_67.jpg" alt="img">
+							<img src="assets/images/custom_images/buddagaya_team.jpg" alt="img">
 						</div>
 					</div>
 				</div>

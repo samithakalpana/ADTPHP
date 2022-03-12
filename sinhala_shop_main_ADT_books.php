@@ -39,7 +39,7 @@
 
 <body id="tl">
 <!-- Header -->
-	<?php include_once 'header.php'; ?>
+	<?php include_once 'sinhala_header.php'; ?>
 	<!-- /Header -->
 
 	<!-- Inner-intro -->
@@ -48,12 +48,12 @@
 			<div class="inner_wp z_index white_text">
 				<div class="row">
 					<div class="col-md-12">
-						<h1 class="text-center">ADT BOOK STORE</h1>
+						<h1 class="text-center">සාප්පුව</h1>
 						<nav class="breadcrumb">
 							<ul>
-								<li class="breadcrumb-item"><a href="index.php">Home</a></li>
-								<!-- <li class="breadcrumb-item"><a href="shop-full-width.html">Shop</a></li> -->
-								<li class="breadcrumb-item active">ADT BOOK STORE</li>
+								<li class="breadcrumb-item"><a href="sinhala_index.php">මුල් පිටුව</a></li>
+								<!-- <li class="breadcrumb-item"><a href="shop-full-width.html">සාප්පුව</a></li> -->
+								<li class="breadcrumb-item active">සාප්පුව</li>
 							</ul>
 						</nav>
 					</div>
@@ -78,41 +78,61 @@
 						<div class="sidebar_widgets">
 							<!-- added items for store side bar -->
 								<div class="widget_title">
-								<h6>How To Purcase</h6>
+								<h6>මිලදී ගන්නා ආකාරය</h6>
 							</div>
-							<p>All books: Rs 150/- 	<br/>
+							<p>
+								<!-- All books: Rs 150/- 	<br/> -->
 							
 
-Coffee Table Book: Rs. 5,000/- per copy 	<br/>
-(20% Discount for religious and charitable organizations and for bulk orders of over 5 copies)
-The above items may be purchased from the Anagarika Dharmapala Trust office: 
-	<br/>
-	<br/>
+<!-- Coffee Table Book: Rs. 5,000/- per copy 	<br/> -->
+<!-- (20% Discount for religious and charitable organizations and for bulk orders of over 5 copies) -->
 
-<br/> <b>Address:<br/> Anagarika Dharmapala Trust, <br/>No. 130,<br/> Mahabodhi Mandiraya,<br/> Ven. Hikkaduwe Sri Sumangala Nahimi Mawatha,<br/> Colombo 10.<br/></b>
+ඉහත දැක්වෙන අයිතමයන් අනගාරික ධර්මපාල භාර
+කාර්යාලයෙන් මිලදී ගත හැක.
+<br/>
+
+<br/> <b>ලිපිනය:<br/> අනගාරික ධර්මපාල භාරය, <br/>130, <br/>මහබෝධි මන්දිරය,<br/>
+පූජ්‍ය හික්කඩුවේ ශ‍්‍රී සුමංගල නාහිමි මාවත,<br> කොළඹ 10.<br/></b>
+
+<a style="color: orangered;" href="tel:+9411 269 5012">Tel: 011 269 5012</a> <br/>(පැමිණීමට පෙර දුරකතන ඇමතුමක් දෙන්න.)
 <br/>
 <br/>
-<a style="color: orangered;" href="tel:+9411 269 5012">Tel: 011 269 5012</a> <br/>(please phone us and set up an appointment before visiting)
+ඔන්ලයින් මිලදී ගැනීම සඳහා
+කරුණාකර ඊ මේල් කරන්න. 
+<br/>adtrust@sltnet.lk<br/>
+1.      අවශ්‍ය අයිතමවල නාමයන්<br/>
+2.     අවශ්‍ය ප‍්‍රමාණයන්<br/>
 <br/>
 <br/>
-For online purchases: please email us - adtrust@sltnet.lk<br/>
-1.       with the name of the item/s<br/>
-2.        quantitates required<br/>
-<br/>
-<br/>
- We will send you an invoice with the total costs of the items and postage as well as the bank details.
-Please make a bank transfer and send us a copy of the transfer slip, or in the case of a direct online transfer, send the confirmation email.
-<br/>
-<br/>
-<br/>
-We will hand the package to the courier withing 3-4 working days of receipt of the bank confirmation. In the case of overseas packages we will send the package via Sri Lanka Post – EMS.<br/>
-<br/>
-<br/>
-<i>PS; couriers will take 3-4 working days to deliver to locations out of Colombo and 7-21 days or more to overseas addresses. </i>
+සියලූම අයිතමවල මිල ගණන් දක්වා මුද්දර ගාස්තු සහ
+බැංකු විස්තර ද දැක්වෙන ඉන්වොයිසියක් ඔබ වෙත එවන්නෙමු.
+කරුණාකර බැංකු මගින් මුදල් එවා එම ලදු පතේ පිටපතක් හෝ
+කෙලින්ම බැංකු හරහා පැවරුමක් නම් ඊ මේල් මගින් එය තහවුරු
+කරන්න.
 <br/>
 <br/>
 <br/>
-There may be unexpected delays in the event of curfews, travel restrictions, postal backlogs  and pandemic related issues.<br/>
+
+අප විසින් එම භාණ්ඩ අන්තර්ගත පැකැට්ටුව බැංකුව
+තහවුරු කිරීමෙන් දින 3-4 කින් කුරියර් වෙත භාර දෙනු ලැබේ.
+විදේශීය රටවලට යැවිය යුතු පාසර්ල් වෙතොත් ඒවා ශ‍්‍රී ලංකා
+තැපැල් සේවය ෑඵී හරහා එවනු ඇත.
+<br/>
+<br/>
+<br/>
+
+
+<i>සැ.යු. කුරියර් මගින් එවන විට දින 3-4 වැඩ කරන දින
+ගණනක් කොළඹින් පිට බෙදා හැරීම් සඳහා ගත වියහැකි අතර
+දින 7-21 දක්වා කාලයක් හෝ ඊට වැඩි කාලයක් විදේශ ලිපිනයන්ට
+බෙදා හැරීමේදී ගත විය හැකිය.
+<br/>
+<br/>
+<br/>
+ </i><br/>
+ ඇඳිරි නීතිය සංචරණ සීමා යන තැපෑලේ අවහිරතා සහ
+පවතින වසංගත තත්ත්වය යටතේ බලාපොරොත්තු නොවන
+ප‍්‍රමාදයන් ඇති විය හැක.<br/>
 
 </p>
 							<!-- <div class="search">
@@ -223,7 +243,7 @@ There may be unexpected delays in the event of curfews, travel restrictions, pos
 				<img src="assets/images/shop_images/sample_book.png" alt="image" class ="mx-auto image-fluid d-block">
 						</div>
 						<div class="tl-product-content">
-								<h4>Coffee Table<br/> Book</h4>
+								<h4>Coffee Table Book</h4>
 								<p>Rs 5000.00 
 									<!-- <span class="off-price">$56</span> -->
 								</p>
@@ -240,7 +260,7 @@ There may be unexpected delays in the event of curfews, travel restrictions, pos
 				<img src="assets/images/shop_images/main_book_1.png" alt="image" class ="mx-auto image-fluid d-block">
 						</div>
 						<div class="tl-product-content">
-								<h4>they turn <br/> the tide</h4>
+								<h4>they turn the tide</h4>
 								<p>Rs 150.00 
 									<!-- <span class="off-price">$56</span> -->
 								</p>
@@ -292,7 +312,7 @@ There may be unexpected delays in the event of curfews, travel restrictions, pos
 			<img src="assets/images/shop_images/main_book_4.png" alt="image" class ="mx-auto image-fluid d-block">
 					</div>
 					<div class="tl-product-content">
-							<h4>mahabodi <br/>kathawa</h4>
+							<h4>mahabodi kathawa</h4>
 							<p>Rs 150.00 
 								<!-- <span class="off-price">$56</span> -->
 							</p>
@@ -310,7 +330,7 @@ There may be unexpected delays in the event of curfews, travel restrictions, pos
 		<img src="assets/images/shop_images/main_book_5.png" alt="image" class ="mx-auto image-fluid d-block">
 				</div>
 				<div class="tl-product-content">
-						<h4>Anagarika <br/>Dharmapala</h4>
+						<h4>Anagarika Dharmapala</h4>
 						<p>Rs 150.00 
 								<!-- <span class="off-price">$56</span> -->
 							</p>
@@ -345,7 +365,7 @@ There may be unexpected delays in the event of curfews, travel restrictions, pos
 			<img src="assets/images/shop_images/main_book_7.png" alt="image" class ="mx-auto image-fluid d-block">
 					</div>
 					<div class="tl-product-content">
-							<h4>Flame In<br/> Darkness</h4>
+							<h4>Flame In Darkness</h4>
 							<p>Rs 150.00 
 								<!-- <span class="off-price">$56</span> -->
 							</p>
@@ -424,7 +444,7 @@ There may be unexpected delays in the event of curfews, travel restrictions, pos
 
 
 	<!-- Footer -->
-	<?php include_once 'footer.php';?>
+	<?php include_once 'sinhala_footer.php';?>
 	<!-- /Footer -->
 
 

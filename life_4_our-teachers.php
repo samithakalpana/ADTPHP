@@ -80,7 +80,7 @@
 	</p><p>
 	Ironic as it was, it is due to the British colonial administrators that Buddha Gaya was rediscovered. It was the discovery of Buddhist sites in India that excited the young Dharmapala and drew his interest towards Buddha Gaya. 
 
-	</p><p>
+	</p>				<p>
 	In the early part of the 19th century (1809), a Scottish surgeon, Francis Buchanan had rediscovered Buddha Gaya. He had mentioned the existence of Hindu and Buddhist artefacts in the area. But it was only towards the latter part of the same century that British archaeologists, headed by Alexander Cunningham, a British army engineer, rediscovered a 'Buddhist India'. 
 These archaeologists had mapped out these sites and based their findings from the writings of Chinese pilgrim travellers of a by-gone era, Fa-hien and Hsuan Tsang, whose writings had been translated to European languages. The colonial Government started an archaeological survey of India and began excavations at Taxila, Nalanda, Sarnath, Sanchi, Lumbini and Buddha Gaya. They unearthed sufficient material to prove the impact of Buddhism in ancient India. Much of that history had been discovered earlier by the Indian King (later Emperor) Ashoka, before the colonization of India, but had  gone into the limbo of forgotten things as Hinduism and Islam competed for dominance in the pre-colonial era of the country.
 
@@ -88,7 +88,42 @@ These archaeologists had mapped out these sites and based their findings from th
 	The rediscovery of Buddha Gaya by Cunnigham, and about the same time, a breathtaking poem, The Light of Asia on the life of the Buddha, by an English journalist, Sir Edwin Arnold, following a visit to Buddha Gaya, jolted the young Dharmapala, who was then active as a member of the Theosophist Movement. The poem brought tears to his eyes, he said later. He got up from his bed at 'Victor House' in Colombo (now the Dharmapala Girls school) and made a hasty journey to the holy site across the Palk Straits, the narrow strip of sea that divides then Ceylon with India. He took with him two Japanese monks, Ven. Kozen Gunarathana and Tokuzawa who had come to Ceylon after his visit to Japan with Olcott earlier. They arrived at Buddha Gaya via Madras (now Chennai), Bombay (now Mumbai) and Benares on 22 January, 1891.
 
 							
-							</p><p>
+							</p>
+
+
+
+
+
+
+
+
+
+							<!-- <div class="sa-team-social">
+								<h5>Social links</h5>
+								<ul class="text-center">
+									<li><a href="#"><i class="fab fa-facebook-f"></i></a></li>
+									<li><a href="#"><i class="fab fa-twitter"></i></a></li>
+									<li><a href="#"><i class="fab fa-linkedin-in"></i></a></li>
+									<li><a href="#"><i class="fab fa-youtube"></i></a></li>
+									<li><a href="#"><i class="fab fa-instagram"></i></a></li>
+								</ul>
+							</div> -->
+						</div>
+					</div>
+					<div class="col-xl-4 col-lg-5 offset-xl-1 align-self-center">
+						<div class="ss-pastor-img-wrap">
+							<!-- <img src="assets/images/pastor-1.jpg" alt="img"> -->
+							<img src="assets/images/custom_images/buddagaya_62.jpg" alt="img">
+							<img src="assets/images/custom_images/buddagaya_64.jpg" alt="img">
+							<img src="assets/images/custom_images/buddagaya_67.jpg" alt="img">
+							<img src="assets/images/custom_images/buddagaya_team.jpg" alt="img">
+							
+						</div>
+					</div>
+				</div>
+				<br/>
+				<br/>
+<p>
 							When Dharmapala visited Bodh Gaya, the Ashokan temple was poorly maintained. Both Hindus and Buddhists worshipped at the site, but in small numbers. The King of Burma (now Myanmar) was largely responsible for the Buddhists' interest as his countrymen would visit from reasonably close proximity to pay homage to the Buddha. A few Tibetan Buddhists would also arrive from time to time. There was a Burmese pilgrims rest nearby. The control of the temple however remained with the Hindu Mahant, who had a palatial residence in the next block of land. He allowed Buddhists to visit the temple.
 
 							</p><p>
@@ -123,32 +158,6 @@ UNESCO declared Buddha Gaya as a World Heritage site in 2002.
 							</p>
 
 
-
-
-
-
-
-
-
-							<!-- <div class="sa-team-social">
-								<h5>Social links</h5>
-								<ul class="text-center">
-									<li><a href="#"><i class="fab fa-facebook-f"></i></a></li>
-									<li><a href="#"><i class="fab fa-twitter"></i></a></li>
-									<li><a href="#"><i class="fab fa-linkedin-in"></i></a></li>
-									<li><a href="#"><i class="fab fa-youtube"></i></a></li>
-									<li><a href="#"><i class="fab fa-instagram"></i></a></li>
-								</ul>
-							</div> -->
-						</div>
-					</div>
-					<div class="col-xl-4 col-lg-5 offset-xl-1 align-self-center">
-						<div class="ss-pastor-img-wrap">
-							<!-- <img src="assets/images/pastor-1.jpg" alt="img"> -->
-							<img src="assets/images/pastor-1.jpg" alt="img">
-						</div>
-					</div>
-				</div>
 			</div>
 		</section>
 

@@ -50,7 +50,7 @@
 						<h1 class="text-center">British Maha Bodhi Society</h1>
 						<nav class="breadcrumb">
 							<ul>
-								<li class="breadcrumb-item"><a href="index.html">Home</a></li>
+								<li class="breadcrumb-item"><a href="index.html">මුල් පිටුව</a></li>
 								<li class="breadcrumb-item active">British Maha Bodhi Society</li>
 							</ul>
 						</nav>
