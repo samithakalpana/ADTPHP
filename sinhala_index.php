@@ -76,7 +76,7 @@ ob_start();
 </h1>
 						<!-- <p>The point of using Lorem Ipsum is that it has a more-or-less normal distribution of letters, as opposed to using 'Content here, content here. </p> -->
 						<p>අනගාරික ධර්මපාල - 1915 </p>
-						<a href="events.html" class="btn dark-btn templezen-top-btn">තවදුරටත් ගවේෂණයට</a>
+						<a href="sinhala_life_1_our-teachers.php" class="btn dark-btn templezen-top-btn">තවදුරටත් ගවේෂණයට</a>
 					</div>
 				</div>
 			</div>
@@ -90,7 +90,7 @@ ob_start();
 </h1>
 						<!-- <p> The point of using Lorem Ipsum is that it has a more-or-less normal distribution of letters, as opposed to using 'Content here, content here. </p> -->
 						<p>අනගාරික ධර්මපාල- 1915</p>
-						<a href="events.html" class="btn dark-btn templezen-top-btn">Explore Events</a>
+						<a href="sinhala_life_1_our-teachers.php" class="btn dark-btn templezen-top-btn">තවදුරටත් ගවේෂණයට</a>
 					</div>
 				</div>
 			</div>
@@ -103,7 +103,7 @@ ob_start();
 </h1>
 						<!-- <p> The point of using Lorem Ipsum is that it has a more-or-less normal distribution of letters, as opposed to using 'Content here, content here. </p> -->
 						<p>අනගාරික ධර්මපාල - 1897</p>
-						<a href="events.html" class="btn dark-btn templezen-top-btn">Explore Events</a>
+						<a href="sinhala_life_1_our-teachers.php" class="btn dark-btn templezen-top-btn">තවදුරටත් ගවේෂණයට</a>
 					</div>
 				</div>
 			</div>
@@ -120,7 +120,7 @@ ob_start();
 
 						<!-- <p> The point of using Lorem Ipsum is that it has a more-or-less normal distribution of letters, as opposed to using 'Content here, content here. </p> -->
 						<p>අනගාරික ධර්මපාල- 1910</p>
-						<a href="sinhala_life_1_our-teachers.php" class="btn dark-btn templezen-top-btn">Explore Events</a>
+						<a href="sinhala_life_1_our-teachers.php" class="btn dark-btn templezen-top-btn">තවදුරටත් ගවේෂණයට</a>
 					</div>
 				</div>
 			</div>
@@ -134,7 +134,7 @@ ob_start();
 				<div class="col-md-6">
 					<div class="box_wrap next_sermons">
 						<!-- <p class="subtitle">Latest Sermons</p> -->
-						<h4><a href="about-us.php">Life Of Anagarika Dharmapala</a></h4>
+						<h4><a href="about-us.php">අනගාරික ධර්මපාලතුමාගෙ ජීවිතය</a></h4>
 						<ul class="sermons_meta">
 							<li><i class="fa fa-user"></i> <a href="sinhala_life_1_our-teachers.php">දොන් ඬේවිඞ් හේවාවිතාරණ</a></li><br>
 							<li><i class="fa fa-user"></i> <a href="sinhala_life_2_our-teachers.php">අනගාරික ධර්මපාල</a></li><br>

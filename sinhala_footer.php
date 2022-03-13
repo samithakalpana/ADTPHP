@@ -47,7 +47,7 @@
 		<!-- Footer-Widgets -->
 		<div class="container">
 			<div class="row">
-				<div class="col-md-4 footer_widget">
+				<div class="col-md-9 footer_widget">
 					<div class="widget_inner">
 						
 						<h5>ඇමතුම්</h5>
