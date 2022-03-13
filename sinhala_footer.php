@@ -49,15 +49,15 @@
 			<div class="row">
 				<div class="col-md-4 footer_widget">
 					<div class="widget_inner">
+						
 						<h5>ඇමතුම්</h5>
-						<p>අනගාරික ධර්මපාල භාරය,<br/>
+
+						<p>අනගාරික ධර්මපාල භාරය,
 						130,<br/>
 						මාලිගාකන්ද පාර,<br/>
 						කොළඹ 10.<br/>
 						
-</p>
-					
-			
+</p>					
 				
 						<!-- <p>For online purchases:<br/> please email us - <a href="adtrust@sltnet.lk">adtrust@sltnet.lk</a></p>
 						<p>Tel:<a href="tel:+940112695012">011 269 5012<a>

@@ -70,13 +70,13 @@ ob_start();
 				<div class="container">
 					<div class="intro_text white_text">
 						<!-- <h1>creator of life</h1> -->
-						<h1>”මා ගිය කොතැනකද ඒ හැම තැනකම මා ජනතාවගේ හිත
-සුව පිණිස කටයුතු කර ඇත.”
+						<h1>”මා ගිය කොතැනකද<br/> ඒ හැම තැනකම<br/> මා ජනතාවගේ <br/>හිත
+සුව පිණිස <br/>කටයුතු කර ඇත.”
 
 </h1>
 						<!-- <p>The point of using Lorem Ipsum is that it has a more-or-less normal distribution of letters, as opposed to using 'Content here, content here. </p> -->
 						<p>අනගාරික ධර්මපාල - 1915 </p>
-						<a href="events.html" class="btn dark-btn templezen-top-btn">Explore Events</a>
+						<a href="events.html" class="btn dark-btn templezen-top-btn">තවදුරටත් ගවේෂණයට</a>
 					</div>
 				</div>
 			</div>
@@ -84,8 +84,8 @@ ob_start();
 				<div class="container">
 					<div class="intro_text white_text">
 						<!-- <h1>god is within us</h1> -->
-						<h1>"මාගේ සැනසීම බුදුන් වහන්සේගේ දහම සහ ශුද්ධ
-ආත්මයන් පමණි."
+						<h1>"මාගේ සැනසීම<br/> බුදුන් වහන්සේගේ <br/>දහම සහ <br/>ශුද්ධ
+ආත්මයන්<br/> පමණි."
 
 </h1>
 						<!-- <p> The point of using Lorem Ipsum is that it has a more-or-less normal distribution of letters, as opposed to using 'Content here, content here. </p> -->
@@ -98,7 +98,7 @@ ob_start();
 				<div class="container">
 					<div class="intro_text white_text">
 						<!-- <h1>god is within us</h1> -->
-						<h1>“මාගේ ජීවිතය භවයෙන් භවයට මනුෂ්‍යත්වය වෙනුවෙන් ම
+						<h1>“මාගේ ජීවිතය<br/> භවයෙන් භවයට <br>මනුෂ්‍යත්වය<br/> වෙනුවෙන් ම<br/>
 කැප කරමි.”
 </h1>
 						<!-- <p> The point of using Lorem Ipsum is that it has a more-or-less normal distribution of letters, as opposed to using 'Content here, content here. </p> -->
@@ -114,7 +114,8 @@ ob_start();
 						<!-- <h1>god is within us</h1> -->
 
 						<!-- <h1 id=long_text_home>"ගෙහිමියා සැම විටම මැද මාවත අනුගමනය කළයුතුය.<br>සියල්ලටම වඩා ත්‍යාගශීලිභාවය සහ සෙනෙහස ප‍්‍රගුණ කළ යුතුය."</h1> -->
-						<h1 id=long_text_home>"ගෙහිමියා සැම විටම මැද මාවත අනුගමනය කළයුතුය."</h1>
+						<h1 id=long_text_home>"ගෙහිමියා සැම විටම මැද මාවත අනුගමනය කළයුතුය.සියල්ලටම වඩා ත්‍යාගශීලිභාවය සහ සෙනෙහස ප‍්‍රගුණ කළ
+යුතුය."</h1>
 
 
 						<!-- <p> The point of using Lorem Ipsum is that it has a more-or-less normal distribution of letters, as opposed to using 'Content here, content here. </p> -->
@@ -306,11 +307,11 @@ ob_start();
 											<li>
 											<div class="event_info">
 													<div class="event_date">
-														<span>1915</span>
+														<span>1815</span>
 													</div>
 													<!-- <h6><a href="event-detail.html">Vinayaka Chathurthy</a></h6> -->
 													<ul>
-														<li><i class="far fa-clock"></i> The Kandyan Kingdom of Sri Lanka cedes to the British. The  Kandyan Convention is signed – 2nd March</li>
+														<li><i class="far fa-clock"></i> ශ්‍රී ලංකාවේ උඩරට රාජධානිය බ්‍රිතාන්‍යයන්ට පැවරේ. උඩරට සම්මුතිය අත්සන් කර ඇත - මාර්තු 2</li>
 														<!-- <li><i class="fas fa-map-marker-alt"></i></li> -->
 													</ul>
 												</div>
@@ -318,11 +319,11 @@ ob_start();
 											<li>
 												<div class="event_info">
 													<div class="event_date">
-														<span>1932</span> 
+														<span>1832</span> 
 													</div>
 													<!-- <h6><a href="event-detail.html">Navarathri Celebrations</a></h6> -->
 													<ul>
-														<li><i class="far fa-clock"></i>English becomes the official language in Ceylon (Sri Lanka)</li>
+														<li><i class="far fa-clock"></i>ඉංග්‍රීසි ලංකාවේ (ශ්‍රී ලංකාවේ) රාජ්‍ය භාෂාව වෙයි</li>
 														<!-- <li><i class="fas fa-map-marker-alt"></i>4873 Pretty View Lane New York</li> -->
 													</ul>
 												</div>
@@ -334,7 +335,7 @@ ob_start();
 													</div>
 													<!-- <h6><a href="event-detail.html">Durgashtami </a></h6> -->
 													<ul>
-														<li><i class="far fa-clock"></i>George Turner’s English translation of the Mahavamsa published</li>
+														<li><i class="far fa-clock"></i>ජෝර්ජ් ටර්නර්ගේ මහාවංශයේ ඉංග්‍රීසි පරිවර්තනය ප්‍රකාශයට පත් විය</li>
 														<!-- <li><i class="fas fa-map-marker-alt"></i>4873 Pretty View Lane New York</li> -->
 													</ul>
 												</div>
@@ -360,20 +361,20 @@ ob_start();
 													<!-- <h6><a href="event-detail.html">Vinayaka Chathurthy</a></h6> -->
 													<ul>
 														<li><i class="far fa-clock"></i>
-														1860	•	H. Don Carolis, the father of the future Anagarika Dharmapala, migrates to Colombo from Matara
-•	Marriage of H. Don Carolis to Mallika Dharmagunawardhana
-•	H. Don Carolis establishes Don Carolis & Sons in Pettah
+														1860	• අනාගත අනගාරික ධර්මපාලතුමාගේ පියා වන එච්. දොන් කරෝලිස් මාතරින් කොළඹට සංක්‍රමණය වේ.
+• H. දොන් කරෝලිස් සහ මල්ලිකා ධර්මගුණවර්ධන සමඟ විවාහ වීම
+• එච්. දොන් කරෝලිස් පිටකොටුවේ දොන් කරෝලිස් සහ පුත්‍රයෝ ස්ථාපිත කරයි
 														</li></ul>
 													
 											</li>
 											<li>
 											<div class="event_info">
 													<div class="event_date">
-														<span>1963</span> 
+														<span>1863</span> 
 													</div>
 													<!-- <h6><a href="event-detail.html">Navarathri Celebrations</a></h6> -->
 													<ul>
-														<li><i class="far fa-clock"></i> •	Baddegma Controversy (debated in writing), headed by Miggetuwatte Gunananda Thero</li>
+														<li><i class="far fa-clock"></i> •මිග්ගෙටුවත්තේ ගුණානන්ද හිමියන්ගේ ප්‍රධානත්වයෙන් බද්දේගම වාදය (ලිඛිතව විවාදයට ගැනේ).</li>
 														<!-- <li><i class="fas fa-map-marker-alt"></i>4873 Pretty View Lane New York</li> -->
 													</ul>
 												</div>
@@ -381,11 +382,11 @@ ob_start();
 											<li>
 											<div class="event_info">
 													<div class="event_date">
-														<span>1964</span> 
+														<span>1864</span> 
 													</div>
 													<!-- <h6><a href="event-detail.html">Durgashtami </a></h6> -->
 													<ul>
-														<li><i class="far fa-clock"></i>•	Birth of Don David Hewavitarne – 17th September</li>
+														<li><i class="far fa-clock"></i>•දොන් ඩේවිඩ් හේවාවිතාරණගේ උපත - සැප්තැම්බර් 17</li>
 														<!-- <li><i class="fas fa-map-marker-alt"></i>4873 Pretty View Lane New York</li> -->
 													</ul>
 												</div>
@@ -404,13 +405,13 @@ ob_start();
 				<div class="col-md-6 col-lg-5 offset-lg-2">
 					<div class="heading">
 						<h3>වෙනත් භාරයන්</h3>
-						<a href="Associates_1_Maha_Bodhi_Society.php" class="btn btn-sm float-right">සියල්ල බලන්න</a>
+						<a href="sinhala_under_construction_page.php" class="btn btn-sm float-right">සියල්ල බලන්න</a>
 					</div>
 					<div class="panel-group" id="accordion" role="tablist" aria-multiselectable="true">
 						<div class="panel panel-default">
 							<div class="panel-heading" role="tab" id="headingOne">
 								<h6 class="panel-title">
-									<a href="Associates_1_Maha_Bodhi_Society.php" >
+									<a href="sinhala_under_construction_page.php" >
 									මහා බෝධි සංගමය </a>
 								</h6>
 							</div>
@@ -421,7 +422,7 @@ ob_start();
 						<div class="panel panel-default">
 							<div class="panel-heading" role="tab" id="headingOne">
 								<h6 class="panel-title">
-									<a href="Associates_1_Maha_Bodhi_Society_India.php" >
+									<a href="sinhala_under_construction_page.php" >
 									ඉන්දියානු මහා බෝධි සංගමය</a>
 								</h6>
 							</div>
@@ -432,7 +433,7 @@ ob_start();
 						<div class="panel panel-default">
 							<div class="panel-heading" role="tab" id="headingOne">
 								<h6 class="panel-title">
-									<a href="Associates_1_london_buddist_vihara.php" >
+									<a href="sinhala_under_construction_page.php" >
 									ලන්ඩන් බෞද්ධ විහාර </a>
 								</h6>
 							</div>
@@ -466,10 +467,10 @@ ob_start();
 				<div class="col-md-6 align-self-center">
 					<div class="section-header">
 						<h3> අපගේ මෙහෙවර</h3>
-						<p>The Anagarika Dharmapala Trust has been responsible for continuing the work of the Anagarika Dharmapala by carrying the message of the Buddha to India, Britain and other countries by sending Bhikkhu missionaries on Dhammadutha (Buddhist missionary) service. 
+						<p>ධම්මදූත (බෞද්ධ ධර්ම දූත) සේවය සඳහා භික්ෂූන් වහන්සේලා යවා ඉන්දියාවට, බ්‍රිතාන්‍යයට සහ වෙනත් රටවලට බුදුන් වහන්සේගේ පණිවිඩය ගෙන යමින් අනගාරික ධර්මපාලතුමාගේ කාර්යය අඛණ්ඩව කරගෙන යාමට අනගාරික ධර්මපාල භාරය සතු වගකීමකි.
 </p>
 					</div>
-					<p>It also supports the Maha Bodhi Societies of Sri Lanka, India and Britain, and the viharas (temples), centres and pilgrims’ rests that are under its management. In Sri Lanka, the Trust manages a Free Ayurvedic Hospital in Colombo; finances and supports temples, conducts an Education programme for novice Bhikkhus (samanera monks); manages orphanages and schools; prints and publishes Buddhist Literature, and implements such matters as are provided for in the Trust Deed.</p>
+					<p> එය ශ්‍රී ලංකාවේ, ඉන්දියාවේ සහ බ්‍රිතාන්‍යයේ මහා බෝධි සමිතිවලට සහ එහි කළමනාකරණය යටතේ පවතින විහාර (පන්සල), මධ්‍යස්ථාන සහ වන්දනාකරුවන්ගේ විවේකාගාර සඳහා ද සහාය වේ. ශ්‍රී ලංකාව තුළ, භාරය කොළඹ නොමිලේ ආයුර්වේද රෝහලක් කළමනාකරණය කරයි; විහාරස්ථාන සඳහා මුදල් සහ ආධාර කිරීම, සාමණේර භික්ෂූන් (සාමණේර භික්ෂූන් වහන්සේලා) සඳහා අධ්යාපනික වැඩසටහනක් පවත්වයි; ළමා නිවාස සහ පාසල් කළමනාකරණය කරයි; බෞද්ධ සාහිත්‍ය මුද්‍රණය කර ප්‍රකාශයට පත් කරයි, භාර ඔප්පුවේ දක්වා ඇති කරුණු ක්‍රියාවට නංවයි.</p>
 					<div class="donation_form">
 						<form>
 							<div class="form-group">
@@ -524,7 +525,7 @@ ob_start();
 						
 						<a href="tel:+94 011 269 5012" class="btn btn-lg dark-btn margin-top-30">දුරකතන ඇමතුම්</a>
 						<a href="mailto:adtrust@sltnet.lk" class="btn btn-lg dark-btn margin-top-30">විද්‍යුත් තැපෑල</a><br>
-						<a href="contact-us.php" class="btn btn-lg dark-btn margin-top-30">Reach US</a>
+						<a href="contact-us.php" class="btn btn-lg dark-btn margin-top-30">හමුවීමට</a>
 					</div>
 				</div>
 
@@ -539,7 +540,7 @@ ob_start();
 			<div class="section-header-center text-center">
 				<br><br>
 				<h2>හදුන්වාදෙන අපගේ පිංතූර ගැලරිය</h2>
-				<p>අනගාරික ධර්මපාලයන්ගේ වටිනා සහ ඓතිහාසික පිංතූර ගැලරියක් සකස් කිරීම අප දැනටමත් අරඹා ඇත.ඉන් රූපරාමු කිහිපයක් පහත දක්වා ඇත. We are almost ready to launch a bunch of valuable & historical Images of Anagarika Dharmapala on near future. You may find a glimpse of images for the moment. </p>
+				<p>අනගාරික ධර්මපාලයන්ගේ වටිනා සහ ඓතිහාසික පිංතූර ගැලරියක් සකස් කිරීම අප දැනටමත් අරඹා ඇත.ඉන් රූපරාමු කිහිපයක් පහතින් ඔබට දිස්වනු ඇත.</p>
 			</div>
 		</div>
 		<ul class="hm-list hm-instagram">
