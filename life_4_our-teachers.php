@@ -2,7 +2,7 @@
 <html lang="en">
 
 
-<!-- Mirrored from primehostingindia.com/templatemonster/html/templezen/our-teachers.html by HTTrack Website Copier/3.x [XR&CO'2014], Thu, 06 Jan 2022 18:06:09 GMT -->
+
 <head>
 	<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
 	<meta http-equiv="X-UA-Compatible" content="IE=edge">
@@ -66,10 +66,9 @@
 				<div class="row">
 					<div class="col-lg-7">
 						<div class="sa-paster-about-area">
-							<!-- <h3>Gopal dhanam</h3> -->
+				
 							<h3>The Battle for Buddha Gaya</h3>
-							<!-- <p class="designation">Yoga Teacher</p> -->
-							<!-- <p class="designation"></p> -->
+			
 							<p>	
 							A few kilometers from the city of Gaya in the North Eastern Indian state of Bihar is Bodh Gaya, or Buddha Gaya, so named because it is here that Siddhartha Gautama, the son of King Suddhodana, having renounced his princely life, became an ascetic and attained enlightenment or "Buddhahood" after years of meditation. To the estimated 300 million Buddhists around the world, this is the holiest of holy sites.
 							</p><p>							
@@ -98,21 +97,11 @@ These archaeologists had mapped out these sites and based their findings from th
 
 
 
-							<!-- <div class="sa-team-social">
-								<h5>Social links</h5>
-								<ul class="text-center">
-									<li><a href="#"><i class="fab fa-facebook-f"></i></a></li>
-									<li><a href="#"><i class="fab fa-twitter"></i></a></li>
-									<li><a href="#"><i class="fab fa-linkedin-in"></i></a></li>
-									<li><a href="#"><i class="fab fa-youtube"></i></a></li>
-									<li><a href="#"><i class="fab fa-instagram"></i></a></li>
-								</ul>
-							</div> -->
 						</div>
 					</div>
 					<div class="col-xl-4 col-lg-5 offset-xl-1 align-self-center">
 						<div class="ss-pastor-img-wrap">
-							<!-- <img src="assets/images/pastor-1.jpg" alt="img"> -->
+					
 							<img src="assets/images/custom_images/buddagaya_62.jpg" alt="img">
 							<img src="assets/images/custom_images/buddagaya_64.jpg" alt="img">
 							<img src="assets/images/custom_images/buddagaya_67.jpg" alt="img">
@@ -183,5 +172,4 @@ UNESCO declared Buddha Gaya as a World Heritage site in 2002.
 </body>
 
 
-<!-- Mirrored from primehostingindia.com/templatemonster/html/templezen/our-teachers.html by HTTrack Website Copier/3.x [XR&CO'2014], Thu, 06 Jan 2022 18:06:34 GMT -->
 </html>

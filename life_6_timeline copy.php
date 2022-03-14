@@ -2,7 +2,7 @@
 <html lang="en">
 
 
-<!-- Mirrored from primehostingindia.com/templatemonster/html/templezen/our-teachers.html by HTTrack Website Copier/3.x [XR&CO'2014], Thu, 06 Jan 2022 18:06:09 GMT -->
+
 <head>
 	<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
 	<meta http-equiv="X-UA-Compatible" content="IE=edge">
@@ -69,7 +69,7 @@
 	<section class="section-padding latest_event_sermons m-0">
 		<div class="container">
 			<div class="row">
-				<!-- <div class="center col-md-6 col-lg-5"> -->
+			
 				<div class="mx-auto col-md-6 col-lg-5">
 					<div class=" heading">
 						<h3>Time Line</h3>
@@ -89,10 +89,10 @@
 													<div class="event_date">
 														<span>1915</span> 
 													</div>
-													<!-- <h6><a href="event-detail.html">Vinayaka Chathurthy</a></h6> -->
+												
 													<ul>
 														<li><i class="far fa-clock"></i> The Kandyan Kingdom of Sri Lanka cedes to the British. The  Kandyan Convention is signed – 2nd March</li>
-														<!-- <li><i class="fas fa-map-marker-alt"></i></li> -->
+													
 													</ul>
 												</div>
 											</li>
@@ -101,10 +101,10 @@
 													<div class="event_date">
 														<span>1932</span> 
 													</div>
-													<!-- <h6><a href="event-detail.html">Navarathri Celebrations</a></h6> -->
+												
 													<ul>
 														<li><i class="far fa-clock"></i>English becomes the official language in Ceylon (Sri Lanka)</li>
-														<!-- <li><i class="fas fa-map-marker-alt"></i>4873 Pretty View Lane New York</li> -->
+													
 													</ul>
 												</div>
 											</li>
@@ -138,7 +138,7 @@
 													<div class="event_date">
 														<span>1860</span>
 													</div>
-													<!-- <h6><a href="event-detail.html">Vinayaka Chathurthy</a></h6> -->
+												
 													<ul>
 														<li><i class="far fa-clock"></i>
 														1860	•	H. Don Carolis, the father of the future Anagarika Dharmapala, migrates to Colombo from Matara
@@ -146,7 +146,7 @@
 •	H. Don Carolis establishes Don Carolis & Sons in Pettah
 	
 													</li>
-														<!-- <li><i class="fas fa-map-marker-alt"></i>4873 Pretty View Lane New York</li> -->
+													
 													</ul>
 												</div>
 											</li>
@@ -155,10 +155,10 @@
 													<div class="event_date">
 														<span>1963</span>
 													</div>
-													<!-- <h6><a href="event-detail.html">Navarathri Celebrations</a></h6> -->
+												
 													<ul>
 														<li><i class="far fa-clock"></i> •	Baddegma Controversy (debated in writing), headed by Miggetuwatte Gunananda Thero</li>
-														<!-- <li><i class="fas fa-map-marker-alt"></i>4873 Pretty View Lane New York</li> -->
+														
 													</ul>
 												</div>
 											</li>
@@ -168,10 +168,10 @@
 													<div class="event_date">
 														<span>1964</span> 
 													</div>
-													<!-- <h6><a href="event-detail.html">Durgashtami </a></h6> -->
+												
 													<ul>
 														<li><i class="far fa-clock"></i>•	Birth of Don David Hewavitarne – 17th September</li>
-														<!-- <li><i class="fas fa-map-marker-alt"></i>4873 Pretty View Lane New York</li> -->
+														
 													</ul>
 												</div>
 											</li>		<li>
@@ -179,10 +179,10 @@
 													<div class="event_date">
 														<span>1865 - </span> <span> 1866</span>
 													</div>
-													<!-- <h6><a href="event-detail.html">Durgashtami </a></h6> -->
+												
 													<ul>
 														<li><i class="far fa-clock"></i>•	Debates continue in Waragoda, Kegalle and Liyangemulla, headed by Miggetuwatte Gunananda Thero and others including Hikkaduwe Sumangala Thero</li>
-														<!-- <li><i class="fas fa-map-marker-alt"></i>4873 Pretty View Lane New York</li> -->
+														
 													</ul>
 												</div>
 											</li>		<li>
@@ -191,12 +191,12 @@
 													<span>1870 - </span> <span> 1872</span>
 														
 													</div>
-													<!-- <h6><a href="event-detail.html">Durgashtami </a></h6> -->
+												
 													<ul>
 														<li><i class="far fa-clock"></i>•	David Hewavitarne attends Pettah Catholic School
 •	Gampola debate - 1871
 </li>
-														<!-- <li><i class="fas fa-map-marker-alt"></i>4873 Pretty View Lane New York</li> -->
+													
 													</ul>
 												</div>
 											</li>		<li>
@@ -205,7 +205,7 @@
 													<span>1872 - </span> <span> 1874</span>
 													
 													</div>
-													<!-- <h6><a href="event-detail.html">Durgashtami </a></h6> -->
+											
 													<ul>
 														<li><i class="far fa-clock"></i>1872-4	•	Vidyodaya Oriental College established, funded by David Hewavitarne’s maternal grandfather in 1873
 •	Panadura Debates led by Miggetuwatte Gunananda Thero and Rev David de Silva held on beach property of Jeramias Dias near Rankot Vihara, August in 1873
