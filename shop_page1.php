@@ -2,14 +2,14 @@
 <html lang="en">
 
 
-<!-- Mirrored from primehostingindia.com/templatemonster/html/templezen/shop-full-width.html by HTTrack Website Copier/3.x [XR&CO'2014], Thu, 06 Jan 2022 18:06:34 GMT -->
+
 <head>
 	<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
 	<meta http-equiv="X-UA-Compatible" content="IE=edge">
 	<meta name="viewport" content="width=device-width,initial-scale=1">
 	<meta name="keywords" content="">
 	<meta name="description" content="">
-	<title>Templezen - Buddhist Temple HTML5 Template</title>
+	<title>ADT-SHOP</title>
 	<!--Bootstrap -->
 	<link rel="stylesheet" href="assets/css/bootstrap.min.css" type="text/css">
 	<!--OWL Carousel slider-->
@@ -108,9 +108,9 @@
 						<div class="tl-product-content">
 								<h4>Attuwa:Anguttaratta 1</h4>
 								<p>Rs 150.00 
-									<!-- <span class="off-price">$56</span> -->
+								
 								</p>
-								<!-- <a class="btn btn-sm" href="#">Add To Cart</a> -->
+							
 
 
 							</div>
@@ -125,9 +125,9 @@
 					<div class="tl-product-content">
 							<h4>Attuwa:Anguttaratta 11</h4>
 							<p>Rs 150.00
-								 <!-- <span class="off-price">$56</span> -->
+							
 								</p>
-							<!-- <a class="btn btn-sm" href="#">Add To Cart</a> -->
+					
 
 						</div>
 					</div>
@@ -141,9 +141,9 @@
 					<div class="tl-product-content">
 							<h4>Attuwa:Apadanatta 1</h4>
 							<p>Rs 150.00 
-								<!-- <span class="off-price">$56</span> -->
+							
 							</p>
-							<!-- <a class="btn btn-sm" href="#">Add To Cart</a> -->
+					
 						</div>
 					</div>
 				</div>
@@ -160,9 +160,9 @@
 					<div class="tl-product-content">
 							<h4>Attuwa:Apadanatta 11</h4>
 							<p>Rs 150.00 
-								<!-- <span class="off-price">$56</span> -->
+								
 							</p>
-							<!-- <a class="btn btn-sm" href="#">Add To Cart</a> -->
+						
 
 
 						</div>
@@ -178,9 +178,9 @@
 				<div class="tl-product-content">
 						<h4>Attuwa:Buddhawansa</h4>
 						<p>Rs 150.00 
-								<!-- <span class="off-price">$56</span> -->
+								
 							</p>
-							<!-- <a class="btn btn-sm" href="#">Add To Cart</a> -->
+						
 
 					</div>
 				</div>
@@ -194,9 +194,9 @@
 				<div class="tl-product-content">
 						<h4>Attuwa:Chariyatta</h4>
 						<p>Rs 150.00 
-								<!-- <span class="off-price">$56</span> -->
+								
 							</p>
-							<!-- <a class="btn btn-sm" href="#">Add To Cart</a> -->
+						
 
 					</div>
 				</div>
@@ -213,9 +213,9 @@
 					<div class="tl-product-content">
 							<h4>Attuwa:Chatubanawaratta</h4>
 							<p>Rs 150.00 
-								<!-- <span class="off-price">$56</span> -->
+								
 							</p>
-							<!-- <a class="btn btn-sm" href="#">Add To Cart</a> -->
+						
 
 
 						</div>
@@ -231,9 +231,9 @@
 				<div class="tl-product-content">
 						<h4>Attuwa:Chullaneddesa</h4>
 						<p>Rs 150.00
-							<!-- <span class="off-price">$56</span> -->
+							
 						</p>
-						<!-- <a class="btn btn-sm" href="#">Add To Cart</a> -->
+					
 
 					</div>
 				</div>
@@ -247,9 +247,9 @@
 				<div class="tl-product-content">
 						<h4>Attuwa:Dhammapada 1</h4>
 						<p>Rs 150.00 
-							<!-- <span class="off-price">$56</span> -->
+							
 					</p>
-						<!-- <a class="btn btn-sm" href="#">Add To Cart</a> -->
+					
 
 					</div>
 				</div>
@@ -266,9 +266,9 @@
 						<div class="tl-product-content">
 								<h4>Attuwa:Dhammapada 11</h4>
 								<p>Rs 150.00 
-									<!-- <span class="off-price">$56</span> -->
+									
 								</p>
-								<!-- <a class="btn btn-sm" href="#">Add To Cart</a> -->
+							
 
 
 							</div>
@@ -283,9 +283,9 @@
 					<div class="tl-product-content">
 							<h4>Attuwa:Dhammasangani</h4>
 							<p>Rs 150.00
-								 <!-- <span class="off-price">$56</span> -->
+								 
 								</p>
-							<!-- <a class="btn btn-sm" href="#">Add To Cart</a> -->
+						
 
 						</div>
 					</div>
@@ -299,9 +299,9 @@
 					<div class="tl-product-content">
 							<h4>Attuwa:Diganikaya 1</h4>
 							<p>Rs 150.00 
-								<!-- <span class="off-price">$56</span> -->
+								
 							</p>
-							<!-- <a class="btn btn-sm" href="#">Add To Cart</a> -->
+						
 						</div>
 					</div>
 				</div>
@@ -318,9 +318,9 @@
 					<div class="tl-product-content">
 							<h4>Attuwa:Diganikaya 11</h4>
 							<p>Rs 150.00 
-								<!-- <span class="off-price">$56</span> -->
+								
 							</p>
-							<!-- <a class="btn btn-sm" href="#">Add To Cart</a> -->
+						
 
 
 						</div>
@@ -336,9 +336,9 @@
 				<div class="tl-product-content">
 						<h4>Attuwa:Ethivuttaka</h4>
 						<p>Rs 150.00 
-								<!-- <span class="off-price">$56</span> -->
+								
 							</p>
-							<!-- <a class="btn btn-sm" href="#">Add To Cart</a> -->
+						
 
 					</div>
 				</div>
@@ -352,9 +352,9 @@
 				<div class="tl-product-content">
 						<h4>Attuwa:Jataka 1</h4>
 						<p>Rs 150.00 
-								<!-- <span class="off-price">$56</span> -->
+								
 							</p>
-							<!-- <a class="btn btn-sm" href="#">Add To Cart</a> -->
+						
 
 					</div>
 				</div>
@@ -371,9 +371,9 @@
 					<div class="tl-product-content">
 							<h4>Attuwa:Jataka 11</h4>
 							<p>Rs 150.00 
-								<!-- <span class="off-price">$56</span> -->
+								
 							</p>
-							<!-- <a class="btn btn-sm" href="#">Add To Cart</a> -->
+						
 
 
 						</div>
@@ -389,9 +389,9 @@
 				<div class="tl-product-content">
 						<h4>Attuwa:Jataka 111</h4>
 						<p>Rs 150.00
-							<!-- <span class="off-price">$56</span> -->
+							
 						</p>
-						<!-- <a class="btn btn-sm" href="#">Add To Cart</a> -->
+					
 
 					</div>
 				</div>
@@ -405,9 +405,9 @@
 				<div class="tl-product-content">
 						<h4>Attuwa:Jataka 1v</h4>
 						<p>Rs 150.00 
-							<!-- <span class="off-price">$56</span> -->
+							
 					</p>
-						<!-- <a class="btn btn-sm" href="#">Add To Cart</a> -->
+					
 
 					</div>
 				</div>
@@ -422,9 +422,9 @@
 						<div class="tl-product-content">
 								<h4>Attuwa:Jataka v</h4>
 								<p>Rs 150.00 
-									<!-- <span class="off-price">$56</span> -->
+									
 								</p>
-								<!-- <a class="btn btn-sm" href="#">Add To Cart</a> -->
+							
 
 
 							</div>
@@ -439,9 +439,9 @@
 					<div class="tl-product-content">
 							<h4>Attuwa:Jataka v1</h4>
 							<p>Rs 150.00
-								 <!-- <span class="off-price">$56</span> -->
+								 
 								</p>
-							<!-- <a class="btn btn-sm" href="#">Add To Cart</a> -->
+						
 
 						</div>
 					</div>
@@ -455,9 +455,9 @@
 					<div class="tl-product-content">
 							<h4>Attuwa:Jataka v11</h4>
 							<p>Rs 150.00 
-								<!-- <span class="off-price">$56</span> -->
+								
 							</p>
-							<!-- <a class="btn btn-sm" href="#">Add To Cart</a> -->
+						
 						</div>
 					</div>
 				</div>
@@ -474,9 +474,9 @@
 					<div class="tl-product-content">
 							<h4>Attuwa:Kuddhaka</h4>
 							<p>Rs 150.00 
-								<!-- <span class="off-price">$56</span> -->
+								
 							</p>
-							<!-- <a class="btn btn-sm" href="#">Add To Cart</a> -->
+						
 
 
 						</div>
@@ -492,9 +492,9 @@
 				<div class="tl-product-content">
 						<h4>Attuwa:Mahaneddesa</h4>
 						<p>Rs 150.00 
-								<!-- <span class="off-price">$56</span> -->
+								
 							</p>
-							<!-- <a class="btn btn-sm" href="#">Add To Cart</a> -->
+						
 
 					</div>
 				</div>
@@ -508,9 +508,9 @@
 				<div class="tl-product-content">
 						<h4>Attuwa:Majjhima 1</h4>
 						<p>Rs 150.00 
-								<!-- <span class="off-price">$56</span> -->
+								
 							</p>
-							<!-- <a class="btn btn-sm" href="#">Add To Cart</a> -->
+						
 
 					</div>
 				</div>
@@ -527,9 +527,9 @@
 					<div class="tl-product-content">
 							<h4>Attuwa:MajjIma  11</h4>
 							<p>Rs 150.00 
-								<!-- <span class="off-price">$56</span> -->
+								
 							</p>
-							<!-- <a class="btn btn-sm" href="#">Add To Cart</a> -->
+						
 
 
 						</div>
@@ -545,9 +545,9 @@
 				<div class="tl-product-content">
 						<h4>Attuwa:Majjima 111</h4>
 						<p>Rs 150.00
-							<!-- <span class="off-price">$56</span> -->
+							
 						</p>
-						<!-- <a class="btn btn-sm" href="#">Add To Cart</a> -->
+					
 
 					</div>
 				</div>
@@ -561,9 +561,9 @@
 				<div class="tl-product-content">
 						<h4>Attuwa:Majjimma 1v</h4>
 						<p>Rs 150.00 
-							<!-- <span class="off-price">$56</span> -->
+							
 					</p>
-						<!-- <a class="btn btn-sm" href="#">Add To Cart</a> -->
+					
 
 					</div>
 				</div>
@@ -618,5 +618,5 @@
 </body>
 
 
-<!-- Mirrored from primehostingindia.com/templatemonster/html/templezen/shop-full-width.html by HTTrack Website Copier/3.x [XR&CO'2014], Thu, 06 Jan 2022 18:06:50 GMT -->
+
 </html>
