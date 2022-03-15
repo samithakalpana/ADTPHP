@@ -2,7 +2,7 @@
 <html lang="en">
 
 
-<!-- Mirrored from primehostingindia.com/templatemonster/html/templezen/our-teachers.html by HTTrack Website Copier/3.x [XR&CO'2014], Thu, 06 Jan 2022 18:06:09 GMT -->
+
 <head>
 	<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
 	<meta http-equiv="X-UA-Compatible" content="IE=edge">
@@ -66,9 +66,9 @@
 				<div class="row">
 					<div class="col-lg-7">
 						<div class="sa-paster-about-area">
-							<!-- <h3>Gopal dhanam</h3> -->
+						
 							<h3>Anagarika Dharmapala</h3>
-							<!-- <p class="designation">Yoga Teacher</p> -->
+							
 							<p class="designation">(From 1885-1931)</p>
 							<p>	From the age of 21 years, the young Don David called himself the Angarika ("the homeless one")  and began a new phase of his life as a renunciant, i.e. a life betwixt that of a lay individual and a monk. He took up residence at the Buddhist Theosophical Society in Colombo and worked tirelessly to promote the work for the betterment of society and the promulgation of Buddhism.
 As a commentator wrote after his death:
@@ -80,21 +80,12 @@ As a commentator wrote after his death:
 A“Nothing was too small or too big for him. He would clean his own room, make his own bed, attend to office work, write all the letters and take them to the post himself, not as a matter of virtue but as a part of his daily routine, He would interpret for one, he would prepare a programme for another, he would translate a lecture for someone else, he would write original articles for the newspaper, he would discuss the policy of the paper with the Editor and would correct proofs for him, and he would interview those who visited the office. He wrote to people all over Ceylon inviting them to visit the Head Office and to contribute their ’good will’ towards the progress of the cause. All were alike to him, whether one was old or young or a school boy, learned or ignorant, rich or poor did not matter; he instinctively knew what each was able to contribute towards the common good. He spent well nigh fifteen to sixteen hours a day in intensive work.” (from Sangharakshita, B (1952), Angarika Dharmapala: A Biographical Sketch, Buddhist Publications Society, Kandy).
 	</p>
 
-							<!-- <div class="sa-team-social">
-								<h5>Social links</h5>
-								<ul class="text-center">
-									<li><a href="#"><i class="fab fa-facebook-f"></i></a></li>
-									<li><a href="#"><i class="fab fa-twitter"></i></a></li>
-									<li><a href="#"><i class="fab fa-linkedin-in"></i></a></li>
-									<li><a href="#"><i class="fab fa-youtube"></i></a></li>
-									<li><a href="#"><i class="fab fa-instagram"></i></a></li>
-								</ul>
-							</div> -->
+		
 						</div>
 					</div>
 					<div class="col-xl-4 col-lg-5 offset-xl-1 align-self-center">
 						<div class="ss-pastor-img-wrap">
-							<!-- <img src="assets/images/pastor-1.jpg" alt="img"> -->
+						
 							<img src="assets/images/custom_images/anagarika.jpg" alt="img">
 						</div>
 					</div>
@@ -162,5 +153,5 @@ A“Nothing was too small or too big for him. He would clean his own room, make 
 </body>
 
 
-<!-- Mirrored from primehostingindia.com/templatemonster/html/templezen/our-teachers.html by HTTrack Website Copier/3.x [XR&CO'2014], Thu, 06 Jan 2022 18:06:34 GMT -->
+
 </html>

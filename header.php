@@ -169,7 +169,7 @@
 		<div class="mobile-menu">
 			<ul class="wd-menu pop-scroll">
 				<li class="has-child">
-					<a href="/">Home</a>
+					<a href="index.php">Home</a>
 					<!-- <ul class="sub-menu">
 						<li><a href="index.php">Homepage 1</a></li>
 						<li><a href="index2.php">Homepage 2</a></li>
@@ -222,13 +222,16 @@
 				</li>
 				<li class="has-child"><a href="about-us.php">The Trust</a>
 			<ui class="sub-menu">
-				<!-- <li><a href="">Chairmans Message</a></li>
-				<li><a href="">About The Trust</a></li> -->
+			<li><a href="about-us.php">Chairman's Message</a></li>
+								<li><a href="about-us.php#section_2">About the Trust</a></li>
+								<li><a href="about-us.php#section_3">Managing Trustees</a></li>
 			</ui>
 			</li>
-				<li><a href="/">Publication And Research </a></li>
-				<li><a href="shop-left.php">Shop</a></li>
-				<li><a href="contact-us.php">contact us</a></li>
+			<li><a href="Diaries.php">Diaries</a>
+								<li><a href="Other_publications.php">Other publications</a>
+								<li><a href="Information_for_researchers.php">Information for Researchers</a>
+								<li><a href="shop_main_ADT_books.php">Store</a></li>
+						<li ><a href="contact-us.php">Contact Us<span class="nav_arrow"></span></a>
 
 				<!-- <li class="has-child"><a href="#">Sermon</a>
 					<ul class="sub-menu">

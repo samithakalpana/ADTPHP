@@ -2,7 +2,7 @@
 <html lang="en">
 
 
-<!-- Mirrored from primehostingindia.com/templatemonster/html/templezen/our-teachers.html by HTTrack Website Copier/3.x [XR&CO'2014], Thu, 06 Jan 2022 18:06:09 GMT -->
+
 <head>
 	<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
 	<meta http-equiv="X-UA-Compatible" content="IE=edge">
@@ -82,21 +82,12 @@ At that time the Hewavitarne family was living in Pettah, then a residential par
 	<p>
 David’s primary education is marked by the many different schools he attended. These included the Colombo Girl’s Infant Home, Pettah Catholic School (later St Mary’s), Baptist Sinhala School, St Benedicts College, CMS Boys School in Kotte, St Thomas’ Collegiate Institute and Colombo Academy (later Royal College). Despite the many upheavals to his schooling, his parents gave him a firm foundation in Buddhism and in the local tongue, Sinhala.
 	</p>
-							<!-- <div class="sa-team-social">
-								<h5>Social links</h5>
-								<ul class="text-center">
-									<li><a href="#"><i class="fab fa-facebook-f"></i></a></li>
-									<li><a href="#"><i class="fab fa-twitter"></i></a></li>
-									<li><a href="#"><i class="fab fa-linkedin-in"></i></a></li>
-									<li><a href="#"><i class="fab fa-youtube"></i></a></li>
-									<li><a href="#"><i class="fab fa-instagram"></i></a></li>
-								</ul>
-							</div> -->
+				
 						</div>
 					</div>
 					<div class="col-xl-4 col-lg-5 offset-xl-1 align-self-center">
 						<div class="ss-pastor-img-wrap">
-							<!-- <img src="assets/images/pastor-1.jpg" alt="img"> -->
+						
 							<img src="assets/images/custom_images/devid.jpg" alt="img">
 						</div>
 					</div>
@@ -149,5 +140,5 @@ At the age of 21 years David left the luxuries and conveniences of his family ho
 </body>
 
 
-<!-- Mirrored from primehostingindia.com/templatemonster/html/templezen/our-teachers.html by HTTrack Website Copier/3.x [XR&CO'2014], Thu, 06 Jan 2022 18:06:34 GMT -->
+
 </html>

@@ -2,21 +2,19 @@
 <?php 
 ob_start();
 @session_start();
-// $_SESSION["lang"]="english";
-// $_SESSION["page"]="index.php";
+
 
 ?>
 
 <html lang="en">
 
-<!-- Mirrored from primehostingindia.com/templatemonster/html/templezen/index.html by HTTrack Website Copier/3.x [XR&CO'2014], Thu, 06 Jan 2022 18:00:35 GMT -->
 <head>
 	<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
 	<meta http-equiv="X-UA-Compatible" content="IE=edge">
 	<meta name="viewport" content="width=device-width,initial-scale=1">
 	<meta name="keywords" content="">
 	<meta name="description" content="">
-	<title>Templezen - Buddhist Temple HTML5 Template</title>
+	<title>ADT-HOME</title>
 	<!--Bootstrap -->
 	<link rel="stylesheet" href="assets/css/bootstrap.min.css" type="text/css">
 	<!--OWL Carousel slider-->
@@ -56,50 +54,50 @@ ob_start();
 			<div class="item section-padding" style="background-image:url(assets/images/custom_images/banner_anagarika.jpg);">
 				<div class="container">
 					<div class="intro_text white_text">
-						<!-- <h1>creator of life</h1> -->
+					
 						<h1>“Wherever <br/> I went<br/>I have worked <br/>for the <br/> public good” <br>
 
 </h1>
-						<!-- <p>The point of using Lorem Ipsum is that it has a more-or-less normal distribution of letters, as opposed to using 'Content here, content here. </p> -->
+			
 						<p>Anagarika Dharmapala - 1915 </p>
-						<a href="life_1_our-teachers.php" class="btn dark-btn templezen-top-btn">Explore Events</a>
+						<a href="life_1_our-teachers.php" class="btn dark-btn templezen-top-btn">Explore</a>
 					</div>
 				</div>
 			</div>
 			<div class="item section-padding" style="background-image:url(assets/images/custom_images/banner_vehicle.jpg);">
 				<div class="container">
 					<div class="intro_text white_text">
-						<!-- <h1>god is within us</h1> -->
+				
 						<h1>“My comfort <br/> is the Buddha, <br/>His Dhamma <br/>and the <br/> Holy Ones”
 
 </h1>
-						<!-- <p> The point of using Lorem Ipsum is that it has a more-or-less normal distribution of letters, as opposed to using 'Content here, content here. </p> -->
+					
 						<p>Anagarika Dharmapala - 1915</p>
-						<a href="life_2_our-teachers.php" class="btn dark-btn templezen-top-btn">Explore Events</a>
+						<a href="life_2_our-teachers.php" class="btn dark-btn templezen-top-btn">Explore </a>
 					</div>
 				</div>
 			</div>
-			<!-- <div class="item section-padding" style="background-image:url(assets/images/home-banner/banner-03.png);"> -->
+		
 			<div class="item section-padding" style="background-image:url(assets/images/custom_images/banner_buddagaya.jpg);">
 				<div class="container">
 					<div class="intro_text white_text">
-						<!-- <h1>god is within us</h1> -->
+					
 						<h1>“My life <br/>will be given<br/> birth after<br/> birth to<br/> Humanity”</h1>
-						<!-- <p> The point of using Lorem Ipsum is that it has a more-or-less normal distribution of letters, as opposed to using 'Content here, content here. </p> -->
+					
 						<p>Anagarika Dharmapala - 1897</p>
-						<a href="life_4_our-teachers.php" class="btn dark-btn templezen-top-btn">Explore Events</a>
+						<a href="life_4_our-teachers.php" class="btn dark-btn templezen-top-btn">Explore </a>
 					</div>
 				</div>
 			</div>
-			<!-- <div class="item section-padding" style="background-image:url(assets/images/home-banner/banner-03.png);"> -->
+	
 			<div class="item section-padding" style="background-image:url(assets/images/custom_images/banner_buddagaya_3_update.jpg);">
 				<div class="container">
 					<div class="intro_text white_text">
-						<!-- <h1>god is within us</h1> -->
+			
 						<h1>“The householder must follow the Middle Way…. Above all he must practice charity and love”</h1>
-						<!-- <p> The point of using Lorem Ipsum is that it has a more-or-less normal distribution of letters, as opposed to using 'Content here, content here. </p> -->
+				
 						<p>Anagarika Dharmapala - 1910</p>
-						<a href="about-us.php" class="btn dark-btn templezen-top-btn">Explore Events</a>
+						<a href="about-us.php" class="btn dark-btn templezen-top-btn">Explore </a>
 					</div>
 				</div>
 			</div>
@@ -113,7 +111,7 @@ ob_start();
 			<div class="row">
 				<div class="col-md-6">
 					<div class="box_wrap next_sermons">
-						<!-- <p class="subtitle">Latest Sermons</p> -->
+					
 						<h4><a href="about-us.php">Life Of Anagarika Dharmapala</a></h4>
 						<ul class="sermons_meta">
 							<li><i class="fa fa-user"></i> <a href="life_1_our-teachers.php">Don David Hewavitarne</a></li><br>
@@ -156,7 +154,7 @@ ob_start();
 					<div class="box_wrap video-bg home-video">
 						<div class="video-content">
 							<div class="video_icon">
-								<a class="popup-youtube" href="\assets\video\adtvideo.m4v">
+								<a class="popup-youtube" href="https://youtu.be/TvGyUhhqKrE">
 									<i class="fas fa-play"></i></a>
 							</div>
 						</div>
@@ -228,28 +226,28 @@ ob_start();
 			<div class="owl-carousel">
 				<div class="item">
 					<div class="causes_info">
-						<!-- <p class="subtitle text-white">Gita's sermony</p> -->
+				
 						<h3 class="white_text">“Wherever I went I have worked for the public good”</h3>
 						<p class="white_text mb-0">Anagarika Dharmapala - 1915 </p>
 					</div>
 				</div>
 				<div class="item">
 					<div class="causes_info">
-						<!-- <p class="subtitle text-white">krishna's preaching</p> -->
+					
 						<h3 class="white_text">“My comfort is the Buddha, His Dhamma and the Holy Ones”</h3>
 						<p class="white_text mb-0">Anagarika Dharmapala - 1915</p>
 					</div>
 				</div>
 				<div class="item">
 					<div class="causes_info">
-						<!-- <p class="subtitle text-white">krishna's preaching</p> -->
+					
 						<h3 class="white_text">“My life will be given birth after birth to Humanity”</h3>
 						<p class="white_text mb-0">Anagarika Dharmapala - 1897</p>
 					</div>
 				</div>
 				<div class="item">
 					<div class="causes_info">
-						<!-- <p class="subtitle text-white">krishna's preaching</p> -->
+					
 						<h3 class="white_text">“The householder must follow the Middle Way…. Above all he must practice charity and love”</h3>
 						<p class="white_text mb-0">Anagarika Dharmapala - 1910</p>
 					</div>
@@ -286,10 +284,10 @@ ob_start();
 													<div class="event_date">
 														<span>1915</span>
 													</div>
-													<!-- <h6><a href="event-detail.html">Vinayaka Chathurthy</a></h6> -->
+												
 													<ul>
 														<li><i class="far fa-clock"></i> The Kandyan Kingdom of Sri Lanka cedes to the British. The  Kandyan Convention is signed – 2nd March</li>
-														<!-- <li><i class="fas fa-map-marker-alt"></i></li> -->
+													
 													</ul>
 												</div>
 											</li>
@@ -298,10 +296,10 @@ ob_start();
 													<div class="event_date">
 														<span>1932</span> 
 													</div>
-													<!-- <h6><a href="event-detail.html">Navarathri Celebrations</a></h6> -->
+												
 													<ul>
 														<li><i class="far fa-clock"></i>English becomes the official language in Ceylon (Sri Lanka)</li>
-														<!-- <li><i class="fas fa-map-marker-alt"></i>4873 Pretty View Lane New York</li> -->
+													
 													</ul>
 												</div>
 											</li>
@@ -310,10 +308,10 @@ ob_start();
 													<div class="event_date">
 														<span>1837</span>
 													</div>
-													<!-- <h6><a href="event-detail.html">Durgashtami </a></h6> -->
+												
 													<ul>
 														<li><i class="far fa-clock"></i>George Turner’s English translation of the Mahavamsa published</li>
-														<!-- <li><i class="fas fa-map-marker-alt"></i>4873 Pretty View Lane New York</li> -->
+													
 													</ul>
 												</div>
 											</li>
@@ -335,7 +333,7 @@ ob_start();
 													<div class="event_date">
 														<span>1860</span>
 													</div>
-													<!-- <h6><a href="event-detail.html">Vinayaka Chathurthy</a></h6> -->
+												
 													<ul>
 														<li><i class="far fa-clock"></i>
 														1860	•	H. Don Carolis, the father of the future Anagarika Dharmapala, migrates to Colombo from Matara
@@ -349,10 +347,10 @@ ob_start();
 													<div class="event_date">
 														<span>1963</span> 
 													</div>
-													<!-- <h6><a href="event-detail.html">Navarathri Celebrations</a></h6> -->
+												
 													<ul>
 														<li><i class="far fa-clock"></i> •	Baddegma Controversy (debated in writing), headed by Miggetuwatte Gunananda Thero</li>
-														<!-- <li><i class="fas fa-map-marker-alt"></i>4873 Pretty View Lane New York</li> -->
+													
 													</ul>
 												</div>
 											</li>
@@ -577,6 +575,6 @@ ob_start();
 </body>
 
 
-<!-- Mirrored from primehostingindia.com/templatemonster/html/templezen/index.html by HTTrack Website Copier/3.x [XR&CO'2014], Thu, 06 Jan 2022 18:00:35 GMT -->
+
 </html>
 <?php ob_end_flush();?>

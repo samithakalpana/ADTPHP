@@ -46,7 +46,7 @@
 						<p>Anagarika Dharmapala Trust,<br/>
 						130,<br/>
 						Maligakanda Rd,<br/>
-						Colombo 01000.<br/>
+						Colombo 010.<br/>
 						
 </p>
 					
@@ -100,7 +100,7 @@
 			<div class="container">
 				<div class="row">
 					<div class="col-lg-4 align-self-center">
-						<p class="mb-0">&copy; 2020 ADT TRUST  All Rights Reserved.<br/>Design And Developed By P&S</p>
+						<p class="mb-0">&copy; 2020 ADT TRUST  All Rights Reserved.<br/>Design And Developed By H&K</p>
 					</div>
 					<div class="col-lg-4 align-self-center">
 						<div id="back-top" class="back-top">

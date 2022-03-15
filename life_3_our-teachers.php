@@ -2,7 +2,7 @@
 <html lang="en">
 
 
-<!-- Mirrored from primehostingindia.com/templatemonster/html/templezen/our-teachers.html by HTTrack Website Copier/3.x [XR&CO'2014], Thu, 06 Jan 2022 18:06:09 GMT -->
+
 <head>
 	<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
 	<meta http-equiv="X-UA-Compatible" content="IE=edge">
@@ -66,9 +66,9 @@
 				<div class="row">
 					<div class="col-lg-7">
 						<div class="sa-paster-about-area">
-							<!-- <h3>Gopal dhanam</h3> -->
+						
 							<h3>Sri Devamitta Dhammapala</h3>
-							<!-- <p class="designation">Yoga Teacher</p> -->
+							
 							<p class="designation">(From 1931-1933)</p>
 							<p>	
 							From the time he left home in 1885 as a renunciant, Anagarika Dharmapala had devoted his life to the mission of reclaiming Buddha Gaya, spreading the word of the Buddha around the world, unifying the Buddhist world and uplifting the lives of the poor.  Yet, the foundation on which he had been drawn to his life’s work was his spiritual practice. This included the personal aspirations he had made as a devout Buddhist who understood the enormous significance of the Dhamma.
@@ -77,21 +77,12 @@
 							Despite his arduous lifestyle, much of which was underlined by unbearable physical pain, Anagarika was never distracted from his spiritual purpose. He woke up at 3 in the morning to meditate and went deeper and deeper into his practice as the years passed, never losing sight of his ultimate aspiration. As his health deteriorated and even though at times he came to the jaws of death, he returned to India in 1931 and took on lower ordination (novice monkhood) at Sarnath. He took on the name of Sri Devamitta Dhammapāla. 
 
 	</p>
-							<!-- <div class="sa-team-social">
-								<h5>Social links</h5>
-								<ul class="text-center">
-									<li><a href="#"><i class="fab fa-facebook-f"></i></a></li>
-									<li><a href="#"><i class="fab fa-twitter"></i></a></li>
-									<li><a href="#"><i class="fab fa-linkedin-in"></i></a></li>
-									<li><a href="#"><i class="fab fa-youtube"></i></a></li>
-									<li><a href="#"><i class="fab fa-instagram"></i></a></li>
-								</ul>
-							</div> -->
+						
 						</div>
 					</div>
 					<div class="col-xl-4 col-lg-5 offset-xl-1 align-self-center">
 						<div class="ss-pastor-img-wrap">
-							<!-- <img src="assets/images/pastor-1.jpg" alt="img"> -->
+			
 							<img src="assets/images/custom_images/anagarika.jpg" alt="img">
 						</div>
 					</div>
@@ -145,5 +136,4 @@ There is a commonly held mis-conception that the part of Anagarika Dharmapala’
 </body>
 
 
-<!-- Mirrored from primehostingindia.com/templatemonster/html/templezen/our-teachers.html by HTTrack Website Copier/3.x [XR&CO'2014], Thu, 06 Jan 2022 18:06:34 GMT -->
 </html>

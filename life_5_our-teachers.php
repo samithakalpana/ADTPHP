@@ -2,7 +2,7 @@
 <html lang="en">
 
 
-<!-- Mirrored from primehostingindia.com/templatemonster/html/templezen/our-teachers.html by HTTrack Website Copier/3.x [XR&CO'2014], Thu, 06 Jan 2022 18:06:09 GMT -->
+
 <head>
 	<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
 	<meta http-equiv="X-UA-Compatible" content="IE=edge">
@@ -66,10 +66,9 @@
 				<div class="row">
 					<div class="col-lg-7">
 						<div class="sa-paster-about-area">
-							<!-- <h3>Gopal dhanam</h3> -->
+		
 							<h3>The Legacy</h3>
-							<!-- <p class="designation">Yoga Teacher</p> -->
-							<!-- <p class="designation"></p> -->
+	
 							<p>	
 							Anagarika Dharmapala’s life as an activist, missionary, freedom fighter, social reformer and renunciant was remarkable as it was extraordinary. 
 							</p><p>
@@ -83,21 +82,12 @@
 
 
 
-							<!-- <div class="sa-team-social">
-								<h5>Social links</h5>
-								<ul class="text-center">
-									<li><a href="#"><i class="fab fa-facebook-f"></i></a></li>
-									<li><a href="#"><i class="fab fa-twitter"></i></a></li>
-									<li><a href="#"><i class="fab fa-linkedin-in"></i></a></li>
-									<li><a href="#"><i class="fab fa-youtube"></i></a></li>
-									<li><a href="#"><i class="fab fa-instagram"></i></a></li>
-								</ul>
-							</div> -->
+					
 						</div>
 					</div>
 					<div class="col-xl-4 col-lg-5 offset-xl-1 align-self-center">
 						<div class="ss-pastor-img-wrap">
-							<!-- <img src="assets/images/pastor-1.jpg" alt="img"> -->
+							
 							<img src="assets/images/custom_images/legacy.jpg" alt="img">
 						</div>
 					</div>
@@ -147,5 +137,4 @@ The legacy Anagarika Dharmapala wanted to leave to the future generations of Sri
 </body>
 
 
-<!-- Mirrored from primehostingindia.com/templatemonster/html/templezen/our-teachers.html by HTTrack Website Copier/3.x [XR&CO'2014], Thu, 06 Jan 2022 18:06:34 GMT -->
 </html>

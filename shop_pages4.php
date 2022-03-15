@@ -2,7 +2,7 @@
 <html lang="en">
 
 
-<!-- Mirrored from primehostingindia.com/templatemonster/html/templezen/shop-left.html by HTTrack Website Copier/3.x [XR&CO'2014], Thu, 06 Jan 2022 18:06:51 GMT -->
+
 <head>
 	<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
 	<meta http-equiv="X-UA-Compatible" content="IE=edge">
@@ -53,7 +53,7 @@
 							<ul>
 								<li class="breadcrumb-item"><a href="index.php">Home</a></li>
 								<li class="breadcrumb-item"><a href="shop_pages4.php">Tipitaka Publications</a></li>
-								<!-- <li class="breadcrumb-item active">Tipitaka Publications</li> -->
+							
 							</ul>
 						</nav>
 					</div>
@@ -101,70 +101,22 @@ We will hand the package to the courier withing 3-4 working days of receipt of t
 There may be unexpected delays in the event of curfews, travel restrictions, postal backlogs  and pandemic related issues.<br/>
 
 </p>
-							<!-- <div class="search">
-								<form>
-									<input type="text" class="form-control" placeholder="Enter Keyword">
-								</form>
-							</div> -->
+						
 						</div>
 						<div class="sidebar_widgets">
-							<!-- <div class="widget_title">
-								<h6>Categories</h6>
-							</div>
-							<div class="sidebar_nav">
-								<ul>
-									<li><a href="#">Religious Books <span>(30)</span></a></li>
-									<li><a href="#">Accessories <span>(6)</span></a></li>
-									<li><a href="#">Rosary <span>(30)</span></a></li>
-									<li><a href="#">Janeu <span>(25)</span></a></li>
-									<li><a href="#">Conch <span>(10)</span></a></li>
-
-										<li class="btn-sidebar"><a href="#">View More +</a> </li>
-								</ul>
-							</div> -->
+							
 						</div>
 
 						<div class="sidebar_widgets">
-							<!-- <div class="widget_title">
-								<h6>Ads</h6>
-							</div>
-							<div class="tl-ads">
-								<img src="assets/images/ads.jpg" alt="ads" class ="max-auto image-fluid">
-						</div> -->
+						
 					</div>
 
 						<div class="sidebar_widgets">
-							<!-- <div class="widget_title">
-								<h6>Filter</h6>
-							</div>
-							<div class="tl-fliter-slider">
-                <h6>Price</h6>
-                <p>Choose price below.</p>
-                <div class="widget_range">
-                  <div class="thc-range-inner">
-										<input type="text" class="js-range-slider" name="my_range" value="">
-                  </div>
-                </div>
-
-
-                  </div> -->
+						
                 </div>
 
 								<div class="sidebar_widgets">
-									<!-- <div class="widget_title">
-										<h6>Tags</h6>
-									</div>
-									<div class="tag_cloud">
-										<a href="#">Books</a>
-										<a href="#">Items</a>
-										<a href="#">Bells</a>
-										<a href="#">puja plate</a>
-										<a href="#">Havan kund</a>
-										<a href="#">Cymbals</a>
-										<a href="#">Gangajal</a>
-										<a href="#">Chandan</a>
-									</div>
-								</div> -->
+								
               </div>
 
 
@@ -173,33 +125,7 @@ There may be unexpected delays in the event of curfews, travel restrictions, pos
 
 
 				<div class="col-md-8">
-						<!-- <div class="shop-top-filter">
-							<div class="row">
-								<div class="col-lg-4 col-md-6 col-sm-12">
-									<form>
-										<div class="sort-select-filter">
-											<select name="sorting" id="sorting-1">
-												<option value="0">Default Sorting</option>
-												<option value="1">A-Z Sorting</option>
-												<option value="2">Z-A Sorting</option>
-											</select>
-										</div>
-									</form>
-								</div>
-								<div class="col-lg-4 col-md-6 col-sm-12">
-									<select name="sorting" id="sorting-2">
-										<option value="0">1-6 Products</option>
-										<option value="1">6-16 Products</option>
-										<option value="2">16-25 Products</option>
-									</select>
-								</div>
-								<div class="col-lg-4 col-md-12 ">
-									<div class="shop-view">
-										<p> showing all result</p>
-									</div>
-								</div>
-							</div>
-						</div> -->
+					
 				 <div class="row">
 <!-- items -->
 
@@ -239,9 +165,9 @@ There may be unexpected delays in the event of curfews, travel restrictions, pos
 
 </h4>
 							
-								<!-- <span class="off-price">$56</span> -->
+							
 							</p>
-							<!-- <a class="btn btn-sm" href="#">Add To Cart</a> -->
+					
 						</div>
 					</div>
 				</div>
@@ -689,75 +615,7 @@ There may be unexpected delays in the event of curfews, travel restrictions, pos
 				</div>
 			</div>
 
-		<!-- </div> -->
-         
-			
-				
-
-
-
-			 	<!-- <div class="col-lg-4 col-md-6 col-sm-6">
-
-			 		<div class="img-shop-wrapper tl-shop-single">
-			 	<div class="tl-img-shop">
-			 				<img src="assets/images/shop/6.png" alt="image" class ="mx-auto image-fluid d-block">
-			 			</div>
-			 			<div class="tl-product-content">
-			 					<h4>Product Name</h4>
-			 					<p>$56.25 <span class="off-price">$56</span></p>
-			 					<a class="btn btn-sm" href="#">Add To Cart</a>
-
-			 				</div>
-			 			</div>
-			 		</div> -->
-
-
-					<!-- <div class="col-lg-4 col-md-6 col-sm-6">
-
-			 				<div class="img-shop-wrapper tl-shop-single">
-			 		<div class="tl-img-shop">
-
-			 					<img src="assets/images/shop/7.png" alt="image" class ="mx-auto image-fluid d-block">
-			 				</div>
-			 				<div class="tl-product-content">
-			 						<h4>Product Name</h4>
-			 						<p>$56.25 <span class="off-price">$56</span></p>
-			 						<a class="btn btn-sm" href="#">Add To Cart</a>
-
-
-			 					</div>
-			 				</div>
-
-			 	</div> -->
-			 	<!-- <div class="col-lg-4 col-md-6 col-sm-6">
-
-			 		<div class="img-shop-wrapper tl-shop-single">
-			 	<div class="tl-img-shop">
-			 				<img src="assets/images/shop/8.png" alt="image" class ="mx-auto image-fluid d-block">
-			 			</div>
-			 			<div class="tl-product-content">
-			 					<h4>Product Name</h4>
-			 					<p>$56.25 <span class="off-price">$56</span></p>
-			 					<a class="btn btn-sm" href="#">Add To Cart</a>
-
-			 				</div>
-			 			</div>
-			 	</div> -->
-			 	<!-- <div class="col-lg-4 col-md-6 col-sm-6">
-
-			 		<div class="img-shop-wrapper tl-shop-single">
-			 	<div class="tl-img-shop">
-			 				<img src="assets/images/shop/9.png" alt="image" class ="mx-auto image-fluid d-block">
-			 			</div>
-			 			<div class="tl-product-content">
-			 					<h4>Product Name</h4>
-			 					<p>$56.25 <span class="off-price">$56</span></p>
-			 					<a class="btn btn-sm" href="#">Add To Cart</a>
-
-			 				</div>
-			 			</div>
-			 		</div> -->
-			 		
+	
 
 					<!-- /Pagination /-->
 
@@ -820,5 +678,5 @@ There may be unexpected delays in the event of curfews, travel restrictions, pos
 </body>
 
 
-<!-- Mirrored from primehostingindia.com/templatemonster/html/templezen/shop-left.html by HTTrack Website Copier/3.x [XR&CO'2014], Thu, 06 Jan 2022 18:06:59 GMT -->
+
 </html>
