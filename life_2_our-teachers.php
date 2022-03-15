@@ -47,7 +47,7 @@
 				<div class="row">
 					<div class="col-md-12">
 						<h1 class="text-center">Life of Anagarika Dharmapala</h1>
-						<h5 class="text-center">(17th of September 1864 – 29th of April 1933)</h5>
+						<h5 class="text-center">(17<sup>th</sup> of September 1864 – 29<sup>th</sup> of April 1933)</h5>
 						<nav class="breadcrumb">
 							<ul>
 								<li class="breadcrumb-item"><a href="index.php">Home</a></li>
@@ -77,7 +77,7 @@ As a commentator wrote after his death:
 							</p>
 							<p>							
 							
-A“Nothing was too small or too big for him. He would clean his own room, make his own bed, attend to office work, write all the letters and take them to the post himself, not as a matter of virtue but as a part of his daily routine, He would interpret for one, he would prepare a programme for another, he would translate a lecture for someone else, he would write original articles for the newspaper, he would discuss the policy of the paper with the Editor and would correct proofs for him, and he would interview those who visited the office. He wrote to people all over Ceylon inviting them to visit the Head Office and to contribute their ’good will’ towards the progress of the cause. All were alike to him, whether one was old or young or a school boy, learned or ignorant, rich or poor did not matter; he instinctively knew what each was able to contribute towards the common good. He spent well nigh fifteen to sixteen hours a day in intensive work.” (from Sangharakshita, B (1952), Angarika Dharmapala: A Biographical Sketch, Buddhist Publications Society, Kandy).
+“Nothing was too small or too big for him. He would clean his own room, make his own bed, attend to office work, write all the letters and take them to the post himself, not as a matter of virtue but as a part of his daily routine, He would interpret for one, he would prepare a programme for another, he would translate a lecture for someone else, he would write original articles for the newspaper, he would discuss the policy of the paper with the Editor and would correct proofs for him, and he would interview those who visited the office. He wrote to people all over Ceylon inviting them to visit the Head Office and to contribute their ’good will’ towards the progress of the cause. All were alike to him, whether one was old or young or a school boy, learned or ignorant, rich or poor did not matter; he instinctively knew what each was able to contribute towards the common good. He spent well nigh fifteen to sixteen hours a day in intensive work.” (from Sangharakshita, B (1952), Angarika Dharmapala: A Biographical Sketch, Buddhist Publications Society, Kandy).
 	</p>
 
 		

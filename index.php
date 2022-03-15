@@ -516,7 +516,8 @@ ob_start();
 			<div class="section-header-center text-center">
 				<br><br>
 				<h2>Our upcomming gallery</h2>
-				<p>We are almost ready to launch a bunch of valuable & historical Images of Anagarika Dharmapala on near future. You may find a glimpse of images for the moment. </p>
+				<p>We are almost ready to launch a series of valuable, historical images of Anagarika Dharmapala soon. You can  get a glimpse here of some of those images for the moment.
+ </p>
 			</div>
 		</div>
 		<ul class="hm-list hm-instagram">
