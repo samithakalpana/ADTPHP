@@ -176,7 +176,8 @@ ob_start();
 					<div class="box_wrap video-bg home-video">
 						<div class="video-content">
 							<div class="video_icon">
-								<a class="popup-youtube" href="http://www.youtube.com/watch?v=0O2aH4XLbto">
+								<!-- <a class="popup-youtube" href="http://www.youtube.com/watch?v=0O2aH4XLbto"> -->
+								<a class="popup-youtube" href="https://www.youtube.com/watch?v=TvGyUhhqKrE">
 									<i class="fas fa-play"></i></a>
 							</div>
 						</div>

@@ -70,6 +70,13 @@
 							<h3>Charles Alwis Hewavitarne </h3>
 							<!-- <p class="designation">Yoga Teacher</p> -->
 							<p class="designation">(From 1876–1929)</p>
+							<p>	Charles was the youngest brother of Anagarika Dharmapala. A scholar, philanthropist, industrialist and freedom fighter, he read medicine at the Ceylon Medical College and joined the Medical Service of Ceylon. Charles obtained his LRCP (London) and FRCS at University College, University of London, in the UK, where he excelled at his studies and won medals for his performance in many subjects.   Charles was a member of the University College Ceylon Council. Several  memorial prizes are  awarded every year in his memory: at Royal College where he studied (then the Colombo Academy); at the University of Colombo for Physics & Sanskrit and the Faculty of Science, University of Peradeniya for Physics.  
+							
+							</p>
+							<p>	He was actively involved in the Buddhist revival movement with his brothers and was a trustee of the Vidyodaya Oriental College, donated by his maternal grandfather. In the aftermath of the 1915 riots, he was taken into custody with his brother Edmund. D.S. Senanayake and D. R, Wijewardene and later released. After the death of his elder brother Edmund in prison, it was Charles who bore the burden of carrying forward H Don Carolis & Sons and contributing to the industrial revival activities of  Ceylon,						
+							
+
+							</p>
 		
 							<!-- <div class="sa-team-social">
 								<h5>Social links</h5>
@@ -84,20 +91,15 @@
 						</div>
 					</div>
 					<!-- //image section removed -->
-					<!-- <div class="col-xl-4 col-lg-5 offset-xl-1 align-self-center">
+					<div class="col-xl-4 col-lg-5 offset-xl-1 align-self-center">
 						<div class="ss-pastor-img-wrap">
 						
-							<img src="assets/images/pastor-1.jpg" alt="img">
+							<img src="assets/images/custom_images/charlis_alwis.png" alt="img">
 						</div>
-					</div> -->
+					</div>
 				</div>
-				<p>	Charles was the youngest brother of Anagarika Dharmapala. A scholar, philanthropist, industrialist and freedom fighter, he read medicine at the Ceylon Medical College and joined the Medical Service of Ceylon. Charles obtained his LRCP (London) and FRCS at University College, University of London, in the UK, where he excelled at his studies and won medals for his performance in many subjects.   Charles was a member of the University College Ceylon Council. Several  memorial prizes are  awarded every year in his memory: at Royal College where he studied (then the Colombo Academy); at the University of Colombo for Physics & Sanskrit and the Faculty of Science, University of Peradeniya for Physics.  
-							
-							</p>
-							<p>	He was actively involved in the Buddhist revival movement with his brothers and was a trustee of the Vidyodaya Oriental College, donated by his maternal grandfather. In the aftermath of the 1915 riots, he was taken into custody with his brother Edmund. D.S. Senanayake and D. R, Wijewardene and later released. After the death of his elder brother Edmund in prison, it was Charles who bore the burden of carrying forward H Don Carolis & Sons and contributing to the industrial revival activities of  Ceylon,						
-							
-
-	</p>
+		
+	
 
 				<p>As a pioneer of the industrial movement of the country, he was one of the main industrialists instrumental in the construction of the  present Colombo Fort Railway Station. The station was opened in 1917 as a new central station for Colombo, a magnificent building modeled on the  Manchester Victoria station in England. The station was built on land reclaimed from the Beira Lake.  He was also the chair of the organizing committee for the industrial exhibition for the visit of the Prince of Wales to Ceylon in 1921 and accompanied the Prince on his tour of the exhibition.
 This poem was written by Charles when he was imprisoned in 1915. It reflects a heartfelt devotion to the Buddha and to the Noble Eightfold Path:

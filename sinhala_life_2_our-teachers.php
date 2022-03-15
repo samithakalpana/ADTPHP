@@ -143,7 +143,7 @@
 						<div class="ss-pastor-img-wrap">
 							<!-- <img src="assets/images/pastor-1.jpg" alt="img"> -->
 							<!-- <img src="assets/images/pastor-1.jpg" alt="img"> -->
-							<img src="assets/images/custom_images/anagarika.jpg" alt="img">
+							<img src="assets/images/custom_images/anagarika_darmapala_life.jpg" alt="img">
 						</div>
 					</div>
 				</div>
