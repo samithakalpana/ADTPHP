@@ -70,40 +70,7 @@
 							<h3>චාර්ල්ස් අල්විස් හේවාවිතාරණ</h3>
 							<!-- <p class="designation">Yoga Teacher</p> -->
 							<p class="designation">(1876 සිට – 1929 දක්වා)</p>
-<p>
-
-
-	
-
-
-	</p>
-	
-	<p>
-
-
-							
-							</p>
-							<!-- <div class="sa-team-social">
-								<h5>Social links</h5>
-								<ul class="text-center">
-									<li><a href="#"><i class="fab fa-facebook-f"></i></a></li>
-									<li><a href="#"><i class="fab fa-twitter"></i></a></li>
-									<li><a href="#"><i class="fab fa-linkedin-in"></i></a></li>
-									<li><a href="#"><i class="fab fa-youtube"></i></a></li>
-									<li><a href="#"><i class="fab fa-instagram"></i></a></li>
-								</ul>
-							</div> -->
-						</div>
-					</div>
-					<!-- <div class="col-xl-4 col-lg-5 offset-xl-1 align-self-center">
-						<div class="ss-pastor-img-wrap">
-						
-							<img src="assets/images/pastor-1.jpg" alt="img">
-						</div>
-					</div> -->
-				</div>
-
-				<p>	චාර්ල්ස් අනගාරික ධර්මපාලයන්ගේ බාලම
+							<p>	චාර්ල්ස් අනගාරික ධර්මපාලයන්ගේ බාලම
 සොහොයුරාය. ඔහු විද්වතෙකු දානපතියෙකු
 කර්මාන්තකරුවෙකු සහ නිදහස් සටන්කාමියෙකු විය. ලංකා
 වෛද්‍ය විද්‍යාලයේ වෛද්‍ය ශාස්ත‍්‍රය හැදෑරූ ඔහු ලංකා වෛද්‍ය
@@ -143,6 +110,40 @@ LRCP(ලන්ඩන්) FRCS උපාධීන් ලබා ගත් අත�
 							
 
 	</p>
+<p>
+
+
+	
+
+
+	</p>
+	
+	<p>
+
+
+							
+							</p>
+							<!-- <div class="sa-team-social">
+								<h5>Social links</h5>
+								<ul class="text-center">
+									<li><a href="#"><i class="fab fa-facebook-f"></i></a></li>
+									<li><a href="#"><i class="fab fa-twitter"></i></a></li>
+									<li><a href="#"><i class="fab fa-linkedin-in"></i></a></li>
+									<li><a href="#"><i class="fab fa-youtube"></i></a></li>
+									<li><a href="#"><i class="fab fa-instagram"></i></a></li>
+								</ul>
+							</div> -->
+						</div>
+					</div>
+					<div class="col-xl-4 col-lg-5 offset-xl-1 align-self-center">
+						<div class="ss-pastor-img-wrap">
+						
+						<img src="assets/images/custom_images/charlis_alwis.png" alt="img">
+						</div>
+					</div>
+				</div>
+
+				
 				<p>1915 ඔහුව සිරභාරයට ගත් අවස්ථාවේ චාර්ල්ස් විසින්
 රචනා කරන ලද මෙම කාව්‍යයෙන් පිළිබිඹු වන්නේ බුදුන්
 වහන්සේ වෙත ඔහු පෑ අසීමිත භක්තියක් ආර්ය අෂ්ටාංගික
