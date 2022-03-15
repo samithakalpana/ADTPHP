@@ -89,7 +89,7 @@
                     </div>
                     <div class="col-md-6">
                         <div class="form_wrap">
-                        <img src="assets/images/cpag.jpeg" alt="img">
+                        <img src="assets/images/cpag.jpg" alt="img">
                         </div>
                     </div>
                 </div>
