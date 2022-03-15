@@ -71,7 +71,7 @@
 							<!-- <p class="designation">Yoga Teacher</p> -->
 							<p class="designation">(September 20, 1844 – December 29, 1930)</p>
 							<p><b>Mary Elizabeth Makahala Robinson</b> was born in Honolulu on September 20, 1844. Her parents were John James Robinson, a shipwrecked English sailor, and Rebecca Kaikilani Prever, who was a descendant of the famous Hawaiian king Kamehameha I. Thus, Mary was related to Queen Liliʻuokalani, who was six years older, and was one of the monarch's closest friends. In 1860, Mary Robinson married Thomas R. Foster (1835-1889) of Nova Scotia, who had arrived in the Islands just three years earlier. He founded the Interisland Steam Navigation Company, and owned a shipyard, a shipping agency and a number of schooners. He died in 1889, leaving her a very wealthy widow, as she had also inherited substantial property from her father following his death in 1876. After her husband's death, Mary became interested in Theosophy, joining the 
-							<a href="#"><b>Theosophical Society</b></a> on May 12, 1882. Initially a member of the Golden Gate branch in San Francisco, she soon organized lectures and classes in Honolulu. She helped to organize the Aloha Branch in February 1894.
+							<a href="https://www.theosophical.org/about/about-the-society"><b>Theosophical Society</b></a> on May 12, 1882. Initially a member of the Golden Gate branch in San Francisco, she soon organized lectures and classes in Honolulu. She helped to organize the Aloha Branch in February 1894.
 							
 							</p>
 							

@@ -47,7 +47,7 @@
 				<div class="row">
 					<div class="col-md-12">
 						<h1 class="text-center">Life of Anagarika Dharmapala</h1>
-						<h5 class="text-center">(17th of September 1864 – 29th of April 1933)</h5>
+						<h5 class="text-center">(17<sup>th</sup> of September 1864 – 29<sup>th</sup> of April 1933)</h5>
 						<nav class="breadcrumb">
 							<ul>
 								<li class="breadcrumb-item"><a href="index.php">Home</a></li>
