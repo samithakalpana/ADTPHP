@@ -121,9 +121,13 @@
 				</div>
 				<div class="col-xl-4 col-md-4 align-self-center">
 					<div class="about-us-image"><br><br>
-						<img src="assets/images/sarnathimg.jpeg" alt="img" class="img-fluid mx-auto d-block">
-						<br><br><br><br><br><br><br><br><br><b><br><br><br><br><br><br></b>
-						<img src="assets/images/maradanaimg.jpeg" alt="img" class="img-fluid mx-auto d-block">
+					<img src="assets/images/custom_images/worshiping_karaduwa.jpeg" alt="img" class="img-fluid mx-auto d-block">
+					<br><br><br><br><br><br><br><br><br><b><br><br><br><br><br><br></b>
+					<!-- <img src="assets/images/maradanaimg.jpeg" alt="img" class="img-fluid mx-auto d-block"> -->
+					<img src="assets/images/custom_images/mahabodi_replace_2.jpeg" alt="img" class="img-fluid mx-auto d-block">
+					<br><br><br><br><br><br><br><br><br><b><br><br><br><br><br><br></b>
+					<!-- <img src="assets/images/sarnathimg.jpeg" alt="img" class="img-fluid mx-auto d-block"> -->
+					<img src="assets/images/custom_images/mahabodi_replace_3.jpeg" alt="img" class="img-fluid mx-auto d-block">
 						
 
 					</div>

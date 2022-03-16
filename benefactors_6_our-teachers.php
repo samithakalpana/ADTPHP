@@ -73,7 +73,8 @@
 							<p> From a wealthy family in Calcutta, Mukherjee’s home was a welcoming haven for Anagarika Dharmapala during his maiden visit to Calcutta when he first visited Buddha Gaya. He stayed in their home when he built the Dharmarajika Vihara, the Indian Head Quarters of the Maha Bodhi Society. The Mukherjee family remained lifelong friends of Anagarika Dharmapala and of the Maha Bodhi Society in India.
 							
 							</p>
-							<p>							
+							<p>	Caption:   Anagarika Dharmapala with the son of Neel Kamal Mukherjee
+						
 							
 
 	</p><p>

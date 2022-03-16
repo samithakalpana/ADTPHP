@@ -70,12 +70,17 @@
 							<h3>Simon Alexander Hewavitarne</h3>
 							<!-- <p class="designation">Yoga Teacher</p> -->
 							<p class="designation">(From 1875 -1913)</p>
-					
+							<p>Simon, the second younger brother of Angarika Dharmapala, had displayed a deep devotion to Buddhist scholarship and an artistic and sensitive temperament from his youth. At Royal College (then Colombo Academy) he excelled in art and was placed first at a national art competition. His interest in agriculture led him to pursue further studies in this field in England to contribute to the economic revival of Ceylon’s underprivileged people by introducing the latest agricultural technologies.
+							
+							</p>
+							<p>	He was  active as a member in all the leading Buddhist revival movements and societies, in many of which his brother Anagarika was taking a leading role and his father and other brothers were also involved. These included the Colombo Temperence Movement, The Mahabodhi Society, the YMBA, Vidyadara Sabha and the Theosophical Society. He began the translation and publication of the Tipitaka (the triple basket of Buddhist scriptures), but was unable to complete compilation and the publication of the 49 volumes, as his health deteriorated.  Simon realized that his life was ebbing away and he wrote a will that reflected his devotion and concern for the revival of Buddhist scholarship in the world.						
+							
+							</p>
 						
 
 
 							
-							</p>
+							<!-- </p> -->
 							<!-- <div class="sa-team-social">
 								<h5>Social links</h5>
 								<ul class="text-center">
@@ -88,19 +93,15 @@
 							</div> -->
 						</div>
 					</div>
-					<!-- <div class="col-xl-4 col-lg-5 offset-xl-1 align-self-center">
+					<div class="col-xl-4 col-lg-5 offset-xl-1 align-self-center">
 						<div class="ss-pastor-img-wrap">
 						
-							<img src="assets/images/pastor-1.jpg" alt="img">
+							<img src="assets/images/custom_images/simon.jpg" alt="img">
 						</div>
-					</div> -->
+					</div>
 				</div>
-				<p>Simon, the second younger brother of Angarika Dharmapala, had displayed a deep devotion to Buddhist scholarship and an artistic and sensitive temperament from his youth. At Royal College (then Colombo Academy) he excelled in art and was placed first at a national art competition. His interest in agriculture led him to pursue further studies in this field in England to contribute to the economic revival of Ceylon’s underprivileged people by introducing the latest agricultural technologies.
-							
-							</p>
-				<p>	He was  active as a member in all the leading Buddhist revival movements and societies, in many of which his brother Anagarika was taking a leading role and his father and other brothers were also involved. These included the Colombo Temperence Movement, The Mahabodhi Society, the YMBA, Vidyadara Sabha and the Theosophical Society. He began the translation and publication of the Tipitaka (the triple basket of Buddhist scriptures), but was unable to complete compilation and the publication of the 49 volumes, as his health deteriorated.  Simon realized that his life was ebbing away and he wrote a will that reflected his devotion and concern for the revival of Buddhist scholarship in the world.						
-							
-							</p>		<p>At Simon’s funeral, Angarika Dharmapala gave an oration in which he read out Simon’s will. Simon had bequeathed all his wealth to Buddhist scholarship activities, which included making the Tipitaka (the triple basket of Buddhist scriptures) available to the public and temples, building “awasa” (halls of residence for monks) and distributing grants for meritorious work and outstanding scholarship of the Dhamma. Modern scholars acknowledge that the contribution made by his bequest to translate the Pali canon into Sinhala is immeasurable.
+		
+				<p>At Simon’s funeral, Angarika Dharmapala gave an oration in which he read out Simon’s will. Simon had bequeathed all his wealth to Buddhist scholarship activities, which included making the Tipitaka (the triple basket of Buddhist scriptures) available to the public and temples, building “awasa” (halls of residence for monks) and distributing grants for meritorious work and outstanding scholarship of the Dhamma. Modern scholars acknowledge that the contribution made by his bequest to translate the Pali canon into Sinhala is immeasurable.
 						
 						</p><p>In executing his will, his brother Charles, brother-in-law Jacob Moonesinghe and nephew Kumaradasa Moonesinghe who were trustees at the Vidyodaya Pirivena, spearheaded the publications of the Pali commentaries into Sinhala. These included Paramattha Dípaní or The Commentary of the Petavatthu, edited by Siri Dhammáráma Tissa Náyaka Théra and Mápalagama Chandajóti Théra, assistant to the principal of the Vidyodaya Oriental College, Colombo;  the Visuddhi-Magha edited by Pamunuwe  Buddhadatta Thera, vice principal of the Sirisaddhammodaya Pirivena, Panadura, making them available in print for the first time.
 						

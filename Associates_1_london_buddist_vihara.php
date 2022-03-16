@@ -101,8 +101,18 @@
 ">Pirith Ceremony at the London Buddhist Vihara </a></p>
 
 
+<p><a  class="text-custom-primary" href="https://www.londonbuddhistvihara.org   ">visit:londonbuddhistvihara.org    </a></p>
 </div>
 				</div>
+
+
+				<!-- image added -->
+<div class="col-xl-4 col-md-4 align-self-center">
+	<div class="about-us-image"><br><br>
+	<img src="assets/images/custom_images/London_Buddhist_Vihara_UK.jpg" alt="img" class="img-fluid mx-auto d-block">
+</div>
+</div>
+<!-- image added -->
 			
 
 	</section>

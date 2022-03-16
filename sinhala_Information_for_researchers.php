@@ -128,7 +128,14 @@
 
 			</div>
 	</div>
-			
+			<!-- image added -->
+<div class="col-xl-4 col-lg-5 offset-xl-1 align-self-center">
+	<div class="ss-pastor-img-wrap">
+		
+		<img src="assets/images/custom_images/book_case.jpeg" alt="img">
+	</div>
+</div>
+<!-- image added -->
 
 	
 
