@@ -82,6 +82,7 @@ Buddhism, that Valisinha - then only 8 years — first saw and heard him. He cou
 	</p><p>And so, the young Valisinha came to Colombo where the Anagarika’s mother, Mallika Hewavitarne, looked after the boy. U. B. Dolapihilla, an English-educated Kandyan, who had won a scholarship awarded by the Hewavitarne family to study textile weaving in Japan, was  asked  to  educate the young lad who had been admitted to the Maha Bodhi College, started by the Maha Bodhi Society at Maradana.
 
 	</p>
+
 							<!-- <div class="sa-team-social">
 								<h5>Social links</h5>
 								<ul class="text-center">
@@ -101,6 +102,8 @@ Buddhism, that Valisinha - then only 8 years — first saw and heard him. He cou
 						</div>
 					</div>
 				</div>
+				<p><b><i>photo caption: Devapriya Valisinha in the center with the monks of the Vidyodaya Privena at the handover of Ven Devamitta Dhammpala’s ashes to the Pirvena</i></b>  </p>
+
 				<p>In 1917, when  Anagarika Dharmapala’s mother went to India on a pilgrimage, Valisinha, now 13 years old, accompanied her. The Anagarika had spent most of his time all those years ’imprisoned’ in Calcutta by the British authorities, following the 1915 race riots in Sri Lanka. Valisinha was taught to do the accounts of the Maha Bodhi Society, India, and learnt the Bengali language and was thereafter sent to Santiniketan, the most famous seat of spiritual learning in India, founded by the great Bengali poet Rabindranath Tagore. He later went on to join Presidency College, a well-known University in Madras.
 
 </p><p>When Anagarika Dharmapala became a  monk in 1931, Valisinha became the natural choice for the post of General-Secretary and Treasurer of the Maha Bodhi Society. Anagarika Dharmapala, tired and weary by then, realised it was time to write his last will. It was to Valisinha that he entrusted the task of journeying to faraway Australia, where, in consultation with Anagarika Dharmapala’s friend, John de Silva, papers  were  drafted  in  the  State of Queensland. The last will was executed in Sri Lanka by Julius & Creasy Notaries Public.

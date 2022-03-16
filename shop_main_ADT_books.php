@@ -167,7 +167,7 @@ There may be unexpected delays in the event of curfews, travel restrictions, pos
 				<img src="assets/images/shop_images/main_book_1.png" alt="image" class ="mx-auto image-fluid d-block">
 						</div>
 						<div class="tl-product-content">
-								<h4>they turn <br/> the tide</h4>
+								<h4>they turned <br/> the tide</h4>
 								<p>Rs 150.00 
 							
 								</p>
@@ -184,7 +184,7 @@ There may be unexpected delays in the event of curfews, travel restrictions, pos
 						<img src="assets/images/shop_images/main_book_2.png" alt="image" class ="mx-auto image-fluid d-block">
 					</div>
 					<div class="tl-product-content">
-							<h4>anagarika darmapala pradanaya</h4>
+							<h4>Anagarika Dharmapala Apadanaya</h4>
 							<p>Rs 150.00
 							
 								</p>
@@ -200,7 +200,7 @@ There may be unexpected delays in the event of curfews, travel restrictions, pos
 			<img src="assets/images/shop_images/main_book_3.png" alt="image" class ="mx-auto image-fluid d-block">
 					</div>
 					<div class="tl-product-content">
-							<h4>Anagarika darmapala abhiyogaya saha api</h4>
+							<h4>Anagarika Dharmapala Abhiyogaya Saha Api</h4>
 							<p>Rs 150.00 
 						
 							</p>
@@ -219,7 +219,7 @@ There may be unexpected delays in the event of curfews, travel restrictions, pos
 			<img src="assets/images/shop_images/main_book_4.png" alt="image" class ="mx-auto image-fluid d-block">
 					</div>
 					<div class="tl-product-content">
-							<h4>mahabodi <br/>kathawa</h4>
+							<h4>Mahabodi <br/>Kathawa</h4>
 							<p>Rs 150.00 
 						
 							</p>

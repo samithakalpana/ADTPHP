@@ -105,7 +105,7 @@ These archaeologists had mapped out these sites and based their findings from th
 							<img src="assets/images/custom_images/buddagaya_62.jpg" alt="img">
 							<img src="assets/images/custom_images/buddagaya_64.jpg" alt="img">
 							<img src="assets/images/custom_images/buddagaya_67.jpg" alt="img">
-							<img src="assets/images/custom_images/buddagaya_team.jpg" alt="img">
+							<!-- <img src="assets/images/custom_images/buddagaya_team.jpg" alt="img"> -->
 							
 						</div>
 					</div>
