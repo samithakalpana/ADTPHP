@@ -111,7 +111,7 @@
 
 
 <!-- image added -->
-<div class="col-xl-4 col-md-4 align-self-center">
+<div class="col-xl-8 col-md-4 align-self-center">
 	<div class="about-us-image"><br><br>
 	<img src="assets/images/custom_images/maha_bodi_india.jpg" alt="img" class="img-fluid mx-auto d-block">
 </div>

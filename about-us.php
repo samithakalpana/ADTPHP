@@ -84,7 +84,7 @@ html {
 				<br/>
 <br/>
 <br/>
-				<div class="col-xl-4 col-lg-5 offset-xl-1 align-self-center">
+				<div class="col-xl-8 col-lg-5 offset-xl-1 align-self-center">
 						<div class="ss-pastor-img-wrap">
 					
 							<img src="assets/images/custom_images/chairmans_msg.jpeg" alt="img">
@@ -120,7 +120,7 @@ html {
 				<div  class="col-xl-7 col-md-7">
 					<div class="about-us-content">
 						<div class="section-header">
-							<h2>The  <u class="text-custom-primary">Vision</u></h2>
+							<br><br><br><h2>The  <u class="text-custom-primary">Vision</u></h2>
 							<p>Anagarika Hewavitarne Dharmapala, after a lifetime of activism on behalf of the people of Sri Lanka in general, of uniting the Buddhists of the world and promoting the Buddhist philosophy worldwide, having reached an advanced age and wishing to give up the life of a layman and become a Buddhist monk, transferred all his private properties and those gifts he had received from various parties, to a Trust known as the Anagarika Dharmapala Trust, to perpetuate the work he had begun. The Trust Deed was signed in Colombo by the Anagarika Dharmapala on the 29th of November, 1930 and attested by Julius & Creasy, Notaries Public. He handpicked his nominees to be the first Trustees of the Trust that bore his name. The objects of the Trust were announced to the public through the local newspapers.
 </p>
 						</div>
