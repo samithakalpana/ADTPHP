@@ -108,6 +108,7 @@ html {
 පත්විය. ඔහු පහත පරිදි අධිෂ්ඨාන කළේය.
 </p>
 
+
 					
 						</div>
 						<p>
@@ -122,8 +123,24 @@ html {
 							සභාපති<br/>
 2565/2021 <br><br><br>
  </p>
+ 								<!-- add image -->
+								 <br/>
+<br/>
+<br/>
+				<!-- <div class="col-xl-4 col-lg-5 offset-xl-1 align-self-center"> -->
+				<div class=" align-self-center">
+						<!-- <div class="ss-pastor-img-wrap"> -->
+					
+							<img src="assets/images/custom_images/chairmans_msg.jpeg" alt="img">
+						<!-- </div> -->
+					</div>
+<br/>
+<br/>
+<br/>
+<!-- add image -->
 					</div>
 				</div>
+
 
 
 
@@ -188,7 +205,8 @@ html {
 
 				<div class="col-xl-5 col-md-5 align-self-center">
 					<div class="about-us-image">
-						<img src="assets/images/trust1.jpeg" alt="img" class="img-fluid mx-auto d-block">
+						<!-- <img src="assets/images/trust1.jpeg" alt="img" class="img-fluid mx-auto d-block"> -->
+						<img src="assets/images/custom_images/vision_office.jpg" alt="img" class="img-fluid mx-auto d-block">
 						<br>
 						<img src="assets/images/trust3.jpeg" alt="img" class="img-fluid mx-auto d-block">
 						

@@ -71,30 +71,7 @@
 							<!-- <p class="designation">Yoga Teacher</p> -->
 							<p class="designation">(1875 සිට - 1913 දක්වා)</p>
 				
-							<p>						
-							
-	</p>
-							<!-- <div class="sa-team-social">
-								<h5>Social links</h5>
-								<ul class="text-center">
-									<li><a href="#"><i class="fab fa-facebook-f"></i></a></li>
-									<li><a href="#"><i class="fab fa-twitter"></i></a></li>
-									<li><a href="#"><i class="fab fa-linkedin-in"></i></a></li>
-									<li><a href="#"><i class="fab fa-youtube"></i></a></li>
-									<li><a href="#"><i class="fab fa-instagram"></i></a></li>
-								</ul>
-							</div> -->
-						</div>
-					</div>
-					<!-- <div class="col-xl-4 col-lg-5 offset-xl-1 align-self-center">
-						<div class="ss-pastor-img-wrap">
-						
-							<img src="assets/images/pastor-1.jpg" alt="img">
-						</div>
-					</div> -->
-				</div>
-
-				<p>අනගාරික ධර්මපාලයන්ගේ දෙවන බාල සොහොයුරා
+							<p>අනගාරික ධර්මපාලයන්ගේ දෙවන බාල සොහොයුරා
 වූ සයිමන් තම තරුණ අවධියේ සිටම බෞද්ධ ඥාන සම්භාරය
 පිළිබඳව හෘදයාංගම ඇල්මක් තිබූ කලාකාමී වහා හැ`ගීම්
 ඇතිවන ස්වභාවයක් තිබූ කලාකාමී ඉතාම සංවේදී පුද්ගලයෙක්
@@ -122,6 +99,27 @@
 කැමති පත‍්‍රය ලියා තැබීය.
 							
 							</p>
+							<!-- <div class="sa-team-social">
+								<h5>Social links</h5>
+								<ul class="text-center">
+									<li><a href="#"><i class="fab fa-facebook-f"></i></a></li>
+									<li><a href="#"><i class="fab fa-twitter"></i></a></li>
+									<li><a href="#"><i class="fab fa-linkedin-in"></i></a></li>
+									<li><a href="#"><i class="fab fa-youtube"></i></a></li>
+									<li><a href="#"><i class="fab fa-instagram"></i></a></li>
+								</ul>
+							</div> -->
+						</div>
+					</div>
+					<div class="col-xl-4 col-lg-5 offset-xl-1 align-self-center">
+						<div class="ss-pastor-img-wrap">
+						
+						<img src="assets/images/custom_images/simon.jpg" alt="img">
+						</div>
+					</div>
+				</div>
+
+
 				<p>සයිමන්ගේ අවමංගල්‍යය සිදු කරන ලද අවස්ථාවේ
 අනගාරික ධර්මපාලයන් අනුශාසනාවක් කරමින් සයිමන්ගේ
 මෙම අන්තිම කැමති පත‍්‍රය රැස්වූ පිරිසට කියවන ලදී. ත‍්‍රිපිටකය
