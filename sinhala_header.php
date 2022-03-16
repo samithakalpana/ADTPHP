@@ -135,7 +135,7 @@
 								<li><a href="sinhala_under_construction_page.php">ලන්ඩන් බෞද්ධ විහාර</a></li>
 								<li><a href="sinhala_under_construction_page.php">මල්ලිකා නිවාස සමිතිය</a></li>
 								<li><a href="sinhala_under_construction_page.php">බ්‍රිතාන්‍ය මහා බෝධි සංගමය</a></li>
-								<li><a href="sinhala_Associates_1_somawati_and_simon_trust.php">සෝමාවතී හෙවාවිතාරණ හා සයිමන් හේවාවිතාරණ භාරයන්</a></li>
+								<li><a href="sinhala_Associates_1_somawati_and_simon_trust.php">සයිමන් හේවාවිතාරණ හා සෝමාවතී හෙවාවිතාරණ භාරයන් </a></li>
 							
 								</ul>
 							</li>
@@ -161,7 +161,12 @@
 								<!-- <li><a href="our-teachers.php">ත්‍රිපිටක ප්‍රකාශන</a> -->
 								<!-- </ul> -->
 					</li>
-
+					
+					<li><a href="sinhala_Gallery.php">පිංතූර ගැලරිය</a>
+						<!-- <ul class="sub-menu"> -->
+								<!-- <li><a href="our-teachers.php">ත්‍රිපිටක ප්‍රකාශන</a> -->
+								<!-- </ul> -->
+					</li>
 			
 						<li ><a href="sinhala_contact-us.php">ඇමතුම්<span class="nav_arrow"></span></a>
 							<!-- <ul class="sub-menu">

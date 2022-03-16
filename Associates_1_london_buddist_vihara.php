@@ -107,7 +107,7 @@
 
 
 				<!-- image added -->
-<div class="col-xl-4 col-md-4 align-self-center">
+<div class="col-xl-8 col-md-4 align-self-center">
 	<div class="about-us-image"><br><br>
 	<img src="assets/images/custom_images/London_Buddhist_Vihara_UK.jpg" alt="img" class="img-fluid mx-auto d-block">
 </div>

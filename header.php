@@ -129,7 +129,7 @@
 								<li><a href="Associates_1_london_buddist_vihara.php">London Buddhist Vihara</a></li>
 								<li><a href="https://www.mallikahomes.org/">Mallika Nivasa Samithiya</a></li>
 								<li><a href="Associates_1_British_Maha_Bodhi_society.php">British Maha Bodhi Society</a></li>
-								<li><a href="Associates_1_somawati_and_simon_trust.php">Somawati Hewavitarne Trust & Simon Hewavitarne Trust </a></li>
+								<li><a href="Associates_1_somawati_and_simon_trust.php">Simon Hewavitarne Trust & Somawati Hewavitarne Trust </a></li>
 								<!-- <li><a href="Associates_1_simon_hewavitarne_trust.php">Simon Hewavitarne Trust </a></li> -->
 								
 								</ul>
@@ -150,8 +150,26 @@
 						
 								</ul>
 						</li>
+
+
+						<!-- <li class="dropdown" ><a href="#">Others<span class="nav_arrow"></span></a>
+											
+								<ul class="sub-menu">
+								<li><a href="shop_main_ADT_books.php">Store</a>
+								<li><a href="Other_publications.php">Gallery</a>
+								
+						
+								</ul>
+						</li> -->
+
+
+
+
+
+
 						
 						<li><a href="shop_main_ADT_books.php">Store</a></li>
+						<li><a href="Gallery.php">Gallery</a></li>
 						<li ><a href="contact-us.php">Contact Us<span class="nav_arrow"></span></a>
 							<!-- <ul class="sub-menu">
 								<li><a href="sermon.html">Life of Anagarika Dharmapala</a></li>
@@ -227,6 +245,12 @@
 								<li><a href="about-us.php#section_3">Managing Trustees</a></li>
 			</ui>
 			</li>
+
+
+
+
+
+			
 			<li><a href="Diaries.php">Diaries</a>
 								<li><a href="Other_publications.php">Other publications</a>
 								<li><a href="Information_for_researchers.php">Information for Researchers</a>

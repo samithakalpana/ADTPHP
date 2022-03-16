@@ -69,12 +69,12 @@
 	<section class="section-padding latest_event_sermons m-0">
 		<div class="container">
 			<div class="row">
-				<div class="center col-md-6 col-lg-5">
+			<!--	<div class="center col-md-6 col-lg-5">
 			
 					<div class=" heading">
 						<h3>Time Line</h3>
 						<div class="tl-slider-arrow float-right">
-							<!--  -->
+						
 						</div>
 					</div>
 					<div class="event_list event-slider slick-vertical">
@@ -83,7 +83,7 @@
 								<div class="col-12">
 									<div class="event-list">
 										<ul>
-											<!-- we can add class card below li tags if needed -->
+											
 											<li>
 												<div class="event_info">
 													<div class="event_date">
@@ -737,7 +737,8 @@ to manage the Sanghamitta convent for nuns
 
 					</div>
 				</div>
-
+				
+	-->
 				<!-- section two start here -->
 				<div class="col-md-6 col-lg-5 offset-lg-2">
 				<!-- <div class="col-md-12 col-lg-12 offset-lg-12"> -->
@@ -745,25 +746,25 @@ to manage the Sanghamitta convent for nuns
 						
 					</div>
 					<div class="ss-pastor-img-wrap">
-					<!-- <img src="assets/images/custom_images/1.jpg" alt="img"> -->
+					<img src="assets/images/custom_images/1.jpg" alt="img">
 					<img src="assets/images/custom_images/2.jpg" alt="img">
-					<!-- <img src="assets/images/custom_images/3.jpg" alt="img"> -->
+					<img src="assets/images/custom_images/3.jpg" alt="img">
 					<img src="assets/images/custom_images/4.jpg" alt="img">
 					<img src="assets/images/custom_images/5.jpg" alt="img">
 					<img src="assets/images/custom_images/6.jpg" alt="img">
-					<!-- <img src="assets/images/custom_images/7.jpg" alt="img"> -->
+					<img src="assets/images/custom_images/7.jpg" alt="img">
 					<img src="assets/images/custom_images/8.jpg" alt="img">
-					<!-- <img src="assets/images/custom_images/9.jpg" alt="img"> -->
+					<img src="assets/images/custom_images/9.jpg" alt="img">
 					<img src="assets/images/custom_images/10.jpg" alt="img">
-					<!-- <img src="assets/images/custom_images/11.jpg" alt="img">
-					<img src="assets/images/custom_images/12.jpg" alt="img"> -->
+						<img src="assets/images/custom_images/11.jpg" alt="img">     
+						<img src="assets/images/custom_images/12.jpg" alt="img">
 					<img src="assets/images/custom_images/13.jpg" alt="img">
 					<img src="assets/images/custom_images/14.jpg" alt="img">
 					<img src="assets/images/custom_images/15.jpg" alt="img">
 					<img src="assets/images/custom_images/16.jpg" alt="img">
 					<img src="assets/images/custom_images/17.jpg" alt="img">
 					<img src="assets/images/custom_images/18.jpg" alt="img">
-					<!-- <img src="assets/images/custom_images/19.jpg" alt="img"> -->
+					<img src="assets/images/custom_images/19.jpg" alt="img">
 					<img src="assets/images/custom_images/20.jpg" alt="img">
 					<img src="assets/images/custom_images/21.jpg" alt="img">
 					<img src="assets/images/custom_images/22.jpg" alt="img">

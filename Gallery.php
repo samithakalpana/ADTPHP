@@ -2,14 +2,14 @@
 <html lang="en">
 
 
-<!-- Mirrored from primehostingindia.com/templatemonster/html/templezen/our-teachers.html by HTTrack Website Copier/3.x [XR&CO'2014], Thu, 06 Jan 2022 18:06:09 GMT -->
+<!-- Mirrored from primehostingindia.com/templatemonster/html/templezen/about-us.html by HTTrack Website Copier/3.x [XR&CO'2014], Thu, 06 Jan 2022 18:01:27 GMT -->
 <head>
 	<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
 	<meta http-equiv="X-UA-Compatible" content="IE=edge">
 	<meta name="viewport" content="width=device-width,initial-scale=1">
 	<meta name="keywords" content="">
 	<meta name="description" content="">
-	<title>ADT-Benefactors</title>
+	<title>Templezen - Buddhist Temple HTML5 Template</title>
 	<!--Bootstrap -->
 	<link rel="stylesheet" href="assets/css/bootstrap.min.css" type="text/css">
 	<!--OWL Carousel slider-->
@@ -36,8 +36,9 @@
 </head>
 
 <body id="tl">
-		<!-- Header -->
-		<?php include_once 'header.php'; ?>
+	<!-- Header -->
+        	<?php include_once 'header.php'; ?>
+	
 	<!-- /Header -->
 
 	<!-- Inner-intro -->
@@ -46,12 +47,13 @@
 			<div class="inner_wp z_index white_text">
 				<div class="row">
 					<div class="col-md-12">
-						<h1 class="text-center">Benefactors</h1>
-						<h5 class="text-center">Neelkamal Mukherjee</h5>
+						<h1 class="text-center">Our Gallery<br/>
+</h1>
 						<nav class="breadcrumb">
 							<ul>
 								<li class="breadcrumb-item"><a href="index.php">Home</a></li>
-								<li class="breadcrumb-item active">Neelkamal Mukherjee</li>
+								<li class="breadcrumb-item active">Our Gallery
+</li>
 							</ul>
 						</nav>
 					</div>
@@ -61,60 +63,62 @@
 	</section>
 	<!-- /Inner-intro -->
 
-	<section class="sa-paster-about-section section-padding pd-default">
-			<div class="container">
-				<div class="row">
-					<div class="col-lg-7">
-						<div class="sa-paster-about-area">
-							<!-- <h3>Gopal dhanam</h3> -->
-							<h3>Neelkamal Mukherjee</h3>
-							<!-- <p class="designation">Yoga Teacher</p> -->
-							<!-- <p class="designation">(From ------)</p> -->
-							<p>  From a wealthy family in Calcutta, Mukherjee’s home was a welcoming haven for Anagarika Dharmapala during his maiden visit to Calcutta when he first visited Buddha Gaya. He stayed in their home when he built the Dharmarajika Vihara, the Indian Head Quarters of the Maha Bodhi Society. The Mukherjee family remained lifelong friends of Anagarika Dharmapala and of the Maha Bodhi Society in India.
-							
-							</p>
-							<p>
- 
-	</p><p>
 
-	</p><p>
-
-	</p>
-	<p>
-
-
-							
-							</p>
-							<!-- <div class="sa-team-social">
-								<h5>Social links</h5>
-								<ul class="text-center">
-									<li><a href="#"><i class="fab fa-facebook-f"></i></a></li>
-									<li><a href="#"><i class="fab fa-twitter"></i></a></li>
-									<li><a href="#"><i class="fab fa-linkedin-in"></i></a></li>
-									<li><a href="#"><i class="fab fa-youtube"></i></a></li>
-									<li><a href="#"><i class="fab fa-instagram"></i></a></li>
-								</ul>
-							</div> -->
-						</div>
-					</div>
-					<div class="col-xl-4 col-lg-5 offset-xl-1 align-self-center">
-						<div class="ss-pastor-img-wrap">
-							<!-- <img src="assets/images/pastor-1.jpg" alt="img"> -->
-							<img src="assets/images/custom_images/neelkamal_page80.png" alt="img">
+			<!-- Gallery intro -->
+			<section class="section-padding latest_event_sermons m-0">
+				
+		<div class="container">
+			<div class="row">
+			<div class="col-xl-12 col-lg-5 offset-xl-1 align-self-center">
 			
-						</div>			<br>	<p class="align_center">  Anagarika Dharmapala with the son of Neel Kamal Mukherjee
-						
-							
-
-						</p>
+					<div class=" heading">
+						<h3 class="align_center">We will soon be lanuching  a series of valuable, historical images of Anagarika Dharmapala and his times. You can  get a glimpse  of some of those images for the moment here.
+</h3>
 					</div>
 				</div>
 			</div>
-		</section>
+		</div><ul class="hm-list hm-instagram">
+			<li>
+				<a href="#"><img src="assets/images/home-page/insta-09.png" alt="instagram"></a>
+			</li>
+			<li>
+				<a href="#"><img src="assets/images/home-page/insta-02.png" alt="instagram"></a>
+			</li>
+			<li>
+				<a href="#"><img src="assets/images/home-page/insta-03.png" alt="instagram"></a>
+			</li>
+			<li>
+				<a href="#"><img src="assets/images/home-page/insta-04.png" alt="instagram"></a>
+			</li>
+			<li>
+				<a href="#"><img src="assets/images/home-page/insta-05.png" alt="instagram"></a>
+			</li>
+			<li>
+				<a href="#"><img src="assets/images/home-page/insta-06.png" alt="instagram"></a>
+			</li>
+			<li>
+				<a href="#"><img src="assets/images/home-page/insta-07.png" alt="instagram"></a>
+			</li>
+			<li>
+				<a href="#"><img src="assets/images/home-page/insta-08.png" alt="instagram"></a>
+			</li>
+			<li>
+				<a href="#"><img src="assets/images/home-page/insta-01.png" alt="instagram"></a>
+			</li>
+		</ul>
 
-	<!-- Footer -->
-	<?php include_once 'footer.php';?>
-	<!-- /Footer -->
+
+
+
+
+
+<!-- <img src="assets/images/under_construction_page/under_construct.jpg" alt="img" class="w-100  img-fluid max-width"> -->
+
+
+	
+<?php include_once 'sinhala_footer.php';?>
+
+
 
 	<!-- Scripts -->
 	<script src="assets/js/jquery.min.js"></script>
@@ -134,5 +138,5 @@
 </body>
 
 
-<!-- Mirrored from primehostingindia.com/templatemonster/html/templezen/our-teachers.html by HTTrack Website Copier/3.x [XR&CO'2014], Thu, 06 Jan 2022 18:06:34 GMT -->
+<!-- Mirrored from primehostingindia.com/templatemonster/html/templezen/about-us.html by HTTrack Website Copier/3.x [XR&CO'2014], Thu, 06 Jan 2022 18:01:50 GMT -->
 </html>

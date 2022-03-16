@@ -99,10 +99,10 @@ Buddhism, that Valisinha - then only 8 years — first saw and heard him. He cou
 						<div class="ss-pastor-img-wrap">
 							<!-- <img src="assets/images/pastor-1.jpg" alt="img"> -->
 							<img src="assets/images/custom_images/walisinha_page153.png" alt="img">
-						</div>
+						</div><p class="align_center"> <br><b>Devapriya Valisinha in the center with the monks of the Vidyodaya Privena at the handover of Ven Devamitta Dhammpala’s ashes to the Pirvena</b>  </p>
 					</div>
 				</div>
-				<p><b><i>photo caption: Devapriya Valisinha in the center with the monks of the Vidyodaya Privena at the handover of Ven Devamitta Dhammpala’s ashes to the Pirvena</i></b>  </p>
+				<!-- <p><b><i>photo caption: Devapriya Valisinha in the center with the monks of the Vidyodaya Privena at the handover of Ven Devamitta Dhammpala’s ashes to the Pirvena</i></b>  </p> -->
 
 				<p>In 1917, when  Anagarika Dharmapala’s mother went to India on a pilgrimage, Valisinha, now 13 years old, accompanied her. The Anagarika had spent most of his time all those years ’imprisoned’ in Calcutta by the British authorities, following the 1915 race riots in Sri Lanka. Valisinha was taught to do the accounts of the Maha Bodhi Society, India, and learnt the Bengali language and was thereafter sent to Santiniketan, the most famous seat of spiritual learning in India, founded by the great Bengali poet Rabindranath Tagore. He later went on to join Presidency College, a well-known University in Madras.
 
