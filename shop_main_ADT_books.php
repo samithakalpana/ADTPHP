@@ -219,7 +219,7 @@ There may be unexpected delays in the event of curfews, travel restrictions, pos
 			<img src="assets/images/shop_images/main_book_4.png" alt="image" class ="mx-auto image-fluid d-block">
 					</div>
 					<div class="tl-product-content">
-							<h4>Mahabodi <br/>Kathawa</h4>
+							<h4>Mahabodhi <br/>Kathawa</h4>
 							<p>Rs 150.00 
 						
 							</p>
@@ -253,7 +253,7 @@ There may be unexpected delays in the event of curfews, travel restrictions, pos
 		<img src="assets/images/shop_images/main_book_6.png" alt="image" class ="mx-auto image-fluid d-block">
 				</div>
 				<div class="tl-product-content">
-						<h4>The Lion Of Cylon in Chicago</h4>
+						<h4>The Lion Of Lanka in Chicago</h4>
 						<p>Rs 150.00 
 						
 							</p>

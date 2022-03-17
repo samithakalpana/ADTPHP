@@ -92,17 +92,17 @@ As a commentator wrote after his death:
 				</div>
 				<p>
 	In 1886 when the American Theosophist,
-	<a href="benefactors_3_our-teachers.php"><b> Henry Steel Olcott </b></a>and English Theosophist,
-	 <a href=""><b>Charles Webster Leadbeater</b></a> (who went on to become the first principal of what would become the country's largest Buddhist secondary school, Ananda College) travelled around Ceylon to raise funds for their educational projects, it was the young Anagarika who went with them as their translator. During this long tour he learnt about the state of the lives of Ceylonese - mostly Sinhalese villagers: poor, indebted, illiterate, lacking in self-worth and living in constant fear of their colonial ruler. 
+	<a href="benefactors_3_our-teachers.php"><span style="color: blue;"><b> Henry Steel Olcott </b></span></a>and English Theosophist,
+	 <a href="">Charles Webster Leadbeater</a> (who went on to become the first principal of what would become the country's largest Buddhist secondary school, Ananda College) travelled around Ceylon to raise funds for their educational projects, it was the young Anagarika who went with them as their translator. During this long tour he learnt about the state of the lives of Ceylonese - mostly Sinhalese villagers: poor, indebted, illiterate, lacking in self-worth and living in constant fear of their colonial ruler. 
 	</p><p>
 	From 1886 - 1890, working as the general manager and assistant secretary of the Society, the young Anagarika took on the name Hewavitarne Dharmapala. This name would later become abbreviated, first to H. Dharmapala and later to Anagarika Dharmapala (the renunciant guardian of the truth). Working with Olcott and Leadbeater, the young Anagarika was first introduced to printing and publication when they began the Sarasavi Sandaresa and in 1888, The Buddhist (funded mainly by his grandfather and friends).
 	</p><p>
 	Soon, Dharmapala’s life would be taken over by his ceaseless work for Buddhism, starting with a tour of Japan with Olcott in 1889. They traveled extensively around Japan delivering lectures and reading out the erudite Sri Lankan scholar-monk 
-	<a href="benefactors_1_our-teachers.php"><b>Ven Hikkaduwe Sumangala Thero</b></a>’s letter of good wishes written in Sanskrit to the Buddhists of Japan. It was the first letter from a monk of the Southern Buddhist tradition (Theravada) to those of the Northern tradition (Mahayana) in such times.
+	<a href="benefactors_1_our-teachers.php"><span style="color: blue;"><b>Ven Hikkaduwe Sumangala Thero</b></span></a>’s letter of good wishes written in Sanskrit to the Buddhists of Japan. It was the first letter from a monk of the Southern Buddhist tradition (Theravada) to those of the Northern tradition (Mahayana) in such times.
 	</p>
 				<p>
 	However, the turning point of the young 26-year old Dharmapala’s life occurred after reading a famous poem at the time, Light of Asia, by the Englishman,
-	 <a href="benefactors_5_our-teachers.php"><b>Sir Edwin Arnold</b></a>. Following the poem, Arnold also wrote to a British newspaper of his visit to the then neglected Bodh Gaya (Buddha Gaya) where the Sakyan Prince Gautama had attained enlightenment as the Buddha. There was also an article in the newspapers that British archeologists had discovered more sites in India sanctified by the touch of the feet of Gautama the Buddha. Dharmapala travelled to Buddha Gaya on the 22nd of January 1891 with a small group of companions, including the Japanese monk, Kozen Gunaratana. Anagarika Dharmapala says this about his moment of inspiration:
+	 <a href="benefactors_5_our-teachers.php"><span style="color: blue;"><b>Sir Edwin Arnold</b></span></a>. Following the poem, Arnold also wrote to a British newspaper of his visit to the then neglected Bodh Gaya (Buddha Gaya) where the Sakyan Prince Gautama had attained enlightenment as the Buddha. There was also an article in the newspapers that British archeologists had discovered more sites in India sanctified by the touch of the feet of Gautama the Buddha. Dharmapala travelled to Buddha Gaya on the 22nd of January 1891 with a small group of companions, including the Japanese monk, Kozen Gunaratana. Anagarika Dharmapala says this about his moment of inspiration:
 
 							
 							</p>
@@ -114,7 +114,7 @@ As a commentator wrote after his death:
 
 							<p>
 							With that moment of inspiration began Dharmapala’s sacred mission of reclaiming Buddha Gaya (and also Sarnath, where the Buddha gave his first discourse on his Doctrine of the 'Middle Path') as Buddhist sites of worship. For this purpose, he founded the 
-							<a href="Associates_1_Maha_Bodhi_Society.php"><b>Maha Bodhi Society</b></a> in Colombo in 1891 with Ven., Hikkaduwe Sumangala Thero as the Founder President and himself as the Secretary. Reclaiming Buddha Gaya became the primary mission of his life.
+							<a href="Associates_1_Maha_Bodhi_Society.php"><span style="color: blue;"><b>Maha Bodhi Society</b></span></a> in Colombo in 1891 with Ven., Hikkaduwe Sumangala Thero as the Founder President and himself as the Secretary. Reclaiming Buddha Gaya became the primary mission of his life.
 
 							</p>
 				<p>
@@ -125,7 +125,7 @@ As a commentator wrote after his death:
 							</p>
 							<p>
 							On Dharmapala’s return journey he stopped in Honolulu on the invitation of the Theosophists in Honolulu, where he met Theosophist,
-							<a href="benefactors_2_our-teachers.php"><b> Mrs Mary Robinson Foster</b></a>, the lady who would become his chief benefactor after the death of his father.
+							<a href="benefactors_2_our-teachers.php"><span style="color: blue;"><b> Mrs Mary Robinson Foster</b></span></a>, the lady who would become his chief benefactor after the death of his father.
 							</p>
 
 			</div>

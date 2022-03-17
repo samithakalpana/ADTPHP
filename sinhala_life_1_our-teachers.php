@@ -85,8 +85,8 @@
 							<p>දොන් ඬේවිඞ් හේවාවිතාරණ විසිවැනි ශත වර්ෂ
 මුල් අවධියේදී අනගාරික ධර්මපාල යනුවෙන් ලොවපුරා දැන
 සිටි මෙතුමා
- <a href="sinhala_family_2.php"><b>මල්ලිකා </b></a>සහ 
- <a href="sinhala_family_1.php"><b>දොන් කරෝලිස් හේවාවිතාරණ</b></a>ට
+ <a href="sinhala_family_2.php"><span style="color: blue;"><b>මල්ලිකා </b></span></a>සහ 
+ <a href="sinhala_family_1.php"><span style="color: blue;"><b>දොන් කරෝලිස් හේවාවිතාරණ</b></span></a>ට
 දාව 1864 සැප්තැම්බර් මස 17 දා උපත ලැබීය.
 							
 							</p><p>එම කාල වකවානුවේදී හේවාවිතාරණ පවුල ජීවත්වූයේ
@@ -182,10 +182,10 @@
 මිගෙට්ටුවත්තේ ගුණානන්ද හිමියන් වන අතර 1878 පළවූ ප‍්‍රථම
 THEOSOPHIST සගරාවේ සිටම ඔහු කියවීය. පරම විඥානාර්ථ
 සංගමයේ පුරෝගාමීන් දෙදෙනෙකු වූ 
-<a href="sinhala_benefactors_3.php"><b>කර්නල් හෙන්රි ස්ටීල් ඔල්කොට් තුම</b></a>
+<a href="sinhala_benefactors_3.php"><span style="color: blue;"><b>කර්නල් හෙන්රි ස්ටීල් ඔල්කොට් තුම</b></span></a>
 න් සහ 
 
-<a href="sinhala_benefactors_4.php"><b>හෙලේනා බලැවැට්ස්</b></a>
+<a href="sinhala_benefactors_4.php"><span style="color: blue;"><b>හෙලේනා බලැවැට්ස්</b></span></a>
  (HENRY STEEL
 OLCOTT AND MADAN HELENA BLAVETSKY) 1880 දී
 ලංකාවට ආහ. ඔල්කොට් තුමාගේ දේශනයන්ට සහභාගි වූ

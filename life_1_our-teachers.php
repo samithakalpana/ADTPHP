@@ -70,8 +70,8 @@
 							<h3>Don David Hewavitarne</h3>
 							<!-- <p class="designation">Yoga Teacher</p> -->
 							<p class="designation">(From 1864-1885)</p>
-							<p>	Don David Hewavitarne, who would become known throughout the world in the early twentieth century as Anagarika Dharmapala, was born to <a href="family_2_our-teachers.php"><b>Mallika</b></a> and <a href="family_1_our-teachers.php
-							"><b>Don Carolis Hewavitarne</b></a> on the 17th of September 1864. 
+							<p>	Don David Hewavitarne, who would become known throughout the world in the early twentieth century as Anagarika Dharmapala, was born to <a href="family_2_our-teachers.php"><span style="color: blue;"><b>Mallika</b></span></a> and <a href="family_1_our-teachers.php
+							"><span style="color: blue;"><b>Don Carolis Hewavitarne</b></span></a> on the 17th of September 1864. 
 							
 							</p>
 							<p>							
@@ -100,8 +100,8 @@ He writes about his beloved parents with much love and respect, although he crit
 
 				<p>
 At an early age, Don David was drawn to spiritual ideas, meditation and serving the poor. It is easy to see the young man being attracted to the Theosophist Movement. He was introduced to it by Ven Migettuwatte Gunananda Thero and began reading the Theosophist from its first publication in 1878.  When 
-<a href="benefactors_3_our-teachers.php"><b>Col Henry Steel Olcott</b></a>, an American and 
-<a href="benefactors_4_our-teachers.php"><b>Madam Helena Blavatsky</b></a>, of Russian origin (two of the main founders of the Theosophical Society), arrived in Ceylon in 1880, young David attended Olcott’s lectures and followed up by reading voraciously about spiritual development. He had a desire to be a renunciant and also at this time became a vegetarian. He joined the Theosophical Society in 1884. During these formative years, he also worked at the Department of Public Instruction in 1885. Yet, his interests were already firmly turned towards spiritualism and service.
+<a href="benefactors_3_our-teachers.php"><span style="color: blue;"><b>Col Henry Steel Olcott</b></span></a>, an American and 
+<a href="benefactors_4_our-teachers.php"><span style="color: blue;"><b>Madam Helena Blavatsky</b></span></a>, of Russian origin (two of the main founders of the Theosophical Society), arrived in Ceylon in 1880, young David attended Olcott’s lectures and followed up by reading voraciously about spiritual development. He had a desire to be a renunciant and also at this time became a vegetarian. He joined the Theosophical Society in 1884. During these formative years, he also worked at the Department of Public Instruction in 1885. Yet, his interests were already firmly turned towards spiritualism and service.
 	</p><p>
 The family setting David grew up in, the beautiful garden and the large house of his childhood and parents who understood the practice of the Dhamma and wholeheartedly encouraged it in their son,  laid a spiritual foundation in his life. Spiritual progress and the practice of the Buddha’s teachings became the foundational purpose of his life. Everything else he engaged in would emanate from his fervent dedication to this purpose.
 	</p>

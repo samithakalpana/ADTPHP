@@ -99,7 +99,7 @@ Buddhism, that Valisinha - then only 8 years — first saw and heard him. He cou
 						<div class="ss-pastor-img-wrap">
 							<!-- <img src="assets/images/pastor-1.jpg" alt="img"> -->
 							<img src="assets/images/custom_images/walisinha_page153.png" alt="img">
-						</div><p class="align_center"> <br><b>Devapriya Valisinha in the center with the monks of the Vidyodaya Privena at the handover of Ven Devamitta Dhammpala’s ashes to the Pirvena</b>  </p>
+						</div><p class="align_center"> <br>Devapriya Valisinha in the center with the monks of the Vidyodaya Privena at the handover of Ven Devamitta Dhammpala’s ashes to the Pirvena  </p>
 					</div>
 				</div>
 				<!-- <p><b><i>photo caption: Devapriya Valisinha in the center with the monks of the Vidyodaya Privena at the handover of Ven Devamitta Dhammpala’s ashes to the Pirvena</i></b>  </p> -->
