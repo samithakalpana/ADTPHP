@@ -69,7 +69,7 @@
 				
 		<div class="container">
 			<div class="row">
-			<div class="col-xl-12 col-lg-5 offset-xl-1 align-self-center">
+			<div class="col-xl-12 col-lg-5 offset-xl-0 align-self-center">
 			
 					<div class=" heading">
 						<h3 class="align_center">We will soon be lanuching  a series of valuable, historical images of Anagarika Dharmapala and his times. You can  get a glimpse  of some of those images for the moment here.
