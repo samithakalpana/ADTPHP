@@ -216,14 +216,14 @@ ob_start();
 					<div class="row">
 					<div class="col-lg-4 col-md-6">
 							<div class="features_wrap features-after-none">
-								<div class="f-f-icon"><a href="Diaries.php"><img src="assets/images/team.png" alt="img"></div>
+								<div class="f-f-icon"><a href="sinhala_Diaries.php"><img src="assets/images/team.png" alt="img"></div>
 								<h4 class="text-custom-secondary">ප්‍රකාශන සහ පර්‍යෙශන</h4></a>
 								</div>
 						</div>
 
 						<div class="col-lg-4 col-md-6">
 							<div class="features_wrap features-after-none">
-								<div class="f-f-icon"><a href="about-us.php"><img src="assets/images/peace.png" alt="img"></div>
+								<div class="f-f-icon"><a href="sinhala_about-us.php"><img src="assets/images/peace.png" alt="img"></div>
 								<h4 class="text-custom-secondary">භාරය</a></h4></a>
 								
 							</div>
@@ -231,7 +231,7 @@ ob_start();
 						
 						<div class="col-lg-4 col-md-6">
 							<div class="features_wrap features-after-none">
-								<div class="f-f-icon"><a href="shop_main_ADT_books.php"><img src="assets/images/team.png" alt="img"></div>
+								<div class="f-f-icon"><a href="sinhala_shop_main_ADT_books.php"><img src="assets/images/team.png" alt="img"></div>
 								<h4 class="text-custom-secondary">සාප්පුව</a></h4></a>
 								
 							</div>
@@ -274,7 +274,8 @@ ob_start();
 				<div class="item">
 					<div class="causes_info">
 						<!-- <p class="subtitle text-white">krishna's preaching</p> -->
-						<h3 class="white_text">“ගෙහිමියා සැම විටම මැද මාවත අනුගමනය කළයුතුය.”</h3>
+						<h3 class="white_text">“ගෙහිමියා සැම විටම මැද මාවත අනුගමනය කළයුතුය.සියල්ලටම වඩා ත්‍යාගශීලිභාවය සහ සෙනෙහස ප‍්‍රගුණ කළ
+යුතුය."</h3>
 						<p class="white_text mb-0">අනගාරික ධර්මපාල  - 1910</p>
 					</div>
 				</div>
@@ -526,7 +527,7 @@ ob_start();
 						
 						<a href="tel:+94 011 269 5012" class="btn btn-lg dark-btn margin-top-30">දුරකතන ඇමතුම්</a>
 						<a href="mailto:adtrust@sltnet.lk" class="btn btn-lg dark-btn margin-top-30">විද්‍යුත් තැපෑල</a><br>
-						<a href="contact-us.php" class="btn btn-lg dark-btn margin-top-30">හමුවීමට</a>
+						<a href="sinhala_contact-us.php" class="btn btn-lg dark-btn margin-top-30">හමුවීමට</a>
 					</div>
 				</div>
 
