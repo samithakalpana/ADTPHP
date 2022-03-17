@@ -9,7 +9,7 @@
 	<meta name="viewport" content="width=device-width,initial-scale=1">
 	<meta name="keywords" content="">
 	<meta name="description" content="">
-	<title>ADT-Benefactors</title>
+	<title>ADT</title>
 	<!--Bootstrap -->
 	<link rel="stylesheet" href="assets/css/bootstrap.min.css" type="text/css">
 	<!--OWL Carousel slider-->
@@ -114,14 +114,14 @@ He believed, at the age of 20, like many other Buddhists at the time, that the i
 							</p><p>For more details see:
 
 
-
-<a href="https://blavatskyarchives.com/ "><b>https://blavatskyarchives.com/  </b></a>
+<br>
+<a href="https://blavatskyarchives.com/ "><span style="color: blue;"><b>https://blavatskyarchives.com/  </b></span></a>
 
 
 <br/>
 
 
-<a href="https://www.gutenberg.org/ebooks/authors/search/?query=Blavatsky,+H.+P.+(Helena+Petrovna)"><b>https://www.gutenberg.org/ebooks/authors/search/?query=Blavatsky,+H.+P.+(Helena+Petrovna)</b></a>
+<a href="https://www.gutenberg.org/ebooks/authors/search/?query=Blavatsky,+H.+P.+(Helena+Petrovna)"><span style="color: blue;"><b>https://www.gutenberg.org/ebooks/authors/search/?query=Blavatsky,+H.+P.+(Helena+Petrovna)</b></span></a>
 
 <br/>
 ·         Caldwell, Daniel H (2000). The esoteric world of Madame Blavatsky: insights into the life of a modern sphinx. Theosophical Pub. House. ISBN 978-0-8356-0794-0.<br/>

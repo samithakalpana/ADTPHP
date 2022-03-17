@@ -14,7 +14,7 @@ ob_start();
 	<meta name="viewport" content="width=device-width,initial-scale=1">
 	<meta name="keywords" content="">
 	<meta name="description" content="">
-	<title>ADT-HOME</title>
+	<title>ADT</title>
 	<!--Bootstrap -->
 	<link rel="stylesheet" href="assets/css/bootstrap.min.css" type="text/css">
 	<!--OWL Carousel slider-->
@@ -518,7 +518,8 @@ ob_start();
 			<div class="section-header-center text-center">
 				<br><br>
 				<h2>Our upcomming gallery</h2>
-				<p>We are almost ready to launch a bunch of valuable & historical Images of Anagarika Dharmapala on near future. You may find a glimpse of images for the moment. </p>
+				<p>We are almost ready to launch a series of valuable, historical images of Anagarika Dharmapala soon. You can  get a glimpse here of some of those images for the moment.
+ </p>
 			</div>
 		</div>
 		<ul class="hm-list hm-instagram">

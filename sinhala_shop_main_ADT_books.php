@@ -9,7 +9,7 @@
 	<meta name="viewport" content="width=device-width,initial-scale=1">
 	<meta name="keywords" content="">
 	<meta name="description" content="">
-	<title>Templezen - Buddhist Temple HTML5 Template</title>
+	<title>ADT</title>
 	<!--Bootstrap -->
 	<link rel="stylesheet" href="assets/css/bootstrap.min.css" type="text/css">
 	<!--OWL Carousel slider-->
@@ -260,7 +260,7 @@
 				<img src="assets/images/shop_images/main_book_1.png" alt="image" class ="mx-auto image-fluid d-block">
 						</div>
 						<div class="tl-product-content">
-								<h4>they turn the <br/> tide</h4>
+								<h4>they turned the <br/> tide</h4>
 								<p>Rs 150.00 
 									<!-- <span class="off-price">$56</span> -->
 								</p>
@@ -346,7 +346,7 @@
 		<img src="assets/images/shop_images/main_book_6.png" alt="image" class ="mx-auto image-fluid d-block">
 				</div>
 				<div class="tl-product-content">
-						<h4>The Lion Of Cylon in Chicago</h4>
+						<h4>The Lion Of Lanka in Chicago</h4>
 						<p>Rs 150.00 
 								<!-- <span class="off-price">$56</span> -->
 							</p>

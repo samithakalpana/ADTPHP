@@ -9,7 +9,7 @@
 	<meta name="viewport" content="width=device-width,initial-scale=1">
 	<meta name="keywords" content="">
 	<meta name="description" content="">
-	<title>ADT-Benefactors</title>
+	<title>ADT</title>
 	<!--Bootstrap -->
 	<link rel="stylesheet" href="assets/css/bootstrap.min.css" type="text/css">
 	<!--OWL Carousel slider-->
@@ -70,14 +70,10 @@
 							<h3>Neelkamal Mukherjee</h3>
 							<!-- <p class="designation">Yoga Teacher</p> -->
 							<!-- <p class="designation">(From ------)</p> -->
-							<p> From a wealthy family in Calcutta, Mukherjee’s home was a welcoming haven for Anagarika Dharmapala during his maiden visit to Calcutta when he first visited Buddha Gaya. He stayed in their home when he built the Dharmarajika Vihara, the Indian Head Quarters of the Maha Bodhi Society. The Mukherjee family remained lifelong friends of Anagarika Dharmapala and of the Maha Bodhi Society in India.
+							<p>  From a wealthy family in Calcutta, Mukherjee’s home was a welcoming haven for Anagarika Dharmapala during his maiden visit to Calcutta when he first visited Buddha Gaya. He stayed in their home when he built the Dharmarajika Vihara, the Indian Head Quarters of the Maha Bodhi Society. The Mukherjee family remained lifelong friends of Anagarika Dharmapala and of the Maha Bodhi Society in India.
 							
 							</p>
-							<p>	Caption:   Anagarika Dharmapala with the son of Neel Kamal Mukherjee
-						
-							
-
-	</p><p>
+							<p>
  
 	</p><p>
 
@@ -105,7 +101,12 @@
 						<div class="ss-pastor-img-wrap">
 							<!-- <img src="assets/images/pastor-1.jpg" alt="img"> -->
 							<img src="assets/images/custom_images/neelkamal_page80.png" alt="img">
-						</div>
+			
+						</div>			<br>	<p class="align_center">  Anagarika Dharmapala with the son of Neel Kamal Mukherjee
+						
+							
+
+						</p>
 					</div>
 				</div>
 			</div>

@@ -9,7 +9,7 @@
 	<meta name="viewport" content="width=device-width,initial-scale=1">
 	<meta name="keywords" content="">
 	<meta name="description" content="">
-	<title>ADT-Family</title>
+	<title>ADT</title>
 	<!--Bootstrap -->
 	<link rel="stylesheet" href="assets/css/bootstrap.min.css" type="text/css">
 	<!--OWL Carousel slider-->
@@ -103,7 +103,10 @@
 	“We went weekly to see great grand Mallika who lived close by at Aloe Avenue. … A very old Mallika was dressed in a white sari with a long sleeved white jacket and a solemn face, and was seated on a white chair. Around her was a host of people we did not know….In  her kitchen compound I could see two Ali Baba jars on the boil, one with hot water to bathe the beggars and the other with rice to give them a meal. I heard that she cut the beggar women’s hair that was covered with lice and gave them her own expensive clothes to wear after a bath”.
 	</p><p>
 	Mallika, with the support of a group of like-minded ladies of her time, founded the Mallika Anatha Nivasa Samithiya - a Home for the Aged and Destitute in 1920 with the funds given to her by her youngest son, Dr Charles Hewavitarne, for the purchase of the land and the budlings in Colombo's Bambalapitiya area. The organization is today known as 
-	<a href="https://www.mallikahomes.org"><b>the Mallika Nivasa Samithiya</b></a>, which manages the Mallika Home, Sneha Child Development Centre and the Parakrama Child Development Centre.
+	<a href="https://www.mallikahomes.org">
+	<span style="color: blue;">	
+	
+	<b>the Mallika Nivasa Samithiya</b></span></a>, which manages the Mallika Home, Sneha Child Development Centre and the Parakrama Child Development Centre.
 	</p>
 	<p>Mallika’s life was tinged by tragedy. She lived to see the travails of her sons at the hands of the British rulers, including exile and imprisonment, and the death of all her children during her lifetime. 
 

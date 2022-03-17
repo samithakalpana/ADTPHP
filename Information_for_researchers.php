@@ -9,7 +9,7 @@
 	<meta name="viewport" content="width=device-width,initial-scale=1">
 	<meta name="keywords" content="">
 	<meta name="description" content="">
-	<title>Templezen - Buddhist Temple HTML5 Template</title>
+	<title>ADT</title>
 	<!--Bootstrap -->
 	<link rel="stylesheet" href="assets/css/bootstrap.min.css" type="text/css">
 	<!--OWL Carousel slider-->
@@ -88,12 +88,29 @@
  
  </p>
 <p>The Trust office library is open from 10.00 am to 3.00 pm every weekday (please make an appointment  before visiting).
-</p>
+</p><div div class="col-md-12 col-lg-12 offset-lg-12">
+					<div class="about-us-image">
+					<br><br>
+					<!-- <img src="assets/images/custom_images/book_case.jpeg" alt="img"><br><br> -->
+						<img src="assets/images/custom_images/information_for_researchers_1.jpeg" alt="img">
+						<!-- <img src="assets/images/lotus.png" alt="img" class="img-fluid mx-auto d-block"> -->
+						
+
+					</div>
+				</div>
 <br><br>
+
+
+
+
+
+
 <h6>Resources:
 </h6>
 <p>Sangharakshita, B (1952), <i>Angarika Dharmapala: A Biographical Sketch,</i> Buddhist Publications Society, Kandy (1983 printing).
 </p>
+
+
 
 <p>Guruge, Ananda P (1965)<i> Return to righteousness: a collection of speeches, essays, and letters of the Anagarika Dharmapala,</i> Anagarika Dharmapala Birth Centenary Committee, Ministry of Education and Cultural Affairs, Ceylon</p>
 <p>Ratnatunga, S (1991), They Turned the Tide – 100 Year History of the Maha Bodhi Society of Sri Lanka, </i> Government Press, Colombo.
@@ -106,6 +123,12 @@
 </p>
 
 					</div>
+
+
+
+			
+
+
 				</div>
 			
 				
@@ -114,15 +137,70 @@
 				
 
 			</div>
+
+			<div class="col-xl-7 col-lg-5 ">
+					<div class="about-us-image">
+					<br><br>
+					<img src="assets/images/custom_images/book_case.jpeg" alt="img"><br><br>
+						<!-- <img src="assets/images/custom_images/information_for_researchers_1.jpeg" alt="img"> -->
+						<!-- <img src="assets/images/lotus.png" alt="img" class="img-fluid mx-auto d-block"> -->
+						
+
+					</div>
+				</div>
+
+
 	</div>
 			
 <!-- image added -->
-<div class="col-xl-4 col-lg-5 offset-xl-1 align-self-center">
+
+
+<br/>
+<br/>
+<br/>
+				<!-- <div class="col-xl-3 col-lg-5 offset-xl-1 align-self-center">
+						<div class="ss-pastor-img-wrap">
+					<div class="">
+						<img src="assets/images/custom_images/book_case.jpeg" alt="img">
+						<img src="assets/images/custom_images/information_for_researchers_1.jpeg" alt="img">
+						</div>
+						</div>
+					</div> -->
+
+
+
+
+					<!-- <div class="col-xl-2 col-lg-5 offset-xl-1 align-self-center">
+						<div class="ss-pastor-img-wrap">
+							
+							<img src="assets/images/custom_images/book_case.jpeg" alt="img">
+						<img src="assets/images/custom_images/information_for_researchers_1.jpeg" alt="img">
+						</div>
+					</div> -->
+
+
+
+
+				
+
+<!-- <br/>
+<br/>
+<br/> -->
+
+
+
+
+
+
+
+
+
+<!-- <div class="col-xl-4 col-lg-5 offset-xl-1 align-self-center">
 	<div class="ss-pastor-img-wrap">
 		
 		<img src="assets/images/custom_images/book_case.jpeg" alt="img">
 	</div>
-</div>
+</div> -->
 <!-- image added -->
 
 	</section>

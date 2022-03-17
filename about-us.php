@@ -9,7 +9,7 @@
 	<meta name="viewport" content="width=device-width,initial-scale=1">
 	<meta name="keywords" content="">
 	<meta name="description" content="">
-	<title>Templezen - Buddhist Temple HTML5 Template</title>
+	<title>ADT</title>
 	<!--Bootstrap -->
 	<link rel="stylesheet" href="assets/css/bootstrap.min.css" type="text/css">
 	<!--OWL Carousel slider-->
@@ -81,10 +81,10 @@ html {
   <p>Anagarika Dharmapala's life as a Buddhist missionary, social activist and reformer in the colonial era was remarkable as it was extra-ordinary. His work and missions were a response to the religious, social, political and economic issues of his day, which made him very much a man of his times. Yet if one takes into account his innumerable projects for educational and industrial reform, the institutions he established, the global community of Buddhists he envisioned and the links he formed across nations, he would be considered one of the greatest thinkers and social activists of even today, had he lived in the 21st century.
 </p>
 				<!-- add image -->
-				<br/>
+				<!-- <br/>
 <br/>
 <br/>
-				<div class="col-xl-4 col-lg-5 offset-xl-1 align-self-center">
+				<div class="col-xl-8 col-lg-5 offset-xl-1 align-self-center">
 						<div class="ss-pastor-img-wrap">
 					
 							<img src="assets/images/custom_images/chairmans_msg.jpeg" alt="img">
@@ -92,7 +92,7 @@ html {
 					</div>
 <br/>
 <br/>
-<br/>
+<br/> -->
 <!-- add image -->
 
   <p>Anagarika Dharmapala had a multifaceted personality. He worked on numerous projects simultaneously. Therefore, it is easy to give him one-dimensional labels and take his words out of context. However, to do so is to ignore that he was responding to a conflicting body of issues as they arose around him in the complex world of colonial power and resistance he had to navigate.   </p>
@@ -107,6 +107,23 @@ html {
  Sudhammika Hewavitarne<br>
  Chairman <br><br><br>
  </p>
+
+
+
+
+ <br/>
+<br/>
+<br/>
+				<div class="col-xl-8 col-lg-5 offset-xl-1 align-self-center">
+						<div class="ss-pastor-img-wrap">
+					
+							<img src="assets/images/custom_images/chairmans_msg.jpeg" alt="img">
+						</div>
+					</div>
+<br/>
+<br/>
+<br/>
+
 					</div>
 				</div>
 
@@ -120,7 +137,7 @@ html {
 				<div  class="col-xl-7 col-md-7">
 					<div class="about-us-content">
 						<div class="section-header">
-							<h2>The  <u class="text-custom-primary">Vision</u></h2>
+							<br><br><br><h2>The  <u class="text-custom-primary">Vision</u></h2>
 							<p>Anagarika Hewavitarne Dharmapala, after a lifetime of activism on behalf of the people of Sri Lanka in general, of uniting the Buddhists of the world and promoting the Buddhist philosophy worldwide, having reached an advanced age and wishing to give up the life of a layman and become a Buddhist monk, transferred all his private properties and those gifts he had received from various parties, to a Trust known as the Anagarika Dharmapala Trust, to perpetuate the work he had begun. The Trust Deed was signed in Colombo by the Anagarika Dharmapala on the 29th of November, 1930 and attested by Julius & Creasy, Notaries Public. He handpicked his nominees to be the first Trustees of the Trust that bore his name. The objects of the Trust were announced to the public through the local newspapers.
 </p>
 						</div>

@@ -37,7 +37,7 @@
 
 <body id="tl">
 	<!-- Header -->
-	<?php include_once 'sinhala_header.php'; ?>
+        	<?php include_once 'header.php'; ?>
 	
 	<!-- /Header -->
 
@@ -47,11 +47,13 @@
 			<div class="inner_wp z_index white_text">
 				<div class="row">
 					<div class="col-md-12">
-						<h1 class="text-center">London Buddhist Vihara</h1>
+						<h1 class="text-center">Our Gallery<br/>
+</h1>
 						<nav class="breadcrumb">
 							<ul>
-								<li class="breadcrumb-item"><a href="index.html">Home</a></li>
-								<li class="breadcrumb-item active">London Buddhist Vihara</li>
+								<li class="breadcrumb-item"><a href="index.php">Home</a></li>
+								<li class="breadcrumb-item active">Our Gallery
+</li>
 							</ul>
 						</nav>
 					</div>
@@ -61,64 +63,61 @@
 	</section>
 	<!-- /Inner-intro -->
 
-	<!-- About-us -->
-	<section class="section-padding">
+
+			<!-- Gallery intro -->
+			<section class="section-padding latest_event_sermons m-0">
+				
 		<div class="container">
 			<div class="row">
-
-
-<br><br>
-
-
-
-
-
-				<div class="col-xl-9 col-md-9">
-                    
-					<div class="about-us-content">
-						<div class="section-header">
-							<div class="align-left"><h2><u class="text-custom-primary">London Buddhist Vihara
-</u></h2></div></div>  <p>Anagarika Dharmapala can be credited as the trail-blazer missionary who took the sublime teachings of the Buddha beyond the vast continent of Asia to North America and the United Kingdom.
- 
- In 1893 he spoke at the World Parliament of Religions in Chicago, USA on behalf of the 'Southern' or Theravada Buddhists and on 24 July, 1926 he established the first Buddhist place of worship in the West - in London.
- </p>
-
-<p>The first Buddhist temple was established in Ealing on a property purchased with the funds sent by Mrs. Mary Foster Robinson. He named it 'Foster House'. From there it moved to 41, Gloucester Road where on 5 February,1928 the house which was by then called the "Buddhist Mission" was converted to a Vihara, the London Buddhist Vihara. The Vihara was later requisitioned by the British Government for military purposes during World War II. After the war, the Vihara reopened at Regent's Park in Kensington. The premises were then acquired for a housing scheme. In 1963, the Anagarika Dharmapala Trust purchased a property at Heathfield Gardens in Chiswick and is now permanently situated at the Dharmapala building, The Avenue in Chiswick, London, W4 1UD.
-</p>
-<p>Both the London Buddhist Vihara and the British Maha Bodhi Society were established together by Anagarika Dharmapala. The BMBS administered the Vihara till 1985 and the Vihara is now administered by the Anagarika Dharmapala Trust. The BMBS functions as a separate entity with its headquarters at the London Buddhist Vihara. 
-</p>
-
-<p><b>Head Monk:</b>   Venerable Bogoda Seelawimala Thera, Chief Sangha Nayaka of Great Britain</p>
-<p><b>Resident Monks:</b>   Venerable Tawalama Bandula Thera, Principal Rahula Dhamma School
-</p>
-<p><b>Vihara Management Committee:</b>   Gamini Amarasekera, Lucky Panagoda, Sudanta Abeyakoon, Leslie Dep, Nihal Weerasena
-</p>
-
-<p><a class="text-custom-primary" href="https://upload.wikimedia.org/wikipedia/en/7/75/London_Buddhist_Vihara_UK.JPG
-"> London Buddhist Vihara </a></p>
-
-<p><a  class="text-custom-primary" href="https://www.londonbuddhistvihara.org/media/1158/1-2.jpg?anchor=center&mode=crop&width=770&height=430&rnd=132227389420000000
-">Pirith Ceremony at the London Buddhist Vihara </a></p>
-
-
-</div>
-				</div>
+			<div class="col-xl-12 col-lg-5 offset-xl-0 align-self-center">
 			
+					<div class=" heading">
+						<h3 class="align_center">We will soon be lanuching  a series of valuable, historical images of Anagarika Dharmapala and his times. You can  get a glimpse  of some of those images for the moment here.
+</h3>
+					</div>
+				</div>
+			</div>
+		</div><ul class="hm-list hm-instagram">
+			<li>
+				<a href="#"><img src="assets/images/home-page/insta-09.png" alt="instagram"></a>
+			</li>
+			<li>
+				<a href="#"><img src="assets/images/home-page/insta-02.png" alt="instagram"></a>
+			</li>
+			<li>
+				<a href="#"><img src="assets/images/home-page/insta-03.png" alt="instagram"></a>
+			</li>
+			<li>
+				<a href="#"><img src="assets/images/home-page/insta-04.png" alt="instagram"></a>
+			</li>
+			<li>
+				<a href="#"><img src="assets/images/home-page/insta-05.png" alt="instagram"></a>
+			</li>
+			<li>
+				<a href="#"><img src="assets/images/home-page/insta-06.png" alt="instagram"></a>
+			</li>
+			<li>
+				<a href="#"><img src="assets/images/home-page/insta-07.png" alt="instagram"></a>
+			</li>
+			<li>
+				<a href="#"><img src="assets/images/home-page/insta-08.png" alt="instagram"></a>
+			</li>
+			<li>
+				<a href="#"><img src="assets/images/home-page/insta-01.png" alt="instagram"></a>
+			</li>
+		</ul>
 
-	</section>
 
 
 
 
 
+<!-- <img src="assets/images/under_construction_page/under_construct.jpg" alt="img" class="w-100  img-fluid max-width"> -->
 
 
 	
+<?php include_once 'sinhala_footer.php';?>
 
-	<!-- Footer -->
-	<?php include_once 'sinhala_footer.php';?>
-
-	<!-- /Footer -->
 
 
 	<!-- Scripts -->
