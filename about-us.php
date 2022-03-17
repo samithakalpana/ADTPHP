@@ -81,7 +81,7 @@ html {
   <p>Anagarika Dharmapala's life as a Buddhist missionary, social activist and reformer in the colonial era was remarkable as it was extra-ordinary. His work and missions were a response to the religious, social, political and economic issues of his day, which made him very much a man of his times. Yet if one takes into account his innumerable projects for educational and industrial reform, the institutions he established, the global community of Buddhists he envisioned and the links he formed across nations, he would be considered one of the greatest thinkers and social activists of even today, had he lived in the 21st century.
 </p>
 				<!-- add image -->
-				<br/>
+				<!-- <br/>
 <br/>
 <br/>
 				<div class="col-xl-8 col-lg-5 offset-xl-1 align-self-center">
@@ -92,7 +92,7 @@ html {
 					</div>
 <br/>
 <br/>
-<br/>
+<br/> -->
 <!-- add image -->
 
   <p>Anagarika Dharmapala had a multifaceted personality. He worked on numerous projects simultaneously. Therefore, it is easy to give him one-dimensional labels and take his words out of context. However, to do so is to ignore that he was responding to a conflicting body of issues as they arose around him in the complex world of colonial power and resistance he had to navigate.   </p>
@@ -107,6 +107,23 @@ html {
  Sudhammika Hewavitarne<br>
  Chairman <br><br><br>
  </p>
+
+
+
+
+ <br/>
+<br/>
+<br/>
+				<div class="col-xl-8 col-lg-5 offset-xl-1 align-self-center">
+						<div class="ss-pastor-img-wrap">
+					
+							<img src="assets/images/custom_images/chairmans_msg.jpeg" alt="img">
+						</div>
+					</div>
+<br/>
+<br/>
+<br/>
+
 					</div>
 				</div>
 
