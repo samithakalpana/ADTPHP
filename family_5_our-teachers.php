@@ -98,6 +98,8 @@
 						
 							<img src="assets/images/custom_images/simon.jpg" alt="img">
 						</div>
+						<br>	<p class="align_center">Simon Hewavitarne (seated right) with his brothers Edmund Hewavitarne (seated left) and Charles Alwis Hewavitarne (standing)
+						</p>
 					</div>
 				</div>
 		
