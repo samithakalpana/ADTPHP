@@ -186,13 +186,14 @@
 		<!-- Mobile Navigation -->
 		<div class="mobile-menu">
 			<ul class="wd-menu pop-scroll">
-				<li class="has-child">
+				<li class="">
 					<a href="index.php">Home</a>
 					<!-- <ul class="sub-menu">
 						<li><a href="index.php">Homepage 1</a></li>
 						<li><a href="index2.php">Homepage 2</a></li>
 					</ul> -->
 				</li>
+
 				<li class="has-child">
 					<a href="#">Life Of Dharmapala</a>
 					
@@ -206,10 +207,39 @@
 								<li><a href="life_5_our-teachers.php">Legacy</a></li>
 					</ul>
 				</li>
+				
 				<li class="has-child">
-					<a href="#">Family And Benefactors</a>
+					<a href="#">Family</a>
+					
 					<ul class="sub-menu">
-					<li class="has-child dropdown"><a href="#">Family</a>
+			
+					<li><a href="family_1_our-teachers.php"> H. Don Carolis</a>
+								<li><a href="family_2_our-teachers.php">Mallika Hewavitarne</a>
+								<li><a href="family_3_our-teachers.php">Engeltina Moonesinghe</a>
+								<li><a href="family_4_our-teachers.php">Edmund Hewavitarne</a>
+								<li><a href="family_5_our-teachers.php">Simon Hewavitarne</a>
+								<li><a href="family_6_our-teachers.php">Charles Hewavitarne</a>
+					</ul>
+				</li>
+				<li class="has-child">
+					<a href="#">Benefactors</a>
+					
+					<ul class="sub-menu">
+			
+					<li><a href="benefactors_1_our-teachers.php">Ven. Hikkaduwe Sri Sumangala</a>
+								<li><a href="benefactors_2_our-teachers.php">Mary Robinson Foster</a>
+								<li><a href="benefactors_3_our-teachers.php">Col. Henry Steel Olcott</a>
+								<li><a href="benefactors_4_our-teachers.php">Helena Petrovna Blavatsky</a>
+								<li><a href="benefactors_5_our-teachers.php">Sir Edwin Arnold</a>
+								<li><a href="benefactors_6_our-teachers.php">Neelkamal Mukherjee</a>
+								<li><a href="benefactors_7_our-teachers.php">Devapriya Valisinha</a>
+					</ul>
+				</li>
+				
+				<!-- <li class="has-child">
+					<a href="#">Family And Benefactors</a>
+					<ul class=" sub-menu ">
+					<li class="has-child "><a href="#">Family</a>
 								<ul class="sub-menu">
 								<li><a href="family_1_our-teachers.php"> H. Don Carolis</a>
 								<li><a href="family_2_our-teachers.php">Mallika Hewavitarne</a>
@@ -229,32 +259,58 @@
 								<li><a href="benefactors_6_our-teachers.php">Neelkamal Mukherjee</a>
 								<li><a href="benefactors_7_our-teachers.php">Devapriya Valisinha</a>
 								</ul>
-							</li>
+							</li> -->
 						<!-- <li><a href="our-teachers.php">our-teachers</a></li>
 						<li><a href="shop-left.php">shop-left</a></li>
 						<li><a href="shop-right.php">shop-right</a></li>
 						<li><a href="shop-full-width.php">shop-full-width</a></li>
 						<li><a href="log-in.php">log-in</a></li>
 						<li><a href="sign-up.php">sign-up</a></li>-->
-					</ul>
-				</li>
-				<li class="has-child"><a href="about-us.php">The Trust</a>
-			<ui class="sub-menu">
-			<li><a href="about-us.php">Chairman's Message</a></li>
+					<!-- </ul>
+				</li> -->
+
+
+		
+			<li class="has-child">
+			<a href="#">The Trust</a>
+					
+					<ul class="sub-menu">
+					<li><a href="about-us.php">Chairman's Message</a></li>
 								<li><a href="about-us.php#section_2">About the Trust</a></li>
 								<li><a href="about-us.php#section_3">Managing Trustees</a></li>
-			</ui>
-			</li>
+								
+				
+					</ul>
+				</li>
 
-
-
-
-
-			
-			<li><a href="Diaries.php">Diaries</a>
-								<li><a href="Other_publications.php">Other publications</a>
+				<li class="has-child">
+			<a href="#">Associats</a>
+					
+					<ul class="sub-menu">
+					<li><a href="Associates_1_Maha_Bodhi_Society.php">Maha Bodhi Society</a></li>
+								<li><a href="Associates_1_Maha_Bodhi_Society_India.php">Maha Bodhi Society India</a></li>
+								<li><a href="Associates_1_london_buddist_vihara.php">London Buddhist Vihara</a></li>
+								<li><a href="https://www.mallikahomes.org/">Mallika Nivasa Samithiya</a></li>
+								<li><a href="Associates_1_British_Maha_Bodhi_society.php">British Maha Bodhi Society</a></li>
+								<li><a href="Associates_1_somawati_and_simon_trust.php">Simon Hewavitarne Trust & Somawati Hewavitarne Trust </a></li>
+				
+					</ul>
+				</li>
+				<li class="has-child">
+			<a href="#">Publications
+And Research</a>
+					
+					<ul class="sub-menu">
+				
+					<li><a href="Diaries.php">Diaries</a>
+					<li><a href="Other_publications.php">Other publications</a>
 								<li><a href="Information_for_researchers.php">Information for Researchers</a>
+				
+					</ul>
+				</li>
+
 								<li><a href="shop_main_ADT_books.php">Store</a></li>
+								<li><a href="Gallery.php">Gallery</a></li>
 						<li ><a href="contact-us.php">Contact Us<span class="nav_arrow"></span></a>
 
 				<!-- <li class="has-child"><a href="#">Sermon</a>
