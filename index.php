@@ -284,7 +284,7 @@ ob_start();
 											<li>
 											<div class="event_info">
 													<div class="event_date">
-														<span>1915</span>
+														<span>1815</span>
 													</div>
 												
 													<ul>
@@ -296,7 +296,7 @@ ob_start();
 											<li>
 												<div class="event_info">
 													<div class="event_date">
-														<span>1932</span> 
+														<span>1832</span> 
 													</div>
 												
 													<ul>
@@ -347,7 +347,7 @@ ob_start();
 											<li>
 											<div class="event_info">
 													<div class="event_date">
-														<span>1963</span> 
+														<span>1863</span> 
 													</div>
 												
 													<ul>
@@ -359,7 +359,7 @@ ob_start();
 											<li>
 											<div class="event_info">
 													<div class="event_date">
-														<span>1964</span> 
+														<span>1864</span> 
 													</div>
 													<!-- <h6><a href="event-detail.html">Durgashtami </a></h6> -->
 													<ul>
@@ -517,7 +517,7 @@ ob_start();
 		<div class="container">
 			<div class="section-header-center text-center">
 				<br><br>
-				<h2>Our upcomming gallery</h2>
+				<h2>Photo gallery</h2>
 				<p>We are almost ready to launch a series of valuable, historical images of Anagarika Dharmapala soon. You can  get a glimpse here of some of those images for the moment.
  </p>
 			</div>
