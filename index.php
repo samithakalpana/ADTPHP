@@ -517,7 +517,7 @@ ob_start();
 		<div class="container">
 			<div class="section-header-center text-center">
 				<br><br>
-				<h2>Our upcomming gallery</h2>
+				<h2>Photo gallery</h2>
 				<p>We are almost ready to launch a series of valuable, historical images of Anagarika Dharmapala soon. You can  get a glimpse here of some of those images for the moment.
  </p>
 			</div>
