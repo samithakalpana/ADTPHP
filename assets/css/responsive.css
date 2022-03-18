@@ -519,7 +519,7 @@ Max-width
 		transition-delay: 0.5s;
 	}
 	#nav-toggle-label #hamburger span:nth-child(2) {
-		;
+		
 		transition-delay: 0.625s;
 	}
 	#nav-toggle-label #hamburger span:nth-child(3) {
@@ -657,7 +657,7 @@ Max-width
 	
 	}
 	.video-content{
-		height: 100px;;
+		height: 100px;
 	}
 	.btn {
 		font-size: 13px;
