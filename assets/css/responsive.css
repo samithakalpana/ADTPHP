@@ -653,7 +653,11 @@ Max-width
 		position: relative;
 	}
 	.video-bg {
-		display: none;
+		/* display: none; */
+	
+	}
+	.video-content{
+		height: 100px;;
 	}
 	.btn {
 		font-size: 13px;
