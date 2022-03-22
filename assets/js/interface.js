@@ -173,7 +173,7 @@ $('.popup-youtube').magnificPopup({
                  arrows:true,
                  responsiveClass: true,
                  autoHeight: true,
-                 autoplayTimeout: 2000,
+                 autoplayTimeout: 10000,
                  smartSpeed: 800,
                  nav: true,
                  responsive: {

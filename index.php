@@ -382,7 +382,7 @@ ob_start();
 				<div class="col-md-6 col-lg-5 offset-lg-2">
 					<div class="heading">
 						<h3>Associates</h3>
-						<a href="Associates_1_Maha_Bodhi_Society.php" class="btn btn-sm float-right">See All</a>
+						<!-- <a href="Associates_1_Maha_Bodhi_Society.php" class="btn btn-sm float-right">See All</a> -->
 					</div>
 					<div class="panel-group" id="accordion" role="tablist" aria-multiselectable="true">
 						<div class="panel panel-default">
@@ -423,6 +423,26 @@ ob_start();
 								<h6 class="panel-title">
 									<a href="https://www.mallikahomes.org/" >
 									Mallika Nivasa Samithiya </a>
+								</h6>
+							</div>
+
+						</div>
+
+						<div class="panel panel-default">
+							<div class="panel-heading" role="tab" id="headingOne">
+								<h6 class="panel-title">
+									<a href="Associates_1_British_Maha_Bodhi_society.php" >
+									The British Maha Bodhi Society </a>
+								</h6>
+							</div>
+
+						</div>
+
+						<div class="panel panel-default">
+							<div class="panel-heading" role="tab" id="headingOne">
+								<h6 class="panel-title">
+									<a href="Associates_1_somawati_and_simon_trust.php" >
+									Simon Hewavitarne Trust & Somavati Hewavitarne Trust </a>
 								</h6>
 							</div>
 

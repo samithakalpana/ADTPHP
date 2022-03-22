@@ -453,6 +453,26 @@ ob_start();
 
 						</div>
 
+						<div class="panel panel-default">
+							<div class="panel-heading" role="tab" id="headingOne">
+								<h6 class="panel-title">
+									<a href="sinhala_Associates_1_British_Maha_Bodhi_society.php" >
+									බ්‍රිතාන්‍ය මහා බෝධි සංගමය </a>
+								</h6>
+							</div>
+
+						</div>
+
+						<div class="panel panel-default">
+							<div class="panel-heading" role="tab" id="headingOne">
+								<h6 class="panel-title">
+									<a href="sinhala_Associates_1_somawati_and_simon_trust.php" >
+									සයිමන් හේවාවිතාරණ හා සෝමාවතී හෙවාවිතාරණ භාරයන්</a>
+								</h6>
+							</div>
+
+						</div>
+
 				
 
 					</div>
