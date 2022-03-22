@@ -77,7 +77,7 @@
 						<div class="sidebar_widgets">
 							<!-- added items for store side bar -->
 								<div class="widget_title">
-								<h6>How To Purcase</h6>
+								<h6>How To Purchase</h6>
 							</div>
 							<p>All books: Rs 150/- 	<br/>
 							
