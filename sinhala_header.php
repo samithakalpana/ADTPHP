@@ -28,7 +28,7 @@
 							</ul> -->
 						</div>
 					</div>
-					<div class="col-lg-12 col-md-8 col-4">
+					<div class="col-12 col-lg-12 col-md-8 col-4">
 						<ul class="top-btn list-inline">
 							<li class="list-inline-item"><i class="fa fa-phone"></i><a href="tel:+94 011 269 5012">+94 011 269 5012</a></li>
 							<li class="list-inline-item"><i class="fa fa-envelope"></i><a href="adtrust@sltnet.lk">adtrust@sltnet.lk</a></li>
