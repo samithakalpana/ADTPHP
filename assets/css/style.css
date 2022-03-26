@@ -3344,6 +3344,37 @@ a:hover {
 	position: relative;
 	color: #ff6a48;;
 }
+/* 
+.ss-pastor-img-wrap_1{
+	position: relative;
+}
+.ss-pastor-img-wrap_1::before{
+	content: '';
+	position: absolute;
+	top: 8px;
+	right:130px;
+	width: 10%;
+	height: 100%;
+	background-color: #f17024;
+	z-index: -1;
+	transition: 0.3s;
+}
+.ss-pastor-img-wrap_1:hover::before{
+	top: 0;
+	right: 0;
+} */
+
+
+
+
+
+
+
+
+
+
+
+
 .ss-pastor-img-wrap{
 	position: relative;
 }
@@ -3482,7 +3513,10 @@ align-items: center;
 }
 
 
-
+.diary_img{
+	width: 50%;
+	height: 500px;
+}
 
 
 

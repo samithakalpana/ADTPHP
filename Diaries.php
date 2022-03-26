@@ -101,46 +101,53 @@
 
 						<p><b>Diary Entry April/May 1889: On tour of Japan with Col H. S. Olcott</b>
 						</p>
-						<img  src="assets/images/custom_images/diary/Diary_Entry_April_May_1889_Japan.png">
+
+						<!-- <div class="ss-pastor-img-wrap"> -->
+						
+						<img src="assets/images/custom_images/diary/Diary_Entry_April_May_1889_Japan.png" class="diary_img" alt="img">
+					<!-- </div> -->
+
+
+
+
+						<!-- <img  src="assets/images/custom_images/diary/Diary_Entry_April_May_1889_Japan.png">  -->
 						<br />
 						<br />
 						<br />
 						<p><b>Diary Note 1889: On the Noble Eightfold Path
 							</b></p>
-						<img src="assets/images/custom_images/diary/Diary_Note_1889.png">
+						<img src="assets/images/custom_images/diary/Diary_Note_1889.png" class="diary_img">
 						<br />
 						<br />
 						<br />
 						<p><b>Diary Entry September 1913: On the British in Hong Kong
 							</b></p>
-							<img src="assets/images/custom_images/diary/Diary_Entry_September_1913_Hong_Kong.png">
+							<img src="assets/images/custom_images/diary/Diary_Entry_September_1913_Hong_Kong.png" class="diary_img">
 							<br />
 							<br />
 							<br />
 							<p><b>Diary Entry September/October 1913: On the death of Harischandra Valisinha
 								</b></p>
-								<img src="assets/images/custom_images/diary/Diary_Entry_September_1913.png">
+								<img src="assets/images/custom_images/diary/Diary_Entry_September_1913.png" class="diary_img">
 						<br />
 						<br />
 						<br />
 						<p><b>Diary Entry December 1913: On practicing the Dhamma
 							</b></p>
-						<img src="assets/images/custom_images/diary/Diary_Entry_December_1913.png">
+						<img src="assets/images/custom_images/diary/Diary_Entry_December_1913.png" class="diary_img">
 						<br />
 						<br />
 						<br />
-						<p><b>Diary Entry December 1931: On asking the Devas for protection to complete the Mulaghandakuti Vihara
+						<p><b>Diary Entry December 1931: On asking the Devas for protection <br> to complete the Mulaghandakuti Vihara
 							</b></p>
-						<img src="assets/images/custom_images/diary/Diary_Entry_December_1931.png">
+						<img src="assets/images/custom_images/diary/Diary_Entry_December_1931.png" class="diary_img">
 						<br />
 						<br />
 						<br />
 					</div>
 				</div>
 
-
-
-
+			
 	</section>
 
 
