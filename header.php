@@ -27,14 +27,14 @@
 							</ul> -->
 						</div>
 					</div>
-					<div class="col-lg-12 col-md-8 col-4">
-						<ul class="top-btn list-inline">
+					<div class="col-12 col-lg-12 col-md-8 col-4">
+						<ul  class="top-btn list-inline">
 							<li class="list-inline-item"><i class="fa fa-phone"></i><a href="tel:+94 011 269 5012">+94 11 269 5012</a></li>
 							<li class="list-inline-item"><i class="fa fa-envelope"></i><a href="mailto:adtrust@sltnet.lk">adtrust@sltnet.lk</a></li>
 							<li class="list-inline-item"><a class="btn btn-sm dark-btn templezen-top-btn" href="actions/languageAction.php?lang=english&&page=index.php">සිංහල</a></li>
-							<li class="list-inline-item"><a class="btn btn-sm dark-btn templezen-top-btn" href="sinhala_under_construction_page.php">தமிழ்</a></li>
-							<li class="list-inline-item"><a class="btn btn-sm dark-btn templezen-top-btn" href="sinhala_about-us.php">हिन्दी</a></li>
-							
+							<li class="list-inline-item"><a class="btn btn-sm dark-btn templezen-top-btn" href="under_construction_page.php">தமிழ்</a></li>
+							<li class="list-inline-item"><a class="btn btn-sm dark-btn templezen-top-btn" href="under_construction_page.php">हिन्दी</a></li>
+						
 								</ul>
 					</div>
 

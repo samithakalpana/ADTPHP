@@ -10,8 +10,12 @@
 						</div>
 					</div>
 					<div class="col-md-4 top_widget">
-						<div class="newsletter">
-							Phone:+94 11 269 5012
+					<div class="follow_us">
+				
+				<ul class="text-custom-align-center">
+				Email:<br/>
+				<li> <a href="mailto:adtrust@sltnet.lk">adtrust@sltnet.lk</a></li>
+							</ul>
 							<!-- <form>
 								<div class="email_input">
 									<input type="email" placeholder="Email address">
@@ -22,14 +26,16 @@
 					</div>
 					<div class="col-md-4 top_widget">
 						<div class="follow_us">
-							Email:adtrust@sltnet.lk
-							<!-- <ul class="text-custom-align-right">
-								<li><a href="#"><i class="fab fa-facebook-f"></i></a></li>
+				
+							<ul class="text-custom-align-center">
+							Phone:<br/>
+							<li><a href="tel:+940112695012">+94 11 269 5012<a></li>
+								<!-- <li><a href="#"><i class="fab fa-facebook-f"></i></a></li>
 								<li><a href="#"><i class="fab fa-twitter"></i></a></li>
 								<li><a href="#"><i class="fab fa-linkedin-in"></i></a></li>
 								<li><a href="#"><i class="fab fa-youtube"></i></a></li>
-								<li><a href="#"><i class="fab fa-instagram"></i></a></li>
-							</ul> -->
+								<li><a href="#"><i class="fab fa-instagram"></i></a></li> -->
+							</ul>
 						</div>
 					</div>
 				</div>

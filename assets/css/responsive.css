@@ -322,9 +322,23 @@ Max-width
 	.header_top .top-btn li:nth-child(2) {
 		display: none;
 	}
+
 	.trip-place-wrapper-content .trip-info {
 		padding: 20px 10px;
 	}
+	.header_top .top-btn li:nth-child(3),
+	.header_top .top-btn li:nth-child(4),
+	.header_top .top-btn li:nth-child(5) {
+		margin-top: 3px;
+
+	}
+	.header_top .top-btn li:nth-child(4),
+	.header_top .top-btn li:nth-child(5) {
+		/* display: none; */
+
+	}
+
+
 }
 @media (max-width: 991px) {
 	.shop-top-filter .shop-view p{
@@ -352,6 +366,13 @@ Max-width
 	.header_top .top-btn li:nth-child(2) {
 		display: none;
 	}
+	.header_top .top-btn li:nth-child(3),
+	.header_top .top-btn li:nth-child(4),
+	.header_top .top-btn li:nth-child(5) {
+		margin-top: 3px;
+
+	}
+
 	h3 {
 		font-size: 30px;
 	}
