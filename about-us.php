@@ -73,61 +73,35 @@ html {
 			<div class="row">
 
 
-<br><br><div id="section_1" class="col-xl-9 col-md-7">
+<br><br>
+				<div  class="col-xl-7 col-md-7">
 					<div class="about-us-content">
-						<div class="section-heade col-xl-9r">
-							<h2>The Chairman's Message
-  </h2>
-  <p>Anagarika Dharmapala's life as a Buddhist missionary, social activist and reformer in the colonial era was remarkable as it was extra-ordinary. His work and missions were a response to the religious, social, political and economic issues of his day, which made him very much a man of his times. Yet if one takes into account his innumerable projects for educational and industrial reform, the institutions he established, the global community of Buddhists he envisioned and the links he formed across nations, he would be considered one of the greatest thinkers and social activists of even today, had he lived in the 21st century.
-</p>
-				<!-- add image -->
-				<!-- <br/>
-<br/>
-<br/>
-				<div class="col-xl-8 col-lg-5 offset-xl-1 align-self-center">
-						<div class="ss-pastor-img-wrap">
-					
-							<img src="assets/images/custom_images/chairmans_msg.jpeg" alt="img">
-						</div>
-					</div>
-<br/>
-<br/>
-<br/> -->
-<!-- add image -->
-
-  <p>Anagarika Dharmapala had a multifaceted personality. He worked on numerous projects simultaneously. Therefore, it is easy to give him one-dimensional labels and take his words out of context. However, to do so is to ignore that he was responding to a conflicting body of issues as they arose around him in the complex world of colonial power and resistance he had to navigate.   </p>
-							<p>As the Trustees of his legacy, myself and other Managing Trustees, are honoured to be able to continue the work he envisioned of the Trust. The Anagarika Dharmapala Trust does not condone or support the use of his words that are not cited by credible sources, that are misquoted, misreported, taken in parts and out of context and/or incorrectly paraphrased and, in particular, used to incite racial and religious hatred.</p>
-						</div>
-			
-						<p>Anagarika Dharmapala's inner aspiration was his spiritual growth. For that, he worked tirelessly; waking up very early in the morning to meditate and finally renouncing even his life as an Anagarika ('The Homeless One') to enter the Buddhist clergy. He determined as follows:
+						<div class="section-header">
+							<br><br><br><h2>The Chairman's Message  </h2></div>
+							<p>Anagarika Dharmapala had a multifaceted personality. He worked on numerous projects simultaneously. Therefore, it is easy to give him one-dimensional labels and take his words out of context. However, to do so is to ignore that he was responding to a conflicting body of issues as they arose around him in the complex world of colonial power and resistance he had to navigate.   </p>
+							</p>
+						
+						<p>As the Trustees of his legacy, myself and other Managing Trustees, are honoured to be able to continue the work he envisioned of the Trust. The Anagarika Dharmapala Trust does not condone or support the use of his words that are not cited by credible sources, that are misquoted, misreported, taken in parts and out of context and/or incorrectly paraphrased and, in particular, used to incite racial and religious hatred.</p>
+							<p>Anagarika Dharmapala's inner aspiration was his spiritual growth. For that, he worked tirelessly; waking up very early in the morning to meditate and finally renouncing even his life as an Anagarika ('The Homeless One') to enter the Buddhist clergy. He determined as follows:
 <br><br><i>My life will be given birth after birth to Humanity. I will practice paramitas. I will save the world. I will take vivarana from the coming Buddha.</i>
-</p>
-							<p id="section_2">May Anagarika Dharmapala's aspirations come true.<br><br>
+</p><p id="section_2">May Anagarika Dharmapala's aspirations come true.<br><br>
  
  Sudhammika Hewavitarne<br>
  Chairman <br><br><br>
  </p>
-
-
-
-
- <br/>
-<br/>
-<br/>
-				<div class="col-xl-8 col-lg-5 offset-xl-1 align-self-center">
-						<div class="ss-pastor-img-wrap">
-					
-							<img src="assets/images/custom_images/chairmans_msg.jpeg" alt="img">
-						</div>
 					</div>
-<br/>
-<br/>
-<br/>
+				</div>
+				<div class="col-xl-5 col-md-5 align-self-center">
+					<div class="about-us-image">
+					<div class="ss-pastor-img-wrap">
+						<!-- <img src="assets/images/trust1.jpeg" alt="img" class="img-fluid mx-auto d-block"> -->
+						<img src="assets/images/custom_images/chairmans_msg.jpeg" alt="img" class="img-fluid mx-auto d-block">
+						
+					</div>
 
 					</div>
 				</div>
 
-			
 
 
 
