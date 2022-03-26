@@ -288,7 +288,7 @@ ob_start();
 		<section class="section-padding latest_event_sermons m-0">
 		<div class="container">
 			<div class="row">
-				<div class="col-md-6 col-lg-5">
+			<div class="col-md-6 col-lg-5">
 					<div class="heading">
 						<h3><a href="life_6_timeline.php">පෙළගැස්ම</a></h3>
 						<div class="tl-slider-arrow float-right">
@@ -301,47 +301,15 @@ ob_start();
 						</div>
 					</div>
 					<div class="event_list event-slider slick-vertical">
-						<div class="event-slider-item pb-4">
+					<div class="event-slider-item pb-4">
 							<div class="row">
 								<div class="col-12">
 									<div class="event-list">
 										<ul>
-											<li>
-											<div class="event_info">
-													<div class="event_date">
-														<span>1815</span>
-													</div>
-													<!-- <h6><a href="event-detail.html">Vinayaka Chathurthy</a></h6> -->
-													<ul>
-														<li><i class="far fa-clock"></i> ශ්‍රී ලංකාවේ උඩරට රාජධානිය බ්‍රිතාන්‍යයන්ට පැවරේ. උඩරට සම්මුතිය අත්සන් කර ඇත - මාර්තු 2</li>
-														<!-- <li><i class="fas fa-map-marker-alt"></i></li> -->
-													</ul>
-												</div>
-											</li>
-											<li>
-												<div class="event_info">
-													<div class="event_date">
-														<span>1832</span> 
-													</div>
-													<!-- <h6><a href="event-detail.html">Navarathri Celebrations</a></h6> -->
-													<ul>
-														<li><i class="far fa-clock"></i>ඉංග්‍රීසි ලංකාවේ (ශ්‍රී ලංකාවේ) රාජ්‍ය භාෂාව වෙයි</li>
-														<!-- <li><i class="fas fa-map-marker-alt"></i>4873 Pretty View Lane New York</li> -->
-													</ul>
-												</div>
-											</li>
-											<li>
-											<div class="event_info">
-													<div class="event_date">
-														<span>1837</span>
-													</div>
-													<!-- <h6><a href="event-detail.html">Durgashtami </a></h6> -->
-													<ul>
-														<li><i class="far fa-clock"></i>ජෝර්ජ් ටර්නර්ගේ මහාවංශයේ ඉංග්‍රීසි පරිවර්තනය ප්‍රකාශයට පත් විය</li>
-														<!-- <li><i class="fas fa-map-marker-alt"></i>4873 Pretty View Lane New York</li> -->
-													</ul>
-												</div>
-											</li>
+												<img src="assets/images/custom_images/11Intro.jpg" alt="">
+												<!-- <img src="assets/images/custom_images/1832.jpg" alt=""> -->
+										
+										
 										</ul>
 									</div>
 
@@ -355,44 +323,10 @@ ob_start();
 								<div class="col-12">
 									<div class="event-list">
 										<ul>
-											<li>
-											<div class="event_info">
-													<div class="event_date">
-														<span>1860</span>
-													</div>
-													<!-- <h6><a href="event-detail.html">Vinayaka Chathurthy</a></h6> -->
-													<ul>
-														<li><i class="far fa-clock"></i>
-														1860	• අනාගත අනගාරික ධර්මපාලතුමාගේ පියා වන එච්. දොන් කරෝලිස් මාතරින් කොළඹට සංක්‍රමණය වේ.
-• H. දොන් කරෝලිස් සහ මල්ලිකා ධර්මගුණවර්ධන සමඟ විවාහ වීම
-• එච්. දොන් කරෝලිස් පිටකොටුවේ දොන් කරෝලිස් සහ පුත්‍රයෝ ස්ථාපිත කරයි
-														</li></ul>
-													
-											</li>
-											<li>
-											<div class="event_info">
-													<div class="event_date">
-														<span>1863</span> 
-													</div>
-													<!-- <h6><a href="event-detail.html">Navarathri Celebrations</a></h6> -->
-													<ul>
-														<li><i class="far fa-clock"></i> •මිග්ගෙටුවත්තේ ගුණානන්ද හිමියන්ගේ ප්‍රධානත්වයෙන් බද්දේගම වාදය (ලිඛිතව විවාදයට ගැනේ).</li>
-														<!-- <li><i class="fas fa-map-marker-alt"></i>4873 Pretty View Lane New York</li> -->
-													</ul>
-												</div>
-											</li>
-											<li>
-											<div class="event_info">
-													<div class="event_date">
-														<span>1864</span> 
-													</div>
-													<!-- <h6><a href="event-detail.html">Durgashtami </a></h6> -->
-													<ul>
-														<li><i class="far fa-clock"></i>•දොන් ඩේවිඩ් හේවාවිතාරණගේ උපත - සැප්තැම්බර් 17</li>
-														<!-- <li><i class="fas fa-map-marker-alt"></i>4873 Pretty View Lane New York</li> -->
-													</ul>
-												</div>
-											</li>
+												<img src="assets/images/custom_images/1815.jpg" alt="">
+												<!-- <img src="assets/images/custom_images/1832.jpg" alt=""> -->
+										
+										
 										</ul>
 									</div>
 
@@ -400,6 +334,735 @@ ob_start();
 							</div>
 
 						</div>
+
+						<div class="event-slider-item pb-4">
+							<div class="row">
+								<div class="col-12">
+									<div class="event-list">
+										<ul>
+												<!-- <img src="assets/images/custom_images/1815.jpg" alt=""> -->
+												<img src="assets/images/custom_images/1832.jpeg" alt="">
+										
+										
+										</ul>
+									</div>
+
+								</div>
+							</div>
+
+						</div>
+
+						<div class="event-slider-item pb-4">
+							<div class="row">
+								<div class="col-12">
+									<div class="event-list">
+										<ul>
+										<img src="assets/images/custom_images/1837.jpg" alt="">
+										<!-- <img src="assets/images/custom_images/1860.jpg" alt=""> -->
+											
+										</ul>
+									</div>
+
+								</div>
+							</div>
+
+						</div>
+						<div class="event-slider-item pb-4">
+							<div class="row">
+								<div class="col-12">
+									<div class="event-list">
+										<ul>
+										<!-- <img src="assets/images/custom_images/1837.jpg" alt=""> -->
+										<img src="assets/images/custom_images/1860.jpg" alt="">
+											
+										</ul>
+									</div>
+
+								</div>
+							</div>
+
+						</div>
+
+
+
+						<div class="event-slider-item pb-4">
+							<div class="row">
+								<div class="col-12">
+									<div class="event-list">
+										<ul>
+										<img src="assets/images/custom_images/1862.jpg" alt="">
+										<!-- <img src="assets/images/custom_images/1863.jpg" alt=""> -->
+											
+										</ul>
+									</div>
+
+								</div>
+							</div>
+
+						</div>
+
+
+						<div class="event-slider-item pb-4">
+							<div class="row">
+								<div class="col-12">
+									<div class="event-list">
+										<ul>
+										<!-- <img src="assets/images/custom_images/1862.jpg" alt=""> -->
+										<img src="assets/images/custom_images/1863.jpg" alt="">
+											
+										</ul>
+									</div>
+
+								</div>
+							</div>
+
+						</div>
+
+
+
+
+
+						<div class="event-slider-item pb-4">
+							<div class="row">
+								<div class="col-12">
+									<div class="event-list">
+										<ul>
+										<img src="assets/images/custom_images/1864.jpg" alt="">
+										<!-- <img src="assets/images/custom_images/1865.jpg" alt=""> -->
+											
+										</ul>
+									</div>
+
+								</div>
+							</div>
+
+						</div>
+						<div class="event-slider-item pb-4">
+							<div class="row">
+								<div class="col-12">
+									<div class="event-list">
+										<ul>
+										<!-- <img src="assets/images/custom_images/1864.jpg" alt=""> -->
+										<img src="assets/images/custom_images/1865.jpg" alt="">
+											
+										</ul>
+									</div>
+
+								</div>
+							</div>
+
+						</div>
+
+
+
+
+
+						<div class="event-slider-item pb-4">
+							<div class="row">
+								<div class="col-12">
+									<div class="event-list">
+										<ul>
+										<img src="assets/images/custom_images/1870.jpg" alt="">
+										<!-- <img src="assets/images/custom_images/1872.jpg" alt=""> -->
+											
+										</ul>
+									</div>
+
+								</div>
+							</div>
+
+						</div>
+
+						<div class="event-slider-item pb-4">
+							<div class="row">
+								<div class="col-12">
+									<div class="event-list">
+										<ul>
+										<!-- <img src="assets/images/custom_images/1870.jpg" alt=""> -->
+										<img src="assets/images/custom_images/1872.jpg" alt="">
+											
+										</ul>
+									</div>
+
+								</div>
+							</div>
+
+						</div>
+
+
+
+						<div class="event-slider-item pb-4">
+							<div class="row">
+								<div class="col-12">
+									<div class="event-list">
+										<ul>
+										<img src="assets/images/custom_images/1874.jpg" alt="">
+										<!-- <img src="assets/images/custom_images/1876.jpg" alt=""> -->
+											
+										</ul>
+									</div>
+
+								</div>
+							</div>
+
+						</div>
+
+						<div class="event-slider-item pb-4">
+							<div class="row">
+								<div class="col-12">
+									<div class="event-list">
+										<ul>
+										<!-- <img src="assets/images/custom_images/1874.jpg" alt=""> -->
+										<img src="assets/images/custom_images/1876.jpg" alt="">
+											
+										</ul>
+									</div>
+
+								</div>
+							</div>
+
+						</div>
+
+
+
+
+						<div class="event-slider-item pb-4">
+							<div class="row">
+								<div class="col-12">
+									<div class="event-list">
+										<ul>
+										<img src="assets/images/custom_images/1878.jpg" alt="">
+										<!-- <img src="assets/images/custom_images/1880.jpg" alt=""> -->
+											
+										</ul>
+									</div>
+
+								</div>
+							</div>
+
+						</div>
+
+						<div class="event-slider-item pb-4">
+							<div class="row">
+								<div class="col-12">
+									<div class="event-list">
+										<ul>
+										<!-- <img src="assets/images/custom_images/1878.jpg" alt=""> -->
+										<img src="assets/images/custom_images/1880.jpg" alt="">
+											
+										</ul>
+									</div>
+
+								</div>
+							</div>
+
+						</div>
+
+
+
+						<div class="event-slider-item pb-4">
+							<div class="row">
+								<div class="col-12">
+									<div class="event-list">
+										<ul>
+										<img src="assets/images/custom_images/1881.jpg" alt="">
+										<!-- <img src="assets/images/custom_images/1883.jpg" alt="">
+											 -->
+										</ul>
+									</div>
+
+								</div>
+							</div>
+
+						</div>
+
+						<div class="event-slider-item pb-4">
+							<div class="row">
+								<div class="col-12">
+									<div class="event-list">
+										<ul>
+										<!-- <img src="assets/images/custom_images/1881.jpg" alt=""> -->
+										<img src="assets/images/custom_images/1883.jpg" alt="">
+											
+										</ul>
+									</div>
+
+								</div>
+							</div>
+
+						</div>
+
+
+
+
+
+						<div class="event-slider-item pb-4">
+							<div class="row">
+								<div class="col-12">
+									<div class="event-list">
+										<ul>
+										<img src="assets/images/custom_images/1884.jpg" alt="">
+										<!-- <img src="assets/images/custom_images/1887.jpg" alt=""> -->
+											
+										</ul>
+									</div>
+
+								</div>
+							</div>
+
+						</div>
+						<div class="event-slider-item pb-4">
+							<div class="row">
+								<div class="col-12">
+									<div class="event-list">
+										<ul>
+										<!-- <img src="assets/images/custom_images/1884.jpg" alt=""> -->
+										<img src="assets/images/custom_images/1887.jpg" alt="">
+											
+										</ul>
+									</div>
+
+								</div>
+							</div>
+
+						</div>
+
+
+
+
+						<div class="event-slider-item pb-4">
+							<div class="row">
+								<div class="col-12">
+									<div class="event-list">
+										<ul>
+										<img src="assets/images/custom_images/1889.jpg" alt="">
+										<!-- <img src="assets/images/custom_images/1891.jpg" alt=""> -->
+											
+										</ul>
+									</div>
+
+								</div>
+							</div>
+
+						</div>
+
+						<div class="event-slider-item pb-4">
+							<div class="row">
+								<div class="col-12">
+									<div class="event-list">
+										<ul>
+										<!-- <img src="assets/images/custom_images/1889.jpg" alt=""> -->
+										<img src="assets/images/custom_images/1891.jpg" alt="">
+											
+										</ul>
+									</div>
+
+								</div>
+							</div>
+
+						</div>
+
+
+
+
+						<div class="event-slider-item pb-4">
+							<div class="row">
+								<div class="col-12">
+									<div class="event-list">
+										<ul>
+										<img src="assets/images/custom_images/1892.jpg" alt="">
+										<!-- <img src="assets/images/custom_images/1893.jpg" alt=""> -->
+											
+										</ul>
+									</div>
+
+								</div>
+							</div>
+
+						</div>
+						<div class="event-slider-item pb-4">
+							<div class="row">
+								<div class="col-12">
+									<div class="event-list">
+										<ul>
+										<!-- <img src="assets/images/custom_images/1892.jpg" alt=""> -->
+										<img src="assets/images/custom_images/1893.jpg" alt="">
+											
+										</ul>
+									</div>
+
+								</div>
+							</div>
+
+						</div>
+
+
+
+
+						<div class="event-slider-item pb-4">
+							<div class="row">
+								<div class="col-12">
+									<div class="event-list">
+										<ul>
+										<img src="assets/images/custom_images/1893.jpg" alt="">
+										<!-- <img src="assets/images/custom_images/1895.jpg" alt=""> -->
+											
+										</ul>
+									</div>
+
+								</div>
+							</div>
+
+						</div>
+
+						
+						<div class="event-slider-item pb-4">
+							<div class="row">
+								<div class="col-12">
+									<div class="event-list">
+										<ul>
+										<!-- <img src="assets/images/custom_images/1893.jpg" alt=""> -->
+										<img src="assets/images/custom_images/1895.jpg" alt="">
+											
+										</ul>
+									</div>
+
+								</div>
+							</div>
+
+						</div>
+
+
+
+
+						<div class="event-slider-item pb-4">
+							<div class="row">
+								<div class="col-12">
+									<div class="event-list">
+										<ul>
+										<img src="assets/images/custom_images/1896.jpg" alt="">
+										<!-- <img src="assets/images/custom_images/1898.jpg" alt=""> -->
+											
+										</ul>
+									</div>
+
+								</div>
+							</div>
+
+						</div>
+
+						<div class="event-slider-item pb-4">
+							<div class="row">
+								<div class="col-12">
+									<div class="event-list">
+										<ul>
+										<!-- <img src="assets/images/custom_images/1896.jpg" alt=""> -->
+										<img src="assets/images/custom_images/1898.jpg" alt="">
+											
+										</ul>
+									</div>
+
+								</div>
+							</div>
+
+						</div>
+
+
+						<div class="event-slider-item pb-4">
+							<div class="row">
+								<div class="col-12">
+									<div class="event-list">
+										<ul>
+										<img src="assets/images/custom_images/1900.jpg" alt="">
+										<!-- <img src="assets/images/custom_images/1902.jpg" alt=""> -->
+											
+										</ul>
+									</div>
+
+								</div>
+							</div>
+
+						</div>
+
+						<div class="event-slider-item pb-4">
+							<div class="row">
+								<div class="col-12">
+									<div class="event-list">
+										<ul>
+										<!-- <img src="assets/images/custom_images/1900.jpg" alt=""> -->
+										<img src="assets/images/custom_images/1902.jpg" alt="">
+											
+										</ul>
+									</div>
+
+								</div>
+							</div>
+
+						</div>
+
+
+						<div class="event-slider-item pb-4">
+							<div class="row">
+								<div class="col-12">
+									<div class="event-list">
+										<ul>
+										<img src="assets/images/custom_images/1906.jpg" alt="">
+										<!-- <img src="assets/images/custom_images/1907.jpg" alt=""> -->
+											
+										</ul>
+									</div>
+
+								</div>
+							</div>
+
+						</div>
+						<div class="event-slider-item pb-4">
+							<div class="row">
+								<div class="col-12">
+									<div class="event-list">
+										<ul>
+										<!-- <img src="assets/images/custom_images/1906.jpg" alt=""> -->
+										<img src="assets/images/custom_images/1907.jpg" alt="">
+											
+										</ul>
+									</div>
+
+								</div>
+							</div>
+
+						</div>
+
+
+						<div class="event-slider-item pb-4">
+							<div class="row">
+								<div class="col-12">
+									<div class="event-list">
+										<ul>
+										<img src="assets/images/custom_images/1912.jpg" alt="">
+										<!-- <img src="assets/images/custom_images/1913.jpg" alt=""> -->
+											
+										</ul>
+									</div>
+
+								</div>
+							</div>
+
+						</div>
+						<div class="event-slider-item pb-4">
+							<div class="row">
+								<div class="col-12">
+									<div class="event-list">
+										<ul>
+										<!-- <img src="assets/images/custom_images/1912.jpg" alt=""> -->
+										<img src="assets/images/custom_images/1913.jpg" alt="">
+											
+										</ul>
+									</div>
+
+								</div>
+							</div>
+
+						</div>
+
+
+						<div class="event-slider-item pb-4">
+							<div class="row">
+								<div class="col-12">
+									<div class="event-list">
+										<ul>
+										<img src="assets/images/custom_images/1915.jpg" alt="">
+										<!-- <img src="assets/images/custom_images/1916.jpg" alt=""> -->
+											
+										</ul>
+									</div>
+
+								</div>
+							</div>
+
+						</div>
+						<div class="event-slider-item pb-4">
+							<div class="row">
+								<div class="col-12">
+									<div class="event-list">
+										<ul>
+										<!-- <img src="assets/images/custom_images/1915.jpg" alt=""> -->
+										<img src="assets/images/custom_images/1916.jpg" alt="">
+											
+										</ul>
+									</div>
+
+								</div>
+							</div>
+
+						</div>
+
+
+						<div class="event-slider-item pb-4">
+							<div class="row">
+								<div class="col-12">
+									<div class="event-list">
+										<ul>
+										<img src="assets/images/custom_images/1918.jpg" alt="">
+										<!-- <img src="assets/images/custom_images/1920.jpg" alt=""> -->
+											
+										</ul>
+									</div>
+
+								</div>
+							</div>
+
+						</div>
+						<div class="event-slider-item pb-4">
+							<div class="row">
+								<div class="col-12">
+									<div class="event-list">
+										<ul>
+										<!-- <img src="assets/images/custom_images/1918.jpg" alt=""> -->
+										<img src="assets/images/custom_images/1920.jpg" alt="">
+											
+										</ul>
+									</div>
+
+								</div>
+							</div>
+
+						</div>
+
+
+
+						<div class="event-slider-item pb-4">
+							<div class="row">
+								<div class="col-12">
+									<div class="event-list">
+										<ul>
+										<img src="assets/images/custom_images/1922.jpg" alt="">
+										<!-- <img src="assets/images/custom_images/1925.jpg" alt=""> -->
+											
+										</ul>
+									</div>
+
+								</div>
+							</div>
+
+						</div>
+						
+						<div class="event-slider-item pb-4">
+							<div class="row">
+								<div class="col-12">
+									<div class="event-list">
+										<ul>
+										<!-- <img src="assets/images/custom_images/1922.jpg" alt=""> -->
+										<img src="assets/images/custom_images/1925.jpg" alt="">
+											
+										</ul>
+									</div>
+
+								</div>
+							</div>
+
+						</div>
+
+
+						<div class="event-slider-item pb-4">
+							<div class="row">
+								<div class="col-12">
+									<div class="event-list">
+										<ul>
+										<img src="assets/images/custom_images/1928.jpg" alt="">
+										<!-- <img src="assets/images/custom_images/1929.jpg" alt=""> -->
+											
+										</ul>
+									</div>
+
+								</div>
+							</div>
+
+						</div>
+						<div class="event-slider-item pb-4">
+							<div class="row">
+								<div class="col-12">
+									<div class="event-list">
+										<ul>
+										<!-- <img src="assets/images/custom_images/1928.jpg" alt=""> -->
+										<img src="assets/images/custom_images/1929.jpg" alt="">
+											
+										</ul>
+									</div>
+
+								</div>
+							</div>
+
+						</div>
+
+
+						<div class="event-slider-item pb-4">
+							<div class="row">
+								<div class="col-12">
+									<div class="event-list">
+										<ul>
+										<img src="assets/images/custom_images/1930.jpg" alt="">
+										<!-- <img src="assets/images/custom_images/1931.jpg" alt=""> -->
+											
+										</ul>
+									</div>
+
+								</div>
+							</div>
+
+						</div>
+						<div class="event-slider-item pb-4">
+							<div class="row">
+								<div class="col-12">
+									<div class="event-list">
+										<ul>
+										<!-- <img src="assets/images/custom_images/1930.jpg" alt=""> -->
+										<img src="assets/images/custom_images/1931.jpg" alt="">
+											
+										</ul>
+									</div>
+
+								</div>
+							</div>
+
+						</div>
+
+
+						<div class="event-slider-item pb-4">
+							<div class="row">
+								<div class="col-12">
+									<div class="event-list">
+										<ul>
+										<img src="assets/images/custom_images/1933.jpg" alt="">
+										<!-- <img src="assets/images/custom_images/xxSources.jpg" alt=""> -->
+											
+										</ul>
+									</div>
+
+								</div>
+							</div>
+
+						</div>
+						<div class="event-slider-item pb-4">
+							<div class="row">
+								<div class="col-12">
+									<div class="event-list">
+										<ul>
+										<!-- <img src="assets/images/custom_images/1933.jpg" alt=""> -->
+										<img src="assets/images/custom_images/xxSources.jpg" alt="">
+											
+										</ul>
+									</div>
+
+								</div>
+							</div>
+
+						</div>
+
+
+					
+
+
+
 
 					</div>
 				</div>
@@ -412,63 +1075,65 @@ ob_start();
 					<div class="panel-group" id="accordion" role="tablist" aria-multiselectable="true">
 						<div class="panel panel-default">
 							<div class="panel-heading" role="tab" id="headingOne">
-								<h6 class="panel-title">
+								<h4 class="panel-title">
 									<a href="sinhala_under_construction_page.php" >
 									මහා බෝධි සංගමය </a>
-								</h6>
+								</h4>
 							</div>
 
 						</div>
 
+						<br><br>
+
 
 						<div class="panel panel-default">
 							<div class="panel-heading" role="tab" id="headingOne">
-								<h6 class="panel-title">
+								<h4 class="panel-title">
 									<a href="sinhala_under_construction_page.php" >
 									ඉන්දියානු මහා බෝධි සංගමය</a>
-								</h6>
+								</h4>
 							</div>
 
 						</div>
-
+						<br><br>
 
 						<div class="panel panel-default">
 							<div class="panel-heading" role="tab" id="headingOne">
-								<h6 class="panel-title">
+								<h4 class="panel-title">
 									<a href="sinhala_under_construction_page.php" >
 									ලන්ඩන් බෞද්ධ විහාර </a>
-								</h6>
+								</h4>
 							</div>
 
 						</div>
-
+						<br><br>
 
 						<div class="panel panel-default">
 							<div class="panel-heading" role="tab" id="headingOne">
-								<h6 class="panel-title">
+								<h4 class="panel-title">
 									<a href="https://www.mallikahomes.org/" >
 								මල්ලිකා නිවාස සමිතිය </a>
-								</h6>
+								</h4>
 							</div>
 
-						</div>
+						</div><br><br>
 
 						<div class="panel panel-default">
 							<div class="panel-heading" role="tab" id="headingOne">
-								<h6 class="panel-title">
+								<h4 class="panel-title">
 									<a href="sinhala_Associates_1_British_Maha_Bodhi_society.php" >
 									බ්‍රිතාන්‍ය මහා බෝධි සංගමය </a>
-								</h6>
+								</h4>
 							</div>
 
-						</div>
+						</div><br><br>
 
 						<div class="panel panel-default">
 							<div class="panel-heading" role="tab" id="headingOne">
-								<h6 class="panel-title">
+								<h4 class="panel-title">
 									<a href="sinhala_Associates_1_somawati_and_simon_trust.php" >
 									සයිමන් හේවාවිතාරණ හා සෝමාවතී හෙවාවිතාරණ භාරයන්</a>
-								</h6>
+								</h4>
 							</div>
 
 						</div>

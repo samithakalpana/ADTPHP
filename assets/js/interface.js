@@ -88,10 +88,10 @@ $('.popup-youtube').magnificPopup({
 
      if ($('.event-slider').length) {
        $('.event-slider').slick({
-         slidesToShow: 1,
+         slidesToShow: 2,
          autoplay: true,
-         autoplaySpeed: 2000,
-         speed: 2500,
+         autoplaySpeed: 7000,
+         speed: 2200,
          dots: false,
          arrows: true,
          prevArrow: $('.tl-left-arrow'),
@@ -173,7 +173,7 @@ $('.popup-youtube').magnificPopup({
                  arrows:true,
                  responsiveClass: true,
                  autoHeight: true,
-                 autoplayTimeout: 10000,
+                 autoplayTimeout: 20000,
                  smartSpeed: 800,
                  nav: true,
                  responsive: {
