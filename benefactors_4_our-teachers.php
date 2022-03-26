@@ -77,6 +77,7 @@
 							
 
 	</p><p>From many accounts it appears that: Blavatsky 'hypnotised’ the young and agitated mind of  Don David. She succeeded in persuading Don Carolis Hewavitarne, 
+	the father, to allow the young boy to go with her to India. The future Anagarika Dharmapala was drawn into the world of occultism in Adyar, Madras.
 
 </p>
 							<!-- <div class="sa-team-social">
@@ -100,9 +101,7 @@
 				</div>
 
 
-				<p>the father, to allow the young boy to go with her to India. The future Anagarika Dharmapala was drawn into the world of occultism in Adyar, Madras.
-
-	</p><p>
+	<p>
 He believed, at the age of 20, like many other Buddhists at the time, that the interests of Buddhism and of the Theosophical Society were identical. These views were later to change as the death of Ms. Blavatsky and Olcott‘s ‘defection’ to Ms. Annie Besant’s theosophy, changed the course of that Society to a pro-Hindu stance.
 
 

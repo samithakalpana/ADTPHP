@@ -86,8 +86,7 @@
 </div>  
 <p class="align_left">As a prolific writer, editor and publisher, as well as an eloquent orator, both in his native tongue of Sinhala and in English, Anagarika Dharmapala produced a remarkable collection of writings in the form of pamphlets, diary entries, letters, newspaper articles and speeches. Many of these have been carefully preserved and are accessible to the public.
 </p>
-<p>Anagarika Dharmapala maintained notebooks and diaries throughout his adult life and most of these have survived for over a century. The original handwritten diaries were gifted by the Maha Bodhi Society to the Department of National Archives of Sri Lanka while his notebooks are held at the Dharmapala Museum in Sarnath, India. The Anagarika Dharmapala </p>
-<p>Trust maintains a set of transcribed (some as soft copies) of the following diaries in its library at the Trust office in Colombo.
+<p>Anagarika Dharmapala maintained notebooks and diaries throughout his adult life and most of these have survived for over a century. The original handwritten diaries were gifted by the Maha Bodhi Society to the Department of National Archives of Sri Lanka while his notebooks are held at the Dharmapala Museum in Sarnath, India. The Anagarika Dharmapala Trust maintains a set of transcribed (some as soft copies) of the following diaries in its library at the Trust office in Colombo.
 </p>
 
 

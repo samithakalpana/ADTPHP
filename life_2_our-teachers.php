@@ -92,13 +92,18 @@ As a commentator wrote after his death:
 				</div>
 				<p>
 	In 1886 when the American Theosophist,
-	<a href="benefactors_3_our-teachers.php"><span style="color: blue;"><b> Henry Steel Olcott </b></span></a>and English Theosophist,
-	 <a href="">Charles Webster Leadbeater</a> (who went on to become the first principal of what would become the country's largest Buddhist secondary school, Ananda College) travelled around Ceylon to raise funds for their educational projects, it was the young Anagarika who went with them as their translator. During this long tour he learnt about the state of the lives of Ceylonese - mostly Sinhalese villagers: poor, indebted, illiterate, lacking in self-worth and living in constant fear of their colonial ruler. 
+	<a href="benefactors_3_our-teachers.php"><span style="color: blue;"><b> Henry Steel Olcott </b></span></a>and
+	 <!-- English Theosophist, -->
+	 Englishman 
+	 <a href=""> Charles Webster Leadbeater</a> (who went on to become the first principal of what would become the country's largest Buddhist secondary school, Ananda College) travelled around Ceylon to raise funds for their educational projects, it was the young Anagarika who went with them as their translator. During this long tour he learnt about the state of the lives of Ceylonese - mostly Sinhalese villagers: poor, indebted, illiterate, lacking in self-worth and living in constant fear of their colonial ruler. 
 	</p><p>
-	From 1886 - 1890, working as the general manager and assistant secretary of the Society, the young Anagarika took on the name Hewavitarne Dharmapala. This name would later become abbreviated, first to H. Dharmapala and later to Anagarika Dharmapala (the renunciant guardian of the truth). Working with Olcott and Leadbeater, the young Anagarika was first introduced to printing and publication when they began the Sarasavi Sandaresa and in 1888, The Buddhist (funded mainly by his grandfather and friends).
+	From 1886 - 1890, working as the general manager and assistant secretary of the Society, the young Anagarika took on the name Hewavitarne Dharmapala. This name would later become abbreviated, first to H. Dharmapala and later to Anagarika Dharmapala (the renunciant guardian of the truth). Working with Olcott and Leadbeater, the young Anagarika was first introduced to printing and publication when they began the <i>Sarasavi Sandaresa</i> and in 1888, <i>The Buddhist</i> (funded mainly by his grandfather and friends).
 	</p><p>
 	Soon, Dharmapala’s life would be taken over by his ceaseless work for Buddhism, starting with a tour of Japan with Olcott in 1889. They traveled extensively around Japan delivering lectures and reading out the erudite Sri Lankan scholar-monk 
-	<a href="benefactors_1_our-teachers.php"><span style="color: blue;"><b>Ven Hikkaduwe Sumangala Thero</b></span></a>’s letter of good wishes written in Sanskrit to the Buddhists of Japan. It was the first letter from a monk of the Southern Buddhist tradition (Theravada) to those of the Northern tradition (Mahayana) in such times.
+	<a href="benefactors_1_our-teachers.php"><span style="color: blue;"><b>Ven 
+		<!-- Hikkaduwe Sumangala -->
+		HIKKADUWE SRI SUMANAGALA
+		Thero</b></span></a>’s letter of good wishes written in Sanskrit to the Buddhists of Japan. It was the first letter from a monk of the Southern Buddhist tradition (Theravada) to those of the Northern tradition (Mahayana) in such times.
 	</p>
 				<p>
 	However, the turning point of the young 26-year old Dharmapala’s life occurred after reading a famous poem at the time, Light of Asia, by the Englishman,
