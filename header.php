@@ -27,13 +27,31 @@
 							</ul> -->
 						</div>
 					</div>
-					<div class="col-lg-6 col-md-8 col-4">
+					<div class="col-lg-12 col-md-8 col-4">
 						<ul class="top-btn list-inline">
 							<li class="list-inline-item"><i class="fa fa-phone"></i><a href="tel:+94 011 269 5012">+94 11 269 5012</a></li>
 							<li class="list-inline-item"><i class="fa fa-envelope"></i><a href="mailto:adtrust@sltnet.lk">adtrust@sltnet.lk</a></li>
 							<li class="list-inline-item"><a class="btn btn-sm dark-btn templezen-top-btn" href="actions/languageAction.php?lang=english&&page=index.php">සිංහල</a></li>
-						</ul>
+							<li class="list-inline-item"><a class="btn btn-sm dark-btn templezen-top-btn" href="sinhala_under_construction_page.php">தமிழ்</a></li>
+							<li class="list-inline-item"><a class="btn btn-sm dark-btn templezen-top-btn" href="sinhala_about-us.php">हिन्दी</a></li>
+							
+								</ul>
 					</div>
+
+					<!-- <div class="col-lg-8 col-md-8 col-4">
+						<ul class="top-btn list-inline">
+							<li class="list-inline-item"><i class="fa fa-phone"></i><a href="tel:+94 011 269 5012">+94 11 269 5012</a></li>
+							<li class="list-inline-item"><i class="fa fa-envelope"></i><a href="mailto:adtrust@sltnet.lk">adtrust@sltnet.lk</a></li>
+							<li class="list-inline-item"><a class="btn btn-sm dark-btn templezen-top-btn" href="actions/languageAction.php?lang=english&&page=index.php">සිංහල</a></li>
+							<li class="list-inline-item"><a class="btn btn-sm dark-btn templezen-top-btn" href="actions/languageAction.php?lang=english&&page=index.php">සිංහල</a></li>
+							<li class="list-inline-item"><a class="btn btn-sm dark-btn templezen-top-btn" href="actions/languageAction.php?lang=english&&page=index.php">සිංහල</a></li>
+						</ul>
+					</div> -->
+
+
+
+
+
 				</div>
 			</div>
 		</div>
@@ -168,7 +186,19 @@
 
 
 						
-						<li><a href="shop_main_ADT_books.php">Store</a></li>
+						<!-- <li><a href="shop_main_ADT_books.php">Store</a></li> -->
+						<li class="dropdown" ><a href="shop_main_ADT_books.php">Store  <span class="nav_arrow"></span></a>
+							<!-- <ul class="sub-menu">
+								<li><a href="blog.html">Blog</a></li>
+								<li><a href="blog-detail.html">Blog Detail</a></li>
+							</ul> -->						
+								<ul class="sub-menu">
+								
+								<li><a href="shop_pages1.php">Tipitaka Publications</a>
+								
+						
+								</ul>
+						</li>
 						<li><a href="Gallery.php">Gallery</a></li>
 						<li ><a href="contact-us.php">Contact Us<span class="nav_arrow"></span></a>
 							<!-- <ul class="sub-menu">

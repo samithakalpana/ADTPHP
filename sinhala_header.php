@@ -28,11 +28,13 @@
 							</ul> -->
 						</div>
 					</div>
-					<div class="col-lg-6 col-md-8 col-4">
+					<div class="col-lg-12 col-md-8 col-4">
 						<ul class="top-btn list-inline">
 							<li class="list-inline-item"><i class="fa fa-phone"></i><a href="tel:+94 011 269 5012">+94 011 269 5012</a></li>
 							<li class="list-inline-item"><i class="fa fa-envelope"></i><a href="adtrust@sltnet.lk">adtrust@sltnet.lk</a></li>
 							<li class="list-inline-item"><a class="btn btn-sm dark-btn templezen-top-btn" href="actions/languageAction.php?lang=sinhala&&page=index.php">English</a></li>
+							<li class="list-inline-item"><a class="btn btn-sm dark-btn templezen-top-btn" href="sinhala_under_construction_page.php">தமிழ்</a></li>
+							<li class="list-inline-item"><a class="btn btn-sm dark-btn templezen-top-btn" href="sinhala_under_construction_page.php">हिन्दी</a></li>
 				
 						</ul>
 					</div>
@@ -156,11 +158,27 @@
 						</li>
 						
 						<!-- <li class="dropdown"><a href="sinhala_shop_main_ADT_books.php">සාප්පුව</a> -->
-						<li><a href="sinhala_shop_main_ADT_books.php">සාප්පුව</a>
+						<!-- <li><a href="sinhala_shop_main_ADT_books.php">සාප්පුව</a> -->
 						<!-- <ul class="sub-menu"> -->
 								<!-- <li><a href="our-teachers.php">ත්‍රිපිටක ප්‍රකාශන</a> -->
 								<!-- </ul> -->
-					</li>
+					<!-- </li> -->
+
+					<li class="dropdown" ><a href="sinhala_shop_main_ADT_books.php">සාප්පුව<span class="nav_arrow"></span></a>
+							<!-- <ul class="sub-menu">
+								<li><a href="blog.html">Blog</a></li>
+								<li><a href="blog-detail.html">Blog Detail</a></li>
+							</ul> -->						
+								<ul class="sub-menu">
+								
+								<li><a href="shop_pages1.php">ත්‍රිපිටක ප්‍රකාශන</a>
+						
+								</ul>
+						</li>
+
+
+
+
 					
 					<li><a href="sinhala_Gallery.php">පිංතූර ගැලරිය</a>
 						<!-- <ul class="sub-menu"> -->
