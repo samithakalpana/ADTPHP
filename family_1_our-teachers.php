@@ -70,7 +70,9 @@
 							<h3>Mudliyar H. Don Carolis </h3>
 							<!-- <p class="designation">Yoga Teacher</p> -->
 							<p class="designation">(1833 – 18 February 1906)</p>
-							<p>	Don Carolis Hewavitarne, the father of Anagarika Dharmapala, was born in Yatiyana, Hittatiya, Matara, in the South of then Ceylon (now Sri Lanka) as one of the two sons of Hewavitarne Dingiri Appuhamy, a wealthy landowner.  Don Carolis could be considered the pater-familia of the modern Hewavitarne family, which was to be in the forefront of the country's freedom struggle. From his early life, the links to the village temple were closely formed with Don Carolis and his brother receiving their education at the Hittatiya Raja Maha Vihara under the tutelage of Ven. Mirrise Revatha. His brother ordained as a bhikkhu, taking on the ordination name, Ven. Hittatiye Atthadassi Thero and became an incumbent at the Hittatiye Raja Maha Vihara.
+							<p>	Don Carolis Hewavitarne, the father of Anagarika Dharmapala, was born in Yatiyana, Hittatiya, Matara, in the South of then Ceylon (now Sri Lanka) as one of the two sons of Hewavitarne Dingiri Appuhamy, a wealthy landowner.  Don Carolis could be considered the pater-familia of the modern Hewavitarne family, which was to be in the forefront of the country's freedom struggle. From his early life, the links to the village temple were closely formed with Don Carolis and his brother receiving their education at the Hittatiya Raja Maha Vihara under the tutelage of
+								 <!-- Ven. Mirrise Revatha -->
+								 Ven Mirisse Revata. His brother ordained as a bhikkhu, taking on the ordination name, Ven. Hittatiye Atthadassi Thero and became an incumbent at the Hittatiye Raja Maha Vihara.
 							
 							</p>
 	<p>	Don Carolis, migrated to Colombo and married, Mallika, the daughter of the wealthy Colombo-based  entrepreneur,  Andiris Perera Dharmagunawardene, and established H. Don Carolis & Sons, a furniture shop in Pettah. The small shop that was established in Pettah evolved into one of the largest and most prestigious industrial companies of Ceylon and Asia in the 19th and 20th Centuries under the astute business acumen of Don Carolis.
