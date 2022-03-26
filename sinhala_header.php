@@ -197,10 +197,12 @@
 			</div>
 		</nav>
 		<!-- Navigation end -->
+
+
 		<!-- Mobile Navigation -->
 		<div class="mobile-menu">
 			<ul class="wd-menu pop-scroll">
-				<li class="has-child">
+				<li class="">
 					<a href="sinhala_index.php">මුල් පිටුව</a>
 					<!-- <ul class="sub-menu">
 						<li><a href="index.php">Homepage 1</a></li>
@@ -226,6 +228,67 @@
 					</ul>
 				</li>
 				<li class="has-child">
+					<a href="#">පවුල</a>
+					
+					<ul class="sub-menu">
+					<li><a href="sinhala_family_1.php">එච්. දොන් කරෝලිස්</a>
+								<li><a href="sinhala_family_2.php">මල්ලිකා හේවාවිතාරණ</a>
+								<li><a href="sinhala_family_3.php">දෝන එංගල්තිනා මුණසිංහ</a>
+								<li><a href="sinhala_family_4.php">එඞ්මන්ඞ් හේවාවිතාරණ</a>
+								<li><a href="sinhala_family_5.php">සයිමන් ඇලෙස්සැන්ඩර් හේවාවිතාරණ</a>
+								<li><a href="sinhala_family_6.php">චාර්ල්ස් අල්විස් හේවාවිතාරණ</a>
+					</ul>
+				</li>
+				<li class="has-child">
+					<a href="#">ප්‍රතිලාභීන්</a>
+					
+					<ul class="sub-menu">
+					<li><a href="sinhala_under_construction_page.php">හික්කඩුවේ ශ්‍රී සුමංගල හිමි</a>
+								<li><a href="sinhala_benefactors_2.php">මේරි රොබින්සන් ෆොස්ටර්</a>
+										<li><a href="sinhala_under_construction_page.php">හෙන් රි ස්ටීල් ඕල්කට්</a>
+								<li><a href="sinhala_under_construction_page.php">හෙලේනා පෙට්‍රොව්නා බ්ලැවැස්කි</a>
+								<li><a href="sinhala_under_construction_page.php">සර් එඩ්වින් ආර්නෝල්ඩ්</a>
+								<li><a href="sinhala_under_construction_page.php">නීල්කමල් මුකර්ජි</a>
+								<li><a href="sinhala_under_construction_page.php">දේවප්‍රිය වලිසිංහ</a>
+					</ul>
+				</li>
+
+				<li class="has-child">
+					<a href="#">භාරය</a>				
+					<ul class="sub-menu">
+					<li><a href="sinhala_about-us.php">සභාපතිතුමගේ පණිවුඩය</a></li>
+								<li><a href="sinhala_about-us.php#section_2">භාරය පිළිබදව</a></li>
+								<li><a href="sinhala_about-us.php#section_3">කළමනාකරණ භාරකරුවන්</a></li>
+							
+					</ul>
+				</li>
+
+
+				<li class="has-child">
+					<a href="#">වෙනත් භාරයන්</a>				
+					<ul class="sub-menu">
+					<li><a href="sinhala_under_construction_page.php"> මහා බෝධි සංගමය</a></li>
+								<li><a href="sinhala_under_construction_page.php"> මහා බෝධි සංගමය-ඉන්දියාව</a></li>
+								<li><a href="sinhala_under_construction_page.php">ලන්ඩන් බෞද්ධ විහාර</a></li>
+								<li><a href="sinhala_under_construction_page.php">මල්ලිකා නිවාස සමිතිය</a></li>
+								<li><a href="sinhala_under_construction_page.php">බ්‍රිතාන්‍ය මහා බෝධි සංගමය</a></li>
+								<li><a href="sinhala_Associates_1_somawati_and_simon_trust.php">සයිමන් හේවාවිතාරණ හා සෝමාවතී හෙවාවිතාරණ භාරයන් </a></li>
+							
+					</ul>
+				</li>
+				<li class="has-child">
+					<a href="#">ප්‍රකාශන සහ පර්‍යෙශන </a>				
+					<ul class="sub-menu">
+					<li><a href="sinhala_Diaries.php">දිනපොත්</a>
+								<li><a href="sinhala_Other_publications.php">අනෙකුත් ප්‍රකාශන</a>
+								<li><a href="sinhala_Information_for_researchers.php">පර්‍යේෂකයන් සදහා තොරතුරු</a>
+							
+					</ul>
+				</li>
+
+
+
+				<!-- <li class="has-child">
 					<a href="#">පවුල සහ ප්‍රතිලාභීන්</a>
 					<ul class="sub-menu">
 					<li class="has-child dropdown"><a href="#">පවුල</a>
@@ -240,36 +303,56 @@
 							</li>
 							<li class="has-child"><a href="#">ප්‍රතිලාභීන්</a>
 								<ul class="sub-menu">
-								<li><a href="sinhala_under_construction_page.php">හික්කඩුවේ ශ්‍රී සුමංගල හිමි</a>
+								<li><a href="sinhala_under_construction_page.php">හික්කඩුවේ ශ්‍රී සුමංගල හිමි</a> -->
 								<!-- <li><a href="sinhala_benefactors_1.php">හික්කඩුවේ ශ්‍රී සුමංගල හිමි</a> -->
-								<li><a href="sinhala_benefactors_2.php">මේරි රොබින්සන් ෆොස්ටර්</a>
+								<!-- <li><a href="sinhala_benefactors_2.php">මේරි රොබින්සන් ෆොස්ටර්</a>
 										<li><a href="sinhala_under_construction_page.php">හෙන් රි ස්ටීල් ඕල්කට්</a>
 								<li><a href="sinhala_under_construction_page.php">හෙලේනා පෙට්‍රොව්නා බ්ලැවැස්කි</a>
 								<li><a href="sinhala_under_construction_page.php">සර් එඩ්වින් ආර්නෝල්ඩ්</a>
 								<li><a href="sinhala_under_construction_page.php">නීල්කමල් මුකර්ජි</a>
 								<li><a href="sinhala_under_construction_page.php">දේවප්‍රිය වලිසිංහ</a>
 								</ul>
-							</li>
+							</li> -->
 						<!-- <li><a href="our-teachers.php">our-teachers</a></li>
 						<li><a href="shop-left.php">shop-left</a></li>
 						<li><a href="shop-right.php">shop-right</a></li>
 						<li><a href="shop-full-width.php">shop-full-width</a></li>
 						<li><a href="log-in.php">log-in</a></li>
 						<li><a href="sign-up.php">sign-up</a></li>-->
-					</ul>
-				</li>
-				<li class="has-child"><a href="about-us.php">භාරය</a>
+					<!-- </ul>
+				</li> -->
+
+
+				<!-- <li class="has-child"><a href="about-us.php">භාරය</a>
 			<ui class="sub-menu">
 			<li><a href="sinhala_about-us.php">සභාපතිතුමගේ පණිවුඩය</a></li>
 								<li><a href="sinhala_about-us.php#section_2">භාරය පිළිබදව</a></li>
 								<li><a href="sinhala_about-us.php#section_3">කළමනාකරණ භාරකරුවන්</a></li>
 			</ui>
-			</li>
-		
-				<li><a href="sinhala_Diaries.php">දිනපොත්</a>
+			</li> -->
+
+
+			<!-- <li class="has-child"><a href="about-us.php">වෙනත් භාරයන්</a>
+			<ui class="sub-menu">
+			<li><a href="sinhala_under_construction_page.php"> මහා බෝධි සංගමය</a></li>
+								<li><a href="sinhala_under_construction_page.php"> මහා බෝධි සංගමය-ඉන්දියාව</a></li>
+								<li><a href="sinhala_under_construction_page.php">ලන්ඩන් බෞද්ධ විහාර</a></li>
+								<li><a href="sinhala_under_construction_page.php">මල්ලිකා නිවාස සමිතිය</a></li>
+								<li><a href="sinhala_under_construction_page.php">බ්‍රිතාන්‍ය මහා බෝධි සංගමය</a></li>
+								<li><a href="sinhala_Associates_1_somawati_and_simon_trust.php">සයිමන් හේවාවිතාරණ හා සෝමාවතී හෙවාවිතාරණ භාරයන් </a></li>
+			</ui>
+			</li> -->
+
+			<!-- <li class="has-child"><a href="about-us.php">ප්‍රකාශන සහ පර්‍යෙශන  </a>
+			<ui class="sub-menu">
+			<li><a href="sinhala_Diaries.php">දිනපොත්</a>
 								<li><a href="sinhala_Other_publications.php">අනෙකුත් ප්‍රකාශන</a>
 								<li><a href="sinhala_Information_for_researchers.php">පර්‍යේෂකයන් සදහා තොරතුරු</a>
-								<li><a href="sinhala_shop_main_ADT_books.php">සාප්පුව</a>
+			</ui>
+			</li> -->
+		
+			<li><a href="sinhala_shop_main_ADT_books.php">සාප්පුව</a>
+			<li><a href="sinhala_Gallery.php">පිංතූර ගැලරිය</a>
 								<li ><a href="sinhala_contact-us.php">ඇමතුම්<span class="nav_arrow"></span></a>
 
 				<!-- <li class="has-child">

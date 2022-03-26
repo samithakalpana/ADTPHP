@@ -96,6 +96,9 @@
 						
 							<img src="assets/images/custom_images/charlis_alwis.png" alt="img">
 						</div>
+						<br/>
+							<p>Dr Charles Alwis Hewavitarne with his son, Wimaladharma and  the Prince of Wales, during the Prince's visit to Sri Lanka in 1921.</p>
+							<!-- A pictorial album of the visit is available -->
 					</div>
 				</div>
 		
