@@ -70,7 +70,10 @@
 							<h3>Edmund Hewavitarne </h3>
 							<!-- <p class="designation">Yoga Teacher</p> -->
 							<p class="designation">(From 1873 – 19 November 1915)</p>
-							<p> <b>Edmund</b> was the younger brother of Angarika Dharmapala. He was Managing Director of the family firm, H. Don Carolis & Sons Ltd., when the infamous communal riots of 1915 took place in the country. The Hewavitarne family, was under close watch by the British administrators of the island. The British police chief had referred to the Anagarika, by then in the forefront of an anti-colonialism drive, as a troublesome entity. The Anagarika was in India at the time of the riots (and then placed under house arrest on a detention order for what was happening in Ceylon) and when the riots spread to the Maradana area, they promptly arrested Edmund Hewavitarne from their furniture shop that was then at Keyzer Street, Maradana, and slapped trumped up charges of treason and shop breaking on him and one other. They were tried and convicted by a military court.
+							<p> <b>Edmund</b> 
+							<!-- was the younger brother -->
+							Was one of the younger brother's 
+							 of Angarika Dharmapala. He was Managing Director of the family firm, H. Don Carolis & Sons Ltd., when the infamous communal riots of 1915 took place in the country. The Hewavitarne family, was under close watch by the British administrators of the island. The British police chief had referred to the Anagarika, by then in the forefront of an anti-colonialism drive, as a troublesome entity. The Anagarika was in India at the time of the riots (and then placed under house arrest on a detention order for what was happening in Ceylon) and when the riots spread to the Maradana area, they promptly arrested Edmund Hewavitarne from their furniture shop that was then at Keyzer Street, Maradana, and slapped trumped up charges of treason and shop breaking on him and one other. They were tried and convicted by a military court.
 							
 							</p>
 							<p>	One of his great grandsons writes of what happened:						

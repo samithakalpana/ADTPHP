@@ -95,7 +95,9 @@
 					</div>
 				</div>
 
-				<p><b>Mary Foster</b> was Anagarika Dharmapala’s foremost benefactor after his father's death. She dedicated enormous sums of her wealth to his various causes and missions.  They met in 1893 when Anagarika Dharmapala’s steamer, the Oceanic, docked in Honolulu (in Hawaii), on his way back to Ceylon, via Japan, from the inauguration of the Parliament of Religions in 1893. There began a friendship that spanned forty years.  As a Theosophist it is likely that Anagarika’s work and writings were familiar to Mary Foster long before they met and it is said that she confided her battle with grief over the death of her husband and her anger probably over the deposition of the Hawaiian monarchy.  Anagarika Dharmapala had given her guidance in Buddhist meditation. This kindled her lifelong interest and support for Buddhism, especially, but not least, the financial assistance for the construction of the Mulagandhi Kuti Vihara in Sarnath, India. As Anagarika writes in his diary, while it was his father who planted the seed Bodhi in him and his mother taught him the doctrine of impermanence, it was Mary Foster who supported him after his father’s death. He believed this was the workings of the powers of the Dhamma: “There is none other except the Dharma to look up to. Strict adherence to the Dharma has been my principle. The Dharma protects me. The Dharma brought me in contact with Mrs Foster”.							
+				<p><b>Mary Foster</b> was Anagarika Dharmapala’s foremost benefactor after his father's death. She dedicated enormous sums of her wealth to his various causes and missions.  They met in 1893 when Anagarika Dharmapala’s steamer, the Oceanic, docked in Honolulu (in Hawaii), on his way back to Ceylon, via Japan, from the inauguration of the Parliament of Religions in 1893. There began a friendship that spanned more than 40
+				 <!-- forty  -->
+				 years.  As a Theosophist it is likely that Anagarika’s work and writings were familiar to Mary Foster long before they met and it is said that she confided her battle with grief over the death of her husband and her anger probably over the deposition of the Hawaiian monarchy.  Anagarika Dharmapala had given her guidance in Buddhist meditation. This kindled her lifelong interest and support for Buddhism, especially, but not least, the financial assistance for the construction of the Mulagandhi Kuti Vihara in Sarnath, India. As Anagarika writes in his diary, while it was his father who planted the seed Bodhi in him and his mother taught him the doctrine of impermanence, it was Mary Foster who supported him after his father’s death. He believed this was the workings of the powers of the Dhamma: “There is none other except the Dharma to look up to. Strict adherence to the Dharma has been my principle. The Dharma protects me. The Dharma brought me in contact with Mrs Foster”.							
 							
 
 							</p>
@@ -110,7 +112,9 @@
 ·         Hewavitarne Weaving School.<br/>
 ·         Maha Bodhi Press in Colombo, and its journals in Sinhala and English.
 ·         Industrial School at Sarnath.<br/>
-·         Foster-Robinson Hospital for the Poor - a free ayurvedic hospital that remains part of Colombo General Hospital in Sri Lanka.<br/>
+·         Foster-Robinson Hospital for the Poor - a free ayurvedic hospital 
+<!-- that remains part of Colombo General Hospital in Sri Lanka -->
+.<br/>
 ·         Dharmarajika Vihara in Calcutta, India.<br/>
 ·         Foster House at 86 Madeley Road, Ealing, London - opened on July 24, 1926 as the first missionary vihara to be founded outside the Asian continent. This also marked the birth of the British Mahabodhi Society.
 
