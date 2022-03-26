@@ -332,10 +332,12 @@ The Trustees were expected to appoint succeeding Trustees, and in 1947, the Publ
 					<!-- <h3>Our Teachers</h3> -->
 					<h3>The Managing Trustees</h3>
 					<p>The Trust is overseen by a board of six members</p>
+
+					
 				</div>
 				<div class="row">
 					<div class="col-12">
-						<div class="owl-carousel team-carousel">
+						<div class="owl-carousel">
 							<div class="item">
 								<div class="box_wrap">
 									

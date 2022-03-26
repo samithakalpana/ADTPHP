@@ -740,11 +740,11 @@ to manage the Sanghamitta convent for nuns
 				
 	-->
 				<!-- section two start here -->
-				<div class="col-md-12 col-lg-6 offset-lg-4">
+				<div class="col-md-12 col-lg-6 offset-lg-3">
 				<!-- <div class="col-md-12 col-lg-12 offset-lg-12"> -->
 					<div class="heading">
 						
-					</div>
+					<!-- </div>
 					<div class="ss-pastor-img-wrap">
 					<img src="assets/images/custom_images/1.jpg" alt="img">
 					<img src="assets/images/custom_images/2.jpg" alt="img">
@@ -789,6 +789,59 @@ to manage the Sanghamitta convent for nuns
 					<img src="assets/images/custom_images/41.jpg" alt="img">
 					<img src="assets/images/custom_images/42.jpg" alt="img">
 					<img src="assets/images/custom_images/43.jpg" alt="img">
+					
+
+					</div> -->
+
+					<div class="ss-pastor-img-wrap">
+					<img src="assets/images/custom_images/11Intro.jpg" alt="img">
+					<img src="assets/images/custom_images/1815.jpg" alt="img">
+					<img src="assets/images/custom_images/1832.jpeg" alt="img">
+					<img src="assets/images/custom_images/1837.jpg" alt="img">
+					<img src="assets/images/custom_images/1860.jpg" alt="img">
+					<img src="assets/images/custom_images/1862.jpg" alt="img">
+					<img src="assets/images/custom_images/1863.jpg" alt="img">
+					<img src="assets/images/custom_images/1864.jpg" alt="img">
+					<img src="assets/images/custom_images/1865.jpg" alt="img">
+					<img src="assets/images/custom_images/1870.jpg" alt="img">
+					<img src="assets/images/custom_images/1872.jpg" alt="img">
+					<img src="assets/images/custom_images/1874.jpg" alt="img">
+					<img src="assets/images/custom_images/1876.jpg" alt="img">
+					<img src="assets/images/custom_images/1878.jpg" alt="img">
+					<img src="assets/images/custom_images/1880.jpg" alt="img">
+					<img src="assets/images/custom_images/1881.jpg" alt="img">
+					<img src="assets/images/custom_images/1883.jpg" alt="img">
+					<img src="assets/images/custom_images/1884.jpg" alt="img">
+					<img src="assets/images/custom_images/1887.jpg" alt="img">
+					<img src="assets/images/custom_images/1889.jpg" alt="img">
+					<img src="assets/images/custom_images/1891.jpg" alt="img">
+					<img src="assets/images/custom_images/1892.jpg" alt="img">
+					<img src="assets/images/custom_images/1893.jpg" alt="img">
+					<img src="assets/images/custom_images/1895.jpg" alt="img">
+					<img src="assets/images/custom_images/1896.jpg" alt="img">
+					<img src="assets/images/custom_images/1898.jpg" alt="img">
+					<img src="assets/images/custom_images/1900.jpg" alt="img">
+					<img src="assets/images/custom_images/1902.jpg" alt="img">
+					<img src="assets/images/custom_images/1906.jpg" alt="img">
+					<img src="assets/images/custom_images/1907.jpg" alt="img">
+					<img src="assets/images/custom_images/1912.jpg" alt="img">
+					<img src="assets/images/custom_images/1913.jpg" alt="img">
+					<img src="assets/images/custom_images/1915.jpg" alt="img">
+					<img src="assets/images/custom_images/1916.jpg" alt="img">
+					<img src="assets/images/custom_images/1918.jpg" alt="img">
+					<img src="assets/images/custom_images/1920.jpg" alt="img">
+					<img src="assets/images/custom_images/1922.jpg" alt="img">
+					<img src="assets/images/custom_images/1925.jpg" alt="img">
+					<img src="assets/images/custom_images/1928.jpg" alt="img">
+					<img src="assets/images/custom_images/1929.jpg" alt="img">
+					<img src="assets/images/custom_images/1930.jpg" alt="img">
+					<img src="assets/images/custom_images/1931.jpg" alt="img">
+					<img src="assets/images/custom_images/1933.jpg" alt="img">
+					<img src="assets/images/custom_images/xxSources.jpg" alt="img">
+					<!-- <img src="assets/images/custom_images/" alt="img">
+					<img src="assets/images/custom_images/" alt="img">
+					<img src="assets/images/custom_images/" alt="img">
+					<img src="assets/images/custom_images/" alt="img"> -->
 					
 
 					</div>
