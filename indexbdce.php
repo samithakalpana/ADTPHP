@@ -2,7 +2,6 @@
 <html lang="en">
 
 
-<!-- Mirrored from primehostingindia.com/templatemonster/html/templezen/?i=108074&pr_code=11111111 by HTTrack Website Copier/3.x [XR&CO'2014], Thu, 06 Jan 2022 17:54:43 GMT -->
 <head>
 	<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
 	<meta http-equiv="X-UA-Compatible" content="IE=edge">
@@ -777,5 +776,4 @@
 </body>
 
 
-<!-- Mirrored from primehostingindia.com/templatemonster/html/templezen/?i=108074&pr_code=11111111 by HTTrack Website Copier/3.x [XR&CO'2014], Thu, 06 Jan 2022 17:57:21 GMT -->
 </html>

@@ -2,7 +2,6 @@
 <html lang="en">
 
 
-<!-- Mirrored from primehostingindia.com/templatemonster/html/templezen/about-us.html by HTTrack Website Copier/3.x [XR&CO'2014], Thu, 06 Jan 2022 18:01:27 GMT -->
 <head>
 	<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
 	<meta http-equiv="X-UA-Compatible" content="IE=edge">
@@ -142,6 +141,4 @@ Sinha Ratnatunga
 	<script src="assets/js/audio_custome.js"></script>
 </body>
 
-
-<!-- Mirrored from primehostingindia.com/templatemonster/html/templezen/about-us.html by HTTrack Website Copier/3.x [XR&CO'2014], Thu, 06 Jan 2022 18:01:50 GMT -->
 </html>

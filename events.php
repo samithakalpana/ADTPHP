@@ -3,7 +3,6 @@
 <html lang="en">
 
 
-<!-- Mirrored from primehostingindia.com/templatemonster/html/templezen/events.html by HTTrack Website Copier/3.x [XR&CO'2014], Thu, 06 Jan 2022 18:05:08 GMT -->
 <head>
 	<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
 	<meta http-equiv="X-UA-Compatible" content="IE=edge">
@@ -236,5 +235,4 @@
 </body>
 
 
-<!-- Mirrored from primehostingindia.com/templatemonster/html/templezen/events.html by HTTrack Website Copier/3.x [XR&CO'2014], Thu, 06 Jan 2022 18:05:59 GMT -->
 </html>
