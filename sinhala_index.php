@@ -14,7 +14,7 @@ ob_start();
 <!DOCTYPE HTML>
 <html lang="en">
 
-<!-- Mirrored from primehostingindia.com/templatemonster/html/templezen/index.html by HTTrack Website Copier/3.x [XR&CO'2014], Thu, 06 Jan 2022 18:00:35 GMT -->
+
 <head>
 	<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
 	<meta http-equiv="X-UA-Compatible" content="IE=edge">
@@ -1286,6 +1286,6 @@ ob_start();
 </body>
 
 
-<!-- Mirrored from primehostingindia.com/templatemonster/html/templezen/index.html by HTTrack Website Copier/3.x [XR&CO'2014], Thu, 06 Jan 2022 18:00:35 GMT -->
+
 </html>
 <?php ob_end_flush();?>
