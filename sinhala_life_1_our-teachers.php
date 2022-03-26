@@ -7,8 +7,6 @@
 <!DOCTYPE HTML>
 <html lang="si">
 
-
-<!-- Mirrored from primehostingindia.com/templatemonster/html/templezen/our-teachers.html by HTTrack Website Copier/3.x [XR&CO'2014], Thu, 06 Jan 2022 18:06:09 GMT -->
 <head>
 
 
@@ -240,6 +238,4 @@ OLCOTT AND MADAN HELENA BLAVETSKY) 1880 දී
 	<script src="assets/js/audio_custome.js"></script>
 </body>
 
-
-<!-- Mirrored from primehostingindia.com/templatemonster/html/templezen/our-teachers.html by HTTrack Website Copier/3.x [XR&CO'2014], Thu, 06 Jan 2022 18:06:34 GMT -->
 </html>
