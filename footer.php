@@ -106,7 +106,7 @@
 			<div class="container">
 				<div class="row">
 					<div class="col-lg-4 align-self-center">
-						<p class="mb-0">&copy; 2020 ADT TRUST  All Rights Reserved.<br/>Design And Developed By H&K</p>
+						<p class="mb-0">&copy; 2020 ADT TRUST  All Rights Reserved.<br/>Design And Developed By Riddikulus-Labs</p>
 					</div>
 					<div class="col-lg-4 align-self-center">
 						<div id="back-top" class="back-top">

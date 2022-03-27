@@ -78,7 +78,8 @@
 							<!-- then a residential part of //then \\Ceylon's  then removed-->
 							<p>							
 							
-At that time the Hewavitarne family was living in Pettah, then a residential part of Ceylon's (now Sri Lanka) capital city, but would soon move to adjoining Kotahena, a salubrious neighborhood of homes with sprawling gardens and tree-lined roads. His birth was registered at St Benedicts Church of Kotahena, as was a requirement at the time.
+At that time the Hewavitarne family was living in Pettah, a residential part of then Ceylon's (now Sri Lanka) capital city, but would soon move to adjoining Kotahena, a salubrious neighborhood of homes with sprawling gardens and tree-lined roads. His birth was registered at St Benedicts Church of Kotahena, as was a requirement at the time.He was given the ‘Christian name’ David, Don being already his father’s name.
+
 	</p>
 
 	<p>
