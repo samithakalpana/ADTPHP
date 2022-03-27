@@ -147,7 +147,7 @@ There may be unexpected delays in the event of curfews, travel restrictions, pos
 						<div class="img-shop-wrapper tl-shop-single">
 				<div class="tl-img-shop">
 
-				<img src="assets/images/shop_images/sample_book.png" alt="image" class ="mx-auto image-fluid d-block">
+				<img src="assets/images/shop_images/coffee_table_book.png" alt="image" class ="mx-auto image-fluid d-block">
 						</div>
 						<div class="tl-product-content">
 								<h4>Coffee Table<br/> Book</h4>
