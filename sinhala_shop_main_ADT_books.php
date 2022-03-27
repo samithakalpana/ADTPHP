@@ -1,8 +1,6 @@
 <!DOCTYPE HTML>
 <html lang="en">
 
-
-<!-- Mirrored from primehostingindia.com/templatemonster/html/templezen/shop-left.html by HTTrack Website Copier/3.x [XR&CO'2014], Thu, 06 Jan 2022 18:06:51 GMT -->
 <head>
 	<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
 	<meta http-equiv="X-UA-Compatible" content="IE=edge">
@@ -240,7 +238,7 @@
 						<div class="img-shop-wrapper tl-shop-single">
 				<div class="tl-img-shop">
 
-				<img src="assets/images/shop_images/sample_book.png" alt="image" class ="mx-auto image-fluid d-block">
+				<img src="assets/images/shop_images/coffee_table_book.png" alt="image" class ="mx-auto image-fluid d-block">
 						</div>
 						<div class="tl-product-content">
 								<h4>Coffee Table<br/> Book</h4>
@@ -466,6 +464,4 @@
 
 </body>
 
-
-<!-- Mirrored from primehostingindia.com/templatemonster/html/templezen/shop-left.html by HTTrack Website Copier/3.x [XR&CO'2014], Thu, 06 Jan 2022 18:06:59 GMT -->
 </html>

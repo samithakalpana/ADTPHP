@@ -99,13 +99,10 @@
 					<div class="col-xl-4 col-lg-5 offset-xl-1 align-self-center">
 						<div class="ss-pastor-img-wrap">
 							<!-- <img src="assets/images/pastor-1.jpg" alt="img"> -->
-							<img src="assets/images/custom_images/neelkamal_page80.png" alt="img">
+							<img src="assets/images/custom_images/neelkamal_new.png" alt="img">
 			
-						</div>			<br>	<p class="align_center">  Anagarika Dharmapala with the son of Neel Kamal Mukherjee
-						
-							
-
-						</p>
+						</div>			<br>
+							<!-- <p class="align_center">  Anagarika Dharmapala with the son of Neel Kamal Mukherjee	</p> -->
 					</div>
 				</div>
 			</div>

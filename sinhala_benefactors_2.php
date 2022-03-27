@@ -1,8 +1,6 @@
 <!DOCTYPE HTML>
 <html lang="en">
 
-
-<!-- Mirrored from primehostingindia.com/templatemonster/html/templezen/our-teachers.html by HTTrack Website Copier/3.x [XR&CO'2014], Thu, 06 Jan 2022 18:06:09 GMT -->
 <head>
 	<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
 	<meta http-equiv="X-UA-Compatible" content="IE=edge">
@@ -237,6 +235,4 @@ x ලන්ඩනයේ ඊලිංහී මැඩලි පාරේ අං�
 	<script src="assets/js/audio_custome.js"></script>
 </body>
 
-
-<!-- Mirrored from primehostingindia.com/templatemonster/html/templezen/our-teachers.html by HTTrack Website Copier/3.x [XR&CO'2014], Thu, 06 Jan 2022 18:06:34 GMT -->
 </html>
