@@ -187,13 +187,14 @@
 
 						
 						<!-- <li><a href="shop_main_ADT_books.php">Store</a></li> -->
-						<li class="dropdown" ><a href="shop_main_ADT_books.php">Store  <span class="nav_arrow"></span></a>
+						<li class="dropdown" ><a href="#">Store  <span class="nav_arrow"></span></a>
 							<!-- <ul class="sub-menu">
 								<li><a href="blog.html">Blog</a></li>
 								<li><a href="blog-detail.html">Blog Detail</a></li>
 							</ul> -->						
 								<ul class="sub-menu">
 								
+									<li><a href="shop_main_ADT_books.php">ADT Store</a>
 								<li><a href="shop_pages1.php">Tipitaka Publications</a>
 								
 						
@@ -339,7 +340,13 @@ And Research</a>
 					</ul>
 				</li>
 
-								<li><a href="shop_main_ADT_books.php">Store</a></li>
+								<li class="has-child"><a href="#">Store</a>
+								<ul class="sub-menu">
+								<li><a href="shop_main_ADT_books.php">ADT Store</a>
+								<li><a href="shop_pages1.php">Tipitaka Publications</a>
+								</ul>
+							</li>
+						
 								<li><a href="Gallery.php">Gallery</a></li>
 						<li ><a href="contact-us.php">Contact Us<span class="nav_arrow"></span></a>
 
