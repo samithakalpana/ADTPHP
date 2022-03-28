@@ -352,7 +352,7 @@
 			</ui>
 			</li> -->
 		
-			<li><a href="sinhala_shop_main_ADT_books.php">සාප්පුව</a>
+			<!-- <li><a href="sinhala_shop_main_ADT_books.php">සාප්පුව</a> -->
 
 			<li class="has-child"><a href="#">සාප්පුව</a>
 								<ul class="sub-menu">
