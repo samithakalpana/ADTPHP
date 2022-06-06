@@ -111,7 +111,7 @@
 									<p> Is a grandnephew of Anagarika Dharmapala and grandson of Charles Hewavitarne and, Life Member Maha Bodhi Society of Sri Lanka. He was the former Jt. Managing Director of H Don Carolis & Sons. </p>
 								</div>
 							</div>
-
+<br>
 							<div class="item">
 								<div class="box_wrap">
 									
@@ -121,17 +121,16 @@
 </p>
                                    
 		</div>
-							</div>
+							</div><br>
 
-							<div class="item">
+							<!-- <div class="item">
 								<div class="box_wrap">
 									
-									<!-- <div class="icon"><img src="assets/images/Templezen-team-icon.html" alt="image"></div> -->
 									<h6>Nalin Walpita</h6>
 									<p> is an Engineering Consultant and CEO of I-Vation. He holds a doctorate in engineering.
 </p>
 								</div>
-							</div>
+							</div> -->
 						</div>
 					</div>
 
@@ -205,15 +204,14 @@
 		</div>
 							</div>
 
-							<div class="item">
+							<!-- <div class="item">
 								<div class="box_wrap">
 									
-									<!-- <div class="icon"><img src="assets/images/Templezen-team-icon.html" alt="image"></div> -->
 									<h6>Nalin Walpita</h6>
 									<p> is an Engineering Consultant and CEO of I-Vation. He holds a doctorate in engineering.
 </p>
 								</div>
-							</div>
+							</div> -->
 						</div>
 					</div>
 
