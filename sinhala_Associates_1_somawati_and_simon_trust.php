@@ -271,7 +271,7 @@ MANAGENENT SERVIAS (POT) LTD සමාගමේ
 		</div>
 							</div><br>
 
-							<!-- <div class="item">
+							<div class="item">
 								<div class="box_wrap">
 									
 									<h6>නලින් වල්පිට</h6>
@@ -280,7 +280,7 @@ MANAGENENT SERVIAS (POT) LTD සමාගමේ
 ඉංජිනේරුශිල්පය පිළිබඳ ආචාර්ය පදවියක් උසුලයි.
 </p>
 								</div>
-							</div> -->
+							</div><br>
 						</div>
 					</div>
 
