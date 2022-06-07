@@ -191,7 +191,7 @@
 									<h6>Shakila Wijewardena</h6>
 									<p>is the Chairman of Sarvodaya Economic Enterprise Development Services Gte Ltd.  He holds a degree in Batchelor of Science from the University of Colombo and is a member of the chartered management institute of UK. </p>
 								</div>
-							</div>
+							</div><br>
 
 							<div class="item">
 								<div class="box_wrap">
@@ -202,16 +202,16 @@
 									<p>Is a great grandnephew of Anagarika Dharmapala and great grandson of Edmund Hewavitarne and, Life Member Maha Bodhi Society of Sri Lanka He was the former Chairman and Managing Director of H Don Carolis & Sons</p>
                                     is a great grandnephew of Anagarika Dharmapala and great grandson of Edmund Hewavitarne. He is the Managing Director, Data Management Services (Pvt.) Ltd. (DMS) and Trustee of the Divulapitiya Raha Maha Vihara. 
 		</div>
-							</div>
+							</div><br>
 
-							<!-- <div class="item">
+							<div class="item">
 								<div class="box_wrap">
 									
 									<h6>Nalin Walpita</h6>
 									<p> is an Engineering Consultant and CEO of I-Vation. He holds a doctorate in engineering.
 </p>
 								</div>
-							</div> -->
+							</div><br>
 						</div>
 					</div>
 
