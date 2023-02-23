@@ -30,7 +30,7 @@
 					</div>
 					<div class="col-12 col-lg-12 col-md-8 col-4">
 						<ul class="top-btn list-inline">
-							<li class="list-inline-item"><i class="fa fa-phone"></i><a href="tel:+94 011 269 5161">+94 011 269 5161</a></li>
+							<li class="list-inline-item"><i class="fa fa-phone"></i><a href="tel:+94 011 269 5012">+94 011 269 5012</a></li>
 							<li class="list-inline-item"><i class="fa fa-envelope"></i><a href="adtrust@sltnet.lk">adtrust@sltnet.lk</a></li>
 							<li class="list-inline-item"><a class="btn btn-sm dark-btn templezen-top-btn" href="actions/languageAction.php?lang=sinhala&&page=index.php">English</a></li>
 							<li class="list-inline-item"><a class="btn btn-sm dark-btn templezen-top-btn" href="under_construction_page.php">தமிழ்</a></li>

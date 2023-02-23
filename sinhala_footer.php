@@ -30,7 +30,7 @@
 							<ul class="text-custom-align-center">
 							ඇමතුම්:<br/>
 						
-								<li><a href="tel:+940112695161">+94 11 269 5161<a></li>
+								<li><a href="tel:+940112695012">+94 11 269 5012<a></li>
 								<!-- <li><a href="#"><i class="fab fa-facebook-f"></i></a></li>
 								<li><a href="#"><i class="fab fa-twitter"></i></a></li>
 								<li><a href="#"><i class="fab fa-linkedin-in"></i></a></li>
