@@ -94,14 +94,16 @@
 <br><br>
 
 <h5><b>British Mahabodhi Society Directors:</b></h5>
+
 <p>Sudhammika Hewavitarne<br>
 Rajiv Hewavitarne <br>
-Lucky Panagoda <br>
+Sinha Ratnatunga <br>
 Sudanta Abeyakoon <br>
-Sinha Ratnatunga 
+Amal Abeyawardene - Secretary <br>
+Nihal Weerasena
 </p>
 
-<p>For more details see the<a class="text-custom-primary" href="Associates_1_london_buddist_vihara.php">  London Buddhist Vihara website</a></p>
+
 
 
 

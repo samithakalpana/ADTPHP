@@ -91,7 +91,7 @@ The above items may be purchased from the Anagarika Dharmapala Trust office:
 <br/> <b>Address:<br/> Anagarika Dharmapala Trust, <br/>No. 130,<br/> Mahabodhi Mandiraya,<br/> Ven. Hikkaduwe Sri Sumangala Nahimi Mawatha,<br/> Colombo 10.<br/></b>
 <br/>
 <br/>
-<a style="color: orangered;" href="tel:+9411 269 5012">Tel: 011 269 5012</a> <br/>(please phone us and set up an appointment before visiting)
+<a style="color: orangered;" href="tel:+9411 269 5012">Tel: 011 269 5161</a> <br/>(please phone us and set up an appointment before visiting)
 <br/>
 <br/>
 For online purchases: please email us - adtrust@sltnet.lk<br/>
