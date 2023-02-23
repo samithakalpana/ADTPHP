@@ -84,7 +84,7 @@
  </p>
                             <!-- <p>Call us: <span>+1 4532 5698 303</span></p> -->
                             <p>දුරකතන: <span>+94-112 695 161</span></p>
-                            <p>විද්‍යුත් තැපෑල: <span>Info@yourwebsite.com</span></p>
+                            <p>විද්‍යුත් තැපෑල: <span>adtrust@sltnet.lk</span></p>
                         </div>
                     </div>
                     <div class="col-md-6">
