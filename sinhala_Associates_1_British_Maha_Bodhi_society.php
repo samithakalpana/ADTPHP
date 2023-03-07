@@ -91,6 +91,13 @@
 <p>The BMBS effectively folded up with the Court case but has now been revived under a new Constitution and functions under the aegis of the Anagarika Dharmapala Trust with the London Buddhist Vihara as its headquarters. 
 </p>
 
+<br>
+<h5>Ven Galkande Dhammananda - Religion, Rights & Reconciliation: <br> Finding Healing after Conflict
+</h5>
+
+<p><iframe width="560" height="315" src="https://www.youtube.com/embed/ouYElbnso1w" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></p>
+
+
 <br><br>
 
 <h5><b>British Mahabodhi Society Directors:</b></h5>
