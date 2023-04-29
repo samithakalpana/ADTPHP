@@ -7,9 +7,9 @@
 	<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
 	<meta http-equiv="X-UA-Compatible" content="IE=edge">
 	<meta name="viewport" content="width=device-width,initial-scale=1">
-	<meta name="keywords" content="">
+	<meta name="keywords" content="anagarika,anagarika dharmapala,dharmapala,trust">
 	<meta name="description" content="">
-	<title>ADT</title>
+	<title>Anagarika Dharmapala Trust</title>
 	<!--Bootstrap -->
 	<link rel="stylesheet" href="assets/css/bootstrap.min.css" type="text/css">
 	<!--OWL Carousel slider-->

@@ -14,7 +14,7 @@
 	<meta name="viewport" content="width=device-width,initial-scale=1">
 	<meta name="keywords" content="">
 	<meta name="description" content="">
-	<title>ADT-Life Of Anagarika Dharmapala</title>
+	<title>Anagarika Dharmapala Trust</title>
 	<!--Bootstrap -->
 	<link rel="stylesheet" href="assets/css/bootstrap.min.css" type="text/css">
 	<!--OWL Carousel slider-->
