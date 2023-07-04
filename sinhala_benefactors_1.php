@@ -50,7 +50,7 @@
 						<h5 class="text-center">පූජ්‍ය හික්කඩුවේ ශ්‍රී සුමංගල නාහිමිපාණෝ </h5>
 						<nav class="breadcrumb">
 							<ul>
-								<li class="breadcrumb-item"><a href="index.php">Home</a></li>
+								<li class="breadcrumb-item"><a href="index.php">මුල් පිටුව</a></li>
 								<li class="breadcrumb-item active">පූජ්‍ය හික්කඩුවේ ශ්‍රී සුමංගල නාහිමිපාණෝ </li>
 							</ul>
 						</nav>
