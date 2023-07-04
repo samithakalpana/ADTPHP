@@ -71,7 +71,7 @@
 							<!-- <p class="designation">Yoga Teacher</p> -->
 							<p class="designation">(From 1864-1885)</p>
 							<p>	Don David Hewavitarne, who would become known throughout the world in the early twentieth century as Anagarika Dharmapala, was born to <a href="family_2_our-teachers.php"><span style="color: blue;"><b>Mallika</b></span></a> and <a href="family_1_our-teachers.php
-							"><span style="color: blue;"><b>Don Carolis Hewavitarne</b></span></a> on the 17th of September 1864. 
+							"><span style="color: blue;"><b>Don Carolis Hewavitarne</b></span></a> in Colombo Kotahena on the 17th of September 1864.There is a commonly held mis-conception that he was born in Matara Hiththetiya. this is not correct.
 							
 							</p>
 
