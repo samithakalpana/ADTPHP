@@ -51,7 +51,7 @@
 						<nav class="breadcrumb">
 							<ul>
 								<li class="breadcrumb-item"><a href="sinhala_index.php">මුල් පිටුව</a></li>
-								<li class="breadcrumb-item active">The Battle for Buddha Gaya</li>
+								<li class="breadcrumb-item active">බුද්ධගයාවේ සංග්‍රාමය</li>
 							</ul>
 						</nav>
 					</div>
@@ -67,62 +67,85 @@
 					<div class="col-lg-7">
 						<div class="sa-paster-about-area">
 							<!-- <h3>Gopal dhanam</h3> -->
-							<h3>The Battle for Buddha Gaya</h3>
+							<h3>බුද්ධගයාවේ සංග්‍රාමය</h3>
 							<!-- <p class="designation">Yoga Teacher</p> -->
 							<p class="designation"></p>
+	</br>
 							<p>	
-							A few kilometers from the city of Gaya in the North Eastern Indian state of Bihar is Bodh Gaya, or Buddha Gaya, so named because it is here that Siddhartha Gautama, the son of King Suddhodana, having renounced his princely life, became an ascetic and attained enlightenment or "Buddhahood" after years of meditation. To the estimated 300 million Buddhists around the world, this is the holiest of holy sites.
-							</p><p>							
-							For Anagarika Dharmapala, Buddha Gaya was a battle cry, a life's mission that began when he was in his 20s.
-	</p><p>
-	Over the centuries since the Buddha's passing away, a temple built by King (later Emperor) Ashoka in veneration of the Buddha had fallen into neglect. A powerful local 'Mahant' (Hindu religious man) had taken possession of the holy site. Dharmapala referred to Buddha Gaya as the "Buddhist Jerusalem", a place that is to Buddhists what Zion is to the followers of Judaism, and Mecca to the followers of Islam.
+							ඉන්දියාවේ වයඹ දිග ප්‍රදේශයේ පිහිටි බිහාර් ප්‍රාන්තයෙන් කිලෝමීටර් කීපයක් ඈතින් බෝධිගයා හෙවත් බුද්ධගයා ප්‍රදේශය පිහිටා ඇත. මෙම ප්‍රදේශයට බුද්ධගයා යන නම යෙදුනේ සුද්ධෝදන රජුගේ පුත් වූ සිද්ධාර්ථ ගෞතම සිය රාජ කුමාර තනතුර අත්හැර දමා තවුස් දිවියක් ගත කොට වසර ගණනාවක් භාවනායෝගීව සිට ‘බුද්ධත්වය’ ලැබූ නිසාය. ලොව පුරා පැතිරී සිටින මිලියන 300 ක් පමණ වන බෞද්ධයන්ගේ අති පූජනීය ස්ථානය වන්නේ මේ ප්‍රදේශයයි.
+						</p><p>							
+						අනගාරික ධර්‍මපාලතුමා විසි හැවිරිදි වියේ පමණ පසු වන කාලයේ ඔහුගේ ජීවිතයේ ඒකායන අරමුණ වූයේ බුද්ධගයාව බේරා ගැනීමයි. 
+					</p><p>
+					බුදුන්ගේ පරිනිර්වාණයෙන් ශත වර්ෂ ගණනාවක් ගත වූ පසු අශෝක අධිරාජයා විසින් බුදුන් හට ගරු කිරීම සඳහා තනවන ලද ස්ථූපය (විහාරය) ජරාවාස වී තිබුණි. මෙම පූජනීය ස්ථානය ඒ වන විට ‘මහන්තා’ නැමැති බලසම්පන්න හින්දු ආගමික නායකයෙකු යටතේ පැවතින. ධර්‍මපාලතුමා බුද්ධගයාව හැදින්වූයේ බෞද්ධයින්ගේ ජෙරුසලම ලෙසටයි. එය ධර්‍මපාලතුමා සමාන කළේ යුදෙව්වන් හට සියොන් (Zion) නගරය ලෙස සහ ඉස්ලාම් ආගම අදහන අයට මක්කම ලෙසටය.
 
 	</p><p>
-	Ironic as it was, it is due to the British colonial administrators that Buddha Gaya was rediscovered. It was the discovery of Buddhist sites in India that excited the young Dharmapala and drew his interest towards Buddha Gaya. 
+	ජරාවාස වී තිබුණු බුද්ධගාව යළිත් සොයා ගන්නා ලද්දේ බ්‍රිතාන්‍ය පාලකයන් විසින් වීම විමතියට කරුණකි. ඉන්දියාවේ බෞද්ධ ස්ථාන සොයා ගැනීම තරුණ ධර්‍මපාලතුමා තුල මහත් උනන්දුවක් ඇති කළේය. මේ නිසාම බුද්ධගයාව පිලිබඳවත් ඔහු දැඩි උනන්දුවක් දැක්වීය.
 
 	</p><p>
-	In the early part of the 19th century (1809), a Scottish surgeon, Francis Buchanan had rediscovered Buddha Gaya. He had mentioned the existence of Hindu and Buddhist artefacts in the area. But it was only towards the latter part of the same century that British archaeologists, headed by Alexander Cunningham, a British army engineer, rediscovered a 'Buddhist India'. 
-These archaeologists had mapped out these sites and based their findings from the writings of Chinese pilgrim travellers of a by-gone era, Fa-hien and Hsuan Tsang, whose writings had been translated to European languages. The colonial Government started an archaeological survey of India and began excavations at Taxila, Nalanda, Sarnath, Sanchi, Lumbini and Buddha Gaya. They unearthed sufficient material to prove the impact of Buddhism in ancient India. Much of that history had been discovered earlier by the Indian King (later Emperor) Ashoka, before the colonization of India, but had  gone into the limbo of forgotten things as Hinduism and Islam competed for dominance in the pre-colonial era of the country.
+	19 වන සියවස ආරම්භයේදී (1809) ෆප්‍රැන්සිස් බුචනන් නැමැති ස්කොට් ජාතික ශල්‍ය වෛද්‍යවරයා බුද්ධගයාව නැවත සොයා ගැනීමේ මූලිකත්වයක් දැරීය. එම ප්‍රදේශයේ බහුලව පැවති හින්දු සහ බෞද්ධ කලා කෘතීන් (Artefacts) ගැන ඔහු සඳහන් කර තිබුණි. එසේ වුවද එම ශත වර්ෂයේ අවසාන භාගය වනතුරු ඒ පිළිබඳ කිසිම ගවේශනයක් කර නොතිබුණි.  19 වන සියවසේ අවසාන භාගයේදී ඇලෙක්සැන්ඩර් කනිංහැම් නැමැති බ්‍රිතාන්‍ය පුරාවිද්‍යා ඉංජිනේරුවරයාගේ ප්‍රධානත්වයෙන් එක්රැස් වුණ පුරාවිද්‍යාඥයින් පිරිසක් “බ්‍රිතාන්‍ය ඉන්දියාව” (British India) නැවත සොයා ගන්නා ලදී. මෙම පුරාවිද්‍යාඥයින් පිරිස ඉහත දැක්වූ ප්‍රදේශය සිතියම් ගත කළහ. </br></br> ඈත අතීතයේ චීන ජාතික වන්දනාකරුවන් ලියා තිබූ කරුණු ඇසුරෙන් මේ ප්‍රදේශය පිළිබදව තොරතුරු සොයා ගන්නා ලදී. මේ අතරින් ෆාහියන් (Fa-hien) සහ සුආන් සැන්ග් (Hsuan Tsang)  යන අය විසින් ලියන ලද වාර්තා යුරෝපීය භාෂා වලටද පරිවර්තනය කරන ලදී. මේ අතර බ්‍රිතාන්‍ය අධිරාජ්‍යවාදීන්ගේ රජය ඉන්දියාව පිළිබද පුරාවිද්‍යාත්මක ගවේෂණයක් ආරම්භ කළෝය. මෙම ගවේෂණයේදී තක්ෂිලා, නාලන්දා, සාරානාත්, සාංචි, ලුම්බිණි සහ බුද්ධගයා යන ප්‍රදේශවල කැණීම් විශාල ප්‍රමාණයක් අරඹන ලදී. මෙම කැණීම් වලින් සොයා ගන්නා ලද පුරාවිද්‍යාත්මක වස්තූන් මගින් පුරාණ ඉන්දියාව තුල බුද්ධාගමේ බලපෑම පිළිබද සාක්ෂි සොයා ගැනීමට ඔවුන්ට හැකි විය. මෙම ඓතිහාසික තොරතුරු ඊට පෙර යුගයක ඉන්දියානු අධිරාජයෙකු වූ අශෝක රජතුමා විසින්ද සොයා ගනු ලැබ තිබිණි. ඉන්දියාව බ්‍රිතාන්‍ය යටත් විජිතයක් වීමට පෙර කරන ලද මෙම සොයා ගැනීම් පසු කලකදී ජනතාවගේ මතකයෙන් ඉවත් වීමට හේතු වූයේ හින්දු ආගම සහ ඉස්ලාම් ආගම එකිනෙක පරයමින් ඉන්දියාවේ ප්‍රධාන ආගම් වීමට තරඟ කළ බැවිනි. මේ සියල්ල සිදුවූයේ යටත් විජිතවාදී යුගයට පෙරය.
 
-	</p><p>
-	The rediscovery of Buddha Gaya by Cunnigham, and about the same time, a breathtaking poem, The Light of Asia on the life of the Buddha, by an English journalist, Sir Edwin Arnold, following a visit to Buddha Gaya, jolted the young Dharmapala, who was then active as a member of the Theosophist Movement. The poem brought tears to his eyes, he said later. He got up from his bed at 'Victor House' in Colombo (now the Dharmapala Girls school) and made a hasty journey to the holy site across the Palk Straits, the narrow strip of sea that divides then Ceylon with India. He took with him two Japanese monks, Ven. Kozen Gunarathana and Tokuzawa who had come to Ceylon after his visit to Japan with Olcott earlier. They arrived at Buddha Gaya via Madras (now Chennai), Bombay (now Mumbai) and Benares on 22 January, 1891.
+	</p>
+	
+	
+	
+	</div>
+					</div>
+					<div class="col-xl-4 col-lg-5 offset-xl-1 align-self-center">
+						<div class="ss-pastor-img-wrap">
+							<!-- <img src="assets/images/pastor-1.jpg" alt="img"> -->
+							<img src="assets/images/custom_images/buddagaya_62.jpg" alt="img">
+							<img src="assets/images/custom_images/buddagaya_64.jpg" alt="img">
+							<img src="assets/images/custom_images/buddagaya_67.jpg" alt="img">
+							<img src="assets/images/custom_images/buddagaya_team.jpg" alt="img">
+						</div>
+					</div>
+				</div>
+	
+	</br> </br>
+	
+	
+	<p>
+	කනිංහැම් මහතා විසින් ඉන්දියාවේ පුනරුදයක් ඇති කල කාල වකවානුවේදීම ඉංග්‍රීසි ජාතික ලේඛකයෙකු වූ ශ්‍රීමත් එඩිවින් ආර්නල්ඩ් විසින් ලියන ලද ‘ද ලයිට් ඔෆ් ඒෂියා’ (The Light of Asia) නැමති කාව්‍යමය ග්‍රන්ථය තරුණ ධර්‍මපාලයන්ගේ හදවත සසල කිරීමට සමත් විය. මෙම ග්‍රන්ථයට පාදක වූයේ බුදුන් වහන්සේගේ ජීවන තොරතුරුය. සර් එඩ්වින් ආර්නල්ඩ් ලේඛකයා බුද්ධගයාවේ සංචාරයක යෙදීමෙන් අනතුරුව ඉහත සදහන් ග්‍රන්ථය ලියන ලදී. මෙම කාලයේදී තරුණ වියේ සිටි ධර්‍මපාල බෞද්ධ ආගමික බලවේගයක (Theosophical Movement) ක්‍රියාකාරී සාමාජිකයෙකු විය. ධර්‍මපාලතුමා විසින්ම පසු කාලයකදී පවසන ලද පරිදි "ආසියාවේ ආලෝකය” නම් වූ මෙම ග්‍රන්ථය (The Light of Asia) කියවද්දී ධර්‍මපාලතුමාගේ දෙනෙතට කදුලු ඉනූ බව සඳහන් වී ඇත. 
+
 
 							
 							</p><p>
-							When Dharmapala visited Bodh Gaya, the Ashokan temple was poorly maintained. Both Hindus and Buddhists worshipped at the site, but in small numbers. The King of Burma (now Myanmar) was largely responsible for the Buddhists' interest as his countrymen would visit from reasonably close proximity to pay homage to the Buddha. A few Tibetan Buddhists would also arrive from time to time. There was a Burmese pilgrims rest nearby. The control of the temple however remained with the Hindu Mahant, who had a palatial residence in the next block of land. He allowed Buddhists to visit the temple.
+							මේ වන විට කොළඹ නගරයේ වික්ටර් හවුස් (Victor House) නැමැති නිවසේ පදිංචි වී සිටි ධර්‍මපාලතුමා (දැන් මේ නිවස ධර්‍මපාල බාලිකා පාසැල ලෙස හ ධර්‍මපාල බාලිකා පාසැල ලෙස හැදිැඳින්වේ) කඩිනමින් පෝක් සමුද්‍ර සන්ධිය හරහා යාත්‍රා කර ඉන්දියාවේ පූජනීය නගරයට ලඟා වුණේය. පෝක් සමුද්‍ර සන්ධිය යනු ශ්‍රී ලංකාව ඉන්දියාවෙන් වෙන් කරනු ලබන පටු සමුද්‍ර තීරයකි. මෙම ගමනේද ධර්‍මපාලතුමා තවත් ජපන් ජාතික භික්ෂූන් දෙදෙනෙක් කැටුව ගිය බව දැක්වේ. ඒ දෙදෙනා නම් ගරු කොසෙන් ගුණරතන සහ ටොකුසාවා යන දෙදෙනාය. ඕල්කොට්තුමා ජපානයට ගිය අවස්ථාවේ දී මේ ජපන් ජාතික භික්ෂූන් දෙදෙනා ඔහු සමග ලංකාවට පැමිණ ඇත. ඔවුන් බුද්ධගයාවට සංචාරය කළේ 1891 ජනවාරි 22 දින මදුරාසිය (වර්තමාන චෙන්නායි) බොම්බාය (වර්තමාන මුම්බායි) සහ බාරාණාසිය හරහාය.
 
 							</p><p>
-							Taken aback with what he saw; a neglected and dilapidated temple of the holiest of holy sites of the Buddhists in the hands of a Hindu priest, Dharmapala took a vow by the tree under which Buddha had meditated, (or a sapling from the original tree), to direct all his energies to regain control of the ownership and management of Buddha Gaya to the hands of the Buddhists.  
+							ධර්‍මපාලතුමා බෝධ්ගයාව සංචාරය කළ සමයේ අශෝක ස්ථූපය බෙහෙවින් පිරිහී තිබුණි. හින්දුවරු සහ බෞද්ධයෝ යන දෙපිරිස අශෝක ස්ථූපය වන්දනා කළ නමුන්, ඒ පිරිස ඉතා සුළු ප්‍රමාණයක් විය. මෙකල බුරුමයේ (වර්තමාන මියන්මාරය) රජකම දැරූ රජු සිය රටවැසියන් බුදුන්ට වන්දනාමාන දැක්වීම සඳහා මියන්මාරයට නිතර පැමිණි බව දැන සිටියේය. වරින්වර ටිබෙටි ජාතික වන්දනාකරුවන් සුළු ප්‍රමාණයක්ද මෙහි පැමිණියහ. මෙම ස්ථානයේ බෞද්ධ වන්දනාකරුවන් සඳහා නවාතැන් (පොළක්) ස්ථානයක්ද පැවතුණි. මෙම වන්දනා ස්ථානයේ පාලනය පැවතියේ හින්දු ජාතික මහන්තා වෙතය. ඉහත සඳහන් පූජනීය ස්ථානයට යාබද බිමි කොටසක මහන්තා පදිංචිව සිටියේ මාළිගාවක් බඳු විශාල වාස භවනකය. ඔහු බෞද්ධ වන්දනාකාර පිරිසට පූජනීය ස්ථානය වන්දනා කිරීමට ඉඩ දුන්නේය.
+
+						</p><p>
+						බෞද්ධයින්ගේ අතිපූජනීය පූජාභූමිය දැඩි ලෙස පිරිහී, කිසි කෙනෙකුගේ ආරක්ෂාවක් නොමැතිව හින්දු පූජකයෙකු යටතේ පවතින බව දුටු ධර්‍මපාලතුමා, තමාටම පොරොන්දු වූයේ සිය උපරිම ශක්තිය යොදවා බුද්ධගයාවේ අයිතිය සහ පාලනය බෞද්ධයින් හට පවරා දෙන බවටය. ධර්‍මපාලතුමා මෙම අධිෂ්ඨානය කළේ ශ්‍රී මහා බෝධිය අසලදීය. මේ ශ්‍රී මහා බෝධි අංකුරය බුදුන් වහන්සේ බුද්ධත්වය පැමිණීමට පෙර භාවනායෝගිව සිටි බෝධි වෘක්ෂයේ අංකුරයක් විය. 
 							</p><p>
-							As the Buddha is an avatar of Vishnu in the pantheon of Hindu Gods, Hindus also venerated the Buddha and made offerings to the Buddha statue at the temple. But the Buddha was dressed as a Hindu God wrapped in a cloth and more ominously, with a 'tilak' or a round marking placed on the forehead as Hindus customarily do. "It seemed an outrage that this holiest temple of the Buddhists should be under the management of a man whose ancestors had always been hostile to Buddhism," Dharmapala penned in an essay; Memories of an interpreter of Buddhism to the present-day world, written twenty six years after his first journey to Buddha Gaya in 1891.
-On his return to Ceylon, Dharmapala launched the Maha Bodhi Society the same year to liberate Buddha Gaya from Hindu control. In his stentorian voice he went round Ceylon (Sri Lanka) with the call "Sinhalayeni Nagitiyaw. Buddha Gaya-wa bera ganew" ('Wake up you sleepy Sinhalese - save Buddha Gaya'). He sent four Buddhist monks to Buddha Gaya to take up residence at the Burmese pilgrims’ rest. 
+							මේ අතර හින්දු භක්තිකයින් විශ්වාස කළේ විශ්ණු දෙවියන් බුදුන් වහන්සේගේ අවතාරයක් බවය. එම නිසා බුදුන් වහන්සේගේ පිළිමයට හින්දු භක්තිකයෝද පූජා සත්කාර කළෝය. නමුත් ඔවුන් වන්දනාමාන කළ බුද්ධ පිළිම වලට හින්දු දෙවියෙකුගේ බඳු වස්ත්‍රාභරණ වලින් සරසා තිබුණු අතර, බුදුන්ගේ නළල මැද තිලකයක්ද තබා තිබුණි. මෙයද හින්දුන්ගේ චාරිත්‍රයකි. ධර්‍මපාලතුමා විසින් ලිපියක සඳහන් වූයේ “බෞද්ධයින්ගේ අති පූජනීය වන්දනා ස්ථායේ පාලනය අත් වී තිබුණේ බුද්ධාගමට විරුද්ධ මත ධාරියෙකු වූ අයෙකුට වීම දැඩි කලකිරීමකට හේතු වන බවය. මෙම ලිපිය ධර්‍මපාලතුමා විසින් ලියන ලද්දේ ඔහු බුද්ධගයාවට සංචාරය සඳහා ප්‍රථමවරට යෑමෙන් (1891) වසර 26 කට පසුවය. ආපසු ලංකාවට පැමිණ ධර්‍මපාලතුමා එම වසරේම මහාබෝධි සංගමය පිහිටුවේය. මෙම සංගමය පිහිටුවීමේ ප්‍රධාන අරමුණ වූයේ බුද්ධගයාව හින්දු ආධිපත්‍යයෙන් ගලවා ගැනීමය. ලංකාව පුරා සංචාරය කළ ධර්‍මපාලතුමා සිය බලසම්පන්න කටහඩින්  “සිංහලයිනි නැගී සිටිව්! බුද්ධගයාව බේරා ගනිව්!!” යනුවෙන් සිංහල ජනයා දිරිමත් කළේය. මේ අතර එතුමා බෞද්ධ භික්ෂූන් වහන්සේලා සිව් (4) නමක් බුද්ධගයාවේ බුරුම ජාතිකයින් විසින් පිහිටුවන ලද විශ්‍රාම ශාලාවෙහි නවාතැන් ගැනීමට සැලැස්වූවේය.
+
+						</p><p>
+						මහාබෝධි සමාගම පිහිටුවීමෙන් අනතුරුව ධර්‍මපාලතුමා බුද්ධගයාවට ආපසු ගියේය. ඔහු විසින් දියත් කරන ලද ප්‍රබල ව්‍යාපාරයේ ප්‍රතිඵලයක් වශයෙන් ඔහු වෙත විරුද්ධවාදීන්ගේ ශාරීරික වදහිංසා පවා එල්ල විය. ධර්‍මපාලතුමා දෙවන වරට බුද්ධගයාවට ලඟා වුණේ තවත් පිරිසක් සමගය. ඔවුන් විසින් රැගෙන ගිය බුද්ධ පිළිමයක් එම ගොඩනැගිල්ලේ දෙවන මාලයේ තැන්පත් කිරීමට උත්සහ දරද්දී මහන්තාගේ සේවකයෝ එම භික්ෂූන් හට පහර දීමට පවා තැත් කළේ අනවශ්‍ය ලෙස බලපෑම් කරන බව පවසමිනි. ඉහත කී බුද්ධ පිළිමය ධර්‍මපාලතුමා ජපානයේ සිට ගෙන එන ලද්දකි. 
+
+					</p><p>
+					මෙම කුඩා උත්සවය කඩාකප්පල් කිරීමට තැත් කිරීම හේතුවෙන් මහන්තා සහ ඔහුගේ සේවකයින්ව නඩු මාර්ගයෙන් උසාවියට ඉදිරිපත් කිරීමට ධර්‍මපාලතුමා පියවර ගත්තේය. මෙසේ ආරම්භ වූ නීතිමය ක්‍රියාවලිය “මහා නඩුව” (The Great Case) නමින් හඳුන්වනු ලැබීය. දෙපක්ෂය සඳහාම ඉංග්‍රීසි ජාතික නීතීඥයින් සහභාගී වූහ. මෙම නඩුවේදී ඉංග්‍රීසි ජාතික දිස්ත්‍රික්ක විනිශ්චයකාරවරයා ධර්‍මපාලතුමාගේ පක්ෂයට සහයෝගය දැක්වීය. මහන්තාගේ සේවකයෝ නීතිවිරෝධී ක්‍රියාවන් සඳහා වැරදිකරුවෝ වූහ. විනිශ්චයකාරවරයා සිය දේශනයේදී මෙම නඩුව හඳුන්වන ලද්දේ බෞද්ධ විහාරස්ථානයේ සටනක් ලෙසය. මේ අනුව බුද්ධගයාවේ සංග්‍රාමය ආරම්භ වූ අතර එහි ප්‍රධාන ‘වෙඩිල්ල’ පුපුරවනු ලැබීය. දිස්ත්‍රික්ක විනිශ්චයකරුගේ තීරණයට විරුද්ධව මහන්තා අභියාචනයක් ඉදිරිපත් කළේය. එම අභියාචනයෙන් ද මහන්තා පරාජයට පත්විය. මෙය ඉංග්‍රීසි ජාතිකයෙකුට විරුද්ධව ගත් පියවරක් විය. ඉන් පසුව මහන්තා යළිත් අභියාචනයක් ඉදිරිපත් කළේ කල්කටාවේ ඉහළ උසාවිය හරහාය. මේ උසාවියේ විනිශ්චයකාරවරුන් දෙදෙනෙකු වූහ. ඉන් එක් අයෙක් ඉංග්‍රීසි ජාතිකයෙකු වූ අතර, අනෙක් තැනැත්තා බංගාලි ජාතිකයෙකු විය.
+				</p><p>
+				මෙම තත්ත්වය යටතේ අවසානයේදී කල්කටාවේ ඉහළ උසාවිය ධර්‍මපාලතුමාට විරුද්ධව තීරණයක් ගෙන මහන්තාගේ සේවකයන් නිදහස් කළේය. මෙම විනිශ්චයෙන් තීරණය වූයේ විහාරස්ථානයේ අයිතිය විහාර ස්ථානයට පැවරීමටත් එහි පාලනය මහන්තාට පැවරීමටත්ය. මෙයින් පසුනොබෑ ධර්‍මපාලතුමා ඊලග පියවර ගත්තේ, විහාරස්ථානය අවට ඇති ඉඩම් වල අයිතිය තමාට පවරා ගැනීමට ඒ ඉඩම් මිලදී ගැනීමය. මෙසේ ඉඩම් විකිණීමට මහන්තා කැමති නොවීය. ඊ ලගට ධර්‍මපාලතුමා තීරණය කළේ මෙම ඉඩම් වලින් කිලෝමීටර් කීපයක් ඈතින් කල්කටා සහ සාරාණාත් හි පිහිටි ඉඩම් මිලදී ගැනීමය. මේ ආකාරයෙන් බෞද්ධ සිද්ධස්ථාන සඳහා ඉන්දියාවේ ඉඩම් මිලදී ගැනීමට නීතිමය ක්‍රියාමාර්ග ගන්නා ලදී. 
+			</p><p>
+			මේ කාලය තුලදී ධර්‍මපාලතුමා බුද්ධගයා ප්‍රදේශයේ විවිධ ව්‍යාපාර ආරම්භ කළේය. ඒ මගින් විහාරස්ථානයේ බලපෑම අත්හැර නොදැමීමට ධර්‍මපාලතුමා කටයුතු කළේය. ධර්‍මපාලතුමා කුමන ස්ථානයක සිටියද, එම යුගයේ ප්‍රසිද්ධ නායකයින්ගේ සහයෝගය ලබා ගැනීම සඳහා එතුමා ක්‍රියා කළේය. ඔහු බ්‍රිතාන්‍ය තානාපති ඇතුළු යුරෝපයේ සහ ඇමරිකාවේ විසූ උගතුන් හට ලිපි මගින් මේ කරුණු දැන්වීය. ඒ සමගම ඉන්දියානුන්ගෙන්ද විශාල සහයෝගයක් එතුමාට ලැබුණි. මේ කාලයේ ඉන්දියාවේ ජාතික නිදහස සඳහා සටන් කරමින් සිටි නායකයින්ගේ සහයෝගයද ධර්‍මපාලතුමාට ලැබුණි. එකල ඉන්දියාවේ ප්‍රධාන නගරය වූ කල්කටාවේ විද්වතුන්ගේ සහායද එතුමාට ලැබුණි. 
+		</p><p>
+		මේ අතර එම කාලයේදීම පිහිටුවනු ලැබූ මහාබෝධි සමාගම මගින් තායිලන්තයේ රජ පරපුරෙහි සහයෝගය ද ජපානයේ සහයෝගයද ලබා ගැනීමට සමත් විය. ඒ අතර ලංකාවේද ‘මහාබෝධි’ නාමය යටතේ ජන රැල්ලක් ඇති වී, ඉන්දියාවේ විසූ බෞද්ධයන්ගේ අයිතිවාසීන් සඳහා ප්‍රබල ඉල්ලීමක් ඉදිරිපත් කළහ. බුද්ධගයාව අන්තර් ජාතික බෞද්ධ බලවේගයේ ප්‍රබල සළකුණක් ලෙස ලොව පුරා පැතිර ගිය අතර, විහාරස්ථානයේ පාලනය පිළිබඳව අන්තර් ජාතික වශයෙන්ද උනන්දුවක් ඇති කරන ලදී. 
+	</p><p>
+	1920 ගණන් වලදී ධර්‍මපාලතුමා ලෝකයේ බටහිර දෙසට සංචාරයක යෙදී බුද්ධ ධර්මය බටහිර රටවලට ගෙන ගියේය. මේ වන විට බටහිර රටවල් වල සුළු වශයෙන් බුද්ධාගම හැදෑරූ උගතුන් අතලොස්සක් සිටි නමුත් එහි වැඩිදුර පැතිරීමක් නොවීය. එසේ වුවද මේ වන විට බුද්ධගයාවේ පාලනය බෞද්ධයින් හට හිමිවීමේ අඩිතාලම ස්ථීර වශයෙන් පිහිටුවනු ලැබීය. බුද්ධගයාව බෞද්ධයින්ගේ සාධාරණ අයිතියක් ලෙස ඊලග පරපුරට සහ නායකයින් හට වටහා ගැනීමට මෙම පියවර අතිශයින් වදගත් විය. මේ අතර ප්‍රධාන තැන ගත් නායකයින් වූයේ මහත්මා ගාන්ධි, ජවහර්ලාල් නේරු, රාජේන්ද්‍ර ප්‍රසාද් සහ බී. ආර්. අම්බෙඩ්කාර් යන අයය.
+
+</p><p>
+සිය ජීවිතයේ අවසාන කාලයේදී (සැදෑ සමයේදී) පැවිදි බව ලැබූ ධර්‍මපාලතුමා මහාබෝධි සංගමයෙන් ඉල්ලීමක් කරමින් තමා ආරම්භ කළ සටන තවදුරටත් ඉදිරියට ගෙන යන ලෙස දන්වා සිටියේය. 1933 අනගාරික ධර්‍මපාලතුමා මිය යන විටත් ඉන්දියාව පැවතියේ අධිරාජ්‍යවාදීන්ගේ පාලනය යටතේය. ඒ වන විටත් “බුද්ධගයා ප්‍රශ්නය” විසදී තිබුණේ නැත. එසේ වුවද ධර්‍මපාලතුමා විසින් ආරම්භ කරන ලද ක්‍රියාකාරී චක්‍රය එතුමාගේ මරණින් පසුවද මහාබෝධි සමාගම විසින් ඉදිරියට ගෙන යන ලදී.
+
+ඉන්දියාව බ්‍රිතාන්‍ය අධිරාජ්‍යවාදීන්ගෙන් නිදහස ලබා වසර දෙකක් ගත වූ පසු නිදහස් ඉන්දියානු රජය මගින් බුද්ධගයා විහාරස්ථ ව්‍යවස්ථාව 1949 සම්මත කරන ලදී. මෙම පනතට අනුව බුද්ධගයා විහාරයේ අයිතිය බිහාර් ප්‍රාන්තයේ රජයට පවරන ලදී. ඒ අනුව විහාරයේ පාලනය හින්දු සහ බෞද්ධයන් අතර සමසමව පවත්වාගෙන යාමට තීරණය කෙරිණ. මෙම පාලන කම්ටුවේ සභාපති වූයේ දිස්ත්‍රික්ක විනිශ්චයකරුය. ඔහු හින්දු නොවන අයෙකු විය.
+							</p><p>
+							1978 එවකට ශ්‍රී ලංකාවේ ජනාධිපතිවරයා වූ ජේ. ආර්. ජයවර්ධන මහතා මහාබෝධි විහාරය වෙත දිවෙන මාවත ‘අනගාරික ධර්‍මපාල මාවත’ නමින් නම් කරන ලදී. 2002 වසරේදී බුද්ධගයාව ලෝක උරුමයක් ලෙස යුනෙස්කෝ (UNESCO) ආයතනය විසින් ප්‍රකාශ කරන ලදී.
+
+වර්තමානයේ බුද්ධගයා විහාරයේ සිට කෙටි දුරකින් මහාබෝධි සංගමයේ විශ්‍රාම ශාලාවක් පිහිටුවා ඇත. මෙහි නේවාසික භික්ෂූන් වහන්සේලා ද වැඩවසන අතර වන්දනා කරුවන්ටද නවාතැන් ගත හැකිය. 20 වන සියවස ආරම්භයේ මතභේදයකට තුඩුදුන් මේ ස්ථානය, වර්තමානයේ වෙනත් බෞද්ධ රටවල වන්දනා කරුවන් සඳහා වූ විශ්‍රාම ශාලා වලින්ද යුක්තය. මේ සියල්ලක්ම පිහිටුවා ඇත්තේ මහාබෝධි විහාරයට ආසන්නවය.
 
 							</p><p>
-							Dharmapala went back to Buddha Gaya after forming the Maha Bodhi Society. As he embarked on what was to become a relentless campaign, he attracted physical violence towards him when the group he had with him on this second visit tried to go to the upper floor of the temple and place a Buddha statue he had brought with him from Japan. The Mahant's workers attacked them for 'intruding'.
-							</p><p>
-							For obstructing the little ceremony, Dharmapala took the Mahant and his servants to Court. Thus, began what came to be known as 'The Great Case'. English lawyers appeared for both parties. The English District Magistrate held with Dharmapala. The Mahant's employees were found guilty of unlawful assembly. In delivering his order, the Magistrate referred to the "essentially Buddhist character of the temple". The first salvo had been fired in the battle for Buddha Gaya. The Mahant appealed against the convictions to the District Collector, also an Englishman and lost again. He then appealed to the Calcutta High Court where an Englishman and a Bengali judge sat.
-							</p><p>
-							The Calcutta High Court eventually held against Dharmapala and set aside the convictions of Mahant's employees. The judgment meant that the British Colonial Government held the ownership rights to the temple, and the Mahant had the managerial rights. Undeterred, Dharmapala took the next best step, to purchase property around the temple from the Mahant. The Mahant refused the offer. Dharmapala then purchased land in Gaya, a few kilometers away. Like in Calcutta and Sarnath, he was establishing legal claims for Buddhist ownership of land in India. 
-							</p><p>
-							Dharmapala was to engage in multifarious projects throughout this period of litigation for control of Buddha Gaya, but he never lost the stomach to continue the good fight for control of the temple. From wherever he was, he lobbied influential personalities of that era. He wrote to the British Viceroy, intellectuals in Europe and America, Indian sympathisers, including the national freedom fighters of the time. He had the support of the Bengali elite in Calcutta, then the seat of colonial India's capital. The newly-formed Maha Bodhi Society meanwhile, galvanized the support of Royalty in Thailand, and in Japan to the cause. A mass movement in Ceylon under the banner of the Maha Bodhi Society was demanding the rights of the Buddhists in India. Buddha Gaya was made into the symbol of international Buddhism with worldwide agitation for the managerial control of the temple.
-							</p><p>
-							Dharmapala then went West in the 1920s and took Buddhism to that part of the world where the Dhamma was being studied by a few scholars, but nothing more. The foundation for the control of Buddha Gaya for the Buddhists had however been laid. He had implanted the seed of righteousness and the justifiable demand of the Buddhists for Buddha Gaya among the next crop of India's leaders, Mahatma Gandhi, Jawaharlal Nehru, Rajendra Prasad and B. R. Ambedkar, among others. 
-							</p><p>
-							Becoming a Buddhist monk in the evening of his life and with the Battle for Buddha Gaya behind him, Dharmapala asked the Maha Bodhi Society he had formed to carry forward the baton. Dharmapala passed away in 1933 with India still under colonial rule and the “Buddha Gaya Question” unresolved. But the inexorable demand that he had set in motion was duly followed up after his death by the Maha Bodhi Society.
-							</p><p>
-							Two years after Independence from British colonial rule, the free Indian Government introduced the Bodh Gaya Temple Act of 1949 passing the ownership of the Buddha Gaya temple to the state Government of Bihar and the management of the temple to be shared equally by the Hindus and Buddhists in a Joint Committee with the District Magistrate as the Chairman, even if he be a non-Hindu.
-							</p><p>
-							In 1978, the then President of Sri Lanka, J. R. Jayewardene, opened the main street leading to the Maha Bodhi temple named after Anagarika Dharmapala.
-UNESCO declared Buddha Gaya as a World Heritage site in 2002.
-
-							</p><p>
-							There is a Maha Bodhi Society building now with resident monks and a pilgrims’ rest within walking distance to the main temple that was the bone of contention at the turn of the 20th century. Buddhist temples and rests from Buddhist countries are housed in close proximity to the main Maha Bodhi Vihara. 
-
-							</p><p>
-							The Government of India recently opened an international airport at Buddha Gaya to accommodate the many thousands of Buddhist pilgrims who come from all over the world to pay homage to the Buddha.
-							</p>
-
-
+							ඉන්දියානු රජය මෑත කාලයේදී බුද්ධගයාවෙහි ජාත්‍යන්තර ගුවන්තොටුපලක්ද පිහිටුවනු ලැබීය. මෙම ගුවන් තොටුපොල ලෝකයේ විවිධ රටවල් වල සිට බුදුරජාණන් වහන්සේට ගෞරව දැක්වීම සඳහා පැමිණෙන දහස් සංඛ්‍යාත වන්දනා කරුවන් හට ගුවන් ගමන් පහසුකම් සැලසීම අරමුණු කරගෙන පිහිටුවන ලද්දකි.
+</p>
 
 
 
@@ -140,18 +163,7 @@ UNESCO declared Buddha Gaya as a World Heritage site in 2002.
 									<li><a href="#"><i class="fab fa-instagram"></i></a></li>
 								</ul>
 							</div> -->
-						</div>
-					</div>
-					<div class="col-xl-4 col-lg-5 offset-xl-1 align-self-center">
-						<div class="ss-pastor-img-wrap">
-							<!-- <img src="assets/images/pastor-1.jpg" alt="img"> -->
-							<img src="assets/images/custom_images/buddagaya_62.jpg" alt="img">
-							<img src="assets/images/custom_images/buddagaya_64.jpg" alt="img">
-							<img src="assets/images/custom_images/buddagaya_67.jpg" alt="img">
-							<img src="assets/images/custom_images/buddagaya_team.jpg" alt="img">
-						</div>
-					</div>
-				</div>
+
 			</div>
 		</section>
 

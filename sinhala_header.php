@@ -83,7 +83,7 @@
 								<li><a href="sinhala_life_2_our-teachers.php">අනගාරික ධර්මපාලතුමා</a></li>
 								<li><a href="sinhala_life_3_our-teachers.php">ශ්‍රී දේවමිත්ත ධම්මපාල</a></li>
 
-								<li><a href="sinhala_under_construction_page.php">බුද්ධ ගයා සටන</a></li>
+								<li><a href="sinhala_life_4_our-teachers.php">බුද්ධ ගයා සටන</a></li>
 								<li><a href="sinhala_under_construction_page.php">පෙළගැස්ම</a></li>
 								
 								<!-- <li><a href="sinhala_life_4_our-teachers.php">බුද්ධ ගයා සටන</a></li> -->
@@ -105,8 +105,7 @@
 							</li>
 							<li class="dropdown"><a href="#">ප්‍රතිලාභීන්</a>
 								<ul class="sub-menu">
-								<li><a href="sinhala_under_construction_page.php">හික්කඩුවේ ශ්‍රී සුමංගල හිමි</a>
-								<!-- <li><a href="sinhala_benefactors_1.php">හික්කඩුවේ ශ්‍රී සුමංගල හිමි</a> -->
+								<li><a href="sinhala_benefactors_1.php">හික්කඩුවේ ශ්‍රී සුමංගල හිමි</a>
 								<li><a href="sinhala_benefactors_2.php">මේරි රොබින්සන් ෆොස්ටර්</a>
 										<li><a href="sinhala_under_construction_page.php">හෙන් රි ස්ටීල් ඕල්කට්</a>
 								<li><a href="sinhala_under_construction_page.php">හෙලේනා පෙට්‍රොව්නා බ්ලැවැස්කි</a>
