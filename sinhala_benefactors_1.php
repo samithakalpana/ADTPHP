@@ -1,13 +1,15 @@
 <!DOCTYPE HTML>
 <html lang="en">
 
+
+<!-- Mirrored from primehostingindia.com/templatemonster/html/templezen/our-teachers.html by HTTrack Website Copier/3.x [XR&CO'2014], Thu, 06 Jan 2022 18:06:09 GMT -->
 <head>
 	<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
 	<meta http-equiv="X-UA-Compatible" content="IE=edge">
 	<meta name="viewport" content="width=device-width,initial-scale=1">
 	<meta name="keywords" content="">
 	<meta name="description" content="">
-	<title>ADT-Benefactors</title>
+	<title>ADT</title>
 	<!--Bootstrap -->
 	<link rel="stylesheet" href="assets/css/bootstrap.min.css" type="text/css">
 	<!--OWL Carousel slider-->
@@ -35,7 +37,7 @@
 
 <body id="tl">
 		<!-- Header -->
-		<?php include_once 'sinhala_header.php'; ?>
+		<?php include_once 'header.php'; ?>
 	<!-- /Header -->
 
 	<!-- Inner-intro -->
@@ -45,11 +47,11 @@
 				<div class="row">
 					<div class="col-md-12">
 						<h1 class="text-center">Benefactors</h1>
-						<h5 class="text-center">Ven. Hikkaduwe Sri Sumangala </h5>
+						<h5 class="text-center">පූජ්‍ය හික්කඩුවේ ශ්‍රී සුමංගල නාහිමිපාණෝ </h5>
 						<nav class="breadcrumb">
 							<ul>
-								<li class="breadcrumb-item"><a href="index.php">මුල් පිටුව</a></li>
-								<li class="breadcrumb-item active">Ven. Hikkaduwe Sri Sumangala </li>
+								<li class="breadcrumb-item"><a href="index.php">Home</a></li>
+								<li class="breadcrumb-item active">පූජ්‍ය හික්කඩුවේ ශ්‍රී සුමංගල නාහිමිපාණෝ </li>
 							</ul>
 						</nav>
 					</div>
@@ -65,60 +67,18 @@
 					<div class="col-lg-7">
 						<div class="sa-paster-about-area">
 							<!-- <h3>Gopal dhanam</h3> -->
-							<h3>Ven. Hikkaduwe Sri Sumangala </h3>
+							<h3>පූජ්‍ය හික්කඩුවේ ශ්‍රී සුමංගල නාහිමිපාණෝ </h3>
 							<!-- <p class="designation">Yoga Teacher</p> -->
-							<p class="designation">(From 1827 -1911)</p>
-							<p>Our Most Venerable Hikkaduwe Sri Sumangala Thera was born on January 20, 1827. It was a dark era in the history of Sri Lanka where the country which suffered tremendously under the suffocating rule of Portuguese and Dutch colonists at the time, was forced to officially surrender itself to the British Empire. Thus on March 2, 1815, Sri Lanka lost its 2,538 years of independence by becoming a colony of the British Empire. Governor Robert Brownrigg who signed the Kandyan Convention by promising to preserve the status of Buddhism as the country’s main religion went back on his words once he came to power, by making it a priority to spread the word of Christianity throughout the country.
-							
+							<p class="designation">(1827 -1911)</p>
+							<p>අපගේ අති ගෞරවනීය හික්කඩුවේ ශ්‍රී සුමංගල නාහිමිපාණන් උපත ලැබුවේ 1827 වසරේ දුරුතු මස (ජනවාරි මස) 20 වන දිනයේය. ලංකා ඉතිහාසයේ අඳුරුතම යුගයක් ලෙස හැඳින්විය හැකි මේ යුගය දීර්ඝ කාලයක් තුල පෘතුගීසීන්ගේ සහ ඕලන්ද ජාතිකයින්ගේ යටත් විජිතයක් ලෙස දරුණු පාලනයකට ලක්වී සිට ඉන් අනතුරුව බ්‍රිතාන්‍ය අධිරාජ්‍යවාදීන්ගේද ආධිපත්‍යයටත් යටත් වී සිටිම මෙම අවාසනාවන්ත තත්ත්වයට හේතු විය. ඒ අනුව 1815 මාර්තු මස 02 වන දින වසර 2538 ක් තුල රැකගත් ස්වාධීනත්වය සිරිලකට අහිමි වී බ්‍රිතාන්‍ය අධිරාජ්‍යවාදීන්ගේ යටත් විජිතයක් බවට පත් විය.
 							</p>
-							<p>	Several decades after that, the Buddhist faith among the people started deteriorating. To salvage the situation, Ven. Weliwita Sri Saranankara Sangharaja Thera started a religious revival which brought all the Sangha in the country together. However, the attempt was not successful due to various disagreements among different sects of the Buddhist Sangha. The situation became so bad that in 1852, James De Alwis who translated Sidath Sangarawa into English, predicted that by the end of the 19th Century all Sinhala poets would begin their work by asking for the triple blessings of the Lord instead of the blessings of the Triple Gems. As was published in the Journal of the Pali Text Society on October 25, 1861, he had stated,						
-							
+							<p>	කන්ද උඩරට ගිවිසුම අත්සන් කළ එවකට බ්‍රිතාන්‍ය ආණ්ඩුකාර ධූරය දැරූ රොබට් බ්‍රවුන්රිග් එම ගිවිසුම අත්සන් කිරීමේදී පොරොන්දු වූයේ බුද්ධාගම මෙරට ප්‍රධාන ආගම ලෙසට ආරක්ෂා කරන බවය. එහෙත් බලයට පත්වූ පසු ඔහු එම පොරොන්දුව කඩකර කිතු දහම (ක්‍රිස්තියානි ආගම) ට මුල් තැන දී එම ආගම රටේ සෑම ප්‍රදේශයකම ප්‍රචලිත කිරීමට පියවර ගත්තේය.
 
-	</p><p>“There are indeed good grounds for believing that Buddhism will  disappear from this island in the not very distant future. What I believe is that if Christianity was spread throughout the country little by little without alerting the general populace, the prevalent false beliefs and foolishness in the country would lessen before long.”
+මෙයින් දශක කිහිපයක් ඇවෑමෙන් ශ්‍රී ලංකා ජනතාව අතර බෞද්ධාගම කෙරෙහි වූ භක්තිය කෙමෙන් හීන වන්නට (අඩු වන්නට) පටන් ගත්තේය. මෙයට ප්‍රතිචාරයක් වශයෙන් වැලිවිට සරණංකර සංඝරාජ ස්වාමීන්වහන්සේ බෞද්ධාගමික පුනරුදයක් ඇති කිරීමේ අදහසින් ලක්දිව පුරා පැතිරී සිටි භික්ෂූන් වහන්සේලා ඒකරාශී කිරීමට උත්සහ දැරූ සේක. නමුත් මෙම අරමුණ අසාර්ථක වීමට හේතු වූයේ බෞද්ධ භික්ෂූන් වහන්සේලා අතර පැවති විවිධ නිකාය භේදයන්ය. මෙම නිකාය භේදයන් නිසා භික්ෂූන් වහන්සේලා අතර භේද බින්න ඇති විය. මේ තත්වය කෙතරම් හානි කර වීද යත් 1852 වසරේ සිදත් සඟරාව ඉංග්‍රීසි බසට පරිවර්තනය කළ ජේමිස් ද අල්විස් විද්වතා ප්‍රකාශ කළේ 19 වන සියවස අවසාන වන විට සිංහල කවීහු සිය සාහිත්‍ය කෘතීන් සඳහා ත්‍රිවිධ රත්නයේ පිහිට පතනු වෙනුවට දෙවියන් වහන්සේගේ ආශිර්වාදය සහ පිහිට පතනු ඇති බවය. මෙම කතුවරයා විසින් 1861 ඔක්තෝම්බර් 25 වන දින පාලි භාෂා පරිවර්තක සමිතියට පහත සඳහන් ප්‍රකාශය ඉදිරිපත් කළේ මේ අදහස පෙරදැරි කොට ගෙනය.
 
-
-	</p><p>This statement was in agreement with a French newspaper journalist, Bertholomeusz, who stated that the Sangha in Sri Lanka is too weak to protect the Buddhist era from fading away, and that there is no sign whatsoever of this situation changing in the near future.
-
-	</p><p>It is evident that the British Empire, which had governing power over the whole country at the time, hoped to completely eliminate Buddhism from Sri Lanka and build an empire of Christianity in its stead. In order to firmly establish their power in the country, this was a necessity. Therefore, Christian missionaries were sent to Sri Lanka from Europe in order to establish schools and start spreading Western culture in the country. In a letter sent to the British politician, William Wilberforce, in England, on June 13, 1816, Governor Brownrigg stated that there were enough reasons to believe that Buddhism as a religion would soon disappear from Sri Lanka.
 
 	</p>
-	<p>It was in such a dark period of time in Sri Lanka that a precious baby boy was born to Dandegoda Gamage Christina and her husband Don Johannes Abeyweera Gunawardhana Liyanarachchi. The boy was baptised at four years of age and was given the name Nicholas. If he was not given such a Christian name, he wouldn’t have been allowed access to any of the schools established at the time. Since the firstborn son, Louis, of Gunawardhana became a disciple of Christianity as a result of his close association with fathers at the Christian Church, the five-year-old Nicholas was handed over to Ven. Sobhitha Thera at the village temple. The little boy who grew up under the guidance of Buddhist monks was allowed access to the Central School at Galle Fort, as he was among those who were baptised by the Christian Church.
-
-
-							
-							</p><p>The village astrologist who checked the horoscope of Nicholas managed to convince his father that the boy was very unlucky, and that he would die at a very young age due to his bad luck. This prediction completely changed the course of this young boy’s life. In 1840, he was ordained as a Buddhist monk at the Temple of Thotagamuwa, Thelwaththa, Galle, under the supervision of Ven. Mabotuwana Rewatha Thera and Ven. Malagoda Siriniwasa Thera.
-
-							</p><p>As a monk, he was given the name Hikkaduwe Sumangala. He was fortunate enough to study under the guidance of many erudite monks such as Ven. Walane Sri Siddhartha Thera, and he studied hard till he mastered several languages including Pali, Sinhala, Sanskrit, and English.
-
-							</p><p>In 1848, his higher ordination as a Buddhist monk took place at the Malwathu Buddhist Chapter House in Kandy. As a young novice monk, Ven. Hikkaduwe Sumangala Thera started tackling the criticisms against Buddhism by Christian missionaries through publishing his comebacks in printed media. In 1858, to loosen the hold that other religions had over the Southern Province of the country, Ven. Hikkaduwe Sumangala Thera established a printing press named “Lankopakara,” and started printing books – and most importantly, the Buddhist newspaper “Lankaloka.” Further, several Sinhala Buddhist schools were founded under his patronage and they were provided with all the required facilities. In 1871, Ven. Thera moved to  he Maligakanda area, and in 1873, he initiated the establishment of the treasure house of knowledge, “Vidyodaya.” [at the invitation of Angarika Dharmapala’s maternal grandfather, who was instrumental in founding the institution.]</p>
-
-<p>Even those who followed the teachings of Mahayana Buddhism, such as Rev. Kojin Gunaratana, Rev. Kojina Kondanna, Sato and Tochibana, from foreign countries like Thailand, Burma, Bangladesh and Japan, also came to Vidyodaya Monastic College to study the teachings of Theravada Buddhism under the tutelage of the Ven. Thera. 
-
-</p>
-<p>Ven. Mohottiwatte Gunananda Thera who participated in the famous Panadura debate in 1873, made sure that Ven. Hikkaduwe Sumangala Thera also came along to assist him with the debate. The debate became so famous that information about it was published in a magazine called “The Truth Seeker” in America (Thomas Paine who played a major role in creating the Constitution of the United States was also one of the patrons of this magazine). As a result of the published article about this debate, many important persons such as <a target="_blank" href="benefactors_3_our-teachers.php"><b>Colonel Henry Steel Olcott</b></a> and the Russian philosopher and author,<a target="_blank" href="benefactors_4_our-teachers.php"><b> Helena Blavatsky</b></a>, were encouraged to visit Sri Lanka. On May 17, 1880, they both embraced Buddhism as their religion at Vidyananda Monastic College in Galle, and started studying the Pali language and Buddhist philosophy under the tutelage of the Ven. Thera.
-
-</p><p>They understood the importance of education and how it could be used to salvage the pitiful situation that the Buddhist religion in Sri Lanka has fallen into. As a result, Parama Vignanartha Corporation was established in Colombo. In 1895, this corporation established Ananda Vidyalaya in Colombo with the Cambridge graduate A.E. Bultjens of American descent as its principal. This was followed by the establishment of several other schools in the country such as Nalanda Vidyalaya in Colombo, Dharmaraja Vidyalaya in Kandy, and Mahinda Vidyalaya in Galle.
-
-</p><p>In 1885, Ven. Hikkaduwe Sumangala Thera chaired the committee which designed the Buddhist flag. Many foreigners who were interested in studying Buddhist philosophy came to Sri Lanka just so they could meet our Ven. Thera and study Buddhism under his guiding hand. Thomas William Rhys Davids (1867) who was the Magistrate of Galle at the time studied Pali language from several Buddhist monks including Ven. Yathramulle Dhammarama Thera, Ven. Dodanduwe Piyarathanathissa Thera, Ven. Weligama Sri Sumangala Thera, and Ven. Waskaduwe Subhuthi Thera. He also made sure to meet often with our Ven. Hikkaduwe Sumangala Thera to discuss Buddhist philosophy in depth, and thus he amassed a vast wealth of knowledge regarding Buddhism. This provided our Ven. Thera with an opportunity to associate with, and build friendships with, many important figures of British rule in Sri Lanka and to earn their respect. These relations allowed Ven. Hikkaduwe Sumangala Thera to get a fine understanding of how he should go about explaining the Buddhist philosophy to foreigners so they could clearly understand exactly what Buddhism is about.
-
-</p><p>Paul Dahlke, of German descent, was a famous Buddhist philosopher who came to Sri Lanka specifically to meet Ven. Hikkaduwe Sumangala Thera so he could study the doctrine of non-self (<i>Anathmavadaya</i>) as taught in Buddhism.
-
-</p><p>The youth, Anagarika Dharmapala, had written a letter complaining about the British Governor in Sri Lanka to the Foreign Affairs Secretary in Great Britain, in the name of our Ven. Thera. Though at the time our Ven. Thera was not aware that such a letter had been sent in his name, he was not bothered by the fact once he did get to know about it. Ven. Hikkaduwe Sumangala Thera was invited to an international religious conference held in Chicago 1893 as the representative of the Theravada teachings of Buddhism. However, at our Ven. Thera’s request, and with his blessings, Anagarika Dharmapala participated in the conference in his stead, and brought about a wave of interest regarding Buddhism in America. This built a great rapport between Ven. Thera and Anagarika Dharmapala. It was Ven. Hikkaduwe Sumangala Thera who became the very first chairperson of Mahabodhi Society. Ven. Thera supported and guided Anagarika Dharmapala all through his efforts to re-establish Buddhism on the Indian sub-continent.
 	
-</p><p>In January of 1891, Ven. Thera made sure to send Ven. Kojin Gunaratana Thera, of Japanese descent, along with Anagarika Dharmapala, when he made his way to Bodh Gaya in India. However, Anagarika Dharmapala had to leave India that very same year in order to ask for the support of the Japanese Government to rescue Bodh Gaya from the clutches of other religions that sought to destroy the sacred place. Upon his arrival back in India, he was greatly dismayed to discover that Ven. Kojin Gunaratana Thera had passed away.
-
-</p><p>Ven. Hikkaduwe Sumangala Thera firmly stated that the best way to re-establish Buddhism in India is to educate the Indian scholars in the Pali language. In 1907, upon Ven. Thera’s request, Anagarika Dharmapala, together with the help of Sir Ashutosh Mukherjee, Chancellor of the Kolkata University, established the Pali Language Department within the university. With permission from our Ven. Thera, Ven. Sooriyagoda Sumangala Thera was invited to Kolkata to become the very first Head of the newly-established department.
-
-</p><p>Great intellectuals such as Dr. Nalinaksha Datta, Sukumar Datta, Dr. B.C. Low, Dr. B.M. Baruwa, Anukul Chandra Baruwa, and Deepak Kumar Barua graduated from the Pali Language Department, Kolkata University, and went on to contribute their valuable services in universities all over India as well as in Europe. Even some well-known Sri Lankan scholars, Ven. Walpola Rahula Thera, Ven. Uruwela Dhammaratana Thera, Sagara Palansooriya, Siripala Leelarathna, Wimalananda Thennakoon, D.E. Hettiarachchi and Jinadasa Perera also graduated from the same Department in the Kolkata University, India. The scholars thus graduated, Ven. Jagdish kashyap Thera and Ven. Uruwela Dhammaratana Thera together established the Nalanda University, which gifted the world with many more great Vietnamese, Japanese, Thai, Cambodian and Sri Lankan scholars. Among them were Most Ven. Akuratiye Amarawansa Thera, Ven. Raddalle Pangnaloka Thera, Ven. Ganegama Saranankara Thera, Ven. Kananke Wajiragnana Thera and Ven. Hagoda Kemananda Thera. Most of them went on to provide their valuable services at Vidyodaya Monastic College in Sri Lanka. The Pali Language Department, which was first established only in the Kolkata University, was later on established in several other universities, such as Varanasi, Delhi, Pune as well as in Magadha University.
-
-</p><p>(Article courtesy: Daily News, 21st of April 2021: The writer is the Chief Sangha Nayaka of America, Pamankada Sri Maha Viharaya, Dharma Vijaya Buddhist Vihara of Los Angeles, USA)
-
-<b>For more details see:<br/></b>
-Blackburn, Anne M (2010). Locations of Buddhism: Colonialism and Modernity in Sri Lanka, Chicago University Press, Chicago.<br/>
-<a target="_blank" href="https://press.uchicago.edu/ucp/books/book/chicago/L/bo8503417.html"><b>https://press.uchicago.edu/ucp/books/book/chicago/L/bo8503417.html</b> </a>
-
-
-</p>
 
 
 							<!-- <div class="sa-team-social">
@@ -140,11 +100,67 @@ Blackburn, Anne M (2010). Locations of Buddhism: Colonialism and Modernity in Sr
 						</div>
 					</div>
 				</div>
+				<p>“නුදුරු අනාගතයේදී මේ දිවයිනෙන් බුදු දහම සම්පූර්ණයෙන් නැතිවී යාමට බොහෝ සේ ඉඩකඩ ඇත. ක්‍රිස්තු දහම වැඩිකල් යාමට මත්තෙන් දිවයින පුරා ක්‍රමයෙන් පැතිරී යනු ඇති අතර පොදු මහජනයා අතර ඇති දුර්මත හා අමන අදහස් වැඩිකල් යාමට පෙර නැති වී යනු ඇති බව මගේ විශ්වාසයයි.”
+
+
+</p><p>මෙම ප්‍රකාශය බොහෝදුරට සමාන වූයේ ප්‍රංශ ජාතික පුවත්පත් ලේඛක බර්තෝලමියුස් නැමැත්තාගේ අදහස් වලටය. මෙම ලේඛකයා ප්‍රකාශ කළේ ශ්‍රී ලංකාවේ සංඝයා හට බුද්ධාගම පිරිහී යෑම වලක්වා ගැනීමට තරම් ශක්තියක් නොමැති බැවින් නුදුරු අනාගතයේදී මෙම පිරිහීම අඩු වන බවට කිසිම සළකුණක් නොමැති බවය.
+</p><p>මේ වන විට බ්‍රිතාන්‍ය අධිරාජ්‍යවාදීන් සම්පූර්ණ දිවයිනෙහි පාලන බලය අත්පත් කරගෙන තිබුණු අතර ඔවුන්ගේ පරම අදහස වූයේ බුදු දහම මුලිනුපුටා දමා ඒ වෙනුවට ක්‍රිස්තු දහම තරයේ ස්ථාවර කිරීමය. බ්‍රිතාන්‍ය අධිරාජ්‍යවාදීන්ගේ බලය තහවුරු කර ගැනීමට මෙය අත්‍යවශ්‍ය කරුණක් ලෙස ඔවුහු සැලකූහ. එමනිසා යුරෝපා රටවල සිටි ක්‍රිස්තියානි මිෂනාරිවරුන් ශ්‍රී ලංකාවට ගෙන්වන ලදී. මෙම මිෂනාරිවරුන් මගින් පාසැල් පද්ධතියක් පිහිටුවා එමගින් බටහිර සංස්කෘතිය මෙරට තුල පැතිරවීම මේ හා බැඳුන තවත් පරමාර්ථයක් විය. බ්‍රවුන්රිග් ආණ්ඩුකාරවරයා විසින් 1816 ජූනි මස 13 වන දින බ්‍රිතාන්‍ය ජාතික දේශපාලඥයෙකු වූ එංගලන්තයේ විසූ විලියම් විල්බර්ෂෝස් වෙත යවනු ලැබූ ලිපියක මේ පිළිබඳ කරුණු සඳහන් වූ අතර ඒ අනුව සුළු කාලයකදී බුද්ධාගම රටේ ප්‍රධාන ආගමක් ලෙස ක්‍රමයෙන් බල රහිත වී, සම්පූර්ණයෙන් නැති වී යාමට සැලැස්වීම ඔවුන්ගේ අරමුණ වූ බව පැහැදිලි වේ.
+</p>
+				<p>මෙවැනි අඳුරු සමයක් ශ්‍රී ලංකාව තුල පැතිරෙමින් පවතිද්දී, එක්තරා ශ්‍රී ලාංකික පවුලක කුඩා පිරිමි දරුවෙකු උපත ලැබීය. මේ දරුවාගේ මව වූයේ දන්දෙගොඩ ගමගේ ක්‍රිස්තිනාය. එම දරුවාගේ පියා හා ක්‍රිස්තිනාගේ සැමියා වූයේ දොන් ජොහැන්නස් අබේවීර ගුණවර්ධන ලියනාරච්චිය. දරුවා සිව් වයස් වූ විට ඔහුව “නිකලස්” යන නමින් බෞතීස්ම කරන ලදී. මෙවැනි ක්‍රිස්තියානි නමකින් ඔහු බෞතීස්ම නොකළේනම් ඔහුට එකළ පැවති කිසිම පිළිගත් පාසැලකට ඇතුල්විය නොහැකි වීමට ඉඩ තිබිණ. ගුණවර්ධනගේ කුළුදුල් පුත් ලුවිස් ගුණවර්ධන ක්‍රිස්තියානි පල්ලියේ අනුගාමිකයෙකු විය. පල්ලියේ ස්වාමිවරුන් හා ලගින් ඇසුරු කල ලුවිස්, සිය පස් හැවිරිදි දරුවා වූ නිකලස්ව අකුරු ඉගෙනීම පිණිස ගමේ පන්සලේ සංඝනායක වූ සෝභිත ස්ථවීරයන් හට භාර කරන ලදී.
+				බෞද්ධ භික්ෂූන් වහන්සේලා ඇසුරෙහි හැදී වැඩුණු මේ කුඩා දරුවා හට ගාලු කොටුවේ පිහිටි ගාලු මධ්‍ය මහා විද්‍යාලයට ඇතුල්වීමට වරම් ලැබුණි. මේ අවස්ථාව සැලසුණේ ඔහු ක්‍රිස්තියානි පල්ලියෙන් බෞතීස්ම ලබා සිටි බැවිනි.
+
+							
+</p><p>නිකලස්ගේ වේලාපත්කඩය (හඳහන) පරීක්ෂා කර බැලූ එම ග්‍රාමයෙහි විසූ ජ්‍යෝතිර්වේදියා නිකලස්ගේ පියාට දන්වා සිටියේ මේ දරුවාගේ ජන්ම පත්‍රය ඉතාම අසුභ බවත්, එම නිසා ඔහු ඉතා අඩු වයසින් මරණයට පත්විය හැකි බවත්ය. මෙම අනාවැකිය කුඩා නිකලස්ගේ ජීවිතය සම්පූර්ණයෙන් වෙනස් කිරිමට සමත් විය.
+
+</p><p>1840 වසරේදී ඔහුව බෞද්ධ සාමණේරවරයෙකු වශයෙන් ගාලු දිස්ත්‍රික්කයේ තෙල්වත්ත ප්‍රදේශයේ පිහිටි තොටගමුවේ විහාරස්ථානයේදී පැවිදි කරනු ලැබීය. මේ දරුවාගේ සාමණේර කාලය ගරු මාබොටුවානේ රේවත ස්ථවීර සහ ගරු මලගොඩ සිරිනිවාස ස්ථවීර යන හිමිවරුන්ගේ අධීක්ෂණය යටතේ ගත කරන ලදී.
+
+
+පැවිදි වූ පසු ඔහු හැඳින්වූයේ හික්කඩුවේ සුමංගල යන නමිනි. ඔහුගේ සාමණේර කාලය ගත කරන ලද්දේ එකල විසූ ශාස්ත්‍ර විශාරද හිමිවරුන් වූ වලානේ ශ්‍රී සිද්ධාර්ථ වැනි උගත් ගුරුවරුන් යටතේය. මෙය මේ දරුවාගේ වාසනාවක් විය. ඉතා උනන්දුවෙන් ශිල්ප හැදෑරූ මොහු පාලි, සිංහල, සංස්කෘත සහ ඉංග්‍රීසි යන භාෂා හොඳින් අධ්‍යයනය කළේය.
+
+</p><p>1873 වසරේදී මෙම ස්ථවීරයාණෝ විද්‍යොදය නැමති ශිල්පායතනය ආරම්භ කළහ. මෙම ආයතනය දැනුම බෙදාදීමේ වටිනා මධ්‍යස්ථානයක් විය. (මෙම ආයතනය ආරම්භ කිරීමෙහිලා මුල්තැන ගත්තේ අනගාරික ධර්‍මපාලතුමාගේ මාතෘ පාර්ශවයේ මුත්තණුවන් විසිනි.)
+
+විද්‍යොදය විද්‍යායතනයේ උගන්වන ලද්දේ ථෙරවාද බුද්ධාගමය. මේ වන විට මහායාන බුදුදහම අනුගමනය කරමින් සිටි ගරු කොජින් ගුණරතන, ගරු කොජින් කොණ්ඩඤ්ඤ, සැටෝ සහ ටොෂිබානා වැනි විදේශීය උගතුන් පවා විද්‍යොදය ආයතනයෙහි ථෙරවාද බුදුදහම හැදෑරීම සඳහා පැමිණියහ. මොවුන් තායිලන්තය, බුරුමය, බංගලිදේශය සහ ජපානය වැනි විදේශීය රටවලින් පැමිණි අය වූහ. මේ අයගේ ආචාර්යවරයා වූයේ හික්කඩුවේ ශ්‍රී සුමංගල ස්ථවීරයාණෝය.</p>
+
+<p>1873 දී ප්‍රසිද්ධ ආගමික වාදයක් වූ පානදුරා වාදයට සහභාගී වූ ගරු මොහොට්ටිවත්තේ ගුණානන්ද හිමිපාණෝ, එම අවස්ථාවට සහභාගී විම සඳහා හික්කඩුවේ ශ්‍රී සුමංගල හිමියන්ටද ආරාධනා කළහ. පානදුරා වාදය කොතරම් දුරට ප්‍රචලිත වූයේද යත් එකල ඇ‌‍මෙරිකාවේ මුද්‍රණය කරන ලද “The Truth Seeker”  (සත්‍ය සෙවීම) යන සඟරාවේද මේ පිලිබඳව සඳහන් විය. මෙම සඟරාවේ ප්‍රධාන තැන ගත් එක් කතුවරයෙකු වූයේ තෝමස් පේන් නැමැත්තාය (Thomas Paine). ඔහු ඇ‌‌‍මෙරිකා එක්සත් ජනපදයේ ආණ්ඩුක්‍රම ව්‍යවස්ථාව සකස් කිරීමේදී පවා මුල් තැන ගත් අයෙකි. මෙම ආගමික වාදය පිළිබද තොරතුරු පැතිර යාමත් සමග කර්නල් හෙන්රි ස්ටීල් ඕල්කට් සහ රුසියානු දර්ශන වාදය පිළිබද ලේඛිකාවක් වූ හෙලේනා බ්ලැවැට්ස්කි මහත්මිය ආදීන්ද ඇමෙරිකාවේ සිට ලංකාවට පැමිණීමට උනන්දු වූහ. 1880 වසරේ මැයි මස 17 වන දින ඉහත නම් සඳහන් දෙදෙනාම බුද්ධාගම වැලඳ ගත්හ. මෙම සිද්ධිය සිදු වූයේ ගාල්ලේ විද්‍යානන්ද විහාරයේදීය.
+
+</p>
+
+</p><p>මේ දෙදෙනාම ඉන්පසුව සුමංගල හිමියන්ගේ ඉගැන්වීම යටතේ පාලි භාෂාව හා බෞද්ධ දර්ශනයද ඉගෙනීමට පටන් ගත්හ. මේ දෙදෙනා අධ්‍යාපනයේ වැදගත්කම ගැන හොඳින් අවබෝධ කරගත් අය වූ අතර, ඒ තුලින් බුද්ධාගම වැටී තිබුණු කණගාටුදායක තත්වයෙන් මුදා ගැනීම සඳහා කළ යුතු දේ ගැන විමසිලිමත් වූහ. එහි ප්‍රතිඵලයක් වූයේ 1895 දී පරමවිඥාණාර්ථ සංගමය කොළඹදී පිහිටුවීමයි. කොළඹ ආනන්ද විද්‍යාලය ආරම්භ කරන ලද්දේද මෙම සංගමය තුලිනි. එහි මුල්ම විදුහල්පතිවරයා වූයේ කේම්බ්‍රිජ් විශ්ව විද්‍යාලයේ උපාධිධාරී, ඇමෙරිකානු සම්භවයක් ඇති ඒ.ඊ. බුල්ජන්ස් මහතාය. මින් අනතුරුව දිවයිනේ විවිධ පළාත්වල මෙවැනි විදුහල් ගණනාවක් පිහිටුවන ලදී. ඒ අතර කොළඹ නාලන්දා විද්‍යාලය, මහනුවර ධර්මරාජ විද්‍යාලය සහ ගාල්ලේ මහින්ද විද්‍යාලයද ඇතුලත් විය.
+
+</p><p>වර්ෂ 1885 දී ශ්‍රී ලංකාවේ බෞද්ධ කොඩිය සැලසුම් කිරීම සඳහා කම්ටුවක් පත් කරන ලදී. එම කමිටුවේ සභාපතිත්වය දරණ ලද්දේ ගරු හික්කඩුවේ සුමංගල ස්ථවීරයෝය. මේ වකවානුවේදී බෞද්ධ දර්ශනය හැදෑරීම සඳහා උනන්දු වූ බොහෝ දෙනෙක් ශ්‍රී ලංකාවට පැමිණ හික්කඩුවේ සුමංගල හිමියන් හමු වූයේ එම හිමියන්ගේ අනුශාසකත්වය යටතේ බෞද්ධ දර්ශනය හැදෑරීමේ අදහසිනි.
+
+</p><p>තෝමස් විලියම් රීස් ඩේවිඩ්ස් මෙම වකවානුවේදී (1867) ගාල්ලේ ප්‍රධාන මහේස්ත්‍රාත්වරයා විය. රීස් ඩේවිඩ්ස් මහතා පාලි භාෂාව හැදෑරීම සඳහා බෞද්ධ හිමිවරු කීප දෙනෙකු වෙතට ගියේය. ඒ අතර යාත්‍රාමුල්ලේ ධර්මාරාම හිමි, දොඩන්දූවේ පියරතන තිස්ස හිමි, ගරු වැලිගම ශ්‍රී සුමංගල හිමි සහ වස්කඩුවේ සුභූති ස්ථවීරයෝ ද වූහ. එමෙන්ම රීස් ඩේවිඩ්ස් මහතා නිතරම හික්කඩුවේ ශ්‍රී සුමංගල හිමියන් මුණගැසී බෞද්ධ දර්ශනය පිළිබදව ගැඹුරින් සාකච්ඡා කිරිමටත් ඒ මගින් බෞද්ධ දර්ශනය පිළිබදව විශාල දැනුම් සම්භාරයක් රැස් කර ගැනීමටද සමත් විය. මෙම සාකච්ඡා සහ හමුවීම් තුලින් බ්‍රිතාන්‍ය පාලන තන්ත්‍රයේ වැදගත් පුද්ගලයින් බොහෝ දෙනෙකු සමග මිත්‍රත්වයක් ඇති කර ගැනිමටත්, ඒ අයගේ ගෞරවය දිනා ගැනිමටත් සුමංගල හිමියෝ සමත් වූහ. මෙම සාකච්ඡා තුලින් සුමංගල හිමියන්ගේ අවධානයට ලක්වූ වැදගත් කරුණක් වූයේ බෞද්ධ දර්ශනය විදේශිකයන්ට පැහැදිලි කිරීමටත්, එහි ගැඹුර වටහා දීමටත් ගතයුතු ක්‍රියා මාර්ගය කුමක්ද යන්නය.
+
+</p><p>ජර්මන් ජාතික සම්භවයක් ඇති ප්‍රසිද්ධ බෞද්ධ දාර්ශනිකයෙකු වූ පෝල් ඩහයික් (Paul Dahike) මහතා ශ්‍රී සුමංගල හිමියන් හමුවීමට ශ්‍රී ලංකාවට පැමිණියේ මේ අවධියේය. ඔහුගේ අදහස වූයේ සුමංගල හිමියන් හමු වී බුදුදහමේ උගන්වන අනාත්ම වාදය පිළිබඳ අවබෝධයක් ලබා ගැනීමටය.
+මේ වන විට තරුණ වියේ පසු වූ අනගාරික ධර්‍මපාලතුමා, මහා බ්‍රිතාන්‍යයේ විදේශ කටයුතු භාර නිලධාරියාට ලිපියක් යවමින් ශ්‍රී ලංකාවේ බ්‍රිතාන්‍ය ආණ්ඩුකාරයා පිළිබඳව පැමිණිලි කළේය. මේ ලිපිය ලියන ලද්දේ සුමංගල හිමියන්ගේ නමින්, උන්වහන්සේ ලියන ආකාරයටය. එම ලිපිය තමාගේ නමින් ලියූ බව සුමංගල හිමියන් දැන සිටියේ නැත. එ් ගැන දැනගත්  පසුවද සුමංගල හිමියෝ එතරම් තැකීමක් නොකළහ.
+	</p> <p> මේ අතර 1893 දී චිකාගෝ නුවර පැවැත්වුණු ආගමික සම්මන්ත්‍රණයකට සහභාගී වීම සඳහා හික්කඩුවේ සුමංගල හිමියන්ට ඇරයුම් කරනු ලැබීය. එම හිමියෝ සහභාගී වූයේ ථෙරවාද බුද්ධාගම නියෝජනය කරන්නෙකු වශයෙනි. නමුත් තමා වෙනුවට මෙම සම්මන්ත්‍රණයට අනගාරික ධර්‍මපාලතුමා සහභාගී කරවීමට සුමංගල හිමියෝ පියවර ගත්හ. ඒ සඳහා සුමංගල හිමියන්ගේ ආශීර්වදය අනගාරික ධර්‍මපාලතුමාට නොමදව ලැබිණ. මෙම සම්මන්ත්‍රණයේදී අනගාරික ධර්‍මපාලතුමා ප්‍රකාශ කල අදහස් ඇසුරෙන් ඇමෙරිකානු රාජ්‍යය තුල බුද්ධාගම පිළිබඳ ප්‍රබල ජන රැල්ලක් ඇති විය. මේ සිද්ධිය නිසා සුමංගල හිමියන් සහ අනගාරික ධර්‍මපාලතුමා අතර මහා අන්‍යොන්‍ය අවබෝධයක් ගොඩ නැගුණි. මහාබෝධි සංගමයේ ප්‍රථම සභාපති ධූරය දැරුවේද හික්කඩුවේ සුමංගල හිමියෝය. සුමංගල හිමියන්ගේ මග පෙන්වීම සහ අනුශාසනා අනුව ඉන්දියානු අර්ධද්වීපයෙහි බුද්ධ දර්මය යළි ස්ථාපිත කිරීම අනගාරික ධර්‍මපාලතුමා විසින් ඉටු කරන ලද මහඟු කාර්යයකි.
+</p><p>1891 වසරේ ජනවාරි මාසයේදී අනගාරික ධර්‍මපාලතුමා බෝධිගයා ප්‍රදේශයේ සංචාරයක් සඳහා පිටත් වූ විට ජපන් ජාතික සම්භවයක් ඇති ගරු කොජින් ගුණරතන හිමියන්ද ඒ සමග යැවීමට සුමංගල හිමියෝ පියවර ගත්හ. එම වර්ෂයේදීම අනගාරික ධර්‍මපාලතුමා ඉන්දියාවේ සිට ජපානයට පිටත්ව ගියේ බෝධිගයා ප්‍රදේශය අන්‍යාගමිකයන්ගෙන් විනාශවීම වළක්වා ගැනීම සඳහා ජපන් රජයේ සහයෝගය පැතිමටය. ආපසු ඉන්දියාවට පැමිණි ධර්‍මපාලතුමා දැඩි ශෝකයට පත් වූයේ එම කාලය අතරතුර ගරු කොජින් ගුණරතන හිමි කලුරිය කළ බව දැන ගත් විටය.
+
+</p><p>ගරු හික්කඩුවේ සුමංගල ස්ථවීරයන් වහන්සේ දැඩිව ප්‍රකාශ කළ කරුණක් වූයේ ඉන්දියාව තුල බුදු දහම යළි ප්‍රචලිත කිරීමට අවශ්‍ය ප්‍රධාන සාධකය නම් ඉන්දියානු උගතුන් හට පාලි භාෂාව ඉගැන්වීම බවය. ඒ අනුව 1907 දී ගරු සුමංගල හිමියන්ගේ ඉල්ලීම පරිදි කොල්කටා (Kolkata) විශ්ව විද්‍යාලය තුල පාලි භාෂාව ඉගැන්වීම සඳහා දෙපාර්තමේන්තුවක් පිහිටුවන ලදී. මෙම කර්තව්‍යය සඳහා එකළ කොල්කටා විශ්ව විද්‍යාලයේ කුලපතිවරයෙකු වූ ශ්‍රීමත් අෂුටොෂ් මුඛර්ජි (Ashutosh Mukherjee) විද්වතාගෙන්ද නොමද සහයක් ලැබුණි. මෙසේ පිහිටුවන ලද දෙපාර්තමේන්තුවේ ප්‍රධානියා වූ ගරු සූරියගොඩ සුමංගල ස්ථවීරයන් පත් කරන ලද්දේද අප නායක හිමියන්ගේ අනුමැතිය ඇතිවය. මෙම තනතුර භාර ගැනීම සඳහා සූරියගොඩ සුමංගල හිමියන් ලංකාවේ සිට කොල්කටා නගරයට ගෙන්වා ගන්නා ලදී.
+
+
+</p><p>කොල්කටා නගරයේ විශ්ව විද්‍යාලයේ අලුතින් පිහිටුවන ලද පාලි දෙපාර්තමේන්තුවෙන් උපාධිය හිමි කර ගත් උපාධිධරයන් අතුරෙන් ආචාර්ය නලිනක්ෂා දත්ත, සුකුමාර් දත්ත, ආචාර්ය බී.සී. ලෝ (Low), ආචාර්ය බී.එම්. බරුවා, අනුකුල් චන්ද්‍රා බරුවා සහ දීපක් කුමාර් බරුවා වැනි විද්වත්හු වූහ. මෙම උපාධිධාරීහු ඉන්දියාව පුරා විසිරී ඇති වෙනත් විශ්ව විද්‍යාල වලටත්, යුරෝපා විශ්ව විද්‍යාල වලටත් මහගු සේවයක් ඉටු කළහ. ශ්‍රී ලංකාවේ උසස් විද්වතුන් වූ ගරු වල්පොල රාහුල හිමි, උරුවෙල ධර්මරතන හිමි, සාගර පලන්සූරිය, සිරිපාල ලීලාරත්න, විමලානන්ද තෙන්නකෝන්, ආචාර්ය ඩී.ඊ. හෙට්ටිආරච්චි සහ ජිනදාස පෙරේරා වැනවුන්ද ඉන්දියාවේ කොල්කටා (Kolkata) විශ්ව විද්‍යාලයෙන් උපාධි ලබාගත් අය වූහ. මේ අය අතුරින් ජගදීශ් කාශ්‍යප් ස්ථවීර සහ උරුවෙල ධර්මරතන ස්ථවීර යන දෙනම නාලන්දා විශ්ව විද්‍යාලය පිහිටු වූ අතර එම ආයතනය මගින් වියට්නාම, ජපන්, කාම්බෝජියානු, තායි සහ ලංකා උගතුන් රාශියක් බිහි කරන ලදී. එම උගතුන්ගෙන් කිප දෙනෙකු නම් ගරු අකුරැටියේ අමරවංශ ස්ථවීර, ගරු රද්දැල්ලේ පඤ්ඤාලෝක ස්ථවීර, ගණේගම සරණංකර ස්ථවීර, ගරු කනංකේ වජිරඥාණ ස්ථවීර සහ ගරු හෑගොඩ කේමානන්ද ස්ථවීර යන අයය. මේ අය අතුරෙන් බොහෝ දෙනෙක් ශ්‍රී ලංකාවේ විද්‍යොදය ශාසනික ආයතනයෙහි වැදගත් සේවයක් ඉටු කළහ. මින් ඉහත කොල්කටා විශ්ව විද්‍යාලයෙහි පමණක් පිහිටුවනු ලැබූ පාලි භාෂා දෙපාර්තමේන්තුව, පසුව වෙනත් විශ්ව විද්‍යාල වල ද පිහිටුවනු ලැබීය. එම විශ්ව විද්‍යාල නම් වාරාණසී (බාරාණසී), දිල්ලි විශ්ව විද්‍යාලය, පූණේ, සහ මගධ යන විශ්ව විද්‍යාලයන්ය.
+
+</p><p>(Article courtesy: Daily News, 21st of April 2021: ලේඛක ස්වාමීන්වහන්සේ: අමෙරිකාවේ ප්‍රධාන සංඝ නායක, පාමංකඩ ශ්‍රී මහා විහාරය, ලොස් ඇන්ජලීස්හි (ඇමෙරිකාවේ) ධර්ම විජය බෞද්ධ විහාරය) 
+	<br>
+<b>For more details see:<br/></b>
+<br/>
+<a  href="https://press.uchicago.edu/ucp/books/book/chicago/L/bo8503417.html"><span style="color: blue;"><b>Blackburn, Anne M (2010). Locations of Buddhism: Colonialism and Modernity in Sri Lanka, Chicago University Press, Chicago.</b></span> </a>
+
+
+</p>
+
+
+
+
+
+
+
 			</div>
 		</section>
 
 	<!-- Footer -->
-	<?php include_once 'sinhala_footer.php';?>
+	<?php include_once 'footer.php';?>
 	<!-- /Footer -->
 
 	<!-- Scripts -->
@@ -164,4 +180,6 @@ Blackburn, Anne M (2010). Locations of Buddhism: Colonialism and Modernity in Sr
 	<script src="assets/js/audio_custome.js"></script>
 </body>
 
+
+<!-- Mirrored from primehostingindia.com/templatemonster/html/templezen/our-teachers.html by HTTrack Website Copier/3.x [XR&CO'2014], Thu, 06 Jan 2022 18:06:34 GMT -->
 </html>
