@@ -164,14 +164,14 @@
 								<!-- </ul> -->
 					<!-- </li> -->
 
-					<li class="dropdown" ><a href="#">සාප්පුව<span class="nav_arrow"></span></a>
+					<li class="dropdown" ><a href="#">ප්‍රකාශන<span class="nav_arrow"></span></a>
 							<!-- <ul class="sub-menu">
 								<li><a href="blog.html">Blog</a></li>
 								<li><a href="blog-detail.html">Blog Detail</a></li>
 							</ul> -->						
 								<ul class="sub-menu">
 								
-								<li><a href="sinhala_shop_main_ADT_books.php">අනගාරික ධර්මපාල භාරයේ සාප්පුව</a>
+								<li><a href="sinhala_shop_main_ADT_books.php">අනගාරික ධර්මපාල භාරයේ ප්‍රකාශන</a>
 								<li><a href="shop_pages1.php">ත්‍රිපිටක ප්‍රකාශන</a>
 						
 								</ul>
@@ -354,9 +354,9 @@
 		
 			<!-- <li><a href="sinhala_shop_main_ADT_books.php">සාප්පුව</a> -->
 
-			<li class="has-child"><a href="#">සාප්පුව</a>
+			<li class="has-child"><a href="#">ප්‍රකාශන</a>
 								<ul class="sub-menu">
-								<li><a href="sinhala_shop_main_ADT_books.php">අනගාරික ධර්මපාල භාරයේ සාප්පුව</a>
+								<li><a href="sinhala_shop_main_ADT_books.php">අනගාරික ධර්මපාල භාරයේ ප්‍රකාශන</a>
 								<li><a href="shop_pages1.php">ත්‍රිපිටක ප්‍රකාශන</a>
 								</ul>
 							</li>
