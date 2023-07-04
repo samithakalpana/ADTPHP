@@ -46,7 +46,7 @@
 			<div class="inner_wp z_index white_text">
 				<div class="row">
 					<div class="col-md-12">
-						<h1 class="text-center">Benefactors</h1>
+						<h1 class="text-center">ප්‍රතිලාභීන්</h1>
 						<h5 class="text-center">පූජ්‍ය හික්කඩුවේ ශ්‍රී සුමංගල නාහිමිපාණෝ </h5>
 						<nav class="breadcrumb">
 							<ul>
