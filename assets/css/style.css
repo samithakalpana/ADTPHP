@@ -1370,9 +1370,12 @@ small {
 ======================*/
 
 #causes {
-	background: url(../images/home-page/home-inside-banner.png) no-repeat center / cover;
+	/* background: url(../images/home-page/black.jpg) no-repeat center / cover; */
+	background: #ff963f;
 	background-attachment: fixed;
 }
+
+
 .causes_info {
 	margin: 0 auto;
 	max-width: 580px;

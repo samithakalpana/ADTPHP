@@ -222,6 +222,16 @@ ob_start();
 	</section>
 	<!-- /About -->
 
+
+
+
+
+
+
+
+
+
+
 	<!-- Causes -->
 	<section id="causes" class="section-padding gray_bg">
 		<div class="container">
@@ -229,35 +239,52 @@ ob_start();
 				<div class="item">
 					<div class="causes_info">
 				
-						<h3 class="white_text">“Wherever I went I have worked for the public good”</h3>
-						<p class="white_text mb-0">Anagarika Dharmapala - 1915 </p>
+						<!-- <h3 class="white_text">“Wherever I went I have worked for the public good”</h3> -->
+						<img src="assets/images/news2.jpeg" alt="img" class="img-fluid mx-auto d-block">
+						</br>
+						<h5 class="white_text mb-0">New computers given by the RATNATUNGA Charity, Australia, through the Anagarika Dharmapala Trust to the Parakrama Boys Development Centre run by Mallika Nivasa Samithiya </h5>
+					</div>
+				</div>
+
+				<div class="item">
+					<div class="causes_info">
+					
+						<!-- <h3 class="white_text">“My comfort is the Buddha, His Dhamma and the Holy Ones”</h3> -->
+						<img src="assets/images/news3.png" alt="img" class="img-fluid mx-auto d-block">
+						<h5 class="white_text mb-0">The Anagarika Dharmapala Trust renovated the shrine room and several other dilapidated sections of the  Parakrama Boys Development Centre run by Mallika Nivasa Samithiya</h5>
 					</div>
 				</div>
 				<div class="item">
 					<div class="causes_info">
 					
-						<h3 class="white_text">“My comfort is the Buddha, His Dhamma and the Holy Ones”</h3>
-						<p class="white_text mb-0">Anagarika Dharmapala - 1915</p>
+						<h5 class="white_text">“President Ranil Wickremasinghe visited the London Buddhist Vihara in May 2023 following his visit to the Coronation of King Charles III”</h5>
+						
 					</div>
 				</div>
-				<div class="item">
-					<div class="causes_info">
-					
-						<h3 class="white_text">“My life will be given birth after birth to Humanity”</h3>
-						<p class="white_text mb-0">Anagarika Dharmapala - 1897</p>
-					</div>
-				</div>
-				<div class="item">
-					<div class="causes_info">
-					
-						<h3 class="white_text">“The householder must follow the Middle Way…. Above all he must practice charity and love”</h3>
-						<p class="white_text mb-0">Anagarika Dharmapala - 1910</p>
-					</div>
-				</div>
+			
 			</div>
 		</div>
 	</section>
 	<!-- /Causes -->
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 	<!-- Latest-Events-Sermons -->
 	<section class="section-padding latest_event_sermons m-0">
