@@ -236,27 +236,36 @@ ob_start();
 	<section id="causes" class="section-padding gray_bg">
 		<div class="container">
 			<div class="owl-carousel">
-				<div class="item">
-					<div class="causes_info">
 				
-						<!-- <h3 class="white_text">“Wherever I went I have worked for the public good”</h3> -->
-						<img src="assets/images/news2.jpeg" alt="img" class="img-fluid mx-auto d-block">
-						</br>
-						<h5 class="white_text mb-0">New computers given by the RATNATUNGA Charity, Australia, through the Anagarika Dharmapala Trust to the Parakrama Boys Development Centre run by Mallika Nivasa Samithiya </h5>
-					</div>
-				</div>
 
 				<div class="item">
 					<div class="causes_info">
 					
 						<!-- <h3 class="white_text">“My comfort is the Buddha, His Dhamma and the Holy Ones”</h3> -->
 						<img src="assets/images/news3.png" alt="img" class="img-fluid mx-auto d-block">
+	</br>
 						<h5 class="white_text mb-0">The Anagarika Dharmapala Trust renovated the shrine room and several other dilapidated sections of the  Parakrama Boys Development Centre run by Mallika Nivasa Samithiya</h5>
 					</div>
 				</div>
+
+
 				<div class="item">
 					<div class="causes_info">
-					
+				
+						<!-- <h3 class="white_text">“Wherever I went I have worked for the public good”</h3> -->
+						<img src="assets/images/news2.jpeg" alt="img" class="img-fluid mx-auto d-block">
+						</br>
+						</br>
+						
+						<h5 class="white_text mb-0">New computers given by the RATNATUNGA Charity, Australia, through the Anagarika Dharmapala Trust to the Parakrama Boys Development Centre run by Mallika Nivasa Samithiya </h5>
+					</div>
+				</div>
+
+
+
+				<div class="item">
+					<div class="causes_info">
+					<img src="assets/images/news1.png" alt="img" class="img-fluid mx-auto d-block"></br>
 						<h5 class="white_text">“President Ranil Wickremasinghe visited the London Buddhist Vihara in May 2023 following his visit to the Coronation of King Charles III”</h5>
 						
 					</div>
