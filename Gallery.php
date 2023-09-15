@@ -90,7 +90,7 @@
 
 				<div class="col-md-6 align-self-center img-width-100">
 					<!-- <img src="	assets/images/homehome1.jpg" alt="img" class="img-fluid"> -->
-					<video src=" assets/Videos/video1.mp4" autoplay controls> </video>
+					<video src=" assets/images/video1.mp4" autoplay controls> </video>
 				</div>
 			</div>
 		</div>
