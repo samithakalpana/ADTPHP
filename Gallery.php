@@ -64,6 +64,47 @@
 	<!-- /Inner-intro -->
 
 
+<!-- Donation-img section -->
+<section class="section-padding secondary-bg donation-img-section">
+		<div class="container">
+			<div class="row">
+				<div class="col-md-6 align-self-center">
+					<div class="section-header">
+						
+						<h6>Name - Poojani Irushi
+							<br> <br> Class - Grade 8
+							<br> <br> School - Ananda Balika Vidyalaya, Colombo 10.
+						</h6>
+					</div>
+					<div class="donation_form">
+						<form>
+							<div class="form-group">
+								<div class="row">
+									
+								</div>
+							</div>
+
+						</form>
+					</div>
+				</div>
+
+				<div class="col-md-6 align-self-center img-width-100">
+					<!-- <img src="	assets/images/homehome1.jpg" alt="img" class="img-fluid"> -->
+					<video src=" assets/Videos/video1.mp4" autoplay controls> </video>
+				</div>
+			</div>
+		</div>
+
+	</section>
+	<!-- /Donation-img section -->
+
+
+
+
+
+
+	
+
 			<!-- Gallery intro -->
 			<section class="section-padding latest_event_sermons m-0">
 				
