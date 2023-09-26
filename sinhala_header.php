@@ -131,7 +131,7 @@
 								<li><a href="sinhala_about-us.php#section_3">කළමනාකරණ භාරකරුවන්</a></li>
 								<li  class="dropdown"><a href="#">වෙනත් භාරයන්</a>
 								<ul class="sub-menu">
-								<li><a href="sinhala_under_construction_page.php"> මහා බෝධි සංගමය</a></li>
+								<li><a href="sinhala_Associates_1_Maha_Bodhi_Society.php"> මහා බෝධි සංගමය</a></li>
 								<li><a href="sinhala_under_construction_page.php"> මහා බෝධි සංගමය-ඉන්දියාව</a></li>
 								<li><a href="sinhala_under_construction_page.php">ලන්ඩන් බෞද්ධ විහාර</a></li>
 								<li><a href="sinhala_under_construction_page.php">මල්ලිකා නිවාස සමිතිය</a></li>

@@ -45,11 +45,11 @@
 			<div class="inner_wp z_index white_text">
 				<div class="row">
 					<div class="col-md-12">
-						<h1 class="text-center">Maha Bodhi Society</h1>
+						<h1 class="text-center">මහා බෝධි සංගමය (සමිතිය)</h1>
 						<nav class="breadcrumb">
 							<ul>
-								<li class="breadcrumb-item"><a href="index.html">Home</a></li>
-								<li class="breadcrumb-item active">Maha Bodhi Society</li>
+								<li class="breadcrumb-item"><a href="index.html">මුල් පිටුව</a></li>
+								<li class="breadcrumb-item active">මහා බෝධි සංගමය (සමිතිය)</li>
 							</ul>
 						</nav>
 					</div>
@@ -75,44 +75,42 @@
                     
 					<div class="about-us-content">
 						<div class="section-header">
-							<h2>The  <u class="text-custom-primary">Maha Bodhi Society</u></h2></div>                            
-							<p>The Maha Bodhi Society which was established in 1891 primarily to campaign for the recovery of the Maha Bodhi Temple in Buddha Gaya was separated into two entities in 1921 when legal requirements to register its operations in India necessitated the formation of a separate Maha Bodhi Society of India and the Maha Bodhi Society of Ceylon (now Sri Lanka).  In 1926, the Anagarika established the British Maha Bodhi Society in the United Kingdom. Thereafter, Maha Bodhi Societies were established in many parts of the world including America, Japan etc.,
- 
- The Maha Bodhi Society of Ceylon  (now Sri Lanka) was a hive of activity in the early years, especially involved in establishing schools for rural Buddhist children who could not get proper secondary education unless they enrolled in a Christian missionary school.
- </p>
+							<h2> <u class="text-custom-primary">මහා බෝධි සංගමය (සමිතිය)</u></h2></div>                            
+							<p>1891 පිහිටුවන ලද මහා බෝධි සංගමයේ මූලික අරමුණ වූයේ බුද්ධගයාවෙහි පිහිටි මහා බෝධි විහාරය පුනරුත්ථාපනය කිරීමය. මෙම විහාරය 1921 දී ඉන්දියානු රජයේ නීතිමය අවශ්‍යතාවයක් මත ඉන්දියානු මහා බෝධි සංගමය යනුවෙන් ලියාපදිංචි කරන ලද අතර ලංකාවේ (වත්මන් ශ්‍රී ලංකාවේ) මහා බෝධි සංගමය වෙනම ක්‍රියාකාරී ආයතනයක් ලෙස 1926 දී ලංකාවේ ලියාපදිංචි කරන ලදී. ඒ අනුව මහා බෝධි සංගමයේ ක්‍රියාකාරීත්වය මෙම රටවල් දෙකෙහි වෙන වෙනම ලියාපදිංචි කරන ලදී. අනගාරික ධර්‍මපාලතුමා විසින් මහා බ්‍රිතාන්‍යයේද මහා බෝධි සංගමයක් පිහිටු වන ලද අතර ඉන් අනතුරුව ලෝකයේ විවිධ රටවල මහා බෝධි සංගම් (සමිති) පිහිටුවන ලදී. එසේ පිහිටුවනු ලැබූ රටවල් අතර ඇමෙරිකාව සහ ජපානයද විය.
+							එම කාල වකවානුවේදී ලංකාවේ මහා බෝධි සංගමය (වර්තමාන ශ්‍රී ලංකාවේ) අතිශය ක්‍රියාකාරී සංගමයක් වූ අතර ආරම්භක යුගයේදීම ග්‍රාමීය බෞද්ධ දරුවන් සඳහා පාසැල් රාශියක් පිහිටුවීමද මෙම ආයතන මගින් සිදු විය. මෙම පාසැල් වඩාත් ඵලදායී වූයේ එකල ඈත ගම්වල විසූ බෞද්ධ දරුවන් හට සංවිධානාත්මක ද්විතියික අධ්‍යාපනයක් ලබා ගැනීමට මෙම පැසැල් මගින් හැකිවීමය. ඒ වනතුරු ලංකාවේ ගැමි දරුවන් හට ද්විතියික අධ්‍යාපනයක් ලබා ගැනීමට හැකි වූයේ ක්‍රිස්තියානි මිෂනාරීවරුන් විසින් පිහිටුවනු ලැබූ පාසැල් වලින් පමණකි.
+						</p>
 						
-						<p>Though pirivena (temple) education was the origin of formal education in the country, the advent of missionaries imported a far more advanced standard of education. The downside however, was that religion (Christianity) was taught at these schools, with religious observations, a subtle form of conversion. Several schools did not admit children unless they had been baptized.
- 
- At the very beginning, the Society teamed up with Colonel H.S. Olcott and educationists like C.W. Leadbeater together with the Buddhist Theosophical Society (BTS) towards this gigantic task. At the time the post-independence government of Sri Lanka took over all private schools in 1962, the Maha Bodhi Society of Sri Lanka was administering 102 schools in the country. 
- </p>
-							<p>With Anagarika Dharmapala’s breakaway from the BTS, the Maha Bodhi Society established its own Schools Department. Its first school was the Maligakanda Buddhist English School, begun in the latter part of the 18th century. Ananda College, started by the BTS, was a bigger school that attracted the children from more affluent families, while the Society’s school nearby provided free education to the poorer children. Eighty six (86) students enrolled at the school at the launch.
- 
- By the first decade of the 19th  century, the Maha Bodhi Society was making an impact challenging the British Raj in more ways than one. They were also engaging on the economic front purchasing plantation estates, especially in the southern Galle district and giving employment to Buddhists. The purpose was to uplift the living standards of the rural Buddhists and prevent them from having to convert to get a job.
- </p>
- <p>When the 1915 riots broke out, the British Colonial Government exploited the situation to crack down on the Society. Twenty eight (28) schools were managed by the Society at the time. Their funding was suspended. It’s newspaper, The Sinhala Bauddhaya press was sealed, and because they couldn’t get at Anagarika Dharmapala, they arrested his brother Edmund Hewavitarne and slapped him, and another with trumped up charges of treason and shop-breaking and tried them both under Martial Law. 
- 
- After the dust had settled from those riots, the schools managed by the Society were returned but not before having to “repurchase” them at the rate of Rs. 1,000 each. The Hewavitarne family firm, H. Don Carolis & Sons provided the desk and chairs and the Society not only paid the salaries but went on to start a teacher training school.
+						<p>මුල් කාලයේ ලංකාවේ පිරිවෙන් හා විහාරස්ථාන තුලින් යම්කිසි සංවිධනාත්මක අධ්‍යාපනයක් ලබා දුන් නමුත්, මිෂනාරීවරුන් මෙරටට පැමිණි පසු ලබා දුන් අධ්‍යාපන ක්‍රමය වඩාත් දියුණු වූ ක්‍රමයක් විය. එසේ වුවද මෙම ක්‍රමයේ දුර්වලතාවයක් වූයේ මේ පාසැල් තුල ක්‍රිස්තියානි ධර්මය උගන්වනු ලැබූ අතර ක්‍රිස්තු දහම හා සම්බන්ධ පුද පූජා ක්‍රමද දරුවන්ට පුරුදු පුහුණු කරවීමය. මේ මගින් ඉතා සූක්ෂම ලෙස දරුවන්ව ක්‍රිස්තු ධර්මයට හරවා ගැනීමේ ක්‍රියාවලියක් ලෙස හැදින්විය හැකිය.
+
+එකළ පැවති පිළිගත් පාසැල් බොහොමයකට ළමුන් ඇතුල් කර ගත්තේ ඔවුන් බෞතිස්ම ලබා ඇති නම් පමණකි. මෙය මහාබෝධි සංගමය මුහුණ දුන් බරපතල ප්‍රශ්නයක් විය. මෙම යෝධ ගැටළුවට මුහුණදීම සඳහා ලංකාවේ අධ්‍යාපන විශේෂඥයින් කීප දෙනෙකු එකතු වී සාමූහික ව්‍යාපෘතියක් දියත් කළෝය. මේ අතර හෙන්රි ස්ටීල් ඕල්කොට්තුමා සහ සී. ඩබ්ලිව්. ලීඩ්බීටර් වැනි අධ්‍යාපනඥයෝද වූහ. ඔවුහු පරමවිඥානාර්ථ බෞද්ධ සමිතිය පිහිටුවා මෙම කාර්යයට සහභාගී වූහ. 
+
+මේ යටතේ බිහිවූ ප්‍රථම පාසැල වූයේ මාලිගාකන්ද බෞද්ධ ඉංග්‍රීසි පාසැලය. එය 18 වන සියවසේ අවසාන කාලයේදී පිහිටුවනු ලැබිය. ඒ අනුව පරමවිඥානාර්ථ බෞද්ධ සංගමය මගින් පිහිටුවන ලද වඩාත් විශාල විදුහල වූයේ ආනන්ද විද්‍යාලයයි. මෙම විදුහලට ප්‍රදේශ වාසී ඉහළ සමාජ මට්ටම් වල දෙමාපියෝ තම දරුවන් ඇතුලත් කළහ. මේ අතර එම ප්‍රදේශයේම එතරම් ධනවත් නොවූ දෙමාපියන් සිය දරුවන් ඒ අවට එම සමිතිය මගින්ම පිහිටුවනු ලැබූ වෙනත් පාසැල් වලට ඇතුලත් කළහ. එම පාසැල් තුලින් සිසු දරුවන්ට නිදහස් අධ්‍යාපනයක් ලබා ගැනීමේ අවස්ථාව උදා විය. මෙම ව්‍යාපෘතියේ ආරම්භක අවස්ථාවේදීම සිසු දරුවෝ අසූ හය (86) දෙනෙකු ඇතුල් කරනු ලැබූහ.
+</p>
+							<p>අනගාරික ධර්‍මපාලතුමා පරමවිඥානාර්ථ බෞද්ධ සංගමයෙන් ඉවත් වී, මහාබෝධි සංගමය යටතේ වෙනම පාසැල් පද්ධතියක් හා දෙපාර්තමේනතුවක් පිහිටුවීමේ කාර්යයෙහි නිරත විය. ශ්‍රී ලංකාවේ මහාබෝධි සංගමය මේ වන විට රට පුරා පාසැල් 102 ක් පැවැත්වීමට ක්‍රියාකාරී ලෙස සහභාගි වී සිටියේය. 1962 වන විට ස්වාධීන ලංකාවේ රජය සියලුම පෞද්ගලික පාසැල් රජයට පවරා ගන්නා ලදී. 
+
+19 වන සියවසේ පළමු දශකය තුලදී මහාබෝධි සංගමය අධ්‍යාපන ක්ෂේත්‍රයේ විශාල ආන්දෝලනයක් ඇති කළ අතර එය බ්‍රිතාන්‍ය රාජ්‍ය තන්ත්‍රයට එල්ල කළ ප්‍රබල අභියොගයක් විය. එම සංගමය ආර්ථික ක්ෂේත්‍රයටද දැඩි අභියෝගයක් එල්ල කරමින් දකුණු ප්‍රදේශයේ වතු ආර්ථිකයටද ප්‍රවේශ විය. දකුණ ගාලු දිස්ත්‍රික්කයේ වතු ආර්ථිකය තුල ගාලු වැසියන්ට රැකියා අවස්ථාද ලබා දෙන ලදී. මෙසේ රැකියා ලැබූ බොහෝ දෙනෙකු බෞද්ධයෝ වූහ. මෙම ව්‍යාපාරයේ අරමුණ වූයේ දකුණේ බෞද්ධ ගැමි ජනතාවට රැකියා ලබා දෙමින් ඔවුන්ගේ ජීවන තත්වය නගා සිටුවීමත්, බෞද්ධ වැසියන් හට සිය ආගම වෙනස් නොකොට සාර්ථක ජීවන තත්වයක් පවත්වාගෙන යෑමට අවස්ථාව සලසා දීමත්ය.
+</p>
+ <p>W1915 වසරේදී ජනතා අරගලයක් හට ගත්තේය. එකළ පැවති බ්‍රිතාන්‍ය යටත්විජිතවාදී රජය මේ අවස්ථාවෙන් ප්‍රයෝජනය ගෙන මහාබෝධි සංගමයට පහර එල්ල කළේය. මේ වන විට ඉහත සඳහන් සංගමය මගින් පාසැල් විසි අටක් (28) පාලනය විය. එ් සදහා මූල්‍ය ප්‍රතිපාදන ලබා දීම අත්හිටුවන ලදී. එම සංගමය මගින් බෙදා හරින ලද පුවත්පත් මුද්‍රණාලය වන සිංහල බෞද්ධයා මුද්‍රණාලය තහනම් කරන ලදී. මෙම රාජ්‍ය නිළධාරීන් හට අනගාරික ධර්‍මපාලතුමා හසුකර ගැනීමට නොහැකි වූ බැවින්, එතුමාගේ සහෝදරයා වන එඩ්මන් හේවාවිතාරණව සිරභාරයට ගෙන ඔහුට ප්‍රසිද්ධියේ කම්මුල් පහරවල් එල්ල කරන ලදී. එපමණක් නොව මේ සොහොයුරන් දෙදෙනාව රාජ්‍ය විරෝධීන් ලෙස නම් කර වෙළද සැල් වලට බලහත්කාරයෙන් කඩා වැදී අලාභ හානි සිදු කිරීම යන කරුණු වලට එකළ පැවති මාෂල් නීතිය (Martial Law) යටතේ නඩු පවරන ලදී. මෙම අරගලයේ උණුසුම පහවී යත්ම, මහාබෝධි සංගමය සතු වූ පාසැල් සියල්ල නැවත සංගමයටම පවරා දෙන ලදී. එසේ පවරා දෙන ලද්දේ සෑම පාසැලක් සඳහාම රුපියල් 1,000/- ක මුදලක් ගෙවිය යුතු බවට බල කරමිනි. හේවාවිතාරණ පවුලට අයත් ආයතනයක් වූ එච්. දොන් කරෝලිස් සහ පුත්‍ර සමාගම මේ පාසැල් සඳහා මේස සහ පුටු සපයන ලද අතර ගුරුවරුන්ගේ වැටුප් පවා ගෙවන ලදී. ඒ සමගම ගුරුවරුන් පුහුණු කිරීමේ ආයතනයක්ද පිහිටුවන ලදී.
+
  </p>
 
- <p>When the British colonial government only wanted Ceylon as a huge tea garden with rubber and spices for its markets, industrialization was the last thing on its mind. All industrial goods for Ceylon were imported from Britain. However, the Maha Bodhi Society started Sri Lanka’s first industrialisation programme. In 1912, the Hewavitarne Industrial Centre was started and young Ceylonese persons were sent by the Society to Japan to learn from its industries and others to Sweden to learn how to manufacture safety matches. The Hewavitarne Industrial Scholarship Scheme picked young persons to go to India and learn spinning and weaving. They returned and started the country’s first safety match factory, first as “Three Gems” and then as the “Two Elephants” brand.   
- 
- During the 1915 riots, the British Government even closed the Hewavitarne Industrial School which shows how they targeted the activities of the Society.
+ <p>බ්‍රිතාන්‍ය යටත්විජිතවාදී පාලකයන්ට අවශ්‍යව තිබුණේ ලංකාව විශාල තේ වතුයායක් බවට පත් කිරීමත්, ඒ සමගම රබර් සහ කුළුබඩු සඳහා වෙළදපලක් නිර්මාණය කිරිමත් පමණකි. ලංකාවේ කාර්මිකකරණය ගැන කිසිදු අදහසක් ඔවුන් තුල නොවීය. ලංකාවට අවශ්‍ය වූ සියලු කාර්මික භාණ්ඩ බ්‍රිතාන්‍යයෙන් මෙරටට ආනයනය කරන ලදී. එසේ වුවද, ලංකාවේ ප්‍රථම කර්මාන්ත ආරම්භ කිරීමේ ව්‍යාපෘතියක් මහාබෝධි සංගමය මගින් 1912 දී දියත් කරන ලදී. එය හේවාවිතාරණ කර්මාන්ත මධ්‍යස්ථානය යනුවෙන් නම් කරන ලදී. මෙම මධ්‍යස්ථානය මගින් ලාංකික තරුණයින් ජපානයට පිටත් කර යවා එම රටෙහි කර්මාන්ත පිළිබදව පුහුණුවක් ලබා දෙන ලදී. තවත් තරුණ පිරිසක් ස්වීඩනයට යවා ගිනිකූරු නිෂ්පාදනය පිළිබද දැනුමක් ලබා ගැනීමට සැලැස්වීය. හේවාවිතාරණ කාර්මික ශිෂ්‍යත්ව වැඩසටහනක් මගින් තෝරා ගත් තරුණ පිරිස් ඉන්දියාවට යවා රෙදි විවීමේ කර්මාන්තය පිළිබද පුහුණුවක් ලබා දෙන ලදී. ඒ පිරිස ආපසු පැමිණ ලංකාවේ ප්‍රථම ගිනිකූරු කර්මාන්ත ශාලාව ආරම්භ කොට “ත්‍රී ජෙම්ස්” (Three Gems) සහ “ටූ එලිෆන්ට්ස්” (Two Elephants) සන්නාම යටතේ ගිනිකූරු නිෂ්පාදනය කළහ. 1915 අරගලය සමයේ බ්‍රිතාන්‍ය රජය හේවාවිතාරණ කාර්මික මධ්‍යස්ථානය වසා දැමීමට පියවර ගත්හ. මෙයින් පැහැදිලි වන්නේ බ්‍රිතාන්‍ය අධිරාජ්‍යවාදීන් ලංකාවේ ආර්ථික කටයුතු කෙරෙහි දැක්වූ සෘණාත්මක ආකල්පයයි. 
+
  </p>
  <p></p>
- <p>Using the newly formed Maha Bodhi Society as the vehicle for his nationalist crusade, Anagarika Dharmapala vigorously campaigned against British rule during his many visits to rural Ceylon establishing schools, purchasing properties and uplifting Buddhist temples that were on the verge of closure. 
- 
- The Society’s other voice was the Sinhala Bauddhaya newspaper in its relentless campaign against foreign rule. The newspaper first came out on Vesak day 1906 and would carry the speeches of Dharmapala in the countryside to a wider audience. “You Sinhalese, rise from your slumber” was the refrain. The newspaper carried not only Buddhist news and Dharmapala’s speeches, but also general news, of the war (World War 1), politics, economics and features on social issues. The newspaper continues to this date, released monthly on poya (full moon) days.
+ <p>Uමේ අතර අනගාරික ධර්‍මපාලතුමා විසින් අරඹන ලද මහාබෝධි සංවිධානය ජාතිය නංවාලීමේ ව්‍යාපාරය සඳහා එතුමා විසින් සාර්ථක ලෙස යොදා ගැනිණ. මෙම ව්‍යාපාරය තුලින් අනගාරික ධර්‍මපාලතුමා බ්‍රිතාන්‍ය පාලනයට එරෙහිව දැඩි ලෙස බලපෑම් කළේය. එතුමා ලංකාවේ විවිධ පළාත්වලට පැමිණි සෑම අවස්ථාවකදීම පාසැල් සඳහා බිම් කොටස් මිලදී ගනිමින් පාසැල් ආරම්භ කළා පමණක් නොව ගරා වැටීමට ආසන්නව තිබුණ විහාරස්ථාන යළි පුනරුත්ථාපනය කරවීය. මෙම සංවිධානයෙන් බලසම්පන්න “හඬ” බවට පත්වූයේ සිංහල බෞද්ධයා පුවත්පතයි. 1906 වසරේ වෙසක් පොහෝ දිනයේදී මෙම පුවත්පත ප්‍රථමවරට එළිදක්වන ලදී. එම පුවත්පත තුලින් රටේ විවිධ පළාත්වල විසූ බෞද්ධ ජනතාව අතර අනගාරික ධර්‍මපාලතුමාගේ කථා පතුරුවා හරින ලදී. “සිංහලයිනි අවදිවවි! මරනින්දෙන් නැගී සිටිව්!! යන තේමාව යටතේ ජනතාව දැනුවත් කිරීමට ඉහත කී පුවත්පත යොදා ගන්නා ලදී. මෙම පුවත්පත මගින් බෞද්ධ ආගම පිළිබද ප්‍රවෘත්ති මෙන්ම ධර්‍මපාලතුමාගේ කතාවන්ද ඒ සමගම සාමාන්‍ය ප්‍රවෘත්තිද පළ කරන ලදී. සිංහල බෞද්ධයා පුවත්පත මගින් පළමුවන ලෝක මහා යුද්ධය පිළිබද ප්‍රවෘත්ති මෙන්ම, දේශපාලනය, ආර්ථික සහ වෙනත් සාමාජීය තොරතුරුද ජනතාව හට ලබා දුන්නේය. මේ දක්වා පුන් පොහෝ දිනවල බෞද්ධ පුවත්පතක් ලෙස මේ පත්‍රය පළ වෙයි.
+
  </p>
- <p>It was only in 1933 and thereafter with the opening of the Sarnath Mulaghandakuti Vihara, that Sri Lankan pilgrims began journeying in numbers to pay homage to the Buddha in India. The Maha Bodhi Society of India had arranged for concessionary fares on Indian Railways for pilgrims. Since then, thousands of Sri Lankans have availed themselves of the opportunity to visit these holy places. The Government of India has now opened international airports in Varanasi (near Sarnath) and at Gaya (near Buddha Gaya) and inThe Society opened a branch at the holy city of Anuradhapura for a brief period during which it published a newspaper called the Maha Bodhi Sangarawa (Maha Bodhi Journal).
- 
- Among the activities of the Society is the sending of Sri Lankan pilgrims to the holy Buddhist sites in India. The first pilgrim party that went under the auspices of the Society in 1925 were Mr and Mrs Neil Hewavitarne and Mr and Mrs Raja Hewavitarne and Mr. K. T. Wimalasekera. It was a time when the battle for Buddha Gaya was still raging and only the Anagarika Dharmapala and a few Buddhist monks from Ceylon had visited the site. It was not entirely safe at the time. 
- </p>
- <p> 2021 at Kushinara (where the Buddha passed away) for the thousands of pilgrims who visit these sites from Buddhist countries.
- 
- The Anagarika Dharmapala Trust put up a new building at the Trust’s headquarters called the Maha Bodhi Mandiraya opposite the Vidyodaya Pirivena where the Anagarika Dharmapala formed the Maha Bodhi Society in 1891. 
-  
- The ‘Agrasravaka Vihara’ of the Maha Bodhi Mandiraya houses the sacred relics of The Arahats, The Most Venerable Moggallana and The Most Venerable Sariputta, two of the Buddha’s principal disciples. Their holy relics were found in Sanchi, India taken to the British Victoria and Albert Museum  and handed over by the Secretary of State for India of the British Colonial Government to the British Maha Bodhi Society to be brought to Sri Lanka. 
-  
+ <p>1933 වසරේදී සාරානාත්හි මූලගන්ධකුටි විහාරය පිහිටුවීමෙන් පසුව ශ්‍රී ලාංකික බෞද්ධ බැතිමත්හු විශාල වශයෙන් බුදුරජාණන් වහන්සේට වන්දනාමාන කිරිම සඳහා ඉන්දියාවට යෑම ආරම්භ කළහ. මෙසේ ගමන් ගත් බෞද්ධ බැතිමතුන් සඳහා ඉන්දියාවේ මහාබෝධි සංගමය මගින් ඉතා අඩු සහනදායි මිලකට ඉන්දියානු දුම්රිය දෙපාර්තමේන්තුව හා ඒකාබද්ධව වැඩසටහනක් දියත් කරන ලදී. 
+
+එතැන් පටන් දහස් සංඛ්‍යාත ශ්‍රී ලාංකික බෞද්ධයෝ ඉන්දියාවේ පිහිටි බෞද්ධ සිද්ධස්ථාන නැරඹීමට හා වන්දනා කිරීමට ගියෝය. වර්තමානයේ ඉන්දියානු රජය විසින් වාරාණසී (බරණැස්/සාරානාත් අසල) සහ ගයා ප්‍රදේශයේ (බුද්ධගයාව අසල) ජාත්‍යන්තර ගුවන් තොටුපලවල් පිහිටුවා ඇත. මෙම සංගමය මගින් අනුරාධපුර ශුද්ධ නගරයේද ශාඛාවක් කෙටි කාලයකට පිහිටුවන ලදී. එම කාලය තුලදී මහාබෝධි සඟරාව යන නමින් පුවත්පතක්ද පළ කරන ලදී.
+
+මෙම සංගමය මගින් දියත් කරන ලද වෙනත් සේවාවන් අතුරෙන් විශේෂ තැනක් ගන්නේ ශ්‍රී ලාංකික බෞද්ධ
+වන්දනාකරුවන් සඳහා ඉන්දියාවේ සංචාර සංවිධානය කිරීමය. ඒ මගින් ඉන්දියාවේ පිහිටි වැදගත් බෞද්ධ සිද්ධස්ථාන නැරඹීමට ඔවුන්ට අවස්ථාව සලසා දීමය. ඒ අනුව ප්‍රථම ආගමික සංචාරය සංවිධානය කරන ලද්දේ 1925 දීය. මෙම සංචාරය සඳහා එක්වූවන් අතර නීල් හේවාවිතාරණ මහතා සහ එම මහත්මියද, රාජා හේවාවිතාරණ යුවලද, ටී.කේ. විමලසේකර මහතාද එක් වූහ. මෙම කාලවකවානුවේදී බුද්ධගයාවේ සංග්‍රාමයද උත්සන්නව පැවතියේය. එබැවින් මෙම සංචාරය සඳහා ලංකාවෙන් සහභාගි වූයේ අනගාරින ධර්‍මපාලතුමා සහ බෞද්ධ භික්ෂූන් කීප දෙනෙකු පමණි. මෙබඳු සංචාර ඒ කාලයේදී එතරම් ආරක්ෂා සහිත නොවීම මෙයට එක් හේතුවකි. </p>
+ <p> 2021 පමණ වන විට බෞද්ධ රටවලින් දහස් සංඛ්‍යාත බෞද්ධ වන්දනාකරුවන් කුසිනාරා නගරය බලා සංචාරය කළෝය.  කුසිනාරා නුවර වැදගත් වන්නේ එය බුදුන් පිරිනිවක් පෑ ස්ථානය වූ නිසාය. අනගාරික ධර්‍මපාල භාරය “මහාබෝධි මන්දිරය” නම් වූ නව ගොඩනැගිල්ලක් විද්‍යොදය පිරිවෙණ ඉදිරිපිට ඉදි කරන ලදී. 1891 වසරේදී ඉදිකරනු ලැබූ මහාබෝධි මන්දිරයේ එක් කොටසක රහතුන් වහන්සේලාගේ ධාතු තැන්පත් කර ඇත. අග්‍රශ්‍රාවක විහාරය නමින් හැදින්වෙන කොටසේ ගෞරවනීය මොග්ගල්ලාන සහ ගෞරවනීය සාරිපුත්‍ර යන රහතුන් වහන්සේලාගේ ධාතු ද තැන්පත් කොට ඇත. 
+
+මොග්ගල්ලාන සහ සාරිපුත්‍ර යනු බුදුන් වහන්සේගේ අග්‍රශ්‍රාවක දෙපලය. මෙම රහතුන්ගේ ධාතුන් වහන්සේලා මුලින්ම හමු වූයේ ඉන්දියාවේ සාංචි නම් විහාරයෙනි. එම ධාතුන් වහන්සේලා බ්‍රිතාන්‍යයේ වික්ටෝරියා සහ ඇල්බර්ට් යන කෞතුකාගාරවල කලක් තබා ඉන් පසුව ඉන්දියානු මහකොමසාරිස් කාර්යාාලය මගින් බ්‍රිතාන්‍ය රජයේ අධීක්ෂණය යටතේ බ්‍රිතාන්‍යයේ මහාබෝධි සංගමයට භාර දී ඉන් පසුව ශ්‍රී ලංකාවට ගෙන එන ලදී.
+
 <br><br> * (References; ‘They Turned The Tide’ and ‘Maha Bodhi Kathawa’ – The 100 year history of the Maha Bodhi Society of Sri Lanka by Sinha Ratnatunga; Government Press, Sri Lanka 1991).
  </p>
 					</div>
