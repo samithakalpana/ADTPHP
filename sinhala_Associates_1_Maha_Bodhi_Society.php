@@ -112,7 +112,7 @@
 මොග්ගල්ලාන සහ සාරිපුත්‍ර යනු බුදුන් වහන්සේගේ අග්‍රශ්‍රාවක දෙපලය. මෙම රහතුන්ගේ ධාතුන් වහන්සේලා මුලින්ම හමු වූයේ ඉන්දියාවේ සාංචි නම් විහාරයෙනි. එම ධාතුන් වහන්සේලා බ්‍රිතාන්‍යයේ වික්ටෝරියා සහ ඇල්බර්ට් යන කෞතුකාගාරවල කලක් තබා ඉන් පසුව ඉන්දියානු මහකොමසාරිස් කාර්යාාලය මගින් බ්‍රිතාන්‍ය රජයේ අධීක්ෂණය යටතේ බ්‍රිතාන්‍යයේ මහාබෝධි සංගමයට භාර දී ඉන් පසුව ශ්‍රී ලංකාවට ගෙන එන ලදී.
 
 <br><br> * (References; ‘They Turned The Tide’ and ‘Maha Bodhi Kathawa’ – The 100 year history of the Maha Bodhi Society of Sri Lanka by Sinha Ratnatunga; Government Press, Sri Lanka 1991).
- </p>
+ </p> <br> <br>
 					</div>
 				</div>
 				<div class="col-xl-4 col-md-4 align-self-center">
@@ -128,164 +128,17 @@
 
 
 
-                <div class="features">
-			<div class="section-header">
-							<br><br><br><h2 class="align_left">The Somawati Hewavitarne Trust
- </h2>
-						
-						</div>
-
-				<div class="row">
-				
-                <div class="col-xl-9 col-md-9">		
-						                          
-						<p class="align_left">Simon Hewavitarne’s widow Somawati Hewavitarne, created the Somawati Hewavitarne Trust prior to her death in 1982 to ensure the continuation of the execution of her husband’s bequest in addition to many other meritorious activities to support the publication and transmission of the Buddha’s teachings. To this day, the Simon Hewavitarne Trust and  The Somawati Hewavitarne Trust continue to work diligently to keep alive the visions of Simon and Somawati Hewavitarn</p>
-						
-				</div>
-		
-				</div>
-			</div>
+               
 
 
 
-            <section class="section-padding" id="about-team">
-		<div class="container">
-			<div class="our_team">
-				<div class="section-header-left text-left">
-					<!-- <h3>Our Teachers</h3> -->
-					<h3 class="align_left">The Somawati Hewavitarne Board of Trustees are:</h3>
-				
-				</div>
-				<div class="row">
-					<div class="col-12">
-						<div class="owl-carousel team-carousel">
-							<div class="item">
-								<div class="box_wrap">
-									<div class="team_img">
-										<img src="assets/images/About-us/person.png">
-										<!-- <div class="team_url"><a href="our-teachers.html"><i class="fa fa-plus"></i></a></div> -->
-									</div>
-									<!-- <div class="icon"><img src="assets/images/Templezen-team-icon.html" alt="image"></div> -->
-									<h6>Shakila Wijewardena</h6>
-									<p>is the Chairman of Sarvodaya Economic Enterprise Development Services Gte Ltd.  He holds a degree in Batchelor of Science from the University of Colombo and is a member of the chartered management institute of UK. </p>
-								</div>
-							</div>
-
-							<div class="item">
-								<div class="box_wrap">
-									<div class="team_img">
-										<img src="assets/images/About-us/person.png" alt="image">
-										<!-- <div class="team_url"><a href="our-teachers.html"><i class="fa fa-plus"></i></a></div> -->
-									</div>
-									<!-- <div class="icon"><img src="assets/images/Templezen-team-icon.html" alt="image"></div> -->
-									<h6>Ruvan Ratnatunga</h6>
-									<p>Is a great grandnephew of Anagarika Dharmapala and great grandson of Edmund Hewavitarne and, Life Member Maha Bodhi Society of Sri Lanka He was the former Chairman and Managing Director of H Don Carolis & Sons</p>
-                                    is a great grandnephew of Anagarika Dharmapala and great grandson of Edmund Hewavitarne. He is the Managing Director, Data Management Services (Pvt.) Ltd. (DMS) and Trustee of the Divulapitiya Raha Maha Vihara. 
-		</div>
-							</div>
-
-							<div class="item">
-								<div class="box_wrap">
-									<div class="team_img">
-										<img src="assets/images/About-us/person.png" alt="image">
-										<!-- <div class="team_url"><a href="our-teachers.html"><i class="fa fa-plus"></i></a></div> -->
-									</div>
-									<!-- <div class="icon"><img src="assets/images/Templezen-team-icon.html" alt="image"></div> -->
-									<h6>Nalin Walpita</h6>
-									<p> is an Engineering Consultant and CEO of I-Vation. He holds a doctorate in engineering.
-</p>
-								</div>
-							</div>
-						</div>
-					</div>
-
-				</div>
-
-			</div>
-		</div>
-
-
-	</section>
+          
 
 
 
 
 
 
-
-    <section class="section-padding" id="about-team">
-		<div class="container">
-			<div class="our_team">
-				<div class="section-header-left text-left">
-					<!-- <h3>Our Teachers</h3> -->
-					<h4 class="align_left">Trustees previously on the Somawati Hewavitarne Board:</h4>
-				
-				</div>
-				<div class="row">
-					<div class="col-12">
-						<div class="owl-carousel team-carousel">
-							<div class="item">
-								<div class="box_wrap">
-									<div class="team_img">
-										<img src="assets/images/About-us/person.png">
-										<!-- <div class="team_url"><a href="our-teachers.html"><i class="fa fa-plus"></i></a></div> -->
-									</div>
-									<!-- <div class="icon"><img src="assets/images/Templezen-team-icon.html" alt="image"></div> -->
-									<h6>Noel Wijenaike</h6>
-									<p>Founder trustee, was former Bribery Commissioner of the Republic of Sri Lanka, the former Honorary Secretary General and subsequently President of the YMBA, former Chairman of the Anagarika Dharmapala Trust and former Chairman of the Board of Trustees of the Eye Donation Society.
-	</div>
-							</div>
-
-							<div class="item">
-								<div class="box_wrap">
-									<div class="team_img">
-										<img src="assets/images/About-us/person.png" alt="image">
-										<!-- <div class="team_url"><a href="our-teachers.html"><i class="fa fa-plus"></i></a></div> -->
-									</div>
-									<!-- <div class="icon"><img src="assets/images/Templezen-team-icon.html" alt="image"></div> -->
-									<h6>Roland Tissa Ratnatunga</h6>
-									<p>Founder trustee was a member of the Ceylon Civil Service and retired as Additional Permanent Secretary, Ministry of Agriculture & Lands. He was a UNDP FAO expert and served in Syria, Ethiopia and Indonesia. He was a Vice President of the Maha Bodhi Society of Sri Lanka.
-</div>
-							</div>
-
-							<div class="item">
-								<div class="box_wrap">
-									<div class="team_img">
-										<img src="assets/images/About-us/person.png" alt="image">
-										<!-- <div class="team_url"><a href="our-teachers.html"><i class="fa fa-plus"></i></a></div> -->
-									</div>
-									<!-- <div class="icon"><img src="assets/images/Templezen-team-icon.html" alt="image"></div> -->
-									<h6>Nanda Amarasinghe</h6>
-									<p>Founder trustee. 
-
-</p>
-								</div>
-							</div>
-
-                            <div class="item">
-								<div class="box_wrap">
-									<div class="team_img">
-										<img src="assets/images/About-us/person.png" alt="image">
-										<!-- <div class="team_url"><a href="our-teachers.html"><i class="fa fa-plus"></i></a></div> -->
-									</div>
-									<!-- <div class="icon"><img src="assets/images/Templezen-team-icon.html" alt="image"></div> -->
-									<h6>Parinda Ranasinghe</h6>
-									<p>Trustee,  was the 38th Chief Justice of the Supreme Court of Ceylon and former President of the Asia Crime Prevention Foundation
-
-
-</p>
-								</div>
-							</div>
-						</div>
-					</div>
-
-				</div>
-
-			</div>
-		</div>
-
-
-	</section>
 
 
 
