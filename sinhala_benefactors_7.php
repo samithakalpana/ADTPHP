@@ -44,12 +44,12 @@
 			<div class="inner_wp z_index white_text">
 				<div class="row">
 					<div class="col-md-12">
-						<h1 class="text-center">Benefactors</h1>
-						<h5 class="text-center">Devapriya Valisinha</h5>
+						<h1 class="text-center">ප්‍රතිලාභීන්</h1>
+						<h5 class="text-center">දේවප්‍රිය වලිසිංහ මහතා</h5>
 						<nav class="breadcrumb">
 							<ul>
-								<li class="breadcrumb-item"><a href="index.php">මුල් පිටුව/a></li>
-								<li class="breadcrumb-item active">Devapriya Valisinha</li>
+								<li class="breadcrumb-item"><a href="index.php">මුල් පිටුව</a></li>
+								<li class="breadcrumb-item active">දේවප්‍රිය වලිසිංහ මහතා</li>
 							</ul>
 						</nav>
 					</div>
@@ -65,57 +65,56 @@
 					<div class="col-lg-7">
 						<div class="sa-paster-about-area">
 							<!-- <h3>Gopal dhanam</h3> -->
-							<h3>Devapriya Valisinha</h3>
+							<h3>දේවප්‍රිය වලිසිංහ මහතා</h3>
 							<!-- <p class="designation">Yoga Teacher</p> -->
-							<p class="designation">(From ----)</p>
-							<p>The principal disciple of AnagariÏka Dharmapala, Valisinha made a remarkable contribution to the work of the Society, having been the General Secretary of both the Maha Bodhi Society of Sri Lanka, as well as of India, for many years.
-Born on 10  February, 1904, Valisinha was the sixth child of a family of seven.   He was  a  descendant  of  the  Kandyan  aristocracy  and,  like  most   of them in later years, was respected though not affluent.
+							
+							<p>Tඅනගාරික ධර්‍මපාලතුමාගේ ප්‍රධානතම අනුගාමිකයා වූයේ දේවප්‍රිය වලිසිංහය. මෙතුමා මහාබෝධි සමාගමේ කාර්යයන් සඳහා විශාල මෙහෙවරක් ඉටු කළේය. ශ්‍රී ලංකාවේ මෙන්ම ඉන්දියාවේද මහාබෝධි සමාගම් වල ප්‍රදාකපුරේ බොහෝ දෙනාගේ ගෞෘගේ ‍ෙ‍රිධාන ලේකම් ධූරය දැරුවේ මෙතුමාය. මෙම තනතුරු වල එතුමා වසර ගණනාවක් තුල ක්‍රියා කළේය. 1904 වසරේ පෙබරවාරි මස 10 වන දින උපත ලැබූ දේවප්‍රිය වලිසිංහ දරුවන් සත් දෙනෙකුගෙන් යුත් පවුලක සය වන දරුවා විය. කන්ද උඩරට රදළ පරම්පරාවකින් පැවත ආ මොහු එම පරපුරේ බොහෝ දෙනාගේ ගෞරවයට පාත්‍ර විය.
 
 							
 							</p>
-							<p>	It was in 1912 when Anagarika Dharmapala was touring the Sabaragamuwa Province delivering lectures on national revival and
-Buddhism, that Valisinha - then only 8 years — first saw and heard him. He could  not  recall   much of   the speech  he  heard  at that tender age, but after the meeting the Anagarika had spoken to Valisinha’s foster-parents who agreed to let him be educated in Colombo at Anagarika Dharmapala’s own expense.
-						
+							<p>	1912 වසරේදී අනගාරික ධර්‍මපාලතුමා සබරගමු පළාතේ සංචාරයක නිරත වෙමින් ජාතික හා බෞද්ධාගමික පුනරුදයක් සඳහා දේශන පැවැත්වූ අවස්ථාවක අට හැවිරිදි (8 හැවිරිදි) කුඩා දරුවෙකු වූ වලිසිංහ ප්‍රථම වරට ධර්‍මපාලතුමාගේ දේශනයකට සවන් දුන්නේය. ඉතා ළාබාල වියේ සිටි මේ දරුවාට එම දේශන වල අන්තර්ගත කරුණු පිළිබද එතරම් දැනුමක් නැති විය. එහෙත් ධර්‍මපාලතුමා වලිසිංහ හා කථාබස් කොට ඔහුව හදා වඩා ගත් දෙමව්පියන්ද හමු වී වලිසිංහ හට කොළඹ දී වැඩිදුර අධ්‍යාපනයක් ලබාදීමට කැමැත්ත ලබා ගත්තේය. ඒ සඳහා සියලු වියදම් දැරීමටද ධර්‍මපාලතුමා කැමැත්ත පළ කළේය.
 
-	</p><p>And so, the young Valisinha came to Colombo where the Anagarika’s mother, Mallika Hewavitarne, looked after the boy. U. B. Dolapihilla, an English-educated Kandyan, who had won a scholarship awarded by the Hewavitarne family to study textile weaving in Japan, was  asked  to  educate the young lad who had been admitted to the Maha Bodhi College, started by the Maha Bodhi Society at Maradana.
 
-	</p><p>In 1917, when  Anagarika Dharmapala’s mother went to India on a pilgrimage, Valisinha, now 13 years old, accompanied her. The Anagarika had spent most of his time all those years ’imprisoned’ in Calcutta by the British authorities, following the 1915 race riots in Sri Lanka. Valisinha was taught to do the accounts of the Maha Bodhi Society, India, and learnt the Bengali language and was thereafter sent to Santiniketan, the most famous seat of spiritual learning in India, founded by the great Bengali poet Rabindranath Tagore. He later went on to join Presidency College, a well-known University in Madras.
 
-	</p><p>When Anagarika Dharmapala became a  monk in 1931, Valisinha became the natural choice for the post of General-Secretary and Treasurer of the Maha Bodhi Society. Anagarika Dharmapala, tired and weary by then, realised it was time to write his last will. It was to Valisinha that he entrusted the task of journeying to faraway Australia, where, in consultation with Anagarika Dharmapala’s friend, John de Silva, papers  were  drafted  in  the  State of Queensland. The last will was executed in Sri Lanka by Julius & Creasy Notaries Public.
+	</p><p>ඒ අනුව කොළඹ නගරයට පැමිණි වලිසිංහ ධර්‍මපාලතුමාගේ මෑණියන් වන මල්ලිකා හේවාවිතාරණ මැතිනිය යටතේ හැදී වැඩුණේය. මේ වන විට හේවාවිතාරණ පවුලේ හිතවතෙකු වූ යූ.බී. දොලපිහිල්ල නැමැති ඉංග්‍රීසි බස හොඳින් උගත් කන්ද උඩරැටියා හට හේවාවිතාරණ පවුල විසින් ජපානයේ රෙදි විවීම පිළිබද ශිෂ්‍යත්වයක් ලබා දෙන ලදී. මෙම තරුණයා ජපානයට යැවීමට පෙර ඉංග්‍රීසි බස වඩාත් හොඳින් ඉගෙනීම සඳහා මරදානේ මහාබෝධි සංගමය මගින් පිහිටුවන ලද මහාබෝධි ඉංග්‍රීසි විදුහලට ඇතුලත් කරන ලදී.
 
 	</p>
-	<p>After Anagarika Dharmapala’s death Valisinha and Raja Hewavitarne (a nephew of Angarika Dharmapala) brought  the ashes to Ceylon. They were received by the biggest congregation of people seen in the Island at the time. At the meeting held in the Maligakande Temple, attended by 50,000 people, Valishina requested the people to pledge with him, repeating word  after word, to not  rest until Buddha Gaya was restored to the Buddhists, as a  tribute to the memory of  Anagarika Dharmapala for  his selfless  services  towards  the cause  of   Buddhism. This electrified the  audience to leave no stone  unturned for the restoration of Buddha Gaya to the Buddhist world. 
-
-							
-							</p><p>Valisinha continued most of the unfinished work of Anagarika Dharmapala with almost equal gusto. He was the quiet negotiator who appears to have pursued the objectives of the Maha Bodhi Society. His skills at negotiation are best remembered for the role he played in convincing the British Government to part with the relics  of Sariputta and Moggallana, which had been spirited away to London during the British occupation of India.
-
-							</p><p>In 1941, during World War II, Devapriya Valisinha was arrested by the British and jailed in India for his links with Buddhist Japan. He was later released. When he arrived in Ceylon immediately thereafter,  the British ordered him, as the General-Secretary of the Maha Bodhi Society, not to return to India till the war was over.
-
-							</p><p>A prolific writer like the founder, Valisinha made the Maha Bodhi  Press  a hive  of  activity  as  he  helped   boost the influence of the   “Sinhala Bauddhaya”. When  the Balance  Sheet  of  the Maha Bodhi Society  showed  profits   he started a Provident  Fund  for workers at the Press. He revised the Rules of the Maha Bodhi Society and introduced Life Membership during his enforced stay in Ceylon
-
-							</p><p>While in Ceylon he edited the book "Buddhist Shrines in India”, which became  the  standard  guide  for  pilgrims  going  to  the  holy land.  The man, who was once declared persona-non-grata by the British, was later awarded the Silver jubilee medal  by  the  British  King, George V and,  Queen Elizabeth II met him at Sarnath in 1961.
-
-							</p><p>
-							Devapriya Valisinha was a terrific source of strength for the Maha Bodhi Society in general and to  its  branches in Sri Lanka, India and UK in particular. He was the one person who ensured that the Society did not wither away after the death of its founder.
-							</p>
-							<!-- <div class="sa-team-social">
-								<h5>Social links</h5>
-								<ul class="text-center">
-									<li><a href="#"><i class="fab fa-facebook-f"></i></a></li>
-									<li><a href="#"><i class="fab fa-twitter"></i></a></li>
-									<li><a href="#"><i class="fab fa-linkedin-in"></i></a></li>
-									<li><a href="#"><i class="fab fa-youtube"></i></a></li>
-									<li><a href="#"><i class="fab fa-instagram"></i></a></li>
-								</ul>
-							</div> -->
-						</div>
+	
+	</div>
 					</div>
 					<div class="col-xl-4 col-lg-5 offset-xl-1 align-self-center">
 						<div class="ss-pastor-img-wrap">
 							<!-- <img src="assets/images/pastor-1.jpg" alt="img"> -->
 							<img src="assets/images/custom_images/walisinha_page163.png" alt="img">
-						</div>
+						</div><p class="align_center"> <br>සිරි දේවමිත්ත ධම්මපාල හිමිගේ භස්මාවශේෂ පිරිවෙනට බාර දෙන අවස්ථාවේ විද්‍යොදය පිරිවෙනෙ භික්ෂූන් වහන්සේලා සමග දේවප්‍රිය වලිසිංහ මහතා</p>
 					</div>
+				</div>
+	
+	
+	
+	
+	
+	<p>1917 වසරේදී අනගාරික ධර්‍මපාලතුමාගේ මව ඉන්දියාවේ වන්දනා ගමනක යෙදුන අවස්ථාවේ එවකට දහතුන් හැවිරිදි දරුවෙකු වූ වලිසිංහ ද ඇය සමග ඉන්දියාවට ගියේය. මේ වකවානුවේදී අනගාරික ධර්‍මපාලතුමා වැඩි වශයෙන්ම සිටියේ කල්කටාවේ සිරකරුවෙකු ලෙසිනි. බ්‍රිතාන්‍ය පාලකයින් විසින් ධර්‍මපාලතුමාව සිරගත කොට තිබිණි. එයට හේතු වූයේ 1915 දී ශ්‍රී ලංකාවේ ඇති වූ ජාතිවාදී අරගලයයි. මේ අතර ඉන්දියාවේ මහාබෝධි සමාගමේ ගණකාධිකරණ කටයුතු කිරීම සඳහා වලිසිංහ පත් කරන ලදී. එහිදී ඔහු හොඳින් බෙංගලි බස හැදෑරූ අතර ඉන්පසුව ඔහුව ශාන්තිනිකේතනයට පිටත් කර හරින ලදී. ශාන්තිනිකේතනය වනාහි ඉන්දියාවේ පිහිටි ඉතා ප්‍රසිද්ධ ආගමික අධ්‍යාපනික ආයතනයකි. මෙම ආයතනය සුප්‍රසිද්ධ බෙංගාලි ජාතික කවියෙකු වූ රබීන්ද්‍රනාත් තාගෝර් විසින් අරඹන ලද්දකි. ඉන් පසුව ඔහු ඉන්දියාවේ පිහිටි උසස් අධ්‍යාපන ආයතනයක් වූ මදුරාසියේ ජනාධිපති විද්‍යාලයට (Presidency College) ඇතුළු විය.
+
+	</p><p>1931 චසරේදී ධර්‍මපාලතුමා පැවිදි විය. ධර්‍මපාලතුමා දැරූ තනතුරු වලට වඩාත්ම සුදුස්සා ලෙස සැල‍කෙන ලද්දේ වලිසිංහය. ඒ අනුව 1931 වසරේදී වලිසිංහ මහාබෝධි සමාගමේ ලේකම් ධූරයත්, භාණ්ඩාගාරික ධූරයත් යන ධූර දෙකම සඳහා පත් කරන ලද්දේය. මේ වන විට ඉතා දුර්වල වෙහෙසකර තත්වයකට පත්ව සිටි ධර්‍මපාලතුමා සිය අන්තිම කැමති පත්‍රය ලිවීමට අදහස් කළේය. ඒ සඳහා ඕස්ට්‍රේලියාවට යැවීමට තෝරා ගන්නා ලද්දේ වලිසිංහවය. එසේ ඔස්ට්‍රේලියාවට ගොස් අනගාරික ධර්‍මපාලතුමාගේ මිත්‍රයෙකු වූ ජෝන් ද සිල්වා හමුවී අවශ්‍ය ලියකියවිලි සකස් කොට ඔස්ට්‍රේලියාවේ ක්වීන්ස්ලන්ඩ් ප්‍රාන්තයෙහි දී ඒ ලියවිලි සම්පූර්ණ කරන ලෙස ධර්‍මපාලතුමා අදහස් කළේය. එසේ සම්පූර්ණ කරන ලද අන්තිම කැමති පත්‍රය ශ්‍රී ලංකාවේ නීතිඥ සමාගමක් වූ ජුලියස් සහ ක්‍රීසි ප්‍රසිද්ධ නොතාරිස්වරු (Julius and Creasy Notaries public) මගින් ක්‍රියාත්මක කරන ලදී.
+
+	</p>
+	<p>අනගාරික ධර්‍මපාලතුමාගේ මරණයෙන් පසු එතුමාගේ භස්මාවශේෂ ලංකාවට ගෙන එන ලද්දේ වලිසිංහ සහ අනගාරික ධර්‍මපාලතුමාගේ ඥාති පුත්‍රයෙකු වූ රාජා හේවාවිතාරණ විසිනි. මෙම භස්මාවශේෂ පිළිගැනීම සඳහා අති විශාල පිරිසක් රැස්ව සිටියහ. එම පිරිස ශ්‍රී ලංකාවේ එවකට රැස්වූ විශාලතම පිරිස ලෙස හැඳින්විය හැකිය. මෙම අවස්ථාවේදී මාලිගාකන්ද විහාරස්ථානයට 50,000 කට අධික පිරිසක් රැස්ව සිටි බව සඳහන් වේ. එම අවස්ථාවට සහභාගි වූ පිරිස ඇමතූ වලිසිංහ එම ජනතාවගෙන් ඉල්ලා සිටියේ තමා පවසන ප්‍රතිඥාව වචනයෙන් වචනය තමා හා උච්චාරණය කරන ලෙසය. එම ප්‍රතිඥාව වූයේ ‘බුද්ධගයවෙ බේරා ගනිව්! එය යළිත් බෞද්ධයන් අතට පත්වන තුරු සටන් කරව්! සිංහලයිනි නිදා නොසිටිව්!’ යනුවෙනි. අනගාරික ධර්‍මපාලතුමා විසින් බුද්ධගයව බේරා ගැනීම සඳහා දරණ ලද පරාර්ථකාරමී සේවයට සහ ධර්‍මපාලතුමාගේ නාමයට ගෞරවයක් ලෙස මේ ප්‍රතිඥාව ප්‍රකාශයට පත් කරන ලදී. මෙම ප්‍රකාශයෙන් රැස්ව සිටි ජනතාව තුල ඇති වූයේ විදුලි කෙටීමක් වැනි හැඟීමකි. ඒ අනුව ඔවුහු බුද්ධගයාව යළිත් බෞද්ධයින් අතට පත් කිරීම සඳහා ගත හැකි හැම පියවරක්ම ගත්තෝය.
+
+
+							
+							</p><p>අනගාරික ධර්‍මපාලතුමාට අවසන් කළ නොහැකි වූ විශාල වැඩ කොටසක් සම්පූර්ණ කිරීමට වලිසිංහ උර දුන්නේ ධර්‍මපාලතුමා හා සමාන කැපවීමකිනි. ඔහු ඉතා සාමකාමී ලෙසත් සූක්ෂම ලෙසත් මහාබෝධි සංගමයේ අරමුණු ඉදිරියට ගෙන ගියේය. ඔහු කෙතරම් දක්ෂ ලෙස සාකච්ඡා කළේද යත් එතෙක් බ්‍රිතාන්‍ය රජය යටතේ පැවති සාරිපුත්ත සහ මොග්ගල්ලාන අග්‍රශ්‍රාවක දෙපලගේ ධාතු එවකට තැන්පත් කර තිබුණු ලන්ඩන් නුවරින් නැවත ආපසු ලබා ගැනීමටද සමත් විය.
+
+							</p><p>1941 වසරේ දෙවන ලෝක මහා සංග්‍රාමය පැවති කාලයේදී බ්‍රිතාන්‍ය රජය විසින් වලිසිංහව අත් අඩංගුවට ගෙන ඉන්දියාවේ සිරගත කරන ලද්දේ බෞද්ධ බලපෑමක් තිබූ ජපානය හා සම්බන්ධතා පැවැත්වීම හේතුවෙනි. පසුව ඔහුව නිදහස් කරන ලදී. ඉන් පසුව ඔහු ලංකාවට පැමිණි අතර මහාබෝධි සංගමයේ ප්‍රධාන ලේකම්තුමා ලෙස විය. බ්‍රිතාන්‍යයන් විසින් යුද්ධය අවසන් වනතුරු ඉන්දියාවට ආපසු නොයන ලෙසට විධානය කරන ලදී.
+
+							</p><p>මහාබෝධි සංගමයේ ආදි කර්‍තෘවරයා මෙන්ම දක්ෂ ලේඛකයෙකු වූ වලිසිංහ මහාබෝධි මුද්‍රණාලය අතිශය ක්‍රියාකාරී ආයතනයක් බවට පත් කළේය. සිංහල බෞද්ධයා පුවත්පත වැඩිදියුණු කර වඩාත් ප්‍රචලිත කිරීමට සමත් විය. මහාබෝධි සංගමයේ අයවැය ලේඛනයේ ප්‍රතිලාභ අංශය වඩාත් දියුණුවත්ම, මුදුණාලයේ සේවකයන් සඳහා අර්ථසාධක අරමුදලක් ආරම්භ කිරීමටද පියවර ගත්තේය. මහාබෝධි සංගමයේ නීති මාලාවද වඩාත් සංවිධානාත්මකව නවීකරණය කරන ලදී. එම සාමාජිකයින්ගේ සාමාජිකත්වය යාවජීව බවට පත් කරන ලදී. 
+
+							</p><p>ලංකාවේ විසූ කාලය තුලදී වලිසිංහ මහතා “ඉන්දියාවේ බෞද්ධ සිද්ධස්ථාන” යන මාතෘකාවෙන් ග්‍රන්ථයක්ද සකස් කළේය. මෙම ගුන්ථය එකළ ඉන්දියාවේ සංචාරයෙහි යෙදුන බෞද්ධ වන්දනා කරුවන්ගේ පිළිගත් අත්පොතක් බවට පත් විය. ඉහත දී නොවැදගත් පුද්ගලයෙකු ලෙස බ්‍රිතාන්‍යයෙන් ප්‍රකාශ කළ මේ තැනැත්තා හට පසුව රජතමය සංවත්සරයට අදාල පදක්කමක් පවා ප්‍රදානය කරන ලදී. මෙම පදක්කම බ්‍රිතාන්‍යයේ V වන ජෝර්ජ් රජතුමා සහ දෙවන එළිසබත් රැජින යන බ්‍රිතාන්‍ය රාජකීයයන් විසින් 1961 සාරානාත් හිදී පිළිගන්වන ලදී.
+
+							</p><p>
+							දේවප්‍රිය වලිසිංහ මහතා මහාබෝධි සංගමයේ කටයුතු වලට ප්‍රබල ශක්තියක් විය. එම සංගමයේ විවිධ ශාඛා වලට පමණක් නොව, ශ්‍රී ලංකාවේ, ඉන්දියාවේ සහ බ්‍රිතාන්‍යයේද ශාඛා වල ක්‍රියාකාරිත්වය නගාසිටුවීමෙහිලා ඔහු සමත් විය. ආරම්භක ආදි කර්‍තෘවරයාගේ අභාවයෙන් පසුව සංගමයේ ක්‍රියාකාරිත්වය මන්දගාමි නොවන්නට වගබලා ගත්තේ දේවප්‍රිය වලිසිංහ මහතාය. 
+						</p>
+				
 				</div>
 			</div>
 		</section>
