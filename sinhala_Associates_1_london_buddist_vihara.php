@@ -91,7 +91,7 @@
 <p><b>Head Monk:</b>   Venerable Bogoda Seelawimala Thera, Chief Sangha Nayaka of Great Britain</p>
 <p><b>Resident Monks:</b>   Venerable Tawalama Bandula Thera, Principal Rahula Dhamma School
 </p>
-<p><b>Vihara Management Committee:</b>   Gamini Amarasekera, Lucky Panagoda, Sudanta Abeyakoon, Leslie Dep, Nihal Weerasena
+<p><b>Vihara Management Committee:</b>  Lucky Panagoda, Sudanta Abeyakoon, Leslie Dep, Nihal Weerasena
 </p>
 
 <p><a class="text-custom-primary" href="https://upload.wikimedia.org/wikipedia/en/7/75/London_Buddhist_Vihara_UK.JPG

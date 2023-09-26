@@ -107,11 +107,11 @@
 								<ul class="sub-menu">
 								<li><a href="sinhala_benefactors_1.php">හික්කඩුවේ ශ්‍රී සුමංගල හිමි</a>
 								<li><a href="sinhala_benefactors_2.php">මේරි රොබින්සන් ෆොස්ටර්</a>
-										<li><a href="sinhala_under_construction_page.php">හෙන් රි ස්ටීල් ඕල්කට්</a>
+										<li><a href="sinhala_benefactors_3.php">හෙන් රි ස්ටීල් ඕල්කට්</a>
 								<li><a href="sinhala_under_construction_page.php">හෙලේනා පෙට්‍රොව්නා බ්ලැවැස්කි</a>
 								<li><a href="sinhala_under_construction_page.php">සර් එඩ්වින් ආර්නෝල්ඩ්</a>
 								<li><a href="sinhala_under_construction_page.php">නීල්කමල් මුකර්ජි</a>
-								<li><a href="sinhala_under_construction_page.php">දේවප්‍රිය වලිසිංහ</a>
+								<li><a href="sinhala_benefactors_7.php">දේවප්‍රිය වලිසිංහ</a>
 								<!-- <li><a href="sinhala_benefactors_3.php">හෙන් රි ස්ටීල් ඕල්කට්</a>
 								<li><a href="sinhala_benefactors_4.php">හෙලේනා පෙට්‍රොව්නා බ්ලැවැස්කි</a>
 								<li><a href="sinhala_benefactors_5.php">සර් එඩ්වින් ආර්නෝල්ඩ්</a>
@@ -131,7 +131,7 @@
 								<li><a href="sinhala_about-us.php#section_3">කළමනාකරණ භාරකරුවන්</a></li>
 								<li  class="dropdown"><a href="#">වෙනත් භාරයන්</a>
 								<ul class="sub-menu">
-								<li><a href="sinhala_under_construction_page.php"> මහා බෝධි සංගමය</a></li>
+								<li><a href="sinhala_Associates_1_Maha_Bodhi_Society.php"> මහා බෝධි සංගමය</a></li>
 								<li><a href="sinhala_under_construction_page.php"> මහා බෝධි සංගමය-ඉන්දියාව</a></li>
 								<li><a href="sinhala_under_construction_page.php">ලන්ඩන් බෞද්ධ විහාර</a></li>
 								<li><a href="sinhala_under_construction_page.php">මල්ලිකා නිවාස සමිතිය</a></li>
@@ -245,11 +245,11 @@
 					<ul class="sub-menu">
 					<li><a href="sinhala_benefactors_1.php">හික්කඩුවේ ශ්‍රී සුමංගල හිමි</a>
 								<li><a href="sinhala_benefactors_2.php">මේරි රොබින්සන් ෆොස්ටර්</a>
-										<li><a href="sinhala_under_construction_page.php">හෙන් රි ස්ටීල් ඕල්කට්</a>
+										<li><a href="sinhala_benefactors_3.php">හෙන් රි ස්ටීල් ඕල්කට්</a>
 								<li><a href="sinhala_under_construction_page.php">හෙලේනා පෙට්‍රොව්නා බ්ලැවැස්කි</a>
 								<li><a href="sinhala_under_construction_page.php">සර් එඩ්වින් ආර්නෝල්ඩ්</a>
 								<li><a href="sinhala_under_construction_page.php">නීල්කමල් මුකර්ජි</a>
-								<li><a href="sinhala_under_construction_page.php">දේවප්‍රිය වලිසිංහ</a>
+								<li><a href="sinhala_benefactors_7.php">දේවප්‍රිය වලිසිංහ</a>
 					</ul>
 				</li>
 
@@ -267,7 +267,7 @@
 				<li class="has-child">
 					<a href="#">වෙනත් භාරයන්</a>				
 					<ul class="sub-menu">
-					<li><a href="sinhala_under_construction_page.php"> මහා බෝධි සංගමය</a></li>
+					<li><a href="sinhala_Associates_1_Maha_Bodhi_Society.php"> මහා බෝධි සංගමය</a></li>
 								<li><a href="sinhala_under_construction_page.php"> මහා බෝධි සංගමය-ඉන්දියාව</a></li>
 								<li><a href="sinhala_under_construction_page.php">ලන්ඩන් බෞද්ධ විහාර</a></li>
 								<li><a href="sinhala_under_construction_page.php">මල්ලිකා නිවාස සමිතිය</a></li>
