@@ -44,12 +44,12 @@
 			<div class="inner_wp z_index white_text">
 				<div class="row">
 					<div class="col-md-12">
-						<h1 class="text-center">Benefactors</h1>
-						<h5 class="text-center">Colonel Henry Steel Olcott</h5>
+						<h1 class="text-center">ප්‍රතිලාභීන්</h1>
+						<h5 class="text-center">කර්නල් හෙන්රි ස්ටීල් ඕල්කොට්තුමා</h5>
 						<nav class="breadcrumb">
 							<ul>
 								<li class="breadcrumb-item"><a href="index.php">මුල් පිටුව</a></li>
-								<li class="breadcrumb-item active">Colonel Henry Steel Olcott</li>
+								<li class="breadcrumb-item active">කර්නල් හෙන්රි ස්ටීල් ඕල්කොට්තුමා</li>
 							</ul>
 						</nav>
 					</div>
@@ -65,68 +65,53 @@
 					<div class="col-lg-7">
 						<div class="sa-paster-about-area">
 							<!-- <h3>Gopal dhanam</h3> -->
-							<h3>Colonel Henry Steel Olcott </h3>
+							<h3>කර්නල් හෙන්රි ස්ටීල් ඕල්කොට්තුමා </h3>
 							<!-- <p class="designation">Yoga Teacher</p> -->
 							<p class="designation">(1832-1907)</p>
-							<p>	Colonel H. S. Oclott was a farmer's son who began his working-life as a journalist. He later joined the Army during the American Civil War and was an Officer and became a lawyer who sat over the assassination trial of the famous US President, Abraham Lincoln.
-							
-							</p>
-							<p>	'The Great Debate of Panadura' in 1874 was a debate in a town south of Colombo, Sri Lanka's capital between Christianity and Buddhism. The debate was published in the local European owned <i>Times of Ceylon</i> newspaper reported by a lawyer.						
-							
+							<p>	හෙන්රි ඕල්කොට් තුමා ගොවි මහතෙකුගේ පුත්‍රයෙකි. ඔහු සිය රාජකාරී දිවිය ආරම්භ කළේ සඟරා කතුවරයෙකු ලෙසිනි. පසුව ඇමෙරිකානු සිවිල් යුද්ධ සමයේ ඔහු යුද්ධ හමුදාවට බැඳී නිලධාරීවරයෙකු ලෙස උසස් වීමක් ලබා ඉන්පසුව නීතිඥවරයෙකු විය. එසේ නීතිඥවරයෙකු ලෙස කටයුතු කළ යුගයේදී සුප්‍රසිද්ධ ඇමෙරිකානු ජනාධිපතිවරයෙකු වූ එ්බ්‍රහම් ලින්කන් මහතා ඝාතනය කිරීම පිළිබද නඩු විභාගයේදී නීතිඥවරයෙකු වශයෙන් කටයුතු කළේය.</p>
+							<p>	1874 දී සුප්‍රසිද්ධ ආගමික වාදයක් වූ පානදුරා වාදය ආරම්භ විය. මෙම වාදය කොළඹ නගරයට දකුණු දිගින් වූ පානදුර නගරයේදී පැවැත් විණ. ක්‍රිස්තු ධර්මය හා බුද්ධ ධර්මය අතර වාදයක් වූ මෙය එකළ ජාතික පුවත් පතක් වූ ටයිම්ස් ඔෆ් සිලෝන් (Times of Ceylon)  නැමති පුවත් පතෙහිද නීතිඥවරයෙකු විසින් පළ කරන ලදී. මෙම පුවත් පත යුරෝපීය සමාගමක් විසින් පවත්වාගෙන යනු ලැබූවකි. ක්‍රිස්තියානි මිෂනාරිවරයෙකු වූ ආචාර්ය ජේ.එම්. පීබලිස් (Dr. J.M. Peebles) නැමැති ලේඛකයා මෙකළ ශ්‍රී ලංකාවට පැමිණ සිටි අතර, පානදුරා වාදය පිළිබඳ වාර්තා ලේඛන ගත කර එකළ ඇමෙරිකාවේ විසූ ඕල්කොට් තුමා හට භාර දෙන ලද්දේය. එම ලේඛන නම් කරන ලද්දේ “කිතු දහම හා බුදු දහම පිළිබඳ මුහුණට මුහුණලා කරන ලද සාකච්ඡා” (Christianity and Buddhism in Discussion Face to Face)   යනුවෙනි. 
+	
 
-	</p><p>A former missionary Dr. J. M. Peebles visiting the island-nation compiled the reports into a publication called <i>Christianity and Buddhism in Discussion</i> Face to Face and had it given to Olcott in America. Spiritualism and Occultism had become interesting subjects in the West at the time. Arthur Canon Doyle, the author of Sherlock Holmes thriller books for instance was one of the co-founders of the school of Analytical Psychology.
-
-	</p><p>When Olcott was in New York he met by chance a lady by the name of Helena Blavatsky who came from an elite Russian family but had left her home country and arrived in America. She too was interested in Spiritualism and together with Olcott formed the Theosophical Society in 1875. Their object was; 
-
-	</p><p>* To form a nucleaus of the universal brotherhood of humanity, without distinction of race, creed, sex, caste or colour  <br/>
-* To encourage the comparative study of religion, philosophy and science <br/>
-* To investigate unexplained laws of nature and the powers latent in humanity.<br/>
-
-
-	</p>
-	<p> Olcott was in correspondence with the Ven. Migettuwatte Gunananda, the main speaker on behalf of Buddhism at the debate and the Ven. Hikkaduwe Sri Sumangala of the Vidyodaya Pirivena, an erudite scholar-monk of the time. Both Olcott and Blavatsky decided to embark on a voyage to Ceylon via India and arrived in the southern port of Galle where they were welcomed by a large crowd of locals. On May 16, 1880 both Olcott and Blavatsky took their five precepts of refuge, the five precepts observed by Buddhist laity and became Buddhists at a temple in Galle. They could be considered the first two Western converts to Buddhism.
-
-
-							
-							</p><p>Anagarika Dharmapala, then a lad of 16, was at the temple at that event that day and was inspired by what he saw. He has said how he walked all the way from school with his father and an uncle to listen to Olcott's first public speech and how elated he was when both Olcott and Blavatsky shook his young hand. The arrival of Olcott and the subsequent meetings he held throughout the island journeying in a double-decker horse-drawn cart  with the ‘silver-tongued’ Ven. Migettuwatte electrified the Buddhists, especially in rural Sri Lanka. With his knowledge of English, Dharmapala was later to become Olcott's translator at these meetings and a full-time activist and worker of the Theosophical Society.
-
-							</p><p>Olcott along with C. W. Leadbeater spent much of his time in Buddhist educational work in Sri Lanka. They started some 300 schools for Buddhist children. Dharmapala also had joined the Theosophist Society by then, as Theosophy was intertwined with Buddhist revivalism. There were contradictions however as the Theosphists were somehow promoting non-secrtarian religion. Olcott and Blavatsky quickly realised this distinction and formed the Buddhist section of the Ceylon Theosophist Society. Young Dharmapala travelled with Olcott to Japan where they were given a rousing welcome by the Buddhists of Japan. It was the first time in a thousand years that the Theravada traditon of Buddhists found in countries like Sri Lanka (then sometimes referred to as 'southern Buddhism') had met with the Mahayana tradition found in Japan.
-
-							</p><p>When Dharmapala embarked on his campaign for the restoration of Buddha Gaya for the Buddhists in the early stages it was Olcott who spent his own monies to obtain legal counsel and paid the rent for the resident Buddhist monks during their stay at Buddha Gaya while litigation was in progress. In later years, years however, Olcott linked up with the Theosophist and social activist Mrs Annie Besant who had by then established herself in Adyar, Madras, India finding the goal of her desires in the Hindu holy book, the Bagavat Gita. Olcott gradually became indifferent to Buddhism and concentrated on Theosophy and in a way, directed his energies to reviving Hinduism in India. 
-
-							</p><p>Anagarika Dharmapala had serious differences with Olcott at one stage - especially when the old soldier questioned the authenticity of the sacred Buddha Tooth Relic at Sri Lanka's hill capital of Kandy and over the issue of a creator in Buddhism. Olcott in his memoirs says that he was against Dharmapala incurring heavy expenses for legal advice at Buddha Gaya and the purchase of property in Buddha Gaya. The Bengal branch of the Theosophical Society fully backed Dharmapala. Even at a time certain Hindus were critical of the Maha Bodhi Society alleging they were trying to convert Hindus to Buddhism, the Bengal TS backed Dharmapala's campaign for Buddha Gaya. Differences grew sharper as Olcott resigned from the Maha Bodhi Society and Dharmapala consciously broke away from the Theosophical Society to ensure that the Maha Bodhi Society became the representative of the Buddhists and the Buddhists alone, and not the Theosophical Society. 
-
-							</p><p>Olcott is held in very high esteem in Sri Lanka to this day as the man who revived Buddhism in Sri Lanka among locals who had been subjugated by then for over three centuries by European rule, and whose religion was kept alive only by the Clergy in remote villages. He is remembered for the schools he started, some of which are still functioning. His statue has been erected opposite the main railway station in the capital, Colombo and in other towns, including Galle where he first arrived. The Buddhist section of the Ceylon Theosophical Society, which began in Galle with branches elsewhere later shifted to Colombo as steamer ships made the Colombo harbour, and not Galle the island's main port of call. It is known  today as
-								<a href="http://www.bts.slt.lk/about.html"> <b>the Buddhist Theosophical Society (BTS)</b></a> in Sri Lanka. 
-
-							</p><p>For more details see:
-·         https://www.gutenberg.org/ebooks/authors/search/?query=Olcott,+Henry+Steel <br/>
-·         Guruge, Ananda W. P. Free at Last in Paradise, Authuhouse, Bloomington, Ind, 1998 <br/>
-·         Murphet, Howard: Hammer on the mountain, life of Henry Steel Olcott (1832–1907); Theosophical Publishing House, Wheaton 1972; ISBN 0-8356-0210-9 <br/>
-·         Prothero, Stephen R.: The White Buddhist: The Asian Odyssey of Henry Steel Olcott; Indiana University Press, Bloomington 1996; ISBN 0-253-33014-9 <br/>
-
-
-							</p>
-							<!-- <div class="sa-team-social">
-								<h5>Social links</h5>
-								<ul class="text-center">
-									<li><a href="#"><i class="fab fa-facebook-f"></i></a></li>
-									<li><a href="#"><i class="fab fa-twitter"></i></a></li>
-									<li><a href="#"><i class="fab fa-linkedin-in"></i></a></li>
-									<li><a href="#"><i class="fab fa-youtube"></i></a></li>
-									<li><a href="#"><i class="fab fa-instagram"></i></a></li>
-								</ul>
-							</div> -->
-						</div>
+	</p><p>ආත්මවාදය (Spiritualism) සහ ගුප්ත විද්‍යාව බටහිර රටවල මේ වන විට බොහෝ දෙනා උනන්දුව දැක්වූ මාතෘකා විය. මෙකී මනෝවිද්‍යාත්මක සහ විචාරාත්මක මතවාද පිළිබඳව උනන්දුවක් දැක්වූවන් අතර ආතර් කොනොන් ඩයිල් ද විය. ආතර් කොනොන් ඩයිල් යනු ෂර්ලොක් හෝම්ස් (Sherlock Homes) නැමැති රහස් පරීක්ෂක චරිතය මුල් කර ගෙන රහස් පරීක්ෂක කථා පෙළක් ලියූ කතුවරයෙකි.</p>
+	<p>ඕල්කොට් තුමා නිව්යෝක් නුවර ගත කළ කාලයේදී ඔහුට අහම්බෙන් මෙන් හෙලේනා බ්ලැවට්ස්කි මැතිනිය මුණ ගැසුණි. ඇය උසස් රුසියානු පවුලකින් පැවත ආ කාන්තාවක් වූ අතර සිය මවුබිම අතහැර ඇමෙරිකාවේ වාසයට පැමිණියාය. ඕල්කොට් තුමාගේ ආගමික මතවාද පිළිබඳව දැඩි උනන්දුවක් දැක්වූ බ්ලැවට්ස්කි මැතිනිය 1875 වසරේදී ඕල්කොට් තුමා සමඟ එකතු වී පරමවිඥානාර්ථ සංගමය පිහිටුවීමෙහිලා පුරෝගාමි වූවාය. ඔවුන්ගේ පරමාර්ථය වූයේ; </p>
+	
+	</div>
 					</div>
 					<div class="col-xl-4 col-lg-5 offset-xl-1 align-self-center">
 						<div class="ss-pastor-img-wrap">
-							<!-- <img src="assets/images/pastor-1.jpg" alt="img"> -->
 							<!-- <img src="assets/images/pastor-1.jpg" alt="img"> -->
 							<img src="assets/images/custom_images/olcot.jpg" alt="img">
 						</div>
 					</div>
 				</div>
+	
+	
+	
+	
+	<p>* මනුෂ්‍යත්වයේ උත්තරීතර සහෝදරත්වයෙන් යුත් සම්බන්ධතාවයන් ගොඩනැගීම.  <br/>
+* ආගමික, දාර්ශනිත හා විද්‍යාත්මක මත සංසන්දනාත්මකව හැදෑරීම. <br/>
+* මෙතෙක් විස්තරාත්මකව අධ්‍යයනය කර නොමැති ස්වභාවික සංසිද්ධි සහ මනුෂ්‍යත්වය පිළිබඳ ගුප්ත
+      කරුණු පරීක්ෂා කිරීම සහ මනුෂ්‍යත්වයේ අන්තර්ගත බලවේගයන් ගැන පරීක්ෂා කිරීම යන මාතෘකා
+      පිළිබඳව අවධානය යොමු කිරීමය. <br/>
+
+
+	</p>
+	<p> හික්කඩුවේ ශ්‍රී සුමංගල නාහිමිපාණෝ මෙකල ලංකාවේ විසූ උසස් පඬිවරයෙකු විය. මේ වන විට ඕල්කොට් තුමා ලාංකික බෞද්ධ භික්ෂූන් වහන්සේ නමක් වූ ගරු මිගෙට්ටුවත්තේ ගුණානන්ද ස්ථවීරයන් සමග ලිපි මගින් අදහස් හුවමාරු කර ගත්තේය. බොහෝ උගත් ඇසූ පිරූ තැන් ඇති මිගෙට්ටුවත්තේ ගුණානන්ද හිමියෝ ආගමික වාදය සඳහා ශ්‍රී ලාංකික කථිකයා ලෙස හික්කඩුවේ ශ්‍රී සුමංගල හිමියන් විසින් නම් කරන ලද්දේය. ඕල්කොට් තුමා සහ බ්ලැවට්ස්කි මැතිනිය ශ්‍රී ලංකාවට පැමිණීමට තීරණය කරන ලද්දේ මෙවන් තත්වයක් පැවති කාලයේදීය. ඔවුහු දීර්ඝ මුහුදු ගමනකින් පසුව ලංකාවේ ගාලු වරායට ගොඩ බැස්සෝය. අති විශාල ශ්‍රී ලාංකික ජනතාවක් ඔවුන්ව පිළිගත්තෝය. 1880 මැයි මස 16 වන දින මේ දෙදෙනා (ඕල්කොට් මහතා සහ බ්ලැවට්ස්කි මැතිනිය) ගාල්ලේ විහාරස්ථානයකදී පන්සිල් සමාදන් වී බෞද්ධාගම වැළඳ ගත්හ. මේ දෙදෙනා බුද්ධාගම වැළඳ ගත් ප්‍රථම බටහිර ජාතීන් දෙදෙනා ලෙස සලකනු ලැබේ.
+
+							
+							</p><p>මේ වන විට 16 වන ලාබාළ වියේ සිටි ඩේව්ඩ් හේවාවිතාරණ ශිෂ්‍යයා (අනගාරික ධර්‍මපාල) ඉහත කී අවස්ථාව දැක ගැනීමට එම විහාරස්ථානයට පැමිණ සිටියේය. එම දර්ශනය කෙරෙහි ඔහුගේ සිත තදින් ඇදී ගියේය. ඔහු විසින් පසුව සඳහන් කරන ලද පරිදි මෙම අවස්ථාවේදී ඩේව්ඩ් හේවාවිතාරණ ශිෂ්‍යයා තමා ඉගෙන ගනිමින් සිටි පාසැලේ සිට සිය පියා හා මාමා කෙනෙකුන් සමග ඕල්කොට්තුමාගේ ප්‍රථම ප්‍රසිද්ධ දේශනයට සවන් දිම සඳහා පයින්ම බොහෝ දුරක් පැමිණි බව පවසා ඇත. ඕල්කොට් තුමා සහ බ්ලැවට්ස්කි මැතිනිය තමාට අතට අත දී ආචාර කළ බවත්, එයින් ධර්‍මපාල තරුණයා අතිශයින් සතුටට පත් බවත් පවසා ඇත. මේ වන විට ඕල්කොට් තුමා දිවයිනේ විවිධ ස්ථාන වලට තට්ටු දෙකේ අශ්ව කරත්තයකින් ගොස් ග්‍රාමීය ශ්‍රී ලාංකික බෞද්ධයින් අමතා කථා පැවැත් වූ බවත් සඳහන් වේ. රිදීමය කටහඬකින් යුත් ගුණානන්ද හිමියන්ගේ කථා වලින් බෞද්ධයෝ වශී වූ බවද පැවසේ. මෙම රැස්වීම් වලදී ඕල්කොට් තුමාගේ භාෂා පරිවර්තක ලෙස කටයුතු කිරීමට ධර්‍මපාල තරුණයාට හැකි වූයේ එතුමා ඉංග්‍රීසි බස පිළිබඳ හසල දැනුමක් තිබූ නිසාය. ඒ අතරම පරමවිඥානාර්ථ සංගමයේ පූර්ණ කාලීන ක්‍රියාකාරී සාමාජිකයෙකු ලෙසද ධර්‍මපාලතුමා කටයුතු කළේය.
+							</p><p>Oඕල්කොට් තුමා සී.ඩබ්ලිව්. ලීඩිබීටර් (C.W. Leadbeater) සමඟ එකතු වී ශ්‍රී ලංකාවේ බෞද්ධ අධ්‍යාපනික කටයුතු වල දියුණුව සඳහා වසර ගණනාවක් ගත කළේය. ඒ අතර බෞද්ධ සිසු දරුවන් සඳහා පාසැල් 300 ක් පමණ පිහිටුවේය. මේ වන විට බෞද්ධ පුනරුදය සහ පරම විඥානාර්ථ සංගමය යන බලවේග දෙකම එකට මිශ්‍ර වී තිබුණි.   </p>
+							<p>වරින් වර මේ දෙපිරිස අතර යම් යම් ගැටළු ඇති වූයේ පරමවිඥානාර්ථ සංගමය ආගමික බෙදුම් වාදයට අකමැති වූ බැවිනි. ඕල්කොට් තුමා සහ බ්ලැවට්ස්කි මැතිනිය මේ වෙනස තේරුම් ගත්හ. ඒ දෙදෙනා එකතු වී ලාංකික පරමවිඥානාර්ථ සංගමයේ බෞද්ධ අංශය පිහිටුවීමට පෙරමුණ ගත්හ. මේ කාලයේදී තරුණ ධර්‍මපාල ඕල්කොට් තුමා සමඟ ජපානයෙහි සංචාරයක යෙදුනේය. එකළ ජපානයේ විසූ බෞද්ධයෝ මේ දෙදෙනාව ඉතා හරසරින් පිළිගත්හ. මෙකල ජපානයේ ප්‍රචලිතව පැවතියේ මහායාන බුද්ධාගමයි. අවුරුදු දහස් ගණනකට පසු ශ්‍රී ලංකාව වැනි ථෙරවාද බුදුදහම පැවති රටකින් පැමිණි සංචාරකයෝ ප්‍රථම වරට ජපානයේ මහායාන බුදුදහම අදහන්නවුන් හමු වූයේ මේ අවස්ථාවේදිය. ථෙරවාදී බුදුදහම එකළ දක්ෂිණ බුදුදහම යන නමින්ද හැදින්විණි. ධර්‍මපාලතුමා බුද්ධගයාව හින්දුන්ගෙන් බේරා ගෙන යළිත් බෞද්ධයින් අතට පත් කිරීමේ ව්‍යාපෘතියෙහි යෙදී සිටි කාලයේදී ඕල්කොට් තුමා සිය පෞද්ගලික ධනය වියදම් කරමින් බෞද්ධ භික්ෂූන්ගේ නේවාසික ගාස්තු ගෙවීමටත්, ඔවුන්ට අවශ්‍ය වූ නීතිමය සේවාවන් ලබා දීමටත් පියවර ගත්තේය. මින් අවුරුදු කිහිපයකට පසු ඕල්කොට් තුමා සමාජ සේවිකාවක් හා ආගමික ක්‍රියාකාරිනියක් වූ ඇනී බෙසන්ට් සමග එකතු වී බෞද්ධ පුනරුදය ‍ වෙනුවෙන් ක්‍රියා කරන්නට විය. මේ වන විට ඇනී බෙසන්ට් මැතිනිය මදුරාසියේ අදයාර් ප්‍රදේශයේ විසූ අතර, ප්‍රධාන හින්දු ආගමික ග්‍රන්ථයක් වූ ‘බගවත් ගීතා’ ග්‍රන්ථය කෙරෙහි දැඩි උනන්දුවක් දක්වන්නට වූවාය. ඕල්කොට් තුමා ද ඒ අනුව යමින් බුද්ධාගම කෙරෙහි දැක්වූ සැලකිල්ල වෙනුවට ඉන්දියාවේ හින්දු ආගම යළි නගාසිටුවීම පිළිබඳව වැඩි උනන්දුවක් දැක්වීය.
+							</p><p>එක්තරා අවස්ථාවකදී අනගාරික ධර්‍මපාල තුමා සහ ඕල්කොට් තුමා අතර මතභේද උත්සන්න විය. විශ්‍රාමලත් හමුදා නිලධාරියෙකු වූ ඕල්කොට් තුමා වරක් ධර්‍මපාල තුමාගෙන් ප්‍රශ්න කරන ලද කරුණක් වූයේ දන්ත ධාතූන් වහන්සේ පිළිබඳ සත්‍යතාවයි. ඒ වන විට ලංකාවේ කඳුරට අගනුවර වූ මහනුවර පූජනීය ස්ථානයක දන්ත ධාතූන් වහන්සේ තැන්පත් කර තිබුණි. දන්ත ධාතූන් වහන්සේ එතරම් පූජනීයත්වයට පත්වීම හා බුදුදහමේ නිර්මාතෘවරයා පිළිබඳව ද මතභේද ඇති විය. පරමවිඥානාර්ථ සංගමයේ බෙංගාලි ශාඛාව ධර්‍මපාලතුමාගේ අදහස් වලට සහයෝගය දුන්නේය. ඕල්කොට් තුමාගේ ලේඛන වල සඳහන් වන අයුරු ඇතැම් හින්දුන් ධර්‍මපාල තුමාව තදින් විවේචනය කළේ ඔහුගේ මහාබෝධි සංගමය හින්දු භක්තිකයින්ව බුද්ධාගමට හැරවීමේ උත්සහයක යෙදෙන බව පවසමිනි. බෙංගාලි පරමවිඥානාර්ථ සංගමය බුද්ධගයාව බේරා ගැනිම සඳහා ධර්‍මපාල තුමා ගෙන ගිය ව්‍යාපාරයට දැඩි සහයෝගයක් දැක්වීය. ක්‍රමයෙන් මෙම මතභේද උස්සන්න වීමට පටන් ගත්තේය. මේ වන විට ඕල්කොට් තුමා ඉහත කී මතභේද නිසා මහාබෝධි සංගමයෙන් ඉවත් විමට තීරණය කළේය. ධර්‍මපාල තුමාද පරමවිඥානාර්ථ සංගමයෙන් ඉවත් විය. ඔවුන් දෙදෙනාටම අවශ්‍ය වූයේ මහාබෝධි සංගමය බෞද්ධයින් නියෝජනය කරන සංගමයක් පමණක් බව ඔප්පු කිරීමටත්, පරමවිඥානාර්ථ සංගමය එසේ නොවන බවටත් ඔප්පු කිරීමය. </p><p>අද දක්වාම ශ්‍රී ලාංකික ජනතාව අතර ඕල්කොට් තුමාව ඉතා උසස් තැනක ලා සලකනු ලබන අතර, ශතවර්ෂ තුනකට අධික කාලයක් තුල බෞද්ධ ජනතාවට නිසි ආගමික නිදහසක් නොතිබුණු අතර බුද්ධාගම ජීවමාන ආගමක් ලෙස පවත්වාගෙන යෑම සඳහා බ්‍රිතාන්‍ය පාලකයින්ගෙන් නිදහසක් නොතිබුණ අතර එය ග්‍රාමීය බෞද්ධ සිද්ධස්ථාන හා පූජකයින් අතර පමණක් ජීවමානව (ක්‍රියාකාරීව) පවත්වාගෙන ගිය බවත් පිළිගැනීම විය.
+
+ඕල්කොට් තුමා ශ්‍රී ලාංකික ජනතාවගේ ගෞරවාදරයට පත්විමට තවත් හේතුවක් වූයේ එතුමා විසින් ස්ථාපිත කරන ලද පාසැල් පද්ධතිය නිසාත්ය. එම පාසැල් බොහොමයක් මේ දක්වා ශ්‍රී ලංකාවට අනගි අධ්‍යාපන සේවාවක් සලසමින් ක්‍රියාත්මක වේ. ලංකාවේ අගනුවර වූ කොළඹ නගරයේ දුම්රිය පොළ ඉදිරිපිට එතුමාගේ පිළිරුවක් ඉදිකර තිබේ. වෙනත් ප්‍රධාන නගර කීපයකම මෙවැනි පිළිරූ ඉදිකර ඇති අතර, එතුමා මුලින් ශ්‍රී ලංකාවට ගොඩබසින ලද ගාලු නගරය ඉන් ප්‍රධාන වේ. ලංකා පරමවිඥානාර්ථ බෞද්ධ සමිතිය මුලින් ආරම්භ කරන ලද්දේ ගාලු නගරයේ වුවද වෙනත් ප්‍රදේශ කීපයකත් ශාඛා පිහිටුවනු ලැබීය. පසුව එම ප්‍රධාන කාර්යාලය යළිත් කොළඹට ගෙන යන ලද්දේ ලංකාවේ ප්‍රධාන වරාය හා නැව් තොටුපල කොළඹ වන බැවිනි.මෙම සංගමය වර්තමානයේදී හඳුන්වනු ලබන්නේ
+								<a href="http://www.bts.slt.lk/about.html"> <b>ශ්‍රී ලංකාවේ පරමවිඥානාර්ථ බෞද්ධ සංගමය </b></a> යන නමිනි.
+								</p><p>For more details see: <br>
+<a href=" https://www.gutenberg.org/ebooks/authors/search/?query=Olcott,+Henry+Steel"><span style="color: blue;"><b> https://www.gutenberg.org/ebooks/authors/search/?query=Olcott,+Henry+Steel</b><span</a>        <br/>
+·         Guruge, Ananda W. P. Free at Last in Paradise, Authuhouse, Bloomington, Ind, 1998 <br/>
+·         Murphet, Howard: Hammer on the mountain, life of Henry Steel Olcott (1832–1907); Theosophical Publishing House, Wheaton 1972; ISBN 0-8356-0210-9 <br/>
+·         Prothero, Stephen R.: The White Buddhist: The Asian Odyssey of Henry Steel Olcott; Indiana University Press, Bloomington 1996; ISBN 0-253-33014-9 <br/>
+</p>
 			</div>
 		</section>
 
