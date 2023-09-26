@@ -69,9 +69,9 @@
 				<div class="col-md-6 align-self-center">
 					<div class="section-header">
 						
-						<h6>පූජනී ඉරුෂි
-							<br> <br> 8 වසර
-							<br> <br> ආනන්ද බාලිකා විද්‍යාලය , කොළඹ 10
+						<h6>නම - පූජනී ඉරුෂි
+							<br> <br> ශ්‍රේණිය - 8 වසර
+							<br> <br> පාසල - ආනන්ද බාලිකා විද්‍යාලය , කොළඹ 10
 						</h6>
 					</div>
 					<div class="donation_form">
