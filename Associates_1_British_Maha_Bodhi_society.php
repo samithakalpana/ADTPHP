@@ -91,6 +91,16 @@
 <p>The BMBS effectively folded up with the Court case but has now been revived under a new Constitution and functions under the aegis of the Anagarika Dharmapala Trust with the London Buddhist Vihara as its headquarters. 
 </p>
 
+
+<!-- image added -->
+<div class="col-xl-8 col-md-4 align-self-center">
+	<div class="about-us-image"><br><br>
+	<img src="assets/images/custom_images/mahabodi_india.jpeg" alt="img" class="img-fluid mx-auto d-block">
+</div>
+</div>
+<!-- image added -->
+
+<br>
 <br>
 <h5>Ven Galkande Dhammananda - Religion, Rights & Reconciliation: <br> Finding Healing after Conflict
 </h5>
@@ -108,6 +118,8 @@ Sudanta Abeyakoon <br>
 Amal Abeyawardene - Secretary <br>
 Nihal Weerasena
 </p>
+
+
 
 
 
