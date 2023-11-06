@@ -47,11 +47,11 @@
 			<div class="inner_wp z_index white_text">
 				<div class="row">
 					<div class="col-md-12">
-						<h1 class="text-center">London Buddhist Vihara</h1>
+						<h1 class="text-center">ලන්ඩන් බෞද්ධ විහාරය</h1>
 						<nav class="breadcrumb">
 							<ul>
-								<li class="breadcrumb-item"><a href="index.html">Home</a></li>
-								<li class="breadcrumb-item active">London Buddhist Vihara</li>
+								<li class="breadcrumb-item"><a href="index.html">මුල් පිටුව</a></li>
+								<li class="breadcrumb-item active">ලන්ඩන් බෞද්ධ විහාරය</li>
 							</ul>
 						</nav>
 					</div>
@@ -77,33 +77,56 @@
                     
 					<div class="about-us-content">
 						<div class="section-header">
-							<div class="align-left"><h2><u class="text-custom-primary">London Buddhist Vihara
-</u></h2></div></div>  <p>Anagarika Dharmapala can be credited as the trail-blazer missionary who took the sublime teachings of the Buddha beyond the vast continent of Asia to North America and the United Kingdom.
- 
- In 1893 he spoke at the World Parliament of Religions in Chicago, USA on behalf of the 'Southern' or Theravada Buddhists and on 24 July, 1926 he established the first Buddhist place of worship in the West - in London.
- </p>
-
-<p>The first Buddhist temple was established in Ealing on a property purchased with the funds sent by Mrs. Mary Foster Robinson. He named it 'Foster House'. From there it moved to 41, Gloucester Road where on 5 February,1928 the house which was by then called the "Buddhist Mission" was converted to a Vihara, the London Buddhist Vihara. The Vihara was later requisitioned by the British Government for military purposes during World War II. After the war, the Vihara reopened at Regent's Park in Kensington. The premises were then acquired for a housing scheme. In 1963, the Anagarika Dharmapala Trust purchased a property at Heathfield Gardens in Chiswick and is now permanently situated at the Dharmapala building, The Avenue in Chiswick, London, W4 1UD.
-</p>
-<p>Both the London Buddhist Vihara and the British Maha Bodhi Society were established together by Anagarika Dharmapala. The BMBS administered the Vihara till 1985 and the Vihara is now administered by the Anagarika Dharmapala Trust. The BMBS functions as a separate entity with its headquarters at the London Buddhist Vihara. 
+							<div class="align-left"><h2><u class="text-custom-primary">ලන්ඩන් බෞද්ධ විහාරය
+</u></h2></div></div>  
+<!-- update translate into sinhala 2023.11.06 -->
+<p>
+බුදුන්වහන්සේ විසින් දේශනා කරන ලද අති උතුම් දේශනා ආසියා මහද්වීපයේ සිට උතුරු ඇමෙරිකාව දක්වාත්, ඉන් පසුව බ්‍රිතාන්‍ය රාජධානිය දක්වාත් පතුරුවා හැරීමේ නියමුවා ලෙස අනගාරික ධර්‍මපාලතුමා හඳුන්වාදීමට පුළුවන. 1893 දී එතුමා ඇමෙරිකා එක්සත් ජනපදයේ පැවති ආගම් පිළිබඳ විශ්ව පාර්ලිමේන්තුවේදී මෙම මාතෘකාව යටතේ දේශනා ඉදිරිපත් කළේය. එම දේශනා වල මාතෘකාව වූයේ “දක්ෂිණ ථෙරවාද බෞද්ධයෝ” යන්නයි. 1926 ජුලි මස 24 වන දින එතුමා බටහිර රටක ප්‍රථම බෞද්ධ පූජනීය ස්ථානය බටහිර ලන්ඩන් නුවර (ලන්ඩන් විහාරය) පිහිටු වූයේය.
 </p>
 
-<p><b>Head Monk:</b>   Venerable Bogoda Seelawimala Thera, Chief Sangha Nayaka of Great Britain</p>
-<p><b>Resident Monks:</b>   Venerable Tawalama Bandula Thera, Principal Rahula Dhamma School
+<p>
+ඉහත සඳහන් වූ ප්‍රථම බෞද්ධ විහාරය ඊලිං (Ealing) ප්‍රදේශයේ මේරි ෆොස්ටර් රොබින්සන් මහත්මිය විසින් සපයන ලද මුදල් වලින් මිලදී ගන්නා ලද බිම් කොටසක ගොඩනගන ලදී. එම භූමිය සහිත ගොඩනැගිල්ල ‘ෆොස්ටර් හවුස්’ යනුවෙන් නම් කරන ලදී. ඉන්පසුව එම ආයතනය ග්ලොස්ටර් මාවතේ පිහිටි අංක 41 දරණ (Gloucester Road) ගොඩනැගිල්ලකට රැගෙන යන ලද්දේ 1928 පෙබරවාරි මාසයේදීය. එතෙක් බෞද්ධ මිෂනාරි නිවස යනුවෙන් හඳුන්වනු ලැබූ ගොඩනැගිල්ල විහාරයක් බවට පත් කොට “ලන්ඩන් බෞද්ධ විහාරය” යයි නම් කරන ලදී.
 </p>
-<p><b>Vihara Management Committee:</b>  Lucky Panagoda, Sudanta Abeyakoon, Leslie Dep, Nihal Weerasena
+
+<p>
+පසුව මෙම ගොඩනැගිල්ල බ්‍රිතාන්‍ය රජය විසින් යුද්ධ හමුදාවේ අවශ්‍යතා සඳහා යොදා ගන්නා ලද්දේ දෙවන ලෝක යුද්ධය පැවති සමයේය. දෙවන ලෝක යුද්ධය අවසාන වීමෙන් පසුව මෙම විහාරස්ථානය නැවත වරක් කෙන්සිංටන්හි  ‘රීජන්ට පාක්’ නැමති ස්ථානයෙහි විවෘත කරන ලදී. ඉන් පසුව මෙම භූමිය නිවාස සංකීර්ණයක් ලෙස භාවිතා කරන ලදී. වසර 1963 දී අනගාරික ධර්‍මපාල භාරය විසින් මෙම භූමිය මිලයට ගන්නා ලදී. දැනට එය ධර්‍මපාල භාරයට අයත් ස්ථාවර ගොඩනැගිල්ලක් ලෙස චිස්වික් (Chiswick) ප්‍රදේශයේ පවත්වාගෙන යනු ලබන්නේ චිස්වික්, ලන්ඩන් W4 1UD යන ලිපිනය යටතේය.
 </p>
+
+<p>
+ලන්ඩන් බෞද්ධ විහාරය සහ බ්‍රිතාන්‍ය මහාබෝධි සංගමය යන ගොඩනැගිලි ද්විත්වයම අනගාරික ධර්‍මපාලතුමා විසින් එකම වකවානුවේදී ආරම්භ කරන ලදී. 1985 දක්වා විහාරය පාලනය කරන ලද්දේ බ්‍රිතාන්‍ය මහාබෝධි සංගමය මගිනි. වර්තමානයේ මෙම විහාරය අනගාරික ධර්‍මපාල භාරය මගින් පවත්වාගෙන යනු ලැබේ. බ්‍රිතාන්‍ය මහාබෝධි සංගමය වෙනම ඒකකයක් වශයෙන් පවතින අතර එහි ප්‍රධාන කාර්යාලය පිහිටා ඇත්තේ ලන්ඩන් බෞද්ධ විහාර ගොඩනැගිල්ලෙහිය.
+</p>
+
+<p><b>ප්‍රධාන සංඝනායක :</b> පූජ්‍ය බෝගොඩ සීලවිමල නාහිමි, මහා බ්‍රිතාන්‍යයේ ප්‍රධාන සංඝනායක.</p>
+<p><b>නේවාසික භික්ෂූන්වහන්සේ :</b>  පූජ්‍ය තවලම බන්දුල හිමි, රාහුල දහම් පාසැලෙහි විදුහල්පති.</p>
+
+<p><b>විහාර කළමනාකරණ කමිටුව :</b>ලකී පනාගොඩ මහතා, සුදන්ත අබේකෝන් මහතා, ලෙස්ලි ඩෙප් මහතා,
+   නිහාල් වීරසේන මහතා </p>
+
+
 
 <p><a class="text-custom-primary" href="https://upload.wikimedia.org/wikipedia/en/7/75/London_Buddhist_Vihara_UK.JPG
-"> London Buddhist Vihara </a></p>
+"> ලන්ඩන් බෞද්ධ විහාරය</a></p>
 
 <p><a  class="text-custom-primary" href="https://www.londonbuddhistvihara.org/media/1158/1-2.jpg?anchor=center&mode=crop&width=770&height=430&rnd=132227389420000000
-">Pirith Ceremony at the London Buddhist Vihara </a></p>
-
+">ලන්ඩන් බෞද්ධ විහාරයේ පිරිත් පිංකමක්</a></p>
+<p><a  class="text-custom-primary" href="https://www.londonbuddhistvihara.org   ">වැඩිදුර විස්තර සදහා පිවිසෙන්න :londonbuddhistvihara.org    </a></p>
 
 </div>
 				</div>
 			
+
+	
+
+
+				<!-- image added -->
+				<div class="col-xl-4 col-md-4 align-self-left">
+	<div class="about-us-image"><br><br>
+	<img src="assets/images/custom_images/London_Buddhist_Vihara_UK.jpg" alt="img" class="img-fluid mx-auto d-block">
+</div>
+</div>
+<!-- image added -->
+
+
 
 	</section>
 

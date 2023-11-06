@@ -46,11 +46,11 @@
 			<div class="inner_wp z_index white_text">
 				<div class="row">
 					<div class="col-md-12">
-						<h1 class="text-center"> Maha Bodhi Society of India</h1>
+						<h1 class="text-center"> ඉන්දියානු මහාබෝධි සමාගම</h1>
 						<nav class="breadcrumb">
 							<ul>
-								<li class="breadcrumb-item"><a href="index.html">Home</a></li>
-								<li class="breadcrumb-item active">Maha Bodhi Society of India</li>
+								<li class="breadcrumb-item"><a href="index.html">මුල් පිටුව</a></li>
+								<li class="breadcrumb-item active">ඉන්දියානු මහාබෝධි සමාගම</li>
 							</ul>
 						</nav>
 					</div>
@@ -76,37 +76,57 @@
                     
 					<div class="about-us-content">
 						<div class="section-header">
-							<div class="align-left"><h2>The  <u class="text-custom-primary">Maha Bodhi Society of India
-</u></h2></div></div>                            
-							<p>The headquarters of the Maha Bodhi Society of India (MBSI) is in Kolkata (formerly Calcutta), the onetime capital of British India.
- 
- Situated at No 4A, Bankim Chatterjee Street, it was one of the prime locations in the old capital, right next to the University. It is known as the Sri Dharmarajika Chaitya Vihara. Its original address was 4A College Square and it was overlooking the College Street- Harrison Road intersection.
-  
- Ceremonially declared open by the British Governor of Bengal, Lord Ronaldshay on 26 November, 1920, the Kolkata Municipal Council has declared the MBSI building a heritage building.
+							<div class="align-left"><h2><u class="text-custom-primary">ඉන්දියානු මහාබෝධි සමාගම
+</u></h2></div></div>  
+
+<!-- text change into sinhala 2023.11.06-->
+							<p>ඉන්දියාවේ මහා බෝධි සංගමයේ ප්‍රධාන කාර්යාලය පිහිටා ඇත්තේ කොල්කටා (කල්කටා) නගරයේය. මෙම නගරය බ්‍රිතාන්‍ය ඉන්දියාව පාලනය කළ සමයේ එහි අගනුවර විය. මෙම නගරය පිහිටා ඇත්තේ බැන්කිම් චැතර්ජි වීදියේ අංක 4 ඒ දරණ ස්ථානයේය. පැරණි අගනුවර තිබුණු ඉතා වැදගත් ස්ථානයක් වන  මෙය විශ්ව විද්‍යාලයට යාබදව පිහිටා තිබුණි. එය වර්තමානයේ හඳුන්වනු ලබන්නේ ශ්‍රී ධර්මරාජික චෛත්‍ය විහාරය නමිනි. එහි පළමු ලිපිනය වූයේ අංක 4 ඒ, විද්‍යාල චතුරශ්‍රය යනුවෙනි. විද්‍යාල වීථීය සහ හැරිසන් මාවත මුණගැසෙන ස්ථානයේ මෙය පිහිටා ඇත. මෙම ස්ථානය නිල වශයෙන් විවෘත කරන ලද්දේ 1920 වසරේ නොවැම්බර් මස 26 වන දිනය. එකල බෙංගාලයේ බ්‍රිතාන්‍ය ආණ්ඩුකාරවරයා වූ රොනල්ඩ්ෂේ සාමිවරයා (Lord Ronaldshay) විවෘත කරන ලදුව මෙම ස්ථානය 1920 දී කෝල්කටා මහනගර සභාව විසින් (ලෝක) උරුමයක් ලෙස නම් කරන ලදී.
  </p>
 
- <p>It was in 1891 that Anagarika Dharmapala arrived in Kolkata on his way back to Ceylon from his first visit to Buddha Gaya. He had taken a vow to re-establish the rights of the Buddhists over the management of Buddha Gaya and had decided to detour to Rangoon, Burma to raise funds for the campaign. It was the Burmese who had some footprint in Buddha Gaya at the time with a pilgrims rest for the few Burmese Buddhists visiting the holy site.
- 
- Dharmapala, being a member of the Ceylon Theosophical Society, was hosted in Kolkata by members of the Bengal Theosophical Society, He stayed with Neel Kamal Mukherjee, the Secretary of the society. Mukherjee was to be a life-long friend of Dharmapala so much so that Dharmapala had even given the name of Neel Kamal to one of his nephew's, his brother Edmund Hewavitarne's elder son (commonly known as Neil Hewavitarne), who later became a member of the State Council (1936-39) in pre-independent Ceylon.  
+ <p>
+	1891 වසරේදී අනගාරික ධර්‍මපාලතුමා පළමු වරට කොල්කටා නගරයට ලඟා වූයේ බුද්ධගයාවේ පළමු සංචාරය නිම කොට ආපසු ලංකාවට එන ගමනේදීය. එම සංචාරයේදී ධර්‍මපාලතුමා භාරයක් වූයේ බුද්ධගයාවේ පාලනය නැවත වරක් බෞද්ධයින් හට භාර කරන බවටය. මේ සඳහා අරමුදල් සපයා ගැනීම සඳහා බුරුමයේ රැන්ගූන් නුවරට සංචාරය කිරීමට එතුමා තීරණය කළේය. බුද්ධගයාවේ ශ්‍රී පාද සළකුණක් යැයි හඳුනාගත් ස්ථානයක බෞද්ධ වන්දනාකරුවන් සඳහා නවාතැන් ගැනීමට ස්ථානයක් බුුුරුමයේ පවත්වාගෙන යෑමේ අරමුණින් මෙම අරමුදල අවශ්‍ය විය. ලංකා පරමවිඥානාර්ථ සමිතියේ සාමාජිකයෙකු වූ ධර්‍මපාලතුමාව බෙංගාලයේ පරමවිඥානාර්ථ සංගමයේ සාමාජිකයින් විසින් පිළිගෙන ආගන්තුක සත්කාර පිරිනමන ලදී. එතුමා නවාතැන් ගත්තේ එම සංගමයේ ලේකම්වරයා වූ නීල්කමාල් මුඛර්ජි මහතාගේ නිවසේය. මුඛර්ජි මහතා ධර්‍මපාලතුමාගේ යාවජීව මිතුරකු බවට පත් විය. මේ මිත්‍රත්වය කෙතරම් බලවත් වීද යත්, ධර්‍මපාලතුමා සිය ඥාති පුත්‍රයෙකුට නීල්කමල් යන නම තැබුවේය. මෙම ඥාති පුත්‍රයා එඩ්මන්ඩ් හේවාවිතාරණ නම් වූ ධර්‍මපාලතුමාගේ සහෝදරයාගේ වැඩිමහල් පුතණුවන් විය. ඔහුව බොහෝ අය හඳුනන්නේ නීල් හේවාවිතාරණ යන නමින් වූ අතර හෙතෙම ලංකාව නිදහස ලැබීමට පෙර (1936 – 39) රාජ්‍ය මන්තුණ සභාවේ මන්ත්‍රීවරයෙකු ද විය.
  </p>
 
- <p>During his first visit, Dharmapala realised there was no presence of Buddhism in the then Indian capital. He also felt the need to have a place for Buddhists to stay when they came to visit Buddhist sites on a future date. After forming the Maha Bodhi Society in Ceylon, he believed the launching pad for his Indian campaign at Buddha Gaya, and elsewhere, should be from a headquarters in the Indian capital. 
- 
- It took him nearly three decades to build the MBS headquarters Indian branch in Kolkata and named it the Sri Dharmarajika Chaitya Vihara. By then (1915) Dharmapala was not permitted by the colonial British Government to leave Kolkata "by sea or land" due to race riots in Ceylon. His anti-British Imperialist agitation in Ceylon made the Lieutenant Governor of Bengal consider him a trouble-maker. He spent the time during his detention working on the architecture and construction of the headquarters. That same year, the MBS was named the Maha Bodhi Society of India (MBSI). The Chief Justice of the High Court of Calcutta and Vice Chancellor of the University Sir Ashutosh Mukherjee was made the President of MBSI with Dharmapala, as Secretary.
+ <p>
+	ඔහුගේ ප්‍රථම සංචාරයේදීම ධර්‍මපාලතුමාට පැහැදිලි වූ එක් කරුණක් නම් ඉන්දියානු අගනුවර තුල බෞද්ධයින් කිසිසේත් නියෝජනය නොවූ බවය. එසේම ඔහුට අවබෝධ වූ තවත් කරුණක් වූයේ අනාගතයේදී බෞද්ධ වන්දනාකරුවන් මෙම පූජනීය ස්ථාන වන්දනා කිරීමට පැමිණි විට ඔවුන්ට නවාතැන් ගැනීමට ස්ථානයක් අවශ්‍ය බවය. ලංකාවේ මහාබෝධි සංගමය පිහිටුවීමෙන් පසු ඔහුගේ අධිෂ්ඨානය වූයේ, බුද්ධගයාව සහ වෙනත් බෞද්ධාගමික පූජනීය ස්ථාන ප්‍රචලිත කිරීමේ කර්තව්‍යය ඉන්දියානු අගනුවරින් ආරම්භ කළ යුතු බවය. මෙම අරමුණ ඇතිව මහාබෝධි සංගමයේ ප්‍රධාන කාර්යාලය කොල්කටා නගරයේ පිහිටුවිමට දශක තුනකට ආසන්න කාලයක් ගත විය. එසේ පිහිටුවන ලද කාර්යාලය ශ්‍රී ධර්මරාජික චෛත්‍ය විහාරය යනුවෙන් නම් කරන ලදී. මේ වන විට (1915 දී) බ්‍රිතාන්‍ය යටත් විජිතවාදී රජය මගින් ධර්‍මපාලතුමා හට කොල්කටා නගරයෙන් පිටවීම තහනම් කරන ලදී. යටත් විජිතවාදීන්ගේ වචනයෙන් පවසතොත් ධර්‍මපාලතුමාට “මුහුදින් හෝ ගොඩබිමින්” කොල්කටා නගරයෙන් පිටවීම තහනම් කරන ලදී. මේ කාලයේදී ලංකාවේ ජාතිවාදී අරගලයද ගොඩනැගී තිබුණි. ධර්‍මපාලතුමාගේ බ්‍රිතාන්‍ය අධිරාජ්‍ය විරෝධී ක්‍රියාකාරීත්වය නිසා එකල බෙංගාල ආණ්ඩුකාරවරයා ධර්‍මපාලතුමා “කරදරකාරයෙකු” ලෙස සැලකීය. එසේම ධර්‍මපාලතුමාට රටින් පිටවීමද තහනම් කරන ලදී. මේ කාලය ධර්‍මපාලතුමා ගත කළේ මහාබෝධි සංගමයේ ප්‍රධාන කාර්යාලය ගොඩනැඟීමේ ගෘහනිර්මාණ ශිල්පය පිළිබඳව සැලකිල්ල යොමු කිරීමෙනි. එම වසරේදීම මෙම සංගමයට ඉන්දියානු මහාබෝධි සංගමය (MBSI) යන නම භාවිතා කරන ලදී. ශ්‍රීමත් අශුතෝෂ් මුඛර්ජි මහාබෝධි සංගමයේ සභාපති ලෙස නම් කරන ලදී. අශුතෝෂ් මහතා කල්කටාවෙහි ඉහළ උසාවියේ අග්‍ර විනිශ්චයකාරවරයා වූ අතර විශ්වවිද්‍යාලයේ උප කුලපතිවරයාද විය. එම මහාබෝධි ශාඛාවේ ලේකම්වරයා ලෙස ධර්‍මපාලතුමා පත් කරන ලදී.
+
  </p>
 
- <p>The bulk of the funds for the new building came from Mrs. Mary Foster Robinson of Hawaii - Rs. 65,123. The Maharaja Gaekward of Baroda gave Rs. 10,740. The Anagarika gave Rs. 11,000 in memory of his father, mother, and a brother and his wife. Dr and Mrs C. A. Hewavitarne, gave Rs. 2,000, Mr and Mrs N. D. S. De Silva Rs. 1,500, Mr. P.A. Peris Rs. 1,000 and small donations worth Rs. 3,686 from several others. Among the small donor's was a British soldier, Sgt. Ryan who had done battle during the First World War. He gave Rs. 3.</p>
+ <p>
+	මහාබෝධි සංගමයේ නව ගොඩනැගිල්ල සඳහා වැය වූ මුදල් වලින් වැඩි ප්‍රමාණයක් පිරිනමන ලද්දේ හවායි දූපතේ විසූ මේරි ෆොස්ටර් රොබින්සන් (Mary Foster Robinson) නැමති දානපතිනිය විසිනි. එම මුදල රුපියල් 65,123/- ක් විය. ගීක්වෝඩ් මහරාජා (බැරෝඩා හි) විසින් රුපියල් 10,740/- ක් ප්‍රදානය කරන ලදී. අනගාරික ධර්‍මපාලතුමා විසින් ඔහුගේ පියා, මව, සහෝදරයා සහ ඔහුගේ බිරිඳ සිහිවිම පිණිස රුපියල් 11,000/- ක් පරිත්‍යාග කරන ලදී. වෛද්‍ය සී.ඒ. හේවාවිතාරණ සහ එම මැතිනිය රුපි.2,000/- ක්ද එන්.ඩී.එස්. ද සිල්වා සහ එම මැතිනිය රුපි.1,500/- ක්ද පී.ඒ. පීරිස් මහතා විසින් රුපි.1,000/- ක්ද ප්‍රදානය කරන ලදී. මීට අමතරව වෙනත් දායකවරුන් විසින් රුපි.3,686/- ක්ද පිරිනමන ලදී. මේ අතර ඉතා කුඩා ප්‍රමාණයේ සම්මාදමක් දෙන ලද බ්‍රිතාන්‍ය සොල්දාදුවෙකු වූ සාර්ජන්ට් රයන් (පළමු ලෝක යුද්ධයේ සොල්දාදුවෙක්) විසින් දෙන ලද මුදල රුපි.3/- කි.
 
- <p>With the opening of the MBSI headquarters, the British India Government handed over Buddha relics to be enshrined at the Chaitya (temple) which was part of the headquarters building at a well attended ceremony with all the pomp and pageantry. It is said that after the passing away of the Buddha in Kusinara (Kushinagar), his relics were enshrined in eight stupas built by the Kings at the time. Later, Emperor Ashoka had them divided to 84,000 pieces and enshrined in as many stupas over his vast empire in the Indian sub-continent. The relics enshrined at the MBSI headquarters cum Dharmarajika Chaitya Vihara are those that were from the casket of the Bhattiprolu Stupa and later rested in the Madras Museum. 
- 
  </p>
 
- <p>(More details are available in <i>The History of the Sri Dharmarajika Chaitya Vihara; a publication of the Maha Bodhi Society of India, 2012)</i>
+ <p>මහාබෝධි සංගමයේ ප්‍රධාන කාර්යාලය විවෘත කිරීමත් සමගම ඉන්දියාවේ බ්‍රිතාන්‍ය රජය විසින් බෞද්ධ සර්වඥ ධාතූන් වහන්සේලා මහාබෝධි සංගමයට භාර දෙන ලදී. එම ධාතූන් වහන්සේලා නව ගොඩනැගිල්ලේ චෛත්‍යයෙහි අති උත්සවාකාරයෙන් තැම්පත් කරන ලදී. ඒ අවස්ථාවේදී අති විශාල ජනකායක් සහභාගී වූ බව පැවසේ. 
+ </p>
+
+ <p>
+ බුදුන්වහන්සේ කුසිනාරා නුවරදී පිරිනිවන් පෑමෙන් පසුව උන්වහන්සේගේ සර්වඥ ධාතූන් වහන්සේලා ස්ථූප අටක තැන්පත් කරන ලදී. එම ස්ථූප එකල ඉන්දියාවේ රජකල විවිධ රජවරුන් විසින් ගොඩනගන ලදී. අශෝක අධිරාජයා විසින් එම ධාතූන් වහන්සේලා කොටස් 84,000 කට බෙදා ඉන්දියානු අර්ධද්වීපය තුල අශෝක අධිරාජයාගේ විවිධ රාජධානි වල ස්ථූප ගොඩනගා තැන්පත් කළ බව පැවසේ.
+ </p>
+
+ <p>මහාබෝධි සංගමයේ චෛත්‍යය තුල තැන්පත් කරන ලද ධාතූන් වහන්සේලා මෙලෙස ධර්මරාජික චෛත්‍යය තුල තැන්පත් කරන ලද අතර එම ධාතූන් මුලින් භට්ටිප්‍රොලු ස්ථූපයේද (Bhattiprolu Stupa) පසුව මදුරාසියේ කෞතුකාගාරයේද තැන්පත් කර තිබූ බව පැවසේ. </p>
+
+ <p>(වැඩි විස්තර සඳහා මහාබෝධි සංගමය විසින් 2012 මුද්‍රණය කරන ලද <i>“ධර්මරාජික චෛත්‍යය විහාරයේ ඉතිහාසය”</i> ලේඛනය කියවන්න)
 </p>
-<p ><a class="text-custom-primary" href="https://en.wikipedia.org/wiki/Maha_Bodhi_Society#/media/File:Maha_Bodhi_Society_of_India_Headquarters_-_4A_Bankim_Chatterjee_Street_-_Kolkata_2014-10-30_0117-0135.tif"> The headquarters of the Maha Bodhi Society of India, on Chatterjee Street, Kolkota </a></p>
+<p ><a class="text-custom-primary" href="https://en.wikipedia.org/wiki/Maha_Bodhi_Society#/media/File:Maha_Bodhi_Society_of_India_Headquarters_-_4A_Bankim_Chatterjee_Street_-_Kolkata_2014-10-30_0117-0135.tif">කොල්කටා හි චැටර්ජී වීදියේ පිහිටා ඇති ඉංදියානු මහා බෝධි සංගමයේ මූලස්ථානය</a></p>
 					</div>
 				</div>
-			
+			<!-- image added -->
+<div class="col-xl-6 col-md-4 align-self-center">
+	<div class="about-us-image"><br><br>
+	<img src="assets/images/custom_images/maha_bodi_india.jpg" alt="img" class="img-fluid mx-auto d-block">
+</div>
+</div>
+<!-- image added -->
+
+
+<!-- image added -->
+<div class="col-xl-6 col-md-4 align-self-center">
+	<div class="about-us-image"><br><br>
+	<img src="assets/images/custom_images/mahabodi_india.jpeg" alt="img" class="img-fluid mx-auto d-block">
+</div>
+</div>
+<!-- image added -->
 
 	</section>
 
