@@ -132,10 +132,10 @@
 								<li  class="dropdown"><a href="#">වෙනත් භාරයන්</a>
 								<ul class="sub-menu">
 								<li><a href="sinhala_Associates_1_Maha_Bodhi_Society.php"> මහා බෝධි සංගමය</a></li>
-								<li><a href="sinhala_under_construction_page.php"> මහා බෝධි සංගමය-ඉන්දියාව</a></li>
-								<li><a href="sinhala_under_construction_page.php">ලන්ඩන් බෞද්ධ විහාර</a></li>
+								<li><a href="sinhala_Associates_1_Maha_Bodhi_Society_India.php"> මහා බෝධි සංගමය-ඉන්දියාව</a></li>
+								<li><a href="sinhala_Associates_1_london_buddist_vihara.php">ලන්ඩන් බෞද්ධ විහාර</a></li>
 								<li><a href="sinhala_under_construction_page.php">මල්ලිකා නිවාස සමිතිය</a></li>
-								<li><a href="sinhala_under_construction_page.php">බ්‍රිතාන්‍ය මහා බෝධි සංගමය</a></li>
+								<li><a href="sinhala_Associates_1_British_Maha_Bodhi_society.php">බ්‍රිතාන්‍ය මහා බෝධි සංගමය</a></li>
 								<li><a href="sinhala_Associates_1_somawati_and_simon_trust.php">සයිමන් හේවාවිතාරණ හා සෝමාවතී හෙවාවිතාරණ භාරයන් </a></li>
 							
 								</ul>
