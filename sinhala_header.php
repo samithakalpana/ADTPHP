@@ -108,9 +108,9 @@
 								<li><a href="sinhala_benefactors_1.php">හික්කඩුවේ ශ්‍රී සුමංගල හිමි</a>
 								<li><a href="sinhala_benefactors_2.php">මේරි රොබින්සන් ෆොස්ටර්</a>
 										<li><a href="sinhala_benefactors_3.php">හෙන් රි ස්ටීල් ඕල්කට්</a>
-								<li><a href="sinhala_under_construction_page.php">හෙලේනා පෙට්‍රොව්නා බ්ලැවැස්කි</a>
-								<li><a href="sinhala_under_construction_page.php">සර් එඩ්වින් ආර්නෝල්ඩ්</a>
-								<li><a href="sinhala_under_construction_page.php">නීල්කමල් මුකර්ජි</a>
+								<li><a href="sinhala_benefactors_4.php">හෙලේනා පෙට්‍රොව්නා බ්ලැවැස්කි</a>
+								<li><a href="sinhala_benefactors_5.php">සර් එඩ්වින් ආර්නෝල්ඩ්</a>
+								<li><a href="sinhala_benefactors_6.php">නීල්කමල් මුකර්ජි</a>
 								<li><a href="sinhala_benefactors_7.php">දේවප්‍රිය වලිසිංහ</a>
 								<!-- <li><a href="sinhala_benefactors_3.php">හෙන් රි ස්ටීල් ඕල්කට්</a>
 								<li><a href="sinhala_benefactors_4.php">හෙලේනා පෙට්‍රොව්නා බ්ලැවැස්කි</a>
@@ -246,9 +246,9 @@
 					<li><a href="sinhala_benefactors_1.php">හික්කඩුවේ ශ්‍රී සුමංගල හිමි</a>
 								<li><a href="sinhala_benefactors_2.php">මේරි රොබින්සන් ෆොස්ටර්</a>
 										<li><a href="sinhala_benefactors_3.php">හෙන් රි ස්ටීල් ඕල්කට්</a>
-								<li><a href="sinhala_under_construction_page.php">හෙලේනා පෙට්‍රොව්නා බ්ලැවැස්කි</a>
-								<li><a href="sinhala_under_construction_page.php">සර් එඩ්වින් ආර්නෝල්ඩ්</a>
-								<li><a href="sinhala_under_construction_page.php">නීල්කමල් මුකර්ජි</a>
+								<li><a href="sinhala_benefactors_4.php">හෙලේනා පෙට්‍රොව්නා බ්ලැවැස්කි</a>
+								<li><a href="sinhala_benefactors_5.php">සර් එඩ්වින් ආර්නෝල්ඩ්</a>
+								<li><a href="sinhala_benefactors_6.php">නීල්කමල් මුකර්ජි</a>
 								<li><a href="sinhala_benefactors_7.php">දේවප්‍රිය වලිසිංහ</a>
 					</ul>
 				</li>
