@@ -45,12 +45,12 @@
 			<div class="inner_wp z_index white_text">
 				<div class="row">
 					<div class="col-md-12">
-						<h1 class="text-center">Benefactors</h1>
-						<h5 class="text-center">Neelkamal Mukherjee</h5>
+						<h1 class="text-center">ප්‍රතිලාභීන්</h1>
+						<h5 class="text-center">නීල්කමාල් මුකර්ජි</h5>
 						<nav class="breadcrumb">
 							<ul>
 								<li class="breadcrumb-item"><a href="index.php">මුල් පිටුව</a></li>
-								<li class="breadcrumb-item active">Neelkamal Mukherjee</li>
+								<li class="breadcrumb-item active">නීල්කමාල් මුකර්ජි</li>
 							</ul>
 						</nav>
 					</div>
@@ -66,17 +66,16 @@
 					<div class="col-lg-7">
 						<div class="sa-paster-about-area">
 							<!-- <h3>Gopal dhanam</h3> -->
-							<h3>Neelkamal Mukherjee</h3>
+							<h3>නීල්කමාල් මුකර්ජි</h3>
 							<!-- <p class="designation">Yoga Teacher</p> -->
-							<p class="designation">(From ------)</p>
-							<p> From a wealthy family in Calcutta, Mukherjee’s home was a welcoming haven for Anagarika Dharmapala during his maiden visit to Calcutta when he first visited Buddha Gaya. He stayed in their home when he built the Dharmarajika Vihara, the Indian Head Quarters of the Maha Bodhi Society. The Mukherjee family remained lifelong friends of Anagarika Dharmapala and of the Maha Bodhi Society in India.
 							
+							<p> අනගාරික ධර්‍මපාලතුමා ප්‍රථම වරට කල්කටා නගරයට ගිය අවස්ථාවේ ඔහුව ආදරයෙන් පිළිගෙන නවාතැන් ඇතුළු සියලු පහසුකම් සපයනු ලැබුවේ මුකර්ජි පවුලේ සාමාජිකයින් විසිනි. නීල්කමාල් මුකර්ජි පවුල ඉන්දියාවේ කල්කටා නුවර ධනවත් පවුලකි. ධර්‍මපාලතුමා බුද්ධගයාවට යන අතරමග මුකර්ජි පවුලේ සාමාජිකයින් සමග නතර වී ධර්මරාජික විහාරය ගොඩනැගීමේ ව්‍යාපෘතිය ආරම්භ කළේය. මෙම විහාරය ඉන්දියානු මහාබෝධි සංගමයේ ප්‍රධාන කාර්යාලය ලෙසද සලකනු ලැබීය. එතැන් පටන් මුකර්ජි පවුල අනගාරික ධර්‍මපාලතුමාගේ සහ ඉන්දියානු මහාබෝධි සංගමයේ යාවජීව මිතුරන් බවට පත් වූහ.
 							</p>
-							<p>	Caption:   Anagarika Dharmapala with the son of Neel Kamal Mukherjee
+							<p>
 						
 							
-
-						</p>
+							
+							</p>
 							<p>							
 							
 

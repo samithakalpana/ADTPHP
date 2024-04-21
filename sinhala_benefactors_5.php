@@ -45,12 +45,12 @@
 			<div class="inner_wp z_index white_text">
 				<div class="row">
 					<div class="col-md-12">
-						<h1 class="text-center">Benefactors</h1>
-						<h5 class="text-center">Sir Edwin Arnold</h5>
+						<h1 class="text-center">ප්‍රතිලාභීන්</h1>
+						<h5 class="text-center">සර් එඩ්වින් ආර්නල්ඩ් මහතා</h5>
 						<nav class="breadcrumb">
 							<ul>
 								<li class="breadcrumb-item"><a href="index.php">මුල් පිටුව</a></li>
-								<li class="breadcrumb-item active">Sir Edwin Arnold</li>
+								<li class="breadcrumb-item active">සර් එඩ්වින් ආර්නල්ඩ් මහතා</li>
 							</ul>
 						</nav>
 					</div>
@@ -66,24 +66,23 @@
 					<div class="col-lg-7">
 						<div class="sa-paster-about-area">
 							<!-- <h3>Gopal dhanam</h3> -->
-							<h3>Sir Edwin Arnold</h3>
+							<h3>සර් එඩ්වින් ආර්නල්ඩ් මහතා</h3>
 							<!-- <p class="designation">Yoga Teacher</p> -->
-							<p class="designation">(From ---)</p>
-							<p>	Sir Edwin Arnold was  a  journalist, teacher and   student of  oriental  studies.  An ardent supporter of the British Empire, Arnold was nevertheless an admirer of India's ancient cultural heritage. He first went to India (city of Poona) as a school teacher and later became a principal. To him goes the credit of rediscovering Buddha Gaya, one of the holiest sites of Buddhists following a visit in 1886 and bringing it to the attention of the English-speaking world.
-							
+						
+							<p>	සර් එඩ්වින් ආර්නල්ඩ් මහතා පුවත්පත් ලේඛකයෙකු, ගුරුවරයෙකු හා පෙරදිග විෂය ධාරාවන් හැදෑරූ ශිෂ්‍යයෙකු ද විය. එතුමා බ්‍රිතාන්‍ය අධිරාජ්‍යය පිළිබඳ බෙහෙවින් දැනුම රැස්කර ගත් අතර එම අධිරාජ්‍යයේ කටයුතු ගැන දැඩි උනන්දුවක් දැක්විය. එසේ වුවද හෙතෙම පැරණි ඉන්දියානු සංස්කෘතික උරුමයන්ද බොහෝ සේ අගය කළේය. ඔහු මුලින්ම ඉන්දියාවේ පූනා නගරයට ගියේ ගුරුවරයෙකු ලෙසය. පසුව ඔහු විදුහල්පති වරයෙකු බවට පත් විය. බුද්ධගයාව පුනරුත්ථාපනය කිරීමේ ගෞරවය හිමිවිය යුත්තේ මෙතුමා හටය. බුද්ධගයාව යනු බෞද්ධයින්ගේ අතිශයින්ම වැදගත් පූජනීය ස්ථානයකි. 1886 වසරේ දී බුද්ධගයාවේ සංචාරයක යෙදුනු මෙතුමා, ඉංග්‍රීසි භාෂාව භාවිතා කරන ජනතාවගේ අවධානය බුද්ධගයාව වෙත යොමු කිරීමට පියවර ගත්තේය. 
 							</p>
-							<p>	He penned a monumental poem, <i>The Light of Asia</i>, giving a narrative of the life and message of the Buddha. The poem mesmerized the intellectuals around the world, especially in America and Europe, showing the bond between the Buddha and science. In Ceylon, it lit the spark in the young Anagarika Dharmapala to visit the holy site and thereafter form the Maha Bodhi Society to initiate a global campaign to wrest back the management control of Buddha Gaya to the Buddhist. 						
-							
+							<p>	එඩ්වින් ආර්නල්ඩ් කතුවරයාගේ ලිපි ලන්ඩන් නුවර ‘ඩේල් ටෙල්ග්‍රාෆ්’ (Daily Telegraph) පුවත්පතේ පළ වූ අතර ඒ මගින් බුද්ධගයාව නිදහස් කර ගැනීමටත් යළිත් එය බෞද්ධයින් වෙත පවරාදීමටත් බෙහෙවින් උපකාරී විය. මේ සඳහා ඉංග්‍රීසි බස භාවිතා කළ උගත් බෞද්ධයින් වහා ක්‍රියාකාරී වූහ. එකළ ප්‍රසිද්ධ යටත් විජිත පාලනය කළ නිලධාරීන්ගේ සහායද ඔවුන් හට නොමදව ලැබිණි. “ආසියාවේ ආලෝකය” නැමති කාව්‍යමය ග්‍රන්ථය පිළිබඳ තොරතුරු මේ වන විට ඉන්දියාවේ ජාතික නායකයන් හටද ලැබී තිබුණි. මහත්මා ගාන්ධිතුමා, ජවහර්ලාල් නේරු තුමා සහ ආචාර්ය බී.ආර්. අම්බෙඩ්කාර් වැනි ඉන්දීය ජාතික නායකයෝ බුද්ධගයාව අන්‍යාගමිකයන්ගෙන් බේරා ගැනීමට යුහුසුලු වූහ. ඒ අනුව මෙම නායකයෝ 1949 බුද්ධගයා විහාර පනත නමින් පනතක් සම්මත කර ගත්හ. එම පනත සම්මත වූයේ ඉන්දියාව නිදහස ලබා වසර දෙකක් ගත වීමත් සමගය. මෙම පනතට අනුව බුද්ධගයා විහාරස්ථානයේ අයිතියෙන් 50% ක (සියයට පණහක) බලය බෞද්ධයින් හට පැවරුණු අතර හින්දු හා බෞද්ධ සාමාජිකයින්ගෙන් සමන්විත වූ පාලන කමිටුවකට එහි පාලන බලය හිමි විය.  
+	</p><p>මේ අතර සර් එඩ්වින් ආර්නල්ඩ් මහතා සහ අනගාරික ධර්‍මපාලතුමා අතර දැඩි මිත්‍රත්වයක් සහ සබඳතාවයක් ඇති විය. අනගාරික ධර්‍මපාලතුමා ලන්ඩන් නුවරට ගිය සෑම අවස්ථාවකදීම එතුමාව මුණ ගැසීම සඳහා ආර්නල්ඩ් මහතා නැව් තොටුපලට පැමිණ සිටියේය. එඩ්ව්න් ආර්නල්ඩ් මැතිතුමා ධර්‍මපාලතුමාට සිය නිවසේ නවාතැන් දී ආගන්තුක සත්කාර කළ අතර එංගලන්තයේ විසූ උගත් පුද්ගලයින් රාශියකට ධර්‍මපාලතුමාව හඳුන්වා දුන්නේය. එඩ්ව්න් ආර්නල්ඩ් මහතා විවිධ භාෂා පිළිබද පරිනත දැනුමක් ලබා සිටි අයෙකි. එතුමා ඉංග්‍රීසි භාෂාව පමණක් නොව ජපන්, ලතින්, පාලි, සංස්කෘත, තුර්කි, අරාබි, ග්‍රීක, ප්‍රංශ, ජර්මානු, හීබෲ, පර්සියානු සහ චරාති භාෂාවන් පිළිබදවද පුළුල් දැනුමක් ඇති චතුර කථිකයෙකු විය. ඉහත සඳහන් වූ ඔහුගේ කාව්‍යමය ලිපි ලේඛන ඩී.එච්. ලෝරන්ස්, ටී.එස්. එලියට්, රුඩියාඩ් කිප්ලිං, ඩබ්ලිව්.බී. යීටිස්, ලියෝ ටෝල්ස්ටොයි සහ ජේම්ස් මෑස්ෆීල්ඩ් වැනි අයගේ ලේඛන වලට සම කිරීමට තරම් උසස් ගුණයෙන් යුක්ත විය.
+	</p><p>ශ්‍රීමත් වින්ස්ටන් චර්චිල් මහතා පවා ජවහර්ලාල් නේරුතුමාට ලිපි ලිවීමේදී “ආසියාවේ ආලෝකය” ග්‍රන්ථයෙන් කාව්‍යමය කොටස් උපුටා ගත්තේය. ශ්‍රීමත් ජයහර්ලාල් නේරු තුමා ආසියාවේ ආලෝකය ග්‍රන්ථයේ පිටපතක් හැමවිටම තමා වෙත තබා ගත් බවත්, නේරු තුමා දේශපාලන ක්‍රියාකාරකම් වල යෙදීමට එරෙහිව සිරගත වූ අවස්ථාවන්හීදී පවා මෙම කාව්‍යමය ග්‍රන්ථය එතුමාට මානසික අස්වැසිල්ලක් ලබා දුන් බව සඳහන්වේ.
 
-	</p><p>Arnold’s articles in <i>the London Daily Telegraph </i>later fully supported the efforts of Dharmapala to liberate Buddha Gaya from the control of non-Buddhists and restore it to its pristine glory. He petitioned the British Colonial Government whipping up support for the cause in London with influential colonial personalities of the time. His famous poem also struck a chord with Indian national leaders of the time like Mahatma Gandhi, Jawaharlal Nehru and Dr. B. R. Ambedkar who were independent India's first and foremost leaders and who saw to the enactment of the Buddha Gaya Temple Act of 1949, two years after independence. The Act gave 50 per cent of the control of the temple to the Buddhists through a Joint Management Committee with the Hindus. 
+මෙම කාව්‍යය භාෂා 13 කට පරිවර්තනය කරන ලද බවත්, ඒ ඇසුරෙන් නාට්‍ය, චිත්‍රපටි හා ගීත නාට්‍යයන් නිර්මාණය වූ බවත් සඳහන්වේ. සෑම ශ්‍රී ලාංකික බෞද්ධ නිවසකම පාහේ මෙම ග්‍රන්ථයේ පිටපතක් එකල පැවති බව සඳහන් වේ.
 
-	</p><p>Arnold and Angarika Dharmapala maintained a close and affable friendship, with Arnold meeting the Angarika each time the latter travelled to London, greeting him at the docks on arrival, hosting him in his house, and introducing him to a network of intellectuals in England. He was a linguist par excellence conversant not only in English, but Japanese, Latin, Pali, Sanskrit, Turkish, Arabic, Greek, French, German, Hebrew, Persian and Marathi. His famous poem and his writings had a marked influence on literati with the likes of D. H. Lawrence, T. S. Eliot, Rudyard Kipling, W. B. Yeats, Leo Tolstoy and James Masefield. Sir Winston Churchill would quote the title of the poem,<i> The Light of Asia</i>, when writing to Jawaharlal Nehru, a copy of which poem Nehru kept with him whenever he was incarcerated for political activism in a British jail in India. The poem was translated into 13 other languages and were depicted in dramas, films and operas. Almost every Ceylonese Buddhist family had a copy of <i> The Light of Asia </i> in their homes. Arnold married thrice, the last being a Japanese lady. He had four sons, one of whom was a coffee planter for a brief period in Ceylon. 
-	<a href="https://colomboymba.org/"><b>The YMBA </b></a>(Young Mens Buddhist Association) in Sri Lanka still has a <i>Light of Asia</i> oratorical contest annually in memory of Sir Edwin Arnold and his groundbreaking poem that took the world by storm in the latter part of the 19th and early part of the 20th centuries. 
-
-	</p><p>For more details see: <br/>
-https://www.gutenberg.org/ebooks/8920 <br/> <br/>
+ආර්නල්ඩ් කතුවරයා තුන්වරක් විවාහ විය. ඔහු අවසන් වරට විවාහ වී සිටියේ ජපන් කාන්තාවක් සමගය. ඔහුට දාව පුතුන් සිව් දෙනෙකු සිටියහ. ඉන් එක් අයෙකු කෙටි කාලයකදී ලංකාවේ කෝපි වතු පාලකයෙකුව සිටි බවත් සඳහන්වේ. YMBA (ලංකාවේ තරුණ බෞද්ධ සමිතිය) මගින් මේ දක්වා Light of Asia කථික තරඟ වාර්ෂිකව පවත්වනු ලැබේ. එම තරඟ තුලින් සර් එඩ්වින් ආර්නල්ඩ් කතුවරයා විසින් 19 වන සහ 20 වන සියවස් තුල සිය ග්‍රන්ථය තුලින් ඇති කළ අනූපමේය සේවය සිහිගන්වයි.
+</p><p>For more details see: <br/>
+<a href="https://www.gutenberg.org/ebooks/8920"><span style="color: blue;"><b>https://www.gutenberg.org/ebooks/8920</b></span></a>
+ <br/> 
  
-https://www.bps.lk/olib/wh/wh159_Peiris_Edwin-Arnold--His-Service-To-Buddhism.html <br/><br/>
+ <a href="https://www.bps.lk/olib/wh/wh159_Peiris_Edwin-Arnold--His-Service-To-Buddhism.html"><span style="color: blue;"><b>https://www.bps.lk/olib/wh/wh159_Peiris_Edwin-Arnold--His-Service-To-Buddhism.html</b></span></a> <br/>
  
 Ramesh, J (2021). The Light of Asia: The Poem that Defined India. Penguin, Gurgaon.<br/>
 
@@ -94,16 +93,6 @@ Ramesh, J (2021). The Light of Asia: The Poem that Defined India. Penguin, Gurga
 
 							
 							</p>
-							<!-- <div class="sa-team-social">
-								<h5>Social links</h5>
-								<ul class="text-center">
-									<li><a href="#"><i class="fab fa-facebook-f"></i></a></li>
-									<li><a href="#"><i class="fab fa-twitter"></i></a></li>
-									<li><a href="#"><i class="fab fa-linkedin-in"></i></a></li>
-									<li><a href="#"><i class="fab fa-youtube"></i></a></li>
-									<li><a href="#"><i class="fab fa-instagram"></i></a></li>
-								</ul>
-							</div> -->
 						</div>
 					</div>
 					<div class="col-xl-4 col-lg-5 offset-xl-1 align-self-center">
