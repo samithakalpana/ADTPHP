@@ -352,13 +352,13 @@ ob_start();
 
 						</div>
 
-						<div class="event-slider-item pb-4">
+						<!-- <div class="event-slider-item pb-4">
 							<div class="row">
 								<div class="col-12">
 									<div class="event-list">
 										<ul>
 										<img src="assets/images/custom_images/1837.jpg" alt="">
-										<!-- <img src="assets/images/custom_images/1860.jpg" alt=""> -->
+										 <img src="assets/images/custom_images/1860.jpg" alt=""> 
 											
 										</ul>
 									</div>
@@ -366,7 +366,7 @@ ob_start();
 								</div>
 							</div>
 
-						</div>
+						</div> -->
 						<div class="event-slider-item pb-4">
 							<div class="row">
 								<div class="col-12">
