@@ -796,7 +796,7 @@ to manage the Sanghamitta convent for nuns
 					<div class="ss-pastor-img-wrap">
 					<img src="assets/images/sinhala_custom_images/1.jpg" alt="img">
 					<img src="assets/images/sinhala_custom_images/2.jpg" alt="img">
-					<img src="assets/images/sinhala_custom_images/3.jpeg" alt="img">
+					<img src="assets/images/sinhala_custom_images/3.jpg" alt="img">
 					<img src="assets/images/sinhala_custom_images/4.jpg" alt="img">
 					<img src="assets/images/sinhala_custom_images/5.jpg" alt="img">
 					<img src="assets/images/sinhala_custom_images/6.jpg" alt="img">
