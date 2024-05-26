@@ -290,7 +290,7 @@ ob_start();
 			<div class="row">
 			<div class="col-md-6 col-lg-5">
 					<div class="heading">
-						<h3><a href="life_6_timeline.php">පෙළගැස්ම</a></h3>
+						<h3><a href="sinhala_life_6_timeline.php">පෙළගැස්ම</a></h3>
 						<div class="tl-slider-arrow float-right">
 							<div class="tl-left-arrow slick-arrow mr-2" style="">
 								<span><i class="fa fa-chevron-up"></i></span>
@@ -306,7 +306,7 @@ ob_start();
 								<div class="col-12">
 									<div class="event-list">
 										<ul>
-												<img src="assets/images/custom_images/11Intro.jpg" alt="">
+												<img src="assets/images/sinhala_custom_images/1.jpg" alt="">
 												<!-- <img src="assets/images/custom_images/1832.jpg" alt=""> -->
 										
 										
@@ -323,7 +323,7 @@ ob_start();
 								<div class="col-12">
 									<div class="event-list">
 										<ul>
-												<img src="assets/images/custom_images/1815.jpg" alt="">
+												<img src="assets/images/sinhala_custom_images/2.jpg" alt="">
 												<!-- <img src="assets/images/custom_images/1832.jpg" alt=""> -->
 										
 										
@@ -341,7 +341,7 @@ ob_start();
 									<div class="event-list">
 										<ul>
 												<!-- <img src="assets/images/custom_images/1815.jpg" alt=""> -->
-												<img src="assets/images/custom_images/1832.jpeg" alt="">
+												<img src="assets/images/sinhala_custom_images/3.jpg" alt="">
 										
 										
 										</ul>
@@ -373,7 +373,7 @@ ob_start();
 									<div class="event-list">
 										<ul>
 										<!-- <img src="assets/images/custom_images/1837.jpg" alt=""> -->
-										<img src="assets/images/custom_images/1860.jpg" alt="">
+										<img src="assets/images/sinhala_custom_images/4.jpg" alt="">
 											
 										</ul>
 									</div>
@@ -390,7 +390,7 @@ ob_start();
 								<div class="col-12">
 									<div class="event-list">
 										<ul>
-										<img src="assets/images/custom_images/1862.jpg" alt="">
+										<img src="assets/images/sinhala_custom_images/5.jpg" alt="">
 										<!-- <img src="assets/images/custom_images/1863.jpg" alt=""> -->
 											
 										</ul>
@@ -408,7 +408,7 @@ ob_start();
 									<div class="event-list">
 										<ul>
 										<!-- <img src="assets/images/custom_images/1862.jpg" alt=""> -->
-										<img src="assets/images/custom_images/1863.jpg" alt="">
+										<img src="assets/images/sinhala_custom_images/6.jpg" alt="">
 											
 										</ul>
 									</div>
@@ -427,7 +427,7 @@ ob_start();
 								<div class="col-12">
 									<div class="event-list">
 										<ul>
-										<img src="assets/images/custom_images/1864.jpg" alt="">
+										<img src="assets/images/sinhala_custom_images/7.jpg" alt="">
 										<!-- <img src="assets/images/custom_images/1865.jpg" alt=""> -->
 											
 										</ul>
@@ -443,7 +443,7 @@ ob_start();
 									<div class="event-list">
 										<ul>
 										<!-- <img src="assets/images/custom_images/1864.jpg" alt=""> -->
-										<img src="assets/images/custom_images/1865.jpg" alt="">
+										<img src="assets/images/sinhala_custom_images/8.jpg" alt="">
 											
 										</ul>
 									</div>
@@ -462,7 +462,7 @@ ob_start();
 								<div class="col-12">
 									<div class="event-list">
 										<ul>
-										<img src="assets/images/custom_images/1870.jpg" alt="">
+										<img src="assets/images/sinhala_custom_images/9.jpg" alt="">
 										<!-- <img src="assets/images/custom_images/1872.jpg" alt=""> -->
 											
 										</ul>
@@ -479,7 +479,7 @@ ob_start();
 									<div class="event-list">
 										<ul>
 										<!-- <img src="assets/images/custom_images/1870.jpg" alt=""> -->
-										<img src="assets/images/custom_images/1872.jpg" alt="">
+										<img src="assets/images/sinhala_custom_images/10.jpg" alt="">
 											
 										</ul>
 									</div>
@@ -496,7 +496,7 @@ ob_start();
 								<div class="col-12">
 									<div class="event-list">
 										<ul>
-										<img src="assets/images/custom_images/1874.jpg" alt="">
+										<img src="assets/images/sinhala_custom_images/11.jpg" alt="">
 										<!-- <img src="assets/images/custom_images/1876.jpg" alt=""> -->
 											
 										</ul>
@@ -513,7 +513,7 @@ ob_start();
 									<div class="event-list">
 										<ul>
 										<!-- <img src="assets/images/custom_images/1874.jpg" alt=""> -->
-										<img src="assets/images/custom_images/1876.jpg" alt="">
+										<img src="assets/images/sinhala_custom_images/12.jpg" alt="">
 											
 										</ul>
 									</div>
@@ -531,7 +531,7 @@ ob_start();
 								<div class="col-12">
 									<div class="event-list">
 										<ul>
-										<img src="assets/images/custom_images/1878.jpg" alt="">
+										<img src="assets/images/sinhala_custom_images/13.jpg" alt="">
 										<!-- <img src="assets/images/custom_images/1880.jpg" alt=""> -->
 											
 										</ul>
@@ -548,7 +548,7 @@ ob_start();
 									<div class="event-list">
 										<ul>
 										<!-- <img src="assets/images/custom_images/1878.jpg" alt=""> -->
-										<img src="assets/images/custom_images/1880.jpg" alt="">
+										<img src="assets/images/sinhala_custom_images/14.jpg" alt="">
 											
 										</ul>
 									</div>
@@ -565,7 +565,7 @@ ob_start();
 								<div class="col-12">
 									<div class="event-list">
 										<ul>
-										<img src="assets/images/custom_images/1881.jpg" alt="">
+										<img src="assets/images/sinhala_custom_images/15.jpg" alt="">
 										<!-- <img src="assets/images/custom_images/1883.jpg" alt="">
 											 -->
 										</ul>
@@ -582,7 +582,7 @@ ob_start();
 									<div class="event-list">
 										<ul>
 										<!-- <img src="assets/images/custom_images/1881.jpg" alt=""> -->
-										<img src="assets/images/custom_images/1883.jpg" alt="">
+										<img src="assets/images/sinhala_custom_images/16.jpg" alt="">
 											
 										</ul>
 									</div>
@@ -601,7 +601,7 @@ ob_start();
 								<div class="col-12">
 									<div class="event-list">
 										<ul>
-										<img src="assets/images/custom_images/1884.jpg" alt="">
+										<img src="assets/images/sinhala_custom_images/17.jpg" alt="">
 										<!-- <img src="assets/images/custom_images/1887.jpg" alt=""> -->
 											
 										</ul>
@@ -617,7 +617,7 @@ ob_start();
 									<div class="event-list">
 										<ul>
 										<!-- <img src="assets/images/custom_images/1884.jpg" alt=""> -->
-										<img src="assets/images/custom_images/1887.jpg" alt="">
+										<img src="assets/images/sinhala_custom_images/18.jpg" alt="">
 											
 										</ul>
 									</div>
@@ -635,7 +635,7 @@ ob_start();
 								<div class="col-12">
 									<div class="event-list">
 										<ul>
-										<img src="assets/images/custom_images/1889.jpg" alt="">
+										<img src="assets/images/sinhala_custom_images/19.jpg" alt="">
 										<!-- <img src="assets/images/custom_images/1891.jpg" alt=""> -->
 											
 										</ul>
@@ -652,7 +652,7 @@ ob_start();
 									<div class="event-list">
 										<ul>
 										<!-- <img src="assets/images/custom_images/1889.jpg" alt=""> -->
-										<img src="assets/images/custom_images/1891.jpg" alt="">
+										<img src="assets/images/sinhala_custom_images/20.jpg" alt="">
 											
 										</ul>
 									</div>
@@ -670,7 +670,7 @@ ob_start();
 								<div class="col-12">
 									<div class="event-list">
 										<ul>
-										<img src="assets/images/custom_images/1892.jpg" alt="">
+										<img src="assets/images/sinhala_custom_images/21.jpg" alt="">
 										<!-- <img src="assets/images/custom_images/1893.jpg" alt=""> -->
 											
 										</ul>
@@ -686,7 +686,7 @@ ob_start();
 									<div class="event-list">
 										<ul>
 										<!-- <img src="assets/images/custom_images/1892.jpg" alt=""> -->
-										<img src="assets/images/custom_images/1893.jpg" alt="">
+										<img src="assets/images/sinhala_custom_images/22.jpg" alt="">
 											
 										</ul>
 									</div>
@@ -704,7 +704,7 @@ ob_start();
 								<div class="col-12">
 									<div class="event-list">
 										<ul>
-										<img src="assets/images/custom_images/1893.jpg" alt="">
+										<img src="assets/images/sinhala_custom_images/23.jpg" alt="">
 										<!-- <img src="assets/images/custom_images/1895.jpg" alt=""> -->
 											
 										</ul>
@@ -722,7 +722,7 @@ ob_start();
 									<div class="event-list">
 										<ul>
 										<!-- <img src="assets/images/custom_images/1893.jpg" alt=""> -->
-										<img src="assets/images/custom_images/1895.jpg" alt="">
+										<img src="assets/images/sinhala_custom_images/24.jpg" alt="">
 											
 										</ul>
 									</div>
@@ -740,7 +740,7 @@ ob_start();
 								<div class="col-12">
 									<div class="event-list">
 										<ul>
-										<img src="assets/images/custom_images/1896.jpg" alt="">
+										<img src="assets/images/sinhala_custom_images/25.jpg" alt="">
 										<!-- <img src="assets/images/custom_images/1898.jpg" alt=""> -->
 											
 										</ul>
@@ -757,7 +757,7 @@ ob_start();
 									<div class="event-list">
 										<ul>
 										<!-- <img src="assets/images/custom_images/1896.jpg" alt=""> -->
-										<img src="assets/images/custom_images/1898.jpg" alt="">
+										<img src="assets/images/sinhala_custom_images/26.jpg" alt="">
 											
 										</ul>
 									</div>
@@ -773,7 +773,7 @@ ob_start();
 								<div class="col-12">
 									<div class="event-list">
 										<ul>
-										<img src="assets/images/custom_images/1900.jpg" alt="">
+										<img src="assets/images/sinhala_custom_images/27.jpg" alt="">
 										<!-- <img src="assets/images/custom_images/1902.jpg" alt=""> -->
 											
 										</ul>
@@ -790,7 +790,7 @@ ob_start();
 									<div class="event-list">
 										<ul>
 										<!-- <img src="assets/images/custom_images/1900.jpg" alt=""> -->
-										<img src="assets/images/custom_images/1902.jpg" alt="">
+										<img src="assets/images/sinhala_custom_images/28.jpg" alt="">
 											
 										</ul>
 									</div>
@@ -806,7 +806,7 @@ ob_start();
 								<div class="col-12">
 									<div class="event-list">
 										<ul>
-										<img src="assets/images/custom_images/1906.jpg" alt="">
+										<img src="assets/images/sinhala_custom_images/29.jpg" alt="">
 										<!-- <img src="assets/images/custom_images/1907.jpg" alt=""> -->
 											
 										</ul>
@@ -822,7 +822,7 @@ ob_start();
 									<div class="event-list">
 										<ul>
 										<!-- <img src="assets/images/custom_images/1906.jpg" alt=""> -->
-										<img src="assets/images/custom_images/1907.jpg" alt="">
+										<img src="assets/images/sinhala_custom_images/30.jpg" alt="">
 											
 										</ul>
 									</div>
@@ -838,7 +838,7 @@ ob_start();
 								<div class="col-12">
 									<div class="event-list">
 										<ul>
-										<img src="assets/images/custom_images/1912.jpg" alt="">
+										<img src="assets/images/sinhala_custom_images/31.jpg" alt="">
 										<!-- <img src="assets/images/custom_images/1913.jpg" alt=""> -->
 											
 										</ul>
@@ -854,7 +854,7 @@ ob_start();
 									<div class="event-list">
 										<ul>
 										<!-- <img src="assets/images/custom_images/1912.jpg" alt=""> -->
-										<img src="assets/images/custom_images/1913.jpg" alt="">
+										<img src="assets/images/sinhala_custom_images/32.jpg" alt="">
 											
 										</ul>
 									</div>
@@ -870,7 +870,7 @@ ob_start();
 								<div class="col-12">
 									<div class="event-list">
 										<ul>
-										<img src="assets/images/custom_images/1915.jpg" alt="">
+										<img src="assets/images/sinhala_custom_images/33.jpg" alt="">
 										<!-- <img src="assets/images/custom_images/1916.jpg" alt=""> -->
 											
 										</ul>
@@ -886,7 +886,7 @@ ob_start();
 									<div class="event-list">
 										<ul>
 										<!-- <img src="assets/images/custom_images/1915.jpg" alt=""> -->
-										<img src="assets/images/custom_images/1916.jpg" alt="">
+										<img src="assets/images/sinhala_custom_images/34.jpg" alt="">
 											
 										</ul>
 									</div>
@@ -902,7 +902,7 @@ ob_start();
 								<div class="col-12">
 									<div class="event-list">
 										<ul>
-										<img src="assets/images/custom_images/1918.jpg" alt="">
+										<img src="assets/images/sinhala_custom_images/35.jpg" alt="">
 										<!-- <img src="assets/images/custom_images/1920.jpg" alt=""> -->
 											
 										</ul>
@@ -918,7 +918,7 @@ ob_start();
 									<div class="event-list">
 										<ul>
 										<!-- <img src="assets/images/custom_images/1918.jpg" alt=""> -->
-										<img src="assets/images/custom_images/1920.jpg" alt="">
+										<img src="assets/images/sinhala_custom_images/36.jpg" alt="">
 											
 										</ul>
 									</div>
@@ -935,7 +935,7 @@ ob_start();
 								<div class="col-12">
 									<div class="event-list">
 										<ul>
-										<img src="assets/images/custom_images/1922.jpg" alt="">
+										<img src="assets/images/sinhala_custom_images/37.jpg" alt="">
 										<!-- <img src="assets/images/custom_images/1925.jpg" alt=""> -->
 											
 										</ul>
@@ -952,7 +952,7 @@ ob_start();
 									<div class="event-list">
 										<ul>
 										<!-- <img src="assets/images/custom_images/1922.jpg" alt=""> -->
-										<img src="assets/images/custom_images/1925.jpg" alt="">
+										<img src="assets/images/sinhala_custom_images/38.jpg" alt="">
 											
 										</ul>
 									</div>
@@ -968,7 +968,7 @@ ob_start();
 								<div class="col-12">
 									<div class="event-list">
 										<ul>
-										<img src="assets/images/custom_images/1928.jpg" alt="">
+										<img src="assets/images/sinhala_custom_images/39.jpg" alt="">
 										<!-- <img src="assets/images/custom_images/1929.jpg" alt=""> -->
 											
 										</ul>
@@ -984,7 +984,7 @@ ob_start();
 									<div class="event-list">
 										<ul>
 										<!-- <img src="assets/images/custom_images/1928.jpg" alt=""> -->
-										<img src="assets/images/custom_images/1929.jpg" alt="">
+										<img src="assets/images/sinhala_custom_images/40.jpg" alt="">
 											
 										</ul>
 									</div>
@@ -1000,7 +1000,7 @@ ob_start();
 								<div class="col-12">
 									<div class="event-list">
 										<ul>
-										<img src="assets/images/custom_images/1930.jpg" alt="">
+										<img src="assets/images/sinhala_custom_images/41.jpg" alt="">
 										<!-- <img src="assets/images/custom_images/1931.jpg" alt=""> -->
 											
 										</ul>
@@ -1016,7 +1016,7 @@ ob_start();
 									<div class="event-list">
 										<ul>
 										<!-- <img src="assets/images/custom_images/1930.jpg" alt=""> -->
-										<img src="assets/images/custom_images/1931.jpg" alt="">
+										<img src="assets/images/sinhala_custom_images/42.jpg" alt="">
 											
 										</ul>
 									</div>
@@ -1032,7 +1032,7 @@ ob_start();
 								<div class="col-12">
 									<div class="event-list">
 										<ul>
-										<img src="assets/images/custom_images/1933.jpg" alt="">
+										<img src="assets/images/sinhala_custom_images/43.jpg" alt="">
 										<!-- <img src="assets/images/custom_images/xxSources.jpg" alt=""> -->
 											
 										</ul>
@@ -1048,7 +1048,7 @@ ob_start();
 									<div class="event-list">
 										<ul>
 										<!-- <img src="assets/images/custom_images/1933.jpg" alt=""> -->
-										<img src="assets/images/custom_images/xxSources.jpg" alt="">
+										<img src="assets/images/sinhala_custom_images/44.jpg" alt="">
 											
 										</ul>
 									</div>
